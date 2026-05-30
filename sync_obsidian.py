@@ -17,8 +17,8 @@ VAULT_DIR = os.path.join(BASE_DIR, "..")
 
 PORTFOLIO_V1   = os.path.join(BASE_DIR, "portfolio.json")
 PORTFOLIO_V3   = os.path.join(BASE_DIR, "portfolio_v3.json")
-STATUS_V1_PATH = os.path.join(BASE_DIR, "Portfolio V1.md")
-STATUS_V3_PATH = os.path.join(BASE_DIR, "Portfolio V3.md")
+STATUS_V1_PATH = os.path.join(VAULT_DIR, "Portfolio", "Portfolio V1.md")
+STATUS_V3_PATH = os.path.join(VAULT_DIR, "Portfolio", "Portfolio V3.md")
 
 
 # ---------------------------------------------------------------------------
