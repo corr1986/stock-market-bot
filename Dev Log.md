@@ -344,3 +344,19 @@ Vincoli pratici per trading stock CFD:
 - [2026-05-30 18:11] Modificato: .gitignore
 - [2026-05-30 18:12] Modificato: SETUP_GITHUB.md
 - [2026-05-30 18:13] Modificato: .gitignore
+- [2026-05-30 18:29] Modificato: claude_analyst_v2.py
+- [2026-05-30 18:29] Modificato: main_v3.py
+- [2026-05-30 18:29] Modificato: v3_weekly.yml
+- [2026-05-30 18:33] Modificato: sync_v3_obsidian.py
+- [2026-05-30 19:06] Modificato: v1_weekly.yml
+- [2026-05-30 19:06] Modificato: v1_tracker.yml
+- [2026-05-30 19:06] Modificato: sync_obsidian.py
+- [2026-05-30 19:35] Modificato: run_sync_obsidian.bat
+- [2026-05-31 04:54] Modificato: v1_tracker.yml
+- [2026-05-31 04:55] Modificato: main_v3.py
+- [2026-05-31 04:55] Modificato: position_sizing.py
+- [2026-05-31 04:59] Modificato: position_sizing.py
+- [2026-05-31 04:59] Modificato: test_position_sizing.py
+- [2026-05-31 07:38] Modificato: Portfolio V1.md
+- [2026-05-31 07:38] Modificato: Portfolio V3.md
+- [2026-05-31 07:38] Modificato: Portfolio Insider.md
