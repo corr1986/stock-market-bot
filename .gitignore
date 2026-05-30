@@ -19,6 +19,9 @@ signals.json
 # Obsidian
 .obsidian/
 
+# Junction verso Insider Project (cartella esterna, non tracciare)
+Insider Project/
+
 # Portfolio v1 (non va in repo — solo v3 è gestita da Actions)
 portfolio.json
 
