@@ -8,7 +8,7 @@ import os
 from datetime import datetime
 
 from analyzer import build_market_snapshot, get_top_signals
-from macro_analyzer import get_macro_context
+from macro_analyzer import get_macro_context, format_macro_for_prompt
 from claude_analyst_v2 import generate_signals
 from earnings_filter import has_earnings_soon
 from position_sizing import calculate_size, get_regime_config, SL_MULT
@@ -69,8 +69,10 @@ def run():
         for cat, assets in snapshot.items()
     }
 
-    # 6. LLM selezione con web search (news + earnings + consensus autonomi)
-    signals = generate_signals(snapshot=filtered_snap, date=today, max_positions=slots)
+    # 6. LLM selezione — passa contesto macro all'analista
+    macro_str = format_macro_for_prompt(macro)
+    signals = generate_signals(snapshot=filtered_snap, date=today,
+                               macro_context=macro_str, max_positions=slots)
 
     if not signals:
         send_telegram_message(

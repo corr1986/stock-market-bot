@@ -2,10 +2,10 @@ name: V1 Hourly Tracker
 
 on:
   schedule:
-    # 00:00-15:00 UTC = 08:00-23:00 Bali (UTC+8)
-    # EU apre 08:00 UTC (XETRA 09:00 CEST), USA chiude 20:00 UTC (16:00 EDT)
-    # Lunedì-Venerdì
-    - cron: '0 0-15 * * 1-5'
+    # 07:00-20:00 UTC = 15:00-04:00 Bali (UTC+8)
+    # EU apre 07:00 UTC (XETRA 09:00 CEST), USA chiude 20:00 UTC (16:00 EDT)
+    # Copre l'intera sessione EU + USA — Lunedì-Venerdì
+    - cron: '0 7-20 * * 1-5'
   workflow_dispatch:
 
 jobs:

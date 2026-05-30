@@ -34,7 +34,7 @@ def get_regime_config(vix: float) -> dict:
     """Restituisce configurazione operativa in base al VIX."""
     if vix < 20:
         return {"allow_entry": True,  "max_positions": 3, "regime": "risk-on"}
-    elif vix <= 30:
+    elif vix <= 25:
         return {"allow_entry": True,  "max_positions": 2, "regime": "cautious"}
     else:
         return {"allow_entry": False, "max_positions": 0, "regime": "risk-off"}
