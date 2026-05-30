@@ -1,0 +1,27 @@
+# Ambiente virtuale
+venv/
+.env
+
+# Cache e dati pesanti (non servono su GitHub Actions)
+market_data.pkl
+vix_cache.pkl
+__pycache__/
+*.pyc
+*.pyo
+
+# Output backtest (CSV e TXT, non necessari)
+backtest_*.csv
+backtest_*.txt
+simulate_*.csv
+montecarlo_*.csv
+signals.json
+
+# Obsidian
+.obsidian/
+
+# Portfolio v1 (non va in repo — solo v3 è gestita da Actions)
+portfolio.json
+
+# Log e temporanei
+*.log
+*.tmp

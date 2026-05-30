@@ -1,0 +1,28 @@
+$ROG.SW: possibly delisted; no price data found  (1wk 2019-01-01 -> 2026-05-21) (Yahoo error = "No data found, symbol may be delisted")
+
+1 Failed download:
+['ROG.SW']: possibly delisted; no price data found  (1wk 2019-01-01 -> 2026-05-21) (Yahoo error = "No data found, symbol may be delisted")
+$SPLK: possibly delisted; no timezone found
+
+1 Failed download:
+['SPLK']: possibly delisted; no timezone found
+$SQ: possibly delisted; no timezone found
+
+1 Failed download:
+['SQ']: possibly delisted; no timezone found
+$DFS: possibly delisted; no timezone found
+
+1 Failed download:
+['DFS']: possibly delisted; no timezone found
+$MMC: possibly delisted; no timezone found
+
+1 Failed download:
+['MMC']: possibly delisted; no timezone found
+$ATVI: possibly delisted; no timezone found
+
+1 Failed download:
+['ATVI']: possibly delisted; no timezone found
+$REL.AS: possibly delisted; no timezone found
+
+1 Failed download:
+['REL.AS']: possibly delisted; no timezone found

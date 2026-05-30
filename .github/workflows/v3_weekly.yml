@@ -1,0 +1,43 @@
+name: V3 Weekly Signal Selection
+
+on:
+  schedule:
+    # Domenica 23:00 UTC = Lunedì 07:00 Bali (UTC+8) — 2h prima apertura EU
+    - cron: '0 23 * * 0'
+  workflow_dispatch:  # permette run manuale dal browser
+
+jobs:
+  weekly_signals:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install yfinance pandas numpy ta groq anthropic python-dotenv requests
+
+      - name: Run main_v3.py
+        env:
+          GROQ_API_KEY:        ${{ secrets.GROQ_API_KEY }}
+          ANTHROPIC_API_KEY:   ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_TOKEN:      ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID:    ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main_v3.py
+
+      - name: Commit portfolio_v3.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add portfolio_v3.json
+          git diff --cached --quiet || git commit -m "chore: update portfolio_v3 [weekly $(date +'%Y-%m-%d')]"
+          git push

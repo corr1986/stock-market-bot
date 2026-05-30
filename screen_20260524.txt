@@ -1,0 +1,46 @@
+WATCHLIST SCREEN — 24/05/2026
+Top 20 candidati tecnici su 253 analizzati
+=======================================================
+
+### USA (14 titoli)
+
+  ZM           Prezzo:   105.64 | Var.sett:  +5.5% | RSI: 63.3 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 2.0x | ATR: 8.64
+  DXCM         Prezzo:    72.10 | Var.sett: +17.0% | RSI: 58.0 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 2.2x | ATR: 5.51
+  D            Prezzo:    67.67 | Var.sett:  +9.6% | RSI: 63.3 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 3.2x | ATR: 3.08
+  AVB          Prezzo:   185.65 | Var.sett:  +2.7% | RSI: 59.2 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.3x | ATR: 7.60
+  SNPS         Prezzo:   524.74 | Var.sett:  +4.4% | RSI: 59.7 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.1x | ATR: 41.37
+  OKTA         Prezzo:    92.24 | Var.sett: +11.4% | RSI: 57.4 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.1x | ATR: 8.41
+  LLY          Prezzo:  1065.00 | Var.sett:  +6.2% | RSI: 60.5 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.1x | ATR: 73.70
+  EW           Prezzo:    85.78 | Var.sett:  +5.4% | RSI: 56.4 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.1x | ATR: 4.92
+  MET          Prezzo:    84.06 | Var.sett:  +6.2% | RSI: 63.1 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.2x | ATR: 4.12
+  CCI          Prezzo:    91.46 | Var.sett:  +5.5% | RSI: 54.2 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.2x | ATR: 5.70
+  EQR          Prezzo:    66.20 | Var.sett:  +3.6% | RSI: 61.9 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.2x | ATR: 2.62
+  NVDA         Prezzo:   215.33 | Var.sett:  -4.4% | RSI: 62.1 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.2x | ATR: 15.52
+  CDNS         Prezzo:   373.59 | Var.sett:  +7.6% | RSI: 64.6 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.0x | ATR: 26.14
+  JPM          Prezzo:   306.38 | Var.sett:  +2.9% | RSI: 52.7 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 0.9x | ATR: 14.19
+
+### EUROPE (5 titoli)
+
+  MRK.DE       Prezzo:   128.60 | Var.sett:  +9.6% | RSI: 61.8 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.4x | ATR: 7.86
+  PUB.PA       Prezzo:    83.30 | Var.sett:  +8.0% | RSI: 55.1 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.2x | ATR: 5.20
+  STAN.L       Prezzo:  1946.00 | Var.sett:  +3.0% | RSI: 63.6 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.7x | ATR: 121.20
+  ALV.DE       Prezzo:   385.60 | Var.sett:  +3.0% | RSI: 60.6 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.1x | ATR: 17.05
+  AI.PA        Prezzo:   180.38 | Var.sett:  +4.5% | RSI: 58.7 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.1x | ATR: 7.00
+
+### INDICES (1 titoli)
+
+  ^DJI         Prezzo: 50579.70 | Var.sett:  +2.1% | RSI: 63.8 | MACD: rialzista   | SMA20:✓ SMA50:✓ | Vol: 1.1x | ATR: 1379.81
+
+=======================================================
+ISTRUZIONI PER CLAUDE:
+Per ciascun titolo sopra:
+1. Cerca notizie recenti (ultimi 7 giorni)
+2. Verifica la data del prossimo earnings report
+3. Controlla consensus analisti (Buy/Hold/Sell, target price)
+4. Valuta il contesto macro del settore
+5. Assegna rating: STRONG BUY / BUY / WATCH / SKIP
+
+Output: lista ordinata per priorità.
+Per ogni STRONG BUY o BUY includi: news chiave, prossimo earnings, consensus, motivo del rating.
+Massimo 5 titoli raccomandati (STRONG BUY + BUY).
+Se nessun titolo merita BUY, scrivi solo: 'Nessun setup convincente questa settimana.'
