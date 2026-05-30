@@ -42,6 +42,13 @@ def test_regime_cautious():
     assert cfg["max_positions"] == 2
 
 
-def test_regime_risk_off():
+def test_regime_cautious_at_28():
+    # VIX 28 è ancora cautious (soglia risk-off = 30)
     cfg = get_regime_config(28.0)
+    assert cfg["allow_entry"] is True
+    assert cfg["max_positions"] == 2
+
+def test_regime_risk_off():
+    # Risk-off solo sopra VIX 30
+    cfg = get_regime_config(31.0)
     assert cfg["allow_entry"] is False
