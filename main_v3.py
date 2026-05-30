@@ -9,7 +9,7 @@ from datetime import datetime
 
 from analyzer import build_market_snapshot, get_top_signals
 from macro_analyzer import get_macro_context
-from claude_analyst_v3 import generate_signals
+from claude_analyst_v2 import generate_signals
 from earnings_filter import has_earnings_soon
 from position_sizing import calculate_size, get_regime_config, SL_MULT
 from tracker_v3 import load_portfolio, save_portfolio, PORTFOLIO_PATH
