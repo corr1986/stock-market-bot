@@ -66,8 +66,12 @@ def write_status_v1(portfolio: dict):
     equity     = portfolio["balance"] + unrealized
 
     lines = [
-        "# Portfolio Status",
+        "# Portfolio Status — V1",
         f"*Aggiornato: {today}*",
+        "",
+        "[📊 Vedi portfolio.json su GitHub](https://github.com/corr1986/stock-market-bot/blob/main/portfolio.json)",
+        "",
+        "---",
         "",
         "## Riepilogo",
         "| Voce | Valore |",
@@ -118,8 +122,7 @@ def write_status_v1(portfolio: dict):
     else:
         lines.append("*Nessun trade ancora chiuso.*")
 
-    lines += ["", "---",
-              f"*[Vedi portfolio.json su GitHub](https://github.com/corr1986/stock-market-bot/blob/main/portfolio.json)*"]
+    lines += ["", "[[Portfolio V3]] | [[Portfolio Insider]]"]
 
     with open(STATUS_V1_PATH, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")
@@ -143,6 +146,10 @@ def write_status_v3(portfolio: dict):
     lines = [
         "# Portfolio Status V3",
         f"*Aggiornato: {today} — paper trading parallelo a v1*",
+        "",
+        "[📊 Vedi portfolio_v3.json su GitHub](https://github.com/corr1986/stock-market-bot/blob/main/portfolio_v3.json)",
+        "",
+        "---",
         "",
         "## Riepilogo",
         "| Voce | Valore |",
@@ -199,7 +206,8 @@ def write_status_v3(portfolio: dict):
     lines += [
         "", "---",
         "*V3 Features: Chandelier Exit · VIX Regime Filter · Dynamic Sizing (40€ risk) · Earnings Filter*",
-        f"*[Vedi portfolio_v3.json su GitHub](https://github.com/corr1986/stock-market-bot/blob/main/portfolio_v3.json)*",
+        "",
+        "[[Portfolio V1]] | [[Portfolio Insider]]",
     ]
 
     with open(STATUS_V3_PATH, "w", encoding="utf-8") as f:
