@@ -171,6 +171,85 @@ def build_telegram_message(closed_today: list, portfolio: dict) -> str:
     return msg
 
 
+GITHUB_STATUS_V1 = os.path.join(os.path.dirname(__file__), "Portfolio V1 Status.md")
+
+
+def write_github_status(portfolio: dict):
+    """Genera Portfolio V1 Status.md nella repo — visibile su GitHub."""
+    import math
+    today = datetime.now().strftime("%d/%m/%Y %H:%M")
+    active  = [p for p in portfolio["open"] if p.get("status") == "active"]
+    pending = [p for p in portfolio["open"] if p.get("status") == "pending"]
+    closed  = [p for p in portfolio["closed"] if p.get("outcome") in ("WIN", "LOSS", "TIMEOUT")]
+
+    unrealized = portfolio.get("unrealized_pnl", 0.0)
+    equity     = portfolio["balance"] + unrealized
+    wins   = sum(1 for p in closed if p.get("outcome") == "WIN")
+    losses = sum(1 for p in closed if p.get("outcome") == "LOSS")
+    wr     = f"{wins / len(closed) * 100:.0f}%" if closed else "—"
+
+    lines = [
+        "# Portfolio V1 — Stock Market Bot",
+        f"*Aggiornato: {today} UTC | [portfolio.json](portfolio.json)*",
+        "",
+        "## Riepilogo",
+        f"| Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |",
+        f"|---|---|---|---|---|---|",
+        f"| {portfolio['balance']:,.0f}€ | {unrealized:+.0f}€ | {equity:,.0f}€ "
+        f"| {portfolio['realized_pnl']:+.0f}€ | {len(closed)} ({wins}W/{losses}L) | {wr} |",
+        "",
+    ]
+
+    # Open trades
+    if active or pending:
+        lines += [
+            "## Posizioni Aperte",
+            "| Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | TP |",
+            "|---|---|---|---|---|---|---|---|",
+        ]
+        for p in active:
+            entry = p.get("entry_price", 0)
+            qty   = math.ceil(p["trade_eur"] / entry) if entry else "—"
+            curr  = p.get("current_price", "—")
+            upct  = p.get("unrealized_pct")
+            ueur  = p.get("unrealized_eur")
+            upct_s = f"{upct:+.2f}%" if upct is not None else "—"
+            ueur_s = f"{ueur:+.0f}€"  if ueur is not None else "—"
+            curr_s = f"{curr:.2f}" if isinstance(curr, float) else str(curr)
+            lines.append(
+                f"| **{p['ticker']}** | {entry} | {qty} | {curr_s} "
+                f"| {upct_s} | {ueur_s} | {p.get('sl','—')} | {p.get('tp','—')} |"
+            )
+        for p in pending:
+            lines.append(
+                f"| ⏳ {p['ticker']} | — | — | — | — | — | {p.get('sl','—')} | {p.get('tp','—')} |"
+            )
+    else:
+        lines += ["## Posizioni Aperte", "*Nessuna posizione aperta.*"]
+
+    lines.append("")
+
+    # Closed trades
+    lines += ["## Trade Chiusi"]
+    if closed:
+        lines += [
+            "| Data uscita | Ticker | Entry | Uscita | P&L % | P&L € | Esito |",
+            "|---|---|---|---|---|---|---|",
+        ]
+        for p in reversed(closed):
+            icon = "✅" if p.get("outcome") == "WIN" else ("⏱" if p.get("outcome") == "TIMEOUT" else "❌")
+            lines.append(
+                f"| {p.get('exit_date','—')} | {p['ticker']} "
+                f"| {p.get('entry_price','—')} | {p.get('exit_price','—')} "
+                f"| {p.get('pnl_pct',0):+.2f}% | {p.get('pnl_eur',0):+.0f}€ | {icon} |"
+            )
+    else:
+        lines.append("*Nessun trade chiuso.*")
+
+    with open(GITHUB_STATUS_V1, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+
+
 def write_obsidian_status(portfolio: dict, open_status: list, pending: list):
     today = datetime.now().strftime("%d/%m/%Y %H:%M")
     total_closed = [p for p in portfolio["closed"] if p["outcome"] in ("WIN", "LOSS", "TIMEOUT")]
@@ -326,6 +405,7 @@ def run():
         sum(p.get("unrealized_eur", 0) for p in still_open), 2
     )
     save_portfolio(portfolio)
+    write_github_status(portfolio)
     write_obsidian_status(portfolio, open_status, pending)
     print("Portfolio Status.md aggiornato.")
 

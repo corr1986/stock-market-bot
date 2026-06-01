@@ -135,10 +135,90 @@ def check_positions(portfolio: dict) -> dict:
     return portfolio
 
 
+GITHUB_STATUS_V3 = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Portfolio V3 Status.md")
+
+
+def write_github_status_v3(portfolio: dict):
+    """Genera Portfolio V3 Status.md nella repo — visibile su GitHub."""
+    import math
+    today   = datetime.now().strftime("%d/%m/%Y %H:%M")
+    active  = [p for p in portfolio["open"] if p.get("status") == "active"]
+    pending = [p for p in portfolio["open"] if p.get("status") == "pending"]
+    closed  = portfolio.get("closed", [])
+
+    unrealized = portfolio.get("unrealized_pnl", 0.0)
+    equity     = portfolio["balance"] + unrealized
+    wins   = sum(1 for p in closed if (p.get("pnl_pct") or 0) > 0)
+    losses = sum(1 for p in closed if (p.get("pnl_pct") or 0) <= 0)
+    wr     = f"{wins / len(closed) * 100:.0f}%" if closed else "—"
+
+    lines = [
+        "# Portfolio V3 — Stock Market Bot",
+        f"*Aggiornato: {today} UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*",
+        f"*[portfolio_v3.json](portfolio_v3.json)*",
+        "",
+        "## Riepilogo",
+        "| Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |",
+        "|---|---|---|---|---|---|",
+        f"| {portfolio['balance']:,.0f}€ | {unrealized:+.0f}€ | {equity:,.0f}€ "
+        f"| {portfolio['realized_pnl']:+.0f}€ | {len(closed)} ({wins}W/{losses}L) | {wr} |",
+        "",
+    ]
+
+    if active or pending:
+        lines += [
+            "## Posizioni Aperte",
+            "| Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | Chandelier |",
+            "|---|---|---|---|---|---|---|---|",
+        ]
+        for p in active:
+            entry = p.get("entry_price", 0) or 0
+            qty   = math.ceil(p["size_eur"] / entry) if entry else "—"
+            curr  = p.get("current_price")
+            upct  = p.get("unrealized_pct")
+            ueur  = p.get("unrealized_eur")
+            curr_s = f"{curr:.2f}" if curr else "—"
+            upct_s = f"{upct:+.2f}%" if upct is not None else "—"
+            ueur_s = f"{ueur:+.0f}€"  if ueur is not None else "—"
+            lines.append(
+                f"| **{p['ticker']}** | {entry} | {qty} | {curr_s} "
+                f"| {upct_s} | {ueur_s} "
+                f"| {p.get('initial_sl','—')} | {p.get('chandelier_stop','—')} |"
+            )
+        for p in pending:
+            lines.append(
+                f"| ⏳ {p['ticker']} | — | — | — | — | — "
+                f"| {p.get('initial_sl','—')} | — |"
+            )
+    else:
+        lines += ["## Posizioni Aperte", "*Nessuna posizione aperta.*"]
+
+    lines.append("")
+    lines += ["## Trade Chiusi"]
+    if closed:
+        lines += [
+            "| Data uscita | Ticker | Entry | Uscita | P&L % | P&L € |",
+            "|---|---|---|---|---|---|",
+        ]
+        for p in reversed(closed):
+            icon = "✅" if (p.get("pnl_pct") or 0) > 0 else "❌"
+            lines.append(
+                f"| {p.get('close_date','—')} | {p['ticker']} "
+                f"| {p.get('entry_price','—')} | {p.get('close_price','—')} "
+                f"| {p.get('pnl_pct',0):+.2f}% | {p.get('pnl_eur',0):+.0f}€ | {icon} |"
+            )
+    else:
+        lines.append("*Nessun trade chiuso.*")
+
+    with open(GITHUB_STATUS_V3, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+
+
 def run():
     portfolio = load_portfolio()
     portfolio = activate_pending(portfolio)
     portfolio = check_positions(portfolio)
+    write_github_status_v3(portfolio)
     save_portfolio(portfolio)
 
 
