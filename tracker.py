@@ -302,6 +302,9 @@ def run():
             sl_pct = (pos["sl"] - pos["entry_price"]) / pos["entry_price"] * 100
             sl_eur = sl_pct / 100 * pos["trade_eur"]
             print(f"aperta | {exit_price:.2f} ({unrealized_pct:+.2f}%)")
+            pos["current_price"]  = round(exit_price, 2)
+            pos["unrealized_pct"] = round(unrealized_pct, 2)
+            pos["unrealized_eur"] = round(unrealized_eur, 2)
             still_open.append(pos)
             open_status.append({
                 "ticker":         pos["ticker"],

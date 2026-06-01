@@ -89,13 +89,21 @@ def write_status_v1(portfolio: dict):
 
     if open_pos:
         lines += [
-            "| Data apertura | Ticker | Entry | SL | TP |",
-            "|---|---|---|---|---|",
+            "| Data | Ticker | Entry | Prezzo | P&L % | P&L € | SL | TP |",
+            "|---|---|---|---|---|---|---|---|",
         ]
         for p in open_pos:
+            curr   = p.get("current_price")
+            u_pct  = p.get("unrealized_pct")
+            u_eur  = p.get("unrealized_eur")
+            curr_s = f"{curr:.2f}" if curr else "—"
+            upct_s = f"{u_pct:+.2f}%" if u_pct is not None else "—"
+            ueur_s = f"{u_eur:+.0f}€" if u_eur is not None else "—"
             lines.append(
                 f"| {p.get('entry_date','—')} | {p['ticker']} "
-                f"| {p.get('entry_price','—')} | {p.get('sl','—')} | {p.get('tp','—')} |"
+                f"| {p.get('entry_price','—')} | {curr_s} "
+                f"| {upct_s} | {ueur_s} "
+                f"| {p.get('sl','—')} | {p.get('tp','—')} |"
             )
     else:
         lines.append("*Nessuna posizione attiva.*")
@@ -141,7 +149,8 @@ def write_status_v3(portfolio: dict):
     wins   = sum(1 for p in closed if (p.get("pnl_pct") or 0) > 0)
     losses = sum(1 for p in closed if (p.get("pnl_pct") or 0) <= 0)
     wr     = wins / len(closed) * 100 if closed else 0.0
-    equity = portfolio["balance"]
+    unrealized = sum(p.get("unrealized_eur", 0) for p in open_pos)
+    equity = portfolio["balance"] + unrealized
 
     lines = [
         "# Portfolio Status V3",
@@ -156,6 +165,7 @@ def write_status_v3(portfolio: dict):
         "|---|---|",
         "| Capitale iniziale | 20.000€ |",
         f"| Balance (cash) | {portfolio['balance']:,.0f}€ |",
+        f"| P&L non realizzato | {unrealized:+.0f}€ |",
         f"| **Equity totale** | **{equity:,.0f}€** |",
         f"| P&L realizzato | {portfolio['realized_pnl']:+.0f}€ |",
         f"| Trade chiusi | {len(closed)} ({wins}W / {losses}L) |",
@@ -166,13 +176,20 @@ def write_status_v3(portfolio: dict):
 
     if open_pos:
         lines += [
-            "| Data apertura | Ticker | Entry | Size | SL | Chandelier Stop |",
-            "|---|---|---|---|---|---|",
+            "| Data | Ticker | Entry | Prezzo | P&L % | P&L € | SL | Chandelier |",
+            "|---|---|---|---|---|---|---|---|",
         ]
         for p in open_pos:
+            curr   = p.get("current_price")
+            u_pct  = p.get("unrealized_pct")
+            u_eur  = p.get("unrealized_eur")
+            curr_s = f"{curr:.2f}" if curr else "—"
+            upct_s = f"{u_pct:+.2f}%" if u_pct is not None else "—"
+            ueur_s = f"{u_eur:+.0f}€" if u_eur is not None else "—"
             lines.append(
                 f"| {p.get('entry_date','—')} | {p['ticker']} "
-                f"| {p.get('entry_price','—')} | {p.get('size_eur',0):.0f}€ "
+                f"| {p.get('entry_price','—')} | {curr_s} "
+                f"| {upct_s} | {ueur_s} "
                 f"| {p.get('initial_sl','—')} | {p.get('chandelier_stop','—')} |"
             )
     else:

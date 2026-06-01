@@ -118,6 +118,11 @@ def check_positions(portfolio: dict) -> dict:
                        f"Stop: {pos['chandelier_stop']:.2f}")
                 send_telegram_message(msg)
             else:
+                if pos.get("entry_price"):
+                    unr_pct = (last_close - pos["entry_price"]) / pos["entry_price"] * 100
+                    pos["current_price"]  = round(last_close, 2)
+                    pos["unrealized_pct"] = round(unr_pct, 2)
+                    pos["unrealized_eur"] = round(unr_pct / 100 * pos["size_eur"], 2)
                 still_open.append(pos)
         except Exception as e:
             print(f"[tracker_v3] WARN check {ticker}: {e}")
