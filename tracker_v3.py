@@ -129,6 +129,9 @@ def check_positions(portfolio: dict) -> dict:
             still_open.append(pos)
 
     portfolio["open"] = still_open
+    portfolio["unrealized_pnl"] = round(
+        sum(p.get("unrealized_eur", 0) for p in still_open), 2
+    )
     return portfolio
 
 

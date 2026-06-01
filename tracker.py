@@ -322,6 +322,9 @@ def run():
             })
 
     portfolio["open"] = still_open + pending
+    portfolio["unrealized_pnl"] = round(
+        sum(p.get("unrealized_eur", 0) for p in still_open), 2
+    )
     save_portfolio(portfolio)
     write_obsidian_status(portfolio, open_status, pending)
     print("Portfolio Status.md aggiornato.")

@@ -66,5 +66,6 @@
       "unrealized_eur": 12.86
     }
   ],
-  "closed": []
+  "closed": [],
+  "unrealized_pnl": -4.95
 }
