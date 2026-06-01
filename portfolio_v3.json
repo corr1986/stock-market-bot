@@ -1,6 +1,58 @@
 {
   "balance": 20000.0,
   "realized_pnl": 0.0,
-  "open": [],
+  "open": [
+    {
+      "ticker": "IBM",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "size_eur": 250.57,
+      "atr_entry": 23.77,
+      "initial_sl": 250.26,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 250.26,
+      "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
+    },
+    {
+      "ticker": "ADS.DE",
+      "category": "EUROPE",
+      "status": "pending",
+      "entry_price": null,
+      "size_eur": 295.13,
+      "atr_entry": 11.29,
+      "initial_sl": 144.02,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 144.02,
+      "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
+    },
+    {
+      "ticker": "DXCM",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "size_eur": 272.1,
+      "atr_entry": 5.42,
+      "initial_sl": 62.9,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 62.9,
+      "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
+    }
+  ],
   "closed": []
 }
