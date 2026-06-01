@@ -19,24 +19,24 @@
       "ticker": "IBM",
       "category": "USA",
       "entry_date": "2026-06-01",
-      "entry_price": null,
-      "sl": null,
-      "tp": null,
+      "entry_price": 322.55,
+      "sl": 275.01,
+      "tp": 417.63,
       "atr": 23.77,
       "trade_eur": 500.0,
-      "status": "pending"
+      "status": "active"
     },
     {
       "id": "A_2026-06-01",
       "ticker": "A",
       "category": "USA",
       "entry_date": "2026-06-01",
-      "entry_price": null,
-      "sl": null,
-      "tp": null,
+      "entry_price": 133.5,
+      "sl": 115.68,
+      "tp": 169.14,
       "atr": 8.91,
       "trade_eur": 500.0,
-      "status": "pending"
+      "status": "active"
     }
   ],
   "closed": []
