@@ -4,8 +4,10 @@ Eseguire ogni lunedì mattina prima dell'apertura dei mercati.
 """
 
 import json
+import math
 import os
 from datetime import datetime
+import yfinance as yf
 
 from analyzer import build_market_snapshot, get_top_signals
 from macro_analyzer import get_macro_context, format_macro_for_prompt
@@ -16,6 +18,14 @@ from tracker_v3 import load_portfolio, save_portfolio, PORTFOLIO_PATH
 from notifier import send_telegram as send_telegram_message
 
 V3_PREFIX = "[V3]"
+
+
+def _fx(sym: str, fallback: float) -> float:
+    try:
+        h = yf.Ticker(sym).history(period="5d", interval="1d")
+        return float(h["Close"].iloc[-1]) if not h.empty else fallback
+    except Exception:
+        return fallback
 
 
 def init_portfolio_if_missing():
@@ -80,9 +90,14 @@ def run():
         )
         return
 
-    # 7. Sizing dinamico + aggiunta al portfolio
-    cand_map = {c["ticker"]: c for c in candidates}
-    added    = []
+    # 7. FX rates per conversione in EUR
+    eurusd = _fx("EURUSD=X", 1.10)
+    eurgbp = _fx("EURGBP=X", 0.86) * 100  # pence per LSE
+
+    # 8. Sizing dinamico + aggiunta al portfolio
+    cand_map  = {c["ticker"]: c for c in candidates}
+    sig_map   = {s["ticker"]: s for s in signals if s.get("ticker")}
+    added     = []
     for sig in signals[:slots]:
         ticker = sig.get("ticker", "")
         entry  = sig.get("entry_price", 0)
@@ -99,6 +114,7 @@ def run():
             "category":             sig.get("category", cand.get("category", "")),
             "status":               "pending",
             "entry_price":          None,
+            "entry_price_ref":      round(entry, 2),   # prezzo LLM, solo riferimento
             "size_eur":             round(size, 2),
             "atr_entry":            round(atr, 4),
             "initial_sl":           sl,
@@ -116,14 +132,36 @@ def run():
 
     save_portfolio(portfolio)
 
-    # 8. Telegram report
+    # 9. Telegram report
     lines = [f"{V3_PREFIX} 📊 Segnali {today} — VIX={vix:.1f} ({regime['regime']})"]
     for p in added:
+        ticker = p["ticker"]
+        entry  = p["entry_price_ref"]
+        sl     = p["initial_sl"]
+
+        # Valuta e conversione EUR
+        if any(ticker.endswith(sfx) for sfx in [".DE", ".AS", ".PA", ".MC", ".MI"]):
+            cur, entry_eur = "EUR", entry
+        elif ticker.endswith(".L"):
+            cur, entry_eur = "GBp", round(entry / eurgbp, 2) if eurgbp else entry
+        elif ticker.startswith("^"):
+            continue
+        else:
+            cur, entry_eur = "USD", round(entry / eurusd, 2) if eurusd else entry
+
+        sl_pct = round((entry - sl) / entry * 100, 1) if entry > 0 else 0
+        qty    = math.ceil(p["size_eur"] / entry_eur) if entry_eur > 0 else "?"
+
         lines.append(
-            f"\n*{p['ticker']}* | {p['size_eur']:.0f}€\n"
-            f"SL: {p['initial_sl']:.2f}\nSetup: {p['setup']}"
+            f"\n*{ticker}* ({cur})\n"
+            f"  Entry rif.: {entry:.2f} {cur} ≈ {entry_eur:.2f} EUR\n"
+            f"  SL: {sl:.2f} {cur} (-{sl_pct}%) | Chandelier Exit (no TP fisso)\n"
+            f"  Size: {p['size_eur']:.0f}€ → ~{qty} azioni\n"
+            f"  Setup: {p['setup']}"
         )
-    lines.append(f"\nPosizioni: {active + len(added)}/{regime['max_positions']}")
+
+    lines.append(f"\n⚠️ Entry e SL confermati all'apertura del mercato")
+    lines.append(f"Posizioni: {active + len(added)}/{regime['max_positions']}")
     send_telegram_message("\n".join(lines))
 
 
