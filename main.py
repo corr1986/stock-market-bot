@@ -92,6 +92,7 @@ def run():
 
     if total == 0:
         print("Nessun dato disponibile. Uscita.")
+        send_telegram(f"*Stock Market Bot — {today}*\n\n⚠️ Nessun dato di mercato disponibile (yfinance timeout). Riprova manualmente.")
         sys.exit(1)
 
     # 2. Bloomberg V2 signals — calcolati UNA VOLTA, usati ovunque

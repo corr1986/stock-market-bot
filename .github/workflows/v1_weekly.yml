@@ -33,10 +33,10 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python main.py
 
-      - name: Commit portfolio.json e signals.json
+      - name: Commit portfolio.json
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add portfolio.json signals.json
+          git add portfolio.json
           git diff --cached --quiet || git commit -m "chore: update v1 portfolio [weekly $(date +'%Y-%m-%d')]"
           git push
