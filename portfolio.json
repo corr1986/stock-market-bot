@@ -1,6 +1,43 @@
 {
   "balance": 20000.0,
   "realized_pnl": 0.0,
-  "open": [],
+  "open": [
+    {
+      "id": "OR.PA_2026-06-01",
+      "ticker": "OR.PA",
+      "category": "EUROPE",
+      "entry_date": "2026-06-01",
+      "entry_price": 381.95,
+      "sl": 342.69,
+      "tp": 460.47,
+      "atr": 19.63,
+      "trade_eur": 500.0,
+      "status": "active"
+    },
+    {
+      "id": "IBM_2026-06-01",
+      "ticker": "IBM",
+      "category": "USA",
+      "entry_date": "2026-06-01",
+      "entry_price": 322.55,
+      "sl": 275.01,
+      "tp": 417.63,
+      "atr": 23.77,
+      "trade_eur": 500.0,
+      "status": "active"
+    },
+    {
+      "id": "A_2026-06-01",
+      "ticker": "A",
+      "category": "USA",
+      "entry_date": "2026-06-01",
+      "entry_price": 133.5,
+      "sl": 115.68,
+      "tp": 169.14,
+      "atr": 8.91,
+      "trade_eur": 500.0,
+      "status": "active"
+    }
+  ],
   "closed": []
 }
