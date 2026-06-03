@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 329.54,
-      "unrealized_pct": 2.17,
-      "unrealized_eur": 13.57
+      "current_price": 305.26,
+      "unrealized_pct": -5.36,
+      "unrealized_eur": -33.57
     },
     {
       "ticker": "ADS.DE",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 165.1,
-      "unrealized_pct": -1.37,
-      "unrealized_eur": -10.14
+      "current_price": 162.6,
+      "unrealized_pct": -2.87,
+      "unrealized_eur": -21.16
     },
     {
       "ticker": "DXCM",
@@ -61,11 +61,11 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 73.43,
-      "unrealized_pct": -0.08,
-      "unrealized_eur": -0.56
+      "current_price": 72.51,
+      "unrealized_pct": -1.33,
+      "unrealized_eur": -9.07
     }
   ],
   "closed": [],
-  "unrealized_pnl": 2.87
+  "unrealized_pnl": -63.8
 }
