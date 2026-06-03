@@ -1,1 +1,26 @@
 ﻿- [2026-05-31 07:50] Modificato: Portfolio Insider.md
+- [2026-05-31 07:54] Modificato: sync_obsidian.py
+- [2026-05-31 07:57] Modificato: .gitignore
+- [2026-05-31 08:01] Modificato: sync_obsidian.py
+- [2026-05-31 08:01] Modificato: sync_obsidian.py
+- [2026-05-31 08:01] Modificato: sync_obsidian.py
+- [2026-05-31 08:01] Modificato: sync_obsidian.py
+- [2026-06-01 08:45] Modificato: main_v3.py
+- [2026-06-01 08:45] Modificato: main_v3.py
+- [2026-06-01 08:56] Modificato: position_sizing.py
+- [2026-06-01 08:56] Modificato: recalc_v3.py
+- [2026-06-01 08:57] Modificato: portfolio_v3.json
+- [2026-06-01 15:05] Modificato: v1_weekly.yml
+- [2026-06-01 15:05] Modificato: main.py
+- [2026-06-02 07:11] Modificato: v3_tracker.yml
+- [2026-06-02 07:23] Modificato: tracker.py
+- [2026-06-02 07:23] Modificato: tracker_v3.py
+- [2026-06-02 07:23] Modificato: sync_obsidian.py
+- [2026-06-02 07:24] Modificato: sync_obsidian.py
+- [2026-06-02 07:26] Modificato: portfolio_v3.json
+- [2026-06-02 07:32] Modificato: tracker.py
+- [2026-06-02 07:33] Modificato: tracker_v3.py
+- [2026-06-02 07:36] Modificato: tracker.py
+- [2026-06-02 07:36] Modificato: tracker.py
+- [2026-06-02 07:37] Modificato: tracker_v3.py
+- [2026-06-02 07:37] Modificato: v1_tracker.yml
