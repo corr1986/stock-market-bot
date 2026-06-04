@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 302.34,
-      "unrealized_pct": -6.27,
-      "unrealized_eur": -39.22
+      "current_price": 301.82,
+      "unrealized_pct": -6.43,
+      "unrealized_eur": -40.23
     },
     {
       "ticker": "ADS.DE",
@@ -61,11 +61,11 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 72.27,
-      "unrealized_pct": -1.66,
-      "unrealized_eur": -11.29
+      "current_price": 72.59,
+      "unrealized_pct": -1.22,
+      "unrealized_eur": -8.33
     }
   ],
   "closed": [],
-  "unrealized_pnl": -78.95
+  "unrealized_pnl": -77.0
 }
