@@ -13,9 +13,9 @@
       "atr": 19.63,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 377.55,
-      "unrealized_pct": -1.15,
-      "unrealized_eur": -5.76
+      "current_price": 375.25,
+      "unrealized_pct": -1.75,
+      "unrealized_eur": -8.77
     },
     {
       "id": "IBM_2026-06-01",
@@ -28,9 +28,9 @@
       "atr": 23.77,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 292.5,
-      "unrealized_pct": -9.32,
-      "unrealized_eur": -46.58
+      "current_price": 283.65,
+      "unrealized_pct": -12.06,
+      "unrealized_eur": -60.3
     },
     {
       "id": "A_2026-06-01",
@@ -43,11 +43,11 @@
       "atr": 8.91,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 135.88,
-      "unrealized_pct": 1.78,
-      "unrealized_eur": 8.9
+      "current_price": 136.26,
+      "unrealized_pct": 2.07,
+      "unrealized_eur": 10.36
     }
   ],
   "closed": [],
-  "unrealized_pnl": -43.44
+  "unrealized_pnl": -58.71
 }
