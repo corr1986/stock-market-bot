@@ -35,20 +35,19 @@ def save_portfolio(p: dict):
 
 
 def add_new_positions(signals: list, entry_date: str):
-    """Aggiunge posizioni pending al portfolio paper trading dai segnali già calcolati."""
+    """Aggiunge posizioni pending al portfolio paper trading dai segnali già calcolati.
+    V1 non ha limiti di gestione: aggiunge sempre 3 nuove posizioni ogni lunedì,
+    indipendentemente da quante sono già aperte. Salta solo duplicati (stesso ticker).
+    """
     portfolio = load_portfolio()
     open_tickers = {p["ticker"] for p in portfolio["open"]}
-    slots = MAX_OPEN_TRADES - len(portfolio["open"])
-
-    if slots <= 0:
-        print(f"Paper trading: {MAX_OPEN_TRADES} posizioni già aperte, nessuna nuova aggiunta.")
-        return
 
     added = 0
+    skipped = 0
     for sig in signals:
-        if slots <= 0:
-            break
         if sig["ticker"] in open_tickers:
+            print(f"  ~ {sig['ticker']} già aperto, skip.")
+            skipped += 1
             continue
         portfolio["open"].append({
             "id":          f"{sig['ticker']}_{entry_date}",
@@ -63,11 +62,10 @@ def add_new_positions(signals: list, entry_date: str):
             "status":      "pending",
         })
         added += 1
-        slots -= 1
         print(f"  + {sig['ticker']} (pending — entry al prezzo di apertura mercato)")
 
     save_portfolio(portfolio)
-    print(f"Paper trading: {added} nuova/e posizione/i aperta/e (tot. aperte: {len(portfolio['open'])}).")
+    print(f"Paper trading: {added} aggiunta/e, {skipped} saltata/e (duplicato). Totale aperte: {len(portfolio['open'])}.")
 
 
 
@@ -174,9 +172,16 @@ def run():
         signals_block = "*Segnali Bloomberg V2 — settimana corrente*\n\n"
         signals_block += "\n\n".join(signal_lines)
         signals_block += "\n\n---\n\n"
+    else:
+        signals_block = "⚠️ Nessun segnale Bloomberg V2 generato questa settimana.\n\n---\n\n"
 
-    header       = f"*Stock Market Bot — {today}*\n\n"
-    full_message = header + signals_block
+    # Info portfolio aperto
+    portfolio_now = load_portfolio()
+    open_count    = len(portfolio_now["open"])
+    portfolio_note = f"📂 Posizioni aperte prima di oggi: {open_count}\n"
+
+    header       = f"*📈 Stock Market Bot V1 — {today}*\n\n"
+    full_message = header + portfolio_note + "\n" + signals_block
     print("Invio report su Telegram...")
     ok = send_telegram(full_message)
     if ok:

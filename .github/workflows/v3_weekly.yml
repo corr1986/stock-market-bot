@@ -2,8 +2,8 @@ name: V3 Weekly Signal Selection
 
 on:
   schedule:
-    # Domenica 23:00 UTC = Lunedì 07:00 Bali (UTC+8) — 2h prima apertura EU
-    - cron: '0 23 * * 0'
+    # Lunedì 05:30 UTC = Lunedì 13:30 Bali (UTC+8) — stesso orario V1
+    - cron: '30 5 * * 1'
   workflow_dispatch:  # permette run manuale dal browser
 
 jobs:
