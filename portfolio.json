@@ -46,6 +46,42 @@
       "current_price": 135.44,
       "unrealized_pct": 1.45,
       "unrealized_eur": 7.27
+    },
+    {
+      "id": "CCI_2026-06-08",
+      "ticker": "CCI",
+      "category": "USA",
+      "entry_date": "2026-06-08",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 5.53,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "BAC_2026-06-08",
+      "ticker": "BAC",
+      "category": "USA",
+      "entry_date": "2026-06-08",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 2.66,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "AFL_2026-06-08",
+      "ticker": "AFL",
+      "category": "USA",
+      "entry_date": "2026-06-08",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 4.76,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [],
