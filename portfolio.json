@@ -13,9 +13,9 @@
       "atr": 19.63,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 377.4,
-      "unrealized_pct": -1.19,
-      "unrealized_eur": -5.96
+      "current_price": 383.55,
+      "unrealized_pct": 0.42,
+      "unrealized_eur": 2.09
     },
     {
       "id": "IBM_2026-06-01",
@@ -94,5 +94,5 @@
     }
   ],
   "closed": [],
-  "unrealized_pnl": -95.28
+  "unrealized_pnl": -87.23
 }
