@@ -28,9 +28,9 @@
       "atr": 8.91,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 129.16,
-      "unrealized_pct": -3.25,
-      "unrealized_eur": -16.25
+      "current_price": 129.5,
+      "unrealized_pct": -3.0,
+      "unrealized_eur": -14.98
     },
     {
       "id": "CCI_2026-06-08",
@@ -43,9 +43,9 @@
       "atr": 5.53,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 92.4,
-      "unrealized_pct": -1.67,
-      "unrealized_eur": -8.35
+      "current_price": 92.02,
+      "unrealized_pct": -2.08,
+      "unrealized_eur": -10.38
     },
     {
       "id": "BAC_2026-06-08",
@@ -58,9 +58,9 @@
       "atr": 2.66,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 55.11,
-      "unrealized_pct": 2.59,
-      "unrealized_eur": 12.96
+      "current_price": 55.13,
+      "unrealized_pct": 2.64,
+      "unrealized_eur": 13.22
     },
     {
       "id": "AFL_2026-06-08",
@@ -73,9 +73,9 @@
       "atr": 4.76,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 117.78,
-      "unrealized_pct": 0.39,
-      "unrealized_eur": 1.96
+      "current_price": 116.4,
+      "unrealized_pct": -0.78,
+      "unrealized_eur": -3.92
     }
   ],
   "closed": [
@@ -101,5 +101,5 @@
       "days_held": 45
     }
   ],
-  "unrealized_pnl": -8.37
+  "unrealized_pnl": -14.75
 }
