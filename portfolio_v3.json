@@ -12,16 +12,16 @@
       "size_eur": 738.0,
       "atr_entry": 11.29,
       "initial_sl": 144.82,
-      "max_high_since_entry": 172.60000610351562,
-      "chandelier_stop": 150.02000610351564,
+      "max_high_since_entry": 174.8000030517578,
+      "chandelier_stop": 152.22000305175783,
       "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 172.1,
-      "unrealized_pct": 2.81,
-      "unrealized_eur": 20.72
+      "current_price": 174.7,
+      "unrealized_pct": 4.36,
+      "unrealized_eur": 32.18
     },
     {
       "ticker": "DXCM",
@@ -68,5 +68,5 @@
       "unrealized_eur": -61.55
     }
   ],
-  "unrealized_pnl": 32.66
+  "unrealized_pnl": 44.12
 }
