@@ -43,6 +43,24 @@
       "current_price": 75.36,
       "unrealized_pct": 2.54,
       "unrealized_eur": 17.3
+    },
+    {
+      "ticker": "SBUX",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 103.04,
+      "size_eur": 806.26,
+      "atr_entry": 6.39,
+      "initial_sl": 90.26,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 90.26,
+      "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
     }
   ],
   "closed": [
