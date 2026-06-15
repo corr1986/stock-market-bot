@@ -76,6 +76,42 @@
       "current_price": 117.81,
       "unrealized_pct": 0.42,
       "unrealized_eur": 2.09
+    },
+    {
+      "id": "DXCM_2026-06-15",
+      "ticker": "DXCM",
+      "category": "USA",
+      "entry_date": "2026-06-15",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 5.42,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "MMM_2026-06-15",
+      "ticker": "MMM",
+      "category": "USA",
+      "entry_date": "2026-06-15",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 8.55,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "TSLA_2026-06-15",
+      "ticker": "TSLA",
+      "category": "USA",
+      "entry_date": "2026-06-15",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 36.35,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
