@@ -54,13 +54,10 @@ def run():
         )
         return
 
-    # 2. Slot disponibili
-    portfolio = load_portfolio()
-    active    = count_active(portfolio)
-    slots     = regime["max_positions"] - active
-    if slots <= 0:
-        send_telegram_message(f"{V3_PREFIX} Portfolio pieno ({active} pos). Nessuna nuova entry.")
-        return
+    # 2. Portfolio corrente
+    portfolio    = load_portfolio()
+    active       = count_active(portfolio)
+    open_tickers = {p["ticker"] for p in portfolio["open"]}
 
     # 3. Snapshot tecnico — top-10 Bloomberg V2 + 13F
     snapshot   = build_market_snapshot()
@@ -82,7 +79,7 @@ def run():
     # 6. LLM selezione — passa contesto macro all'analista
     macro_str = format_macro_for_prompt(macro)
     signals = generate_signals(snapshot=filtered_snap, date=today,
-                               macro_context=macro_str, max_positions=slots)
+                               macro_context=macro_str, max_positions=3)
 
     if not signals:
         send_telegram_message(
@@ -97,11 +94,15 @@ def run():
     # 8. Sizing dinamico + aggiunta al portfolio
     cand_map  = {c["ticker"]: c for c in candidates}
     sig_map   = {s["ticker"]: s for s in signals if s.get("ticker")}
-    added     = []
-    for sig in signals[:slots]:
+    added = []
+    for sig in signals:
+        if len(added) >= 3:
+            break
         ticker = sig.get("ticker", "")
-        entry  = sig.get("entry_price", 0)
-        cand   = cand_map.get(ticker)
+        if ticker in open_tickers:
+            continue
+        entry = sig.get("entry_price", 0)
+        cand  = cand_map.get(ticker)
         if not cand or not entry:
             continue
 
@@ -161,7 +162,7 @@ def run():
         )
 
     lines.append(f"\n⚠️ Entry e SL confermati all'apertura del mercato")
-    lines.append(f"Posizioni: {active + len(added)}/{regime['max_positions']}")
+    lines.append(f"📂 Posizioni aperte: {active + len(added)} | Nuove questa settimana: {len(added)}")
     send_telegram_message("\n".join(lines))
 
 
