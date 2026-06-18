@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 178.05,
-      "unrealized_pct": 6.36,
-      "unrealized_eur": 46.95
+      "current_price": 177.65,
+      "unrealized_pct": 6.12,
+      "unrealized_eur": 45.19
     },
     {
       "ticker": "DXCM",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 72.32,
-      "unrealized_pct": -1.6,
-      "unrealized_eur": -10.87
+      "current_price": 72.47,
+      "unrealized_pct": -1.39,
+      "unrealized_eur": -9.44
     },
     {
       "ticker": "SBUX",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 100.23,
-      "unrealized_pct": -2.48,
-      "unrealized_eur": -20.0
+      "current_price": 101.03,
+      "unrealized_pct": -1.7,
+      "unrealized_eur": -13.73
     }
   ],
   "closed": [
@@ -89,5 +89,5 @@
       "unrealized_eur": -61.55
     }
   ],
-  "unrealized_pnl": 16.08
+  "unrealized_pnl": 22.02
 }
