@@ -106,6 +106,42 @@
       "current_price": 400.43,
       "unrealized_pct": -2.83,
       "unrealized_eur": -14.14
+    },
+    {
+      "id": "AVGO_2026-06-22",
+      "ticker": "AVGO",
+      "category": "USA",
+      "entry_date": "2026-06-22",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 37.46,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "TTWO_2026-06-22",
+      "ticker": "TTWO",
+      "category": "USA",
+      "entry_date": "2026-06-22",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 16.94,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "AAPL_2026-06-22",
+      "ticker": "AAPL",
+      "category": "USA",
+      "entry_date": "2026-06-22",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 14.18,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
