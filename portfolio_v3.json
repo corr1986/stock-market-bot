@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 173.6,
-      "unrealized_pct": 3.7,
-      "unrealized_eur": 27.33
+      "current_price": 173.4,
+      "unrealized_pct": 3.58,
+      "unrealized_eur": 26.45
     },
     {
       "ticker": "DXCM",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 72.46,
-      "unrealized_pct": -1.4,
-      "unrealized_eur": -9.53
+      "current_price": 70.98,
+      "unrealized_pct": -3.42,
+      "unrealized_eur": -23.22
     },
     {
       "ticker": "SBUX",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 100.61,
-      "unrealized_pct": -2.11,
-      "unrealized_eur": -17.02
+      "current_price": 101.73,
+      "unrealized_pct": -1.02,
+      "unrealized_eur": -8.24
     },
     {
       "ticker": "NVDA",
@@ -74,17 +74,17 @@
       "size_eur": 689.88,
       "atr_entry": 15.27,
       "initial_sl": 176.735,
-      "max_high_since_entry": 212.710693359375,
-      "chandelier_stop": 182.170693359375,
+      "max_high_since_entry": 213.99000549316406,
+      "chandelier_stop": 183.45000549316407,
       "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-06-22",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 210.23,
-      "unrealized_pct": 1.43,
-      "unrealized_eur": 9.84
+      "current_price": 213.34,
+      "unrealized_pct": 2.92,
+      "unrealized_eur": 20.17
     },
     {
       "ticker": "AAPL",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 297.89,
-      "unrealized_pct": -0.18,
-      "unrealized_eur": -1.94
+      "current_price": 300.2,
+      "unrealized_pct": 0.59,
+      "unrealized_eur": 6.2
     },
     {
       "ticker": "AVGO",
@@ -116,17 +116,17 @@
       "size_eur": 549.05,
       "atr_entry": 37.46,
       "initial_sl": 334.1,
-      "max_high_since_entry": 412.70001220703125,
-      "chandelier_stop": 337.78001220703123,
+      "max_high_since_entry": 414.55999755859375,
+      "chandelier_stop": 339.63999755859373,
       "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-06-22",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 410.79,
-      "unrealized_pct": 0.43,
-      "unrealized_eur": 2.38
+      "current_price": 401.6,
+      "unrealized_pct": -1.81,
+      "unrealized_eur": -9.96
     }
   ],
   "closed": [
@@ -152,5 +152,5 @@
       "unrealized_eur": -61.55
     }
   ],
-  "unrealized_pnl": 11.06
+  "unrealized_pnl": 11.4
 }
