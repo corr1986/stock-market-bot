@@ -1,21 +1,24 @@
 # Portfolio V1 — Stock Market Bot
-*Aggiornato: 19/06/2026 21:06 UTC | [portfolio.json](portfolio.json)*
+*Aggiornato: 22/06/2026 12:46 UTC | [portfolio.json](portfolio.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
 |---|---|---|---|---|---|
-| 19,867€ | -52€ | 19,815€ | -133€ | 2 (0W/2L) | 0% |
+| 19,867€ | -52€ | 19,816€ | -133€ | 2 (0W/2L) | 0% |
 
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | TP |
 |---|---|---|---|---|---|---|---|
-| **OR.PA** | 381.95 | 2 | 377.90 | -1.06% | -5€ | 342.69 | 460.47 |
+| **OR.PA** | 381.95 | 2 | 378.55 | -0.89% | -4€ | 342.69 | 460.47 |
 | **A** | 133.5 | 4 | 127.08 | -4.81% | -24€ | 115.68 | 169.14 |
 | **BAC** | 53.715 | 10 | 56.16 | +4.55% | +23€ | 48.395 | 64.355 |
 | **AFL** | 117.32 | 5 | 115.44 | -1.60% | -8€ | 107.8 | 136.36 |
 | **DXCM** | 75.7 | 7 | 72.46 | -4.28% | -21€ | 64.86 | 97.38 |
 | **MMM** | 161.41 | 4 | 160.65 | -0.47% | -2€ | 144.31 | 195.61 |
 | **TSLA** | 412.08 | 2 | 400.43 | -2.83% | -14€ | 339.38 | 557.48 |
+| ⏳ AVGO | — | — | — | — | — | None | None |
+| ⏳ TTWO | — | — | — | — | — | None | None |
+| ⏳ AAPL | — | — | — | — | — | None | None |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € | Esito |
