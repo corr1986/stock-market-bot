@@ -1,5 +1,5 @@
 # Portfolio V1 — Stock Market Bot
-*Aggiornato: 22/06/2026 20:40 UTC | [portfolio.json](portfolio.json)*
+*Aggiornato: 23/06/2026 07:01 UTC | [portfolio.json](portfolio.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
