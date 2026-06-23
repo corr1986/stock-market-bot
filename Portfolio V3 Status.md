@@ -1,5 +1,5 @@
 # Portfolio V3 — Stock Market Bot
-*Aggiornato: 23/06/2026 20:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
+*Aggiornato: 23/06/2026 21:46 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
 *[portfolio_v3.json](portfolio_v3.json)*
 
 ## Riepilogo
