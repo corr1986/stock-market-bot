@@ -1,11 +1,10 @@
 name: V1 Hourly Tracker
 
 on:
-  schedule:
-    # 07:00-20:00 UTC = 15:00-04:00 Bali (UTC+8)
-    # EU apre 07:00 UTC (XETRA 09:00 CEST), USA chiude 20:00 UTC (16:00 EDT)
-    # Copre l'intera sessione EU + USA — Lunedì-Venerdì
-    - cron: '0 7-20 * * 1-5'
+  # Trigger esclusivo via cron-job.org (workflow_dispatch). Il cron interno di
+  # GitHub è stato rimosso: inaffidabile e si sovrapponeva a cron-job.org,
+  # causando run paralleli che collidevano sul git push.
+  # cron-job.org: ogni ora 07:00-20:00 UTC, Lun-Ven.
   workflow_dispatch:
 
 jobs:

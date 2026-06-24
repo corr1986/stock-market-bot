@@ -1,12 +1,10 @@
 name: Weekly Signals (V1 + V3)
 
 on:
-  schedule:
-    # Ogni giorno lavorativo 05:00 UTC = 12:00 Vietnam (UTC+7)
-    # Gira Mon-Fri per tenere GitHub attivo — elabora segnali solo il lunedì
-    - cron: '0 5 * * 1-5'
-    # Keepalive weekend: sabato e domenica 10:00 UTC per evitare freeze
-    - cron: '0 10 * * 6,0'
+  # Trigger esclusivo via cron-job.org (workflow_dispatch). I cron interni di
+  # GitHub (settimanale + keepalive weekend) sono stati rimossi: inaffidabili e
+  # causa di run duplicati. cron-job.org chiama questo workflow il Lunedì 05:00
+  # UTC; il check interno "is Monday" lascia comunque passare ogni dispatch.
   workflow_dispatch:
 
 jobs:
