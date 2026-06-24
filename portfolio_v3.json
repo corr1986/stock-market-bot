@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 70.32,
-      "unrealized_pct": -4.31,
-      "unrealized_eur": -29.33
+      "current_price": 70.46,
+      "unrealized_pct": -4.13,
+      "unrealized_eur": -28.08
     },
     {
       "ticker": "SBUX",
@@ -53,17 +53,17 @@
       "size_eur": 806.26,
       "atr_entry": 6.39,
       "initial_sl": 90.0,
-      "max_high_since_entry": 103.9800033569336,
-      "chandelier_stop": 91.20000335693359,
+      "max_high_since_entry": 104.66000366210938,
+      "chandelier_stop": 91.88000366210937,
       "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-06-15",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 103.84,
-      "unrealized_pct": 1.03,
-      "unrealized_eur": 8.32
+      "current_price": 104.53,
+      "unrealized_pct": 1.7,
+      "unrealized_eur": 13.73
     },
     {
       "ticker": "NVDA",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 197.91,
-      "unrealized_pct": -4.52,
-      "unrealized_eur": -31.17
+      "current_price": 196.92,
+      "unrealized_pct": -5.0,
+      "unrealized_eur": -34.46
     },
     {
       "ticker": "AAPL",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 295.77,
-      "unrealized_pct": -0.89,
-      "unrealized_eur": -9.4
+      "current_price": 295.15,
+      "unrealized_pct": -1.1,
+      "unrealized_eur": -11.58
     },
     {
       "ticker": "AVGO",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 380.27,
-      "unrealized_pct": -7.03,
-      "unrealized_eur": -38.59
+      "current_price": 377.68,
+      "unrealized_pct": -7.66,
+      "unrealized_eur": -42.07
     }
   ],
   "closed": [
@@ -152,5 +152,5 @@
       "unrealized_eur": -61.55
     }
   ],
-  "unrealized_pnl": -60.49
+  "unrealized_pnl": -62.78
 }
