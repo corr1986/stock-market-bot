@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 70.46,
-      "unrealized_pct": -4.13,
-      "unrealized_eur": -28.08
+      "current_price": 69.76,
+      "unrealized_pct": -5.08,
+      "unrealized_eur": -34.51
     },
     {
       "ticker": "SBUX",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 104.53,
-      "unrealized_pct": 1.7,
-      "unrealized_eur": 13.73
+      "current_price": 103.53,
+      "unrealized_pct": 0.73,
+      "unrealized_eur": 5.88
     },
     {
       "ticker": "NVDA",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 196.92,
-      "unrealized_pct": -5.0,
-      "unrealized_eur": -34.46
+      "current_price": 199.09,
+      "unrealized_pct": -3.95,
+      "unrealized_eur": -27.24
     },
     {
       "ticker": "AAPL",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 295.15,
-      "unrealized_pct": -1.1,
-      "unrealized_eur": -11.58
+      "current_price": 293.26,
+      "unrealized_pct": -1.74,
+      "unrealized_eur": -18.24
     },
     {
       "ticker": "AVGO",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 377.68,
-      "unrealized_pct": -7.66,
-      "unrealized_eur": -42.07
+      "current_price": 382.1,
+      "unrealized_pct": -6.58,
+      "unrealized_eur": -36.14
     }
   ],
   "closed": [
@@ -152,5 +152,5 @@
       "unrealized_eur": -61.55
     }
   ],
-  "unrealized_pnl": -62.78
+  "unrealized_pnl": -70.57
 }
