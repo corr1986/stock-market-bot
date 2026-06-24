@@ -24,3 +24,14 @@
 - [2026-06-02 07:36] Modificato: tracker.py
 - [2026-06-02 07:37] Modificato: tracker_v3.py
 - [2026-06-02 07:37] Modificato: v1_tracker.yml
+- [2026-06-08 16:52] Modificato: main.py
+- [2026-06-08 16:52] Modificato: main.py
+- [2026-06-08 17:01] Modificato: v3_weekly.yml
+- [2026-06-17 14:55] Modificato: main_v3.py
+- [2026-06-17 14:55] Modificato: main_v3.py
+- [2026-06-17 14:56] Modificato: main_v3.py
+- [2026-06-22 15:03] Modificato: v1_weekly.yml
+- [2026-06-22 15:03] Modificato: v3_weekly.yml
+- [2026-06-22 15:10] Modificato: v3_weekly.yml
+- [2026-06-22 15:15] Modificato: weekly_signals.yml
+- [2026-06-22 15:15] Modificato: v1_tracker.yml
