@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 179.3,
-      "unrealized_pct": 7.11,
-      "unrealized_eur": 52.46
+      "current_price": 178.35,
+      "unrealized_pct": 6.54,
+      "unrealized_eur": 48.27
     },
     {
       "ticker": "DXCM",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 70.4,
-      "unrealized_pct": -4.2,
-      "unrealized_eur": -28.59
+      "current_price": 69.83,
+      "unrealized_pct": -4.97,
+      "unrealized_eur": -33.82
     },
     {
       "ticker": "SBUX",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 103.42,
-      "unrealized_pct": 0.62,
-      "unrealized_eur": 4.98
+      "current_price": 103.14,
+      "unrealized_pct": 0.35,
+      "unrealized_eur": 2.82
     },
     {
       "ticker": "NVDA",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 195.95,
-      "unrealized_pct": -5.46,
-      "unrealized_eur": -37.69
+      "current_price": 196.63,
+      "unrealized_pct": -5.14,
+      "unrealized_eur": -35.43
     },
     {
       "ticker": "AAPL",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 277.67,
-      "unrealized_pct": -6.96,
-      "unrealized_eur": -73.11
+      "current_price": 276.97,
+      "unrealized_pct": -7.19,
+      "unrealized_eur": -75.6
     },
     {
       "ticker": "AVGO",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 381.43,
-      "unrealized_pct": -6.75,
-      "unrealized_eur": -37.04
+      "current_price": 385.15,
+      "unrealized_pct": -5.83,
+      "unrealized_eur": -32.04
     }
   ],
   "closed": [
@@ -152,5 +152,5 @@
       "unrealized_eur": -61.55
     }
   ],
-  "unrealized_pnl": -118.99
+  "unrealized_pnl": -125.8
 }
