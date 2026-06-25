@@ -1,6 +1,6 @@
 {
-  "balance": 19926.96826740313,
-  "realized_pnl": -73.03173259687216,
+  "balance": 19841.126101319893,
+  "realized_pnl": -158.87389868010817,
   "open": [
     {
       "ticker": "ADS.DE",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 69.83,
-      "unrealized_pct": -4.97,
-      "unrealized_eur": -33.82
+      "current_price": 69.5,
+      "unrealized_pct": -5.43,
+      "unrealized_eur": -36.92
     },
     {
       "ticker": "SBUX",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 103.14,
-      "unrealized_pct": 0.35,
-      "unrealized_eur": 2.82
+      "current_price": 103.09,
+      "unrealized_pct": 0.3,
+      "unrealized_eur": 2.43
     },
     {
       "ticker": "NVDA",
@@ -82,30 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 196.63,
-      "unrealized_pct": -5.14,
-      "unrealized_eur": -35.43
-    },
-    {
-      "ticker": "AAPL",
-      "category": "USA",
-      "status": "active",
-      "entry_price": 298.44000244140625,
-      "entry_price_ref": 298.01,
-      "size_eur": 1050.81,
-      "atr_entry": 14.18,
-      "initial_sl": 270.08,
-      "max_high_since_entry": 302.4200134277344,
-      "chandelier_stop": 274.06001342773436,
-      "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
-      "entry_date": "2026-06-22",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 276.97,
-      "unrealized_pct": -7.19,
-      "unrealized_eur": -75.6
+      "current_price": 194.9,
+      "unrealized_pct": -5.97,
+      "unrealized_eur": -41.19
     },
     {
       "ticker": "AVGO",
@@ -124,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 385.15,
-      "unrealized_pct": -5.83,
-      "unrealized_eur": -32.04
+      "current_price": 381.02,
+      "unrealized_pct": -6.85,
+      "unrealized_eur": -37.59
     }
   ],
   "closed": [
@@ -150,7 +129,28 @@
       "current_price": 290.83,
       "unrealized_pct": -9.83,
       "unrealized_eur": -61.55
+    },
+    {
+      "ticker": "AAPL",
+      "category": "USA",
+      "status": "closed",
+      "entry_price": 298.44000244140625,
+      "entry_price_ref": 298.01,
+      "size_eur": 1050.81,
+      "atr_entry": 14.18,
+      "initial_sl": 270.08,
+      "max_high_since_entry": 302.4200134277344,
+      "chandelier_stop": 274.06001342773436,
+      "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
+      "entry_date": "2026-06-22",
+      "close_date": "2026-06-25",
+      "close_price": 274.06,
+      "pnl_pct": -8.17,
+      "pnl_eur": -85.84,
+      "current_price": 276.97,
+      "unrealized_pct": -7.19,
+      "unrealized_eur": -75.6
     }
   ],
-  "unrealized_pnl": -125.8
+  "unrealized_pnl": -65.0
 }
