@@ -28,9 +28,9 @@
       "atr": 8.91,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 135.71,
-      "unrealized_pct": 1.65,
-      "unrealized_eur": 8.26
+      "current_price": 135.53,
+      "unrealized_pct": 1.52,
+      "unrealized_eur": 7.6
     },
     {
       "id": "BAC_2026-06-08",
@@ -58,9 +58,9 @@
       "atr": 4.76,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 118.22,
-      "unrealized_pct": 0.77,
-      "unrealized_eur": 3.86
+      "current_price": 118.23,
+      "unrealized_pct": 0.78,
+      "unrealized_eur": 3.88
     },
     {
       "id": "DXCM_2026-06-15",
@@ -197,5 +197,5 @@
       "days_held": 47
     }
   ],
-  "unrealized_pnl": -98.67
+  "unrealized_pnl": -99.31
 }
