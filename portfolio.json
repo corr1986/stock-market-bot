@@ -151,6 +151,42 @@
       "current_price": 281.2,
       "unrealized_pct": -5.48,
       "unrealized_eur": -27.39
+    },
+    {
+      "id": "IBM_2026-06-29",
+      "ticker": "IBM",
+      "category": "USA",
+      "entry_date": "2026-06-29",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 26.37,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "V_2026-06-29",
+      "ticker": "V",
+      "category": "USA",
+      "entry_date": "2026-06-29",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 14.33,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "PGR_2026-06-29",
+      "ticker": "PGR",
+      "category": "USA",
+      "entry_date": "2026-06-29",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 11.25,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
