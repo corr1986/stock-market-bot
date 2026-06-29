@@ -110,56 +110,65 @@
     {
       "ticker": "VRTX",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 482.5,
       "entry_price_ref": 491.34,
       "size_eur": 919.08,
       "atr_entry": 26.73,
-      "initial_sl": 437.88,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 437.88,
+      "initial_sl": 429.04,
+      "max_high_since_entry": 503.8900146484375,
+      "chandelier_stop": 450.4300146484375,
       "setup": "Prezzo sopra SMA20 e SMA50, RSI < 70, MACD favorevole",
-      "entry_date": null,
+      "entry_date": "2026-06-29",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 490.84,
+      "unrealized_pct": 1.73,
+      "unrealized_eur": 15.89
     },
     {
       "ticker": "PGR",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 218.5,
       "entry_price_ref": 224.34,
       "size_eur": 997.07,
       "atr_entry": 11.25,
-      "initial_sl": 201.84,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 201.84,
+      "initial_sl": 196.0,
+      "max_high_since_entry": 224.52999877929688,
+      "chandelier_stop": 202.02999877929688,
       "setup": "Prezzo sopra SMA20 e SMA50, RSI < 70, MACD favorevole",
-      "entry_date": null,
+      "entry_date": "2026-06-29",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 224.17,
+      "unrealized_pct": 2.59,
+      "unrealized_eur": 25.87
     },
     {
       "ticker": "IBM",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 258.94000244140625,
       "entry_price_ref": 271.63,
       "size_eur": 515.04,
       "atr_entry": 26.37,
-      "initial_sl": 218.89,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 218.89,
+      "initial_sl": 206.2,
+      "max_high_since_entry": 273.135009765625,
+      "chandelier_stop": 220.395009765625,
       "setup": "Prezzo sopra SMA20 e SMA50, RSI < 70, MACD favorevole",
-      "entry_date": null,
+      "entry_date": "2026-06-29",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 271.4,
+      "unrealized_pct": 4.81,
+      "unrealized_eur": 24.78
     }
   ],
   "closed": [
@@ -206,5 +215,5 @@
       "unrealized_eur": -75.6
     }
   ],
-  "unrealized_pnl": -68.42
+  "unrealized_pnl": -1.88
 }

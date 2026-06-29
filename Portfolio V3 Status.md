@@ -1,11 +1,11 @@
 # Portfolio V3 — Stock Market Bot
-*Aggiornato: 26/06/2026 20:10 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
+*Aggiornato: 29/06/2026 07:10 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
 *[portfolio_v3.json](portfolio_v3.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
 |---|---|---|---|---|---|
-| 19,841€ | -68€ | 19,773€ | -159€ | 2 (0W/2L) | 0% |
+| 19,841€ | -2€ | 19,839€ | -159€ | 2 (0W/2L) | 0% |
 
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | Chandelier |
@@ -15,6 +15,9 @@
 | **SBUX** | 102.77999877929688 | 8 | 104.59 | +1.76% | +14€ | 90.0 | 92.13500091552734 |
 | **NVDA** | 207.27499389648438 | 4 | 191.72 | -7.50% | -52€ | 176.735 | 183.45000549316407 |
 | **AVGO** | 409.0199890136719 | 2 | 363.94 | -11.02% | -61€ | 334.1 | 339.63999755859373 |
+| **VRTX** | 482.5 | 2 | 490.84 | +1.73% | +16€ | 429.04 | 450.4300146484375 |
+| **PGR** | 218.5 | 5 | 224.17 | +2.59% | +26€ | 196.0 | 202.02999877929688 |
+| **IBM** | 258.94000244140625 | 2 | 271.40 | +4.81% | +25€ | 206.2 | 220.395009765625 |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € |
