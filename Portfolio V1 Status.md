@@ -1,5 +1,5 @@
 # Portfolio V1 — Stock Market Bot
-*Aggiornato: 29/06/2026 12:01 UTC | [portfolio.json](portfolio.json)*
+*Aggiornato: 29/06/2026 13:01 UTC | [portfolio.json](portfolio.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
@@ -9,7 +9,7 @@
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | TP |
 |---|---|---|---|---|---|---|---|
-| **OR.PA** | 381.95 | 2 | 389.25 | +1.91% | +10€ | 342.69 | 460.47 |
+| **OR.PA** | 381.95 | 2 | 388.95 | +1.83% | +9€ | 342.69 | 460.47 |
 | **A** | 133.5 | 4 | 135.95 | +1.84% | +9€ | 115.68 | 169.14 |
 | **BAC** | 53.715 | 10 | 57.80 | +7.60% | +38€ | 48.395 | 64.355 |
 | **AFL** | 117.32 | 5 | 120.11 | +2.38% | +12€ | 107.8 | 136.36 |
