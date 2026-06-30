@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 102.83,
-      "unrealized_pct": 0.05,
-      "unrealized_eur": 0.39
+      "current_price": 102.15,
+      "unrealized_pct": -0.61,
+      "unrealized_eur": -4.94
     },
     {
       "ticker": "NVDA",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 199.09,
-      "unrealized_pct": -3.95,
-      "unrealized_eur": -27.24
+      "current_price": 199.77,
+      "unrealized_pct": -3.62,
+      "unrealized_eur": -24.98
     },
     {
       "ticker": "AVGO",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 379.26,
-      "unrealized_pct": -7.28,
-      "unrealized_eur": -39.95
+      "current_price": 377.07,
+      "unrealized_pct": -7.81,
+      "unrealized_eur": -42.89
     },
     {
       "ticker": "VRTX",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 496.44,
-      "unrealized_pct": 2.89,
-      "unrealized_eur": 26.55
+      "current_price": 496.57,
+      "unrealized_pct": 2.92,
+      "unrealized_eur": 26.8
     },
     {
       "ticker": "PGR",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 218.71,
-      "unrealized_pct": 0.1,
-      "unrealized_eur": 0.96
+      "current_price": 218.19,
+      "unrealized_pct": -0.14,
+      "unrealized_eur": -1.41
     },
     {
       "ticker": "IBM",
@@ -137,17 +137,17 @@
       "size_eur": 515.04,
       "atr_entry": 26.37,
       "initial_sl": 206.2,
-      "max_high_since_entry": 281.8900146484375,
-      "chandelier_stop": 229.1500146484375,
+      "max_high_since_entry": 282.56939697265625,
+      "chandelier_stop": 229.82939697265624,
       "setup": "Prezzo sopra SMA20 e SMA50, RSI < 70, MACD favorevole",
       "entry_date": "2026-06-29",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 281.77,
-      "unrealized_pct": 8.82,
-      "unrealized_eur": 45.42
+      "current_price": 281.26,
+      "unrealized_pct": 8.62,
+      "unrealized_eur": 44.4
     }
   ],
   "closed": [
@@ -215,5 +215,5 @@
       "unrealized_eur": -46.45
     }
   ],
-  "unrealized_pnl": 59.47
+  "unrealized_pnl": 50.32
 }
