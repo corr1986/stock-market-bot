@@ -1,6 +1,6 @@
 {
-  "balance": 19841.126101319893,
-  "realized_pnl": -158.87389868010817,
+  "balance": 19790.97509424729,
+  "realized_pnl": -209.02490575271156,
   "open": [
     {
       "ticker": "ADS.DE",
@@ -19,30 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 179.45,
-      "unrealized_pct": 7.2,
-      "unrealized_eur": 53.12
-    },
-    {
-      "ticker": "DXCM",
-      "category": "USA",
-      "status": "active",
-      "entry_price": 73.49,
-      "entry_price_ref": 73.74,
-      "entry_date": "2026-06-01",
-      "size_eur": 680.0,
-      "atr_entry": 5.42,
-      "initial_sl": 62.65,
-      "max_high_since_entry": 78.91000366210938,
-      "chandelier_stop": 68.07000366210937,
-      "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 68.47,
-      "unrealized_pct": -6.83,
-      "unrealized_eur": -46.45
+      "current_price": 179.5,
+      "unrealized_pct": 7.23,
+      "unrealized_eur": 53.34
     },
     {
       "ticker": "SBUX",
@@ -61,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 103.04,
-      "unrealized_pct": 0.25,
-      "unrealized_eur": 2.04
+      "current_price": 103.1,
+      "unrealized_pct": 0.31,
+      "unrealized_eur": 2.47
     },
     {
       "ticker": "NVDA",
@@ -82,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 197.79,
-      "unrealized_pct": -4.58,
-      "unrealized_eur": -31.57
+      "current_price": 198.36,
+      "unrealized_pct": -4.3,
+      "unrealized_eur": -29.67
     },
     {
       "ticker": "AVGO",
@@ -103,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 375.11,
-      "unrealized_pct": -8.29,
-      "unrealized_eur": -45.51
+      "current_price": 375.74,
+      "unrealized_pct": -8.14,
+      "unrealized_eur": -44.67
     },
     {
       "ticker": "VRTX",
@@ -124,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 498.18,
-      "unrealized_pct": 3.25,
-      "unrealized_eur": 29.87
+      "current_price": 496.49,
+      "unrealized_pct": 2.9,
+      "unrealized_eur": 26.65
     },
     {
       "ticker": "PGR",
@@ -145,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 220.7,
-      "unrealized_pct": 1.0,
-      "unrealized_eur": 10.02
+      "current_price": 221.36,
+      "unrealized_pct": 1.31,
+      "unrealized_eur": 13.05
     },
     {
       "ticker": "IBM",
@@ -166,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 276.21,
-      "unrealized_pct": 6.67,
-      "unrealized_eur": 34.35
+      "current_price": 279.05,
+      "unrealized_pct": 7.77,
+      "unrealized_eur": 40.01
     }
   ],
   "closed": [
@@ -213,7 +192,28 @@
       "current_price": 276.97,
       "unrealized_pct": -7.19,
       "unrealized_eur": -75.6
+    },
+    {
+      "ticker": "DXCM",
+      "category": "USA",
+      "status": "closed",
+      "entry_price": 73.49,
+      "entry_price_ref": 73.74,
+      "entry_date": "2026-06-01",
+      "size_eur": 680.0,
+      "atr_entry": 5.42,
+      "initial_sl": 62.65,
+      "max_high_since_entry": 78.91000366210938,
+      "chandelier_stop": 68.07000366210937,
+      "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
+      "close_date": "2026-06-30",
+      "close_price": 68.07,
+      "pnl_pct": -7.38,
+      "pnl_eur": -50.15,
+      "current_price": 68.47,
+      "unrealized_pct": -6.83,
+      "unrealized_eur": -46.45
     }
   ],
-  "unrealized_pnl": 5.87
+  "unrealized_pnl": 61.18
 }
