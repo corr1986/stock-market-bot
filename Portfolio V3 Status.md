@@ -1,5 +1,5 @@
 # Portfolio V3 — Stock Market Bot
-*Aggiornato: 29/06/2026 20:10 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
+*Aggiornato: 30/06/2026 07:10 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
 *[portfolio_v3.json](portfolio_v3.json)*
 
 ## Riepilogo
@@ -17,7 +17,7 @@
 | **AVGO** | 409.0199890136719 | 2 | 372.44 | -8.94% | -49€ | 334.1 | 339.63999755859373 |
 | **VRTX** | 482.5 | 2 | 499.65 | +3.55% | +33€ | 429.04 | 450.4300146484375 |
 | **PGR** | 218.5 | 5 | 219.71 | +0.55% | +6€ | 196.0 | 202.02999877929688 |
-| **IBM** | 258.94000244140625 | 2 | 277.91 | +7.33% | +38€ | 206.2 | 225.4000146484375 |
+| **IBM** | 258.94000244140625 | 2 | 277.90 | +7.32% | +38€ | 206.2 | 225.4000146484375 |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € |
