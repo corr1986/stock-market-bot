@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 180.65,
-      "unrealized_pct": 7.92,
-      "unrealized_eur": 58.41
+      "current_price": 180.3,
+      "unrealized_pct": 7.71,
+      "unrealized_eur": 56.87
     },
     {
       "ticker": "DXCM",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 69.98,
-      "unrealized_pct": -4.78,
-      "unrealized_eur": -32.48
+      "current_price": 68.61,
+      "unrealized_pct": -6.64,
+      "unrealized_eur": -45.19
     },
     {
       "ticker": "SBUX",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 104.03,
-      "unrealized_pct": 1.22,
-      "unrealized_eur": 9.81
+      "current_price": 103.57,
+      "unrealized_pct": 0.77,
+      "unrealized_eur": 6.2
     },
     {
       "ticker": "NVDA",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 194.9,
-      "unrealized_pct": -5.97,
-      "unrealized_eur": -41.19
+      "current_price": 197.2,
+      "unrealized_pct": -4.86,
+      "unrealized_eur": -33.53
     },
     {
       "ticker": "AVGO",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 372.44,
-      "unrealized_pct": -8.94,
-      "unrealized_eur": -49.1
+      "current_price": 376.26,
+      "unrealized_pct": -8.01,
+      "unrealized_eur": -43.98
     },
     {
       "ticker": "VRTX",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 499.65,
-      "unrealized_pct": 3.55,
-      "unrealized_eur": 32.67
+      "current_price": 495.29,
+      "unrealized_pct": 2.65,
+      "unrealized_eur": 24.36
     },
     {
       "ticker": "PGR",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 219.71,
-      "unrealized_pct": 0.55,
-      "unrealized_eur": 5.52
+      "current_price": 219.59,
+      "unrealized_pct": 0.5,
+      "unrealized_eur": 4.97
     },
     {
       "ticker": "IBM",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 277.9,
-      "unrealized_pct": 7.32,
-      "unrealized_eur": 37.72
+      "current_price": 276.48,
+      "unrealized_pct": 6.77,
+      "unrealized_eur": 34.89
     }
   ],
   "closed": [
@@ -215,5 +215,5 @@
       "unrealized_eur": -75.6
     }
   ],
-  "unrealized_pnl": 21.36
+  "unrealized_pnl": 4.59
 }
