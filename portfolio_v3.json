@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 218.19,
-      "unrealized_pct": -0.14,
-      "unrealized_eur": -1.41
+      "current_price": 218.27,
+      "unrealized_pct": -0.11,
+      "unrealized_eur": -1.05
     },
     {
       "ticker": "IBM",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 281.26,
-      "unrealized_pct": 8.62,
-      "unrealized_eur": 44.4
+      "current_price": 281.23,
+      "unrealized_pct": 8.61,
+      "unrealized_eur": 44.34
     }
   ],
   "closed": [
@@ -215,5 +215,5 @@
       "unrealized_eur": -46.45
     }
   ],
-  "unrealized_pnl": 50.32
+  "unrealized_pnl": 50.62
 }
