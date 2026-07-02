@@ -12,16 +12,16 @@
       "size_eur": 738.0,
       "atr_entry": 11.29,
       "initial_sl": 144.82,
-      "max_high_since_entry": 185.35000610351562,
-      "chandelier_stop": 162.77000610351564,
+      "max_high_since_entry": 186.0,
+      "chandelier_stop": 163.42000000000002,
       "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 185.35,
-      "unrealized_pct": 10.72,
-      "unrealized_eur": 79.13
+      "current_price": 184.2,
+      "unrealized_pct": 10.04,
+      "unrealized_eur": 74.06
     },
     {
       "ticker": "SBUX",
@@ -32,17 +32,17 @@
       "size_eur": 806.26,
       "atr_entry": 6.39,
       "initial_sl": 90.0,
-      "max_high_since_entry": 104.95999908447266,
-      "chandelier_stop": 92.17999908447266,
+      "max_high_since_entry": 105.75,
+      "chandelier_stop": 92.97,
       "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-06-15",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 104.5,
-      "unrealized_pct": 1.68,
-      "unrealized_eur": 13.53
+      "current_price": 105.67,
+      "unrealized_pct": 2.81,
+      "unrealized_eur": 22.67
     },
     {
       "ticker": "NVDA",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 194.99,
-      "unrealized_pct": -5.92,
-      "unrealized_eur": -40.87
+      "current_price": 194.33,
+      "unrealized_pct": -6.25,
+      "unrealized_eur": -43.08
     },
     {
       "ticker": "AVGO",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 365.88,
-      "unrealized_pct": -10.55,
-      "unrealized_eur": -57.92
+      "current_price": 363.25,
+      "unrealized_pct": -11.19,
+      "unrealized_eur": -61.44
     },
     {
       "ticker": "VRTX",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 520.8,
-      "unrealized_pct": 7.94,
-      "unrealized_eur": 72.95
+      "current_price": 519.49,
+      "unrealized_pct": 7.67,
+      "unrealized_eur": 70.47
     },
     {
       "ticker": "PGR",
@@ -116,17 +116,17 @@
       "size_eur": 997.07,
       "atr_entry": 11.25,
       "initial_sl": 196.0,
-      "max_high_since_entry": 227.99000549316406,
-      "chandelier_stop": 205.49000549316406,
+      "max_high_since_entry": 228.5749969482422,
+      "chandelier_stop": 206.0749969482422,
       "setup": "Prezzo sopra SMA20 e SMA50, RSI < 70, MACD favorevole",
       "entry_date": "2026-06-29",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 227.52,
-      "unrealized_pct": 4.13,
-      "unrealized_eur": 41.16
+      "current_price": 228.13,
+      "unrealized_pct": 4.41,
+      "unrealized_eur": 43.94
     },
     {
       "ticker": "IBM",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 284.76,
-      "unrealized_pct": 9.97,
-      "unrealized_eur": 51.35
+      "current_price": 287.66,
+      "unrealized_pct": 11.09,
+      "unrealized_eur": 57.13
     }
   ],
   "closed": [
@@ -215,5 +215,5 @@
       "unrealized_eur": -46.45
     }
   ],
-  "unrealized_pnl": 159.33
+  "unrealized_pnl": 163.75
 }
