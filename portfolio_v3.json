@@ -12,16 +12,16 @@
       "size_eur": 738.0,
       "atr_entry": 11.29,
       "initial_sl": 144.82,
-      "max_high_since_entry": 183.14999389648438,
-      "chandelier_stop": 160.5699938964844,
+      "max_high_since_entry": 183.64999389648438,
+      "chandelier_stop": 161.0699938964844,
       "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 181.0,
-      "unrealized_pct": 8.12,
-      "unrealized_eur": 59.96
+      "current_price": 182.8,
+      "unrealized_pct": 9.2,
+      "unrealized_eur": 67.89
     },
     {
       "ticker": "SBUX",
@@ -215,5 +215,5 @@
       "unrealized_eur": -46.45
     }
   ],
-  "unrealized_pnl": 94.33
+  "unrealized_pnl": 102.26
 }
