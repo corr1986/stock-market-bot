@@ -28,9 +28,9 @@
       "atr": 8.91,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 133.38,
-      "unrealized_pct": -0.09,
-      "unrealized_eur": -0.45
+      "current_price": 133.35,
+      "unrealized_pct": -0.11,
+      "unrealized_eur": -0.56
     },
     {
       "id": "BAC_2026-06-08",
@@ -58,9 +58,9 @@
       "atr": 4.76,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 118.53,
-      "unrealized_pct": 1.03,
-      "unrealized_eur": 5.16
+      "current_price": 118.52,
+      "unrealized_pct": 1.02,
+      "unrealized_eur": 5.11
     },
     {
       "id": "DXCM_2026-06-15",
@@ -88,9 +88,9 @@
       "atr": 8.55,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 160.18,
-      "unrealized_pct": -0.77,
-      "unrealized_eur": -3.83
+      "current_price": 159.99,
+      "unrealized_pct": -0.88,
+      "unrealized_eur": -4.4
     },
     {
       "id": "TSLA_2026-06-15",
@@ -163,9 +163,9 @@
       "atr": 26.37,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 286.27,
-      "unrealized_pct": 4.36,
-      "unrealized_eur": 21.82
+      "current_price": 286.28,
+      "unrealized_pct": 4.37,
+      "unrealized_eur": 21.84
     },
     {
       "id": "V_2026-06-29",
@@ -178,9 +178,9 @@
       "atr": 14.33,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 351.1,
-      "unrealized_pct": 3.79,
-      "unrealized_eur": 18.96
+      "current_price": 351.03,
+      "unrealized_pct": 3.77,
+      "unrealized_eur": 18.86
     },
     {
       "id": "PGR_2026-06-29",
@@ -193,9 +193,9 @@
       "atr": 11.25,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 225.28,
-      "unrealized_pct": 1.79,
-      "unrealized_eur": 8.97
+      "current_price": 225.31,
+      "unrealized_pct": 1.81,
+      "unrealized_eur": 9.04
     }
   ],
   "closed": [
@@ -242,5 +242,5 @@
       "days_held": 47
     }
   ],
-  "unrealized_pnl": 20.91
+  "unrealized_pnl": 20.17
 }
