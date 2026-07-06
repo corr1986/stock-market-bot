@@ -196,6 +196,42 @@
       "current_price": 232.12,
       "unrealized_pct": 4.88,
       "unrealized_eur": 24.42
+    },
+    {
+      "id": "YUM_2026-07-06",
+      "ticker": "YUM",
+      "category": "USA",
+      "entry_date": "2026-07-06",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 7.31,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "SHW_2026-07-06",
+      "ticker": "SHW",
+      "category": "USA",
+      "entry_date": "2026-07-06",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 19.51,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "PHIA.AS_2026-07-06",
+      "ticker": "PHIA.AS",
+      "category": "EUROPE",
+      "entry_date": "2026-07-06",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 1.4,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
