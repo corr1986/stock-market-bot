@@ -198,6 +198,21 @@
       "unrealized_eur": 24.42
     },
     {
+      "id": "PHIA.AS_2026-07-06",
+      "ticker": "PHIA.AS",
+      "category": "EUROPE",
+      "entry_date": "2026-07-06",
+      "entry_price": 24.31,
+      "sl": 21.51,
+      "tp": 29.91,
+      "atr": 1.4,
+      "trade_eur": 500.0,
+      "status": "active",
+      "current_price": 24.31,
+      "unrealized_pct": 0.0,
+      "unrealized_eur": 0.0
+    },
+    {
       "id": "YUM_2026-07-06",
       "ticker": "YUM",
       "category": "USA",
@@ -218,18 +233,6 @@
       "sl": null,
       "tp": null,
       "atr": 19.51,
-      "trade_eur": 500.0,
-      "status": "pending"
-    },
-    {
-      "id": "PHIA.AS_2026-07-06",
-      "ticker": "PHIA.AS",
-      "category": "EUROPE",
-      "entry_date": "2026-07-06",
-      "entry_price": null,
-      "sl": null,
-      "tp": null,
-      "atr": 1.4,
       "trade_eur": 500.0,
       "status": "pending"
     }

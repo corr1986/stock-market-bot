@@ -1,5 +1,5 @@
 # Portfolio V1 — Stock Market Bot
-*Aggiornato: 03/07/2026 20:01 UTC | [portfolio.json](portfolio.json)*
+*Aggiornato: 06/07/2026 07:01 UTC | [portfolio.json](portfolio.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
@@ -22,6 +22,9 @@
 | **IBM** | 274.3 | 2 | 289.19 | +5.43% | +27€ | 221.56 | 379.78 |
 | **V** | 338.27 | 2 | 361.58 | +6.89% | +34€ | 309.61 | 395.59 |
 | **PGR** | 221.31 | 3 | 232.12 | +4.88% | +24€ | 198.81 | 266.31 |
+| **PHIA.AS** | 24.31 | 21 | 24.31 | +0.00% | +0€ | 21.51 | 29.91 |
+| ⏳ YUM | — | — | — | — | — | None | None |
+| ⏳ SHW | — | — | — | — | — | None | None |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € | Esito |
