@@ -152,56 +152,65 @@
     {
       "ticker": "AAPL",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 294.0849914550781,
       "entry_price_ref": 308.63,
       "size_eur": 949.63,
       "atr_entry": 16.25,
-      "initial_sl": 276.13,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 276.13,
+      "initial_sl": 261.585,
+      "max_high_since_entry": 309.4200134277344,
+      "chandelier_stop": 276.9200134277344,
       "setup": "RSI sotto 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
-      "entry_date": null,
+      "entry_date": "2026-07-06",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 308.22,
+      "unrealized_pct": 4.81,
+      "unrealized_eur": 45.64
     },
     {
       "ticker": "MA",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 529.72998046875,
       "entry_price_ref": 539.39,
       "size_eur": 1083.55,
       "atr_entry": 24.89,
-      "initial_sl": 489.61,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 489.61,
+      "initial_sl": 479.95,
+      "max_high_since_entry": 539.6300048828125,
+      "chandelier_stop": 489.8500048828125,
       "setup": "RSI sotto 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
-      "entry_date": null,
+      "entry_date": "2026-07-06",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 539.29,
+      "unrealized_pct": 1.8,
+      "unrealized_eur": 19.55
     },
     {
       "ticker": "YUM",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 161.2899932861328,
       "entry_price_ref": 164.73,
       "size_eur": 1126.74,
       "atr_entry": 7.31,
-      "initial_sl": 150.11,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 150.11,
+      "initial_sl": 146.67,
+      "max_high_since_entry": 164.9499969482422,
+      "chandelier_stop": 150.32999694824218,
       "setup": "RSI sotto 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
-      "entry_date": null,
+      "entry_date": "2026-07-06",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 164.71,
+      "unrealized_pct": 2.12,
+      "unrealized_eur": 23.93
     }
   ],
   "closed": [
@@ -269,5 +278,5 @@
       "unrealized_eur": -46.45
     }
   ],
-  "unrealized_pnl": 192.81
+  "unrealized_pnl": 281.93
 }
