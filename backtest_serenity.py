@@ -198,6 +198,8 @@ def main():
     parser.add_argument("--limit", type=int, default=0, help="max eventi da classificare (0=tutti)")
     parser.add_argument("--offline", action="store_true",
                         help="usa solo la cache stance, nessuna chiamata Groq")
+    parser.add_argument("--max-positions", type=int, default=MAX_POSITIONS,
+                        help="max posizioni contemporanee (0=illimitate)")
     args = parser.parse_args()
 
     # 1. archivio tweet
@@ -252,7 +254,8 @@ def main():
     vix = vix_df["Close"]
 
     # 4. simulazione + report
-    trades = run_backtest(bullish, prices, vix)
+    max_pos = args.max_positions if args.max_positions > 0 else 10**9
+    trades = run_backtest(bullish, prices, vix, max_positions=max_pos)
     m = compute_metrics(trades)
     print("\n=== BACKTEST SERENITY (FASE 1) ===")
     print(f"Trade: {m['n_trades']} | WR: {m['win_rate']:.1f}% | "
