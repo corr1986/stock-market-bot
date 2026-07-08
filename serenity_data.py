@@ -9,6 +9,36 @@ import re
 from datetime import datetime
 
 MENTION_RE = re.compile(r"\$([A-Z]{1,5})\b")
+FRESHNESS_GAP_DAYS = 30
+
+
+def build_fresh_events(tweets, gap_days=FRESHNESS_GAP_DAYS):
+    """Eventi 'ticker fresco': prima menzione assoluta, o ritorno dopo >= gap_days di silenzio.
+
+    Un evento per (ticker, giorno); la menzione NON fresca aggiorna comunque last_seen.
+    Ritorna [{ticker, date, tweet_ids, texts}] ordinato per data.
+    """
+    by_ticker_day = {}
+    for tw in tweets:
+        day = tw["date"].date()
+        for ticker in extract_mentions(tw["text"]):
+            by_ticker_day.setdefault(ticker, {}).setdefault(day, []).append(tw)
+
+    events = []
+    for ticker, days in by_ticker_day.items():
+        prev = None
+        for day in sorted(days):
+            if prev is None or (day - prev).days >= gap_days:
+                tws = days[day]
+                events.append({
+                    "ticker": ticker,
+                    "date": day,
+                    "tweet_ids": [t["id"] for t in tws],
+                    "texts": [t["text"] for t in tws],
+                })
+            prev = day
+    events.sort(key=lambda e: (e["date"], e["ticker"]))
+    return events
 
 
 def load_tweets(path):
