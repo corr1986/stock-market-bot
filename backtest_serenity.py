@@ -155,3 +155,109 @@ def compute_metrics(trades, balance_start=BALANCE_START):
         "return_pct": total / balance_start * 100,
         "max_drawdown_pct": max_dd * 100,
     }
+
+
+def _download_prices(tickers, start, end):
+    """Scarica OHLC daily per ticker via yfinance. Ritorna dict ticker->df (skip mancanti)."""
+    import yfinance as yf
+    prices = {}
+    for t in tickers:
+        try:
+            df = yf.download(t, start=start, end=end, interval="1d",
+                             progress=False, auto_adjust=True)
+            if df is not None and isinstance(df.columns, pd.MultiIndex):
+                df.columns = df.columns.get_level_values(0)
+            if df is not None and len(df) >= ATR_PERIOD + 2:
+                prices[t] = df
+        except Exception as e:
+            print(f"  skip {t}: {e}")
+    return prices
+
+
+def main():
+    import argparse
+    import os
+    import subprocess
+    import tempfile
+    from datetime import timedelta
+
+    import yfinance as yf
+    from groq import Groq
+
+    from config import GROQ_API_KEY
+    from serenity_data import load_tweets, build_fresh_events
+    from serenity_stance import classify_event, load_cache, save_cache
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--tweets", help="path aleabitoreddit_tweets.json (default: clona il repo)")
+    parser.add_argument("--limit", type=int, default=0, help="max eventi da classificare (0=tutti)")
+    args = parser.parse_args()
+
+    # 1. archivio tweet
+    if args.tweets:
+        tweets_path = args.tweets
+    else:
+        tmp = os.path.join(tempfile.gettempdir(), "serenity_repo")
+        if not os.path.exists(tmp):
+            subprocess.run(["git", "clone", "--depth", "1",
+                            "https://github.com/yan-labs/serenity-aleabitoreddit.git", tmp],
+                           check=True)
+        else:
+            subprocess.run(["git", "-C", tmp, "pull"], check=False)
+        tweets_path = os.path.join(tmp, "data", "aleabitoreddit_tweets.json")
+
+    tweets = load_tweets(tweets_path)
+    events = build_fresh_events(tweets)
+    print(f"Tweet: {len(tweets)} | Eventi freshness: {len(events)}")
+    if args.limit:
+        events = events[:args.limit]
+
+    # 2. classificazione stance (cache su disco, resume-safe)
+    client = Groq(api_key=GROQ_API_KEY)
+    cache = load_cache()
+    signals = []
+    for i, e in enumerate(events):
+        stance = classify_event(e, client, cache)
+        if stance:
+            signals.append({"ticker": e["ticker"], "date": e["date"], "stance": stance})
+        if (i + 1) % 25 == 0:
+            save_cache(cache)
+            print(f"  classificati {i + 1}/{len(events)}")
+    save_cache(cache)
+    bullish = [s for s in signals
+               if s["stance"]["stance"] == "bullish"
+               and s["stance"]["conviction"] >= MIN_CONVICTION]
+    print(f"Segnali bullish conviction>={MIN_CONVICTION}: {len(bullish)}")
+    if not bullish:
+        print("Nessun segnale: stop.")
+        return
+
+    # 3. prezzi + VIX
+    start = min(s["date"] for s in bullish) - timedelta(days=60)
+    end = max(t["date"].date() for t in tweets) + timedelta(days=1)
+    tickers = sorted({s["ticker"] for s in bullish})
+    print(f"Download prezzi per {len(tickers)} ticker...")
+    prices = _download_prices(tickers, start, end)
+    print(f"Prezzi disponibili per {len(prices)}/{len(tickers)} ticker")
+    vix_df = yf.download("^VIX", start=start, end=end, interval="1d", progress=False)
+    if isinstance(vix_df.columns, pd.MultiIndex):
+        vix_df.columns = vix_df.columns.get_level_values(0)
+    vix = vix_df["Close"]
+
+    # 4. simulazione + report
+    trades = run_backtest(bullish, prices, vix)
+    m = compute_metrics(trades)
+    print("\n=== BACKTEST SERENITY (FASE 1) ===")
+    print(f"Trade: {m['n_trades']} | WR: {m['win_rate']:.1f}% | "
+          f"PnL: {m['total_pnl_eur']:+.0f} EUR ({m['return_pct']:+.2f}%) | "
+          f"MaxDD: {m['max_drawdown_pct']:.2f}%")
+    still_open = sum(1 for t in trades if t.get("open_at_end"))
+    print(f"Posizioni ancora aperte a fine periodo: {still_open}")
+
+    out = pd.DataFrame(trades)
+    out.to_csv("backtest_serenity_trades.csv", index=False)
+    print("Trade salvati in backtest_serenity_trades.csv")
+
+
+if __name__ == "__main__":
+    main()
