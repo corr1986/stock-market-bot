@@ -165,3 +165,31 @@ def test_simulate_trade_still_open_closes_at_last_close():
 def test_simulate_trade_insufficient_history_returns_none():
     rows = [("2026-02-02", 100, 101, 99, 100)]  # niente storico per ATR
     assert simulate_trade(_df(rows), event_date=date(2026, 2, 1), risk_eur=40.0) is None
+
+
+def test_simulate_trade_whole_shares_only():
+    # entry=333, ATR=2 -> sl_pct=4/333 -> size teorica = 40/(4/333) = 3330 EUR,
+    # cappata a 1500 -> shares = floor(1500/333) = 4 -> size effettiva 1332
+    rows = [(f"2026-01-{d:02d}", 333, 334, 332, 333) for d in range(2, 31)]
+    rows += [
+        ("2026-02-02", 333, 333, 332, 333),
+        ("2026-02-03", 320, 321, 310, 315),  # open 320 < stop 329 -> exit a 320
+    ]
+    trade = simulate_trade(_df(rows), event_date=date(2026, 2, 1), risk_eur=40.0)
+    assert trade["shares"] == 4
+    assert abs(trade["size_eur"] - 4 * 333.0) < 1e-9
+    # pnl = shares * (exit - entry) = 4 * (320 - 333) = -52
+    assert abs(trade["pnl_eur"] - (-52.0)) < 1e-9
+
+
+def test_simulate_trade_minimum_one_share():
+    # una singola azione (2000) costa piu' della size massima (1500):
+    # si compra comunque 1 azione (minimo), size = 2000
+    rows = [(f"2026-01-{d:02d}", 2000, 2010, 1990, 2000) for d in range(2, 31)]
+    rows += [
+        ("2026-02-02", 2000, 2010, 1990, 2000),
+        ("2026-02-03", 2000, 2010, 1990, 2000),
+    ]
+    trade = simulate_trade(_df(rows), event_date=date(2026, 2, 1), risk_eur=40.0)
+    assert trade["shares"] == 1
+    assert abs(trade["size_eur"] - 2000.0) < 1e-9

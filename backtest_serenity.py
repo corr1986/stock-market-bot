@@ -53,7 +53,11 @@ def simulate_trade(df, event_date, risk_eur=RISK_EUR):
 
     entry = float(df.loc[entry_idx, "Open"])
     initial_sl = entry - SL_MULT * atr_entry
-    size_eur = calculate_size(entry, atr_entry, risk_target=risk_eur)
+    # solo azioni intere: size teorica -> floor in unita', minimo 1 azione
+    # (se 1 azione supera la size massima, rischio e size sforano il target)
+    size_target = calculate_size(entry, atr_entry, risk_target=risk_eur)
+    shares = max(1, int(size_target // entry))
+    size_eur = shares * entry
 
     stop = initial_sl
     max_high = entry
@@ -84,8 +88,9 @@ def simulate_trade(df, event_date, risk_eur=RISK_EUR):
         "entry": entry,
         "exit_date": exit_date,
         "exit": exit_price,
+        "shares": shares,
         "size_eur": size_eur,
-        "pnl_eur": pnl_pct * size_eur,
+        "pnl_eur": shares * (exit_price - entry),
         "pnl_pct": pnl_pct * 100,
         "open_at_end": open_at_end,
     }
