@@ -13,9 +13,9 @@
       "atr": 19.63,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 383.35,
-      "unrealized_pct": 0.37,
-      "unrealized_eur": 1.83
+      "current_price": 381.95,
+      "unrealized_pct": 0.0,
+      "unrealized_eur": 0.0
     },
     {
       "id": "A_2026-06-01",
@@ -28,9 +28,9 @@
       "atr": 8.91,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 131.15,
-      "unrealized_pct": -1.76,
-      "unrealized_eur": -8.8
+      "current_price": 133.5,
+      "unrealized_pct": 0.0,
+      "unrealized_eur": 0.0
     },
     {
       "id": "BAC_2026-06-08",
@@ -43,9 +43,9 @@
       "atr": 2.66,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 59.85,
-      "unrealized_pct": 11.42,
-      "unrealized_eur": 57.11
+      "current_price": 53.72,
+      "unrealized_pct": 0.0,
+      "unrealized_eur": 0.0
     },
     {
       "id": "AFL_2026-06-08",
@@ -58,9 +58,9 @@
       "atr": 4.76,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 121.49,
-      "unrealized_pct": 3.55,
-      "unrealized_eur": 17.77
+      "current_price": 117.32,
+      "unrealized_pct": 0.0,
+      "unrealized_eur": 0.0
     },
     {
       "id": "DXCM_2026-06-15",
@@ -73,9 +73,9 @@
       "atr": 5.42,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 73.58,
-      "unrealized_pct": -2.8,
-      "unrealized_eur": -14.0
+      "current_price": 75.7,
+      "unrealized_pct": 0.0,
+      "unrealized_eur": 0.0
     },
     {
       "id": "MMM_2026-06-15",
@@ -208,9 +208,9 @@
       "atr": 1.4,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 24.3,
-      "unrealized_pct": -0.04,
-      "unrealized_eur": -0.21
+      "current_price": 24.27,
+      "unrealized_pct": -0.16,
+      "unrealized_eur": -0.82
     },
     {
       "id": "YUM_2026-07-06",
@@ -287,5 +287,5 @@
       "days_held": 47
     }
   ],
-  "unrealized_pnl": 131.66
+  "unrealized_pnl": 77.14
 }
