@@ -4,7 +4,28 @@ from datetime import date
 
 import pandas as pd
 
-from backtest_serenity import compute_atr, simulate_trade, run_backtest
+from backtest_serenity import compute_atr, simulate_trade, run_backtest, compute_metrics
+
+
+def test_compute_metrics_basic():
+    trades = [
+        {"pnl_eur": 100.0, "exit_date": date(2026, 1, 10)},
+        {"pnl_eur": -40.0, "exit_date": date(2026, 1, 20)},
+        {"pnl_eur": 60.0, "exit_date": date(2026, 2, 1)},
+    ]
+    m = compute_metrics(trades, balance_start=20000.0)
+    assert m["n_trades"] == 3
+    assert abs(m["win_rate"] - (2 / 3 * 100)) < 1e-6
+    assert abs(m["total_pnl_eur"] - 120.0) < 1e-6
+    assert abs(m["return_pct"] - 0.6) < 1e-6
+    # equity 20100 -> 20060 -> 20120; picco 20100, valle 20060
+    assert abs(m["max_drawdown_pct"] - (40.0 / 20100 * 100)) < 1e-6
+
+
+def test_compute_metrics_empty():
+    m = compute_metrics([], balance_start=20000.0)
+    assert m["n_trades"] == 0
+    assert m["win_rate"] == 0.0
 
 
 def _flat_df(start="2026-01-02", days=60, price=100.0):

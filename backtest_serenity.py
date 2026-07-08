@@ -129,3 +129,29 @@ def run_backtest(signals, prices, vix, risk_eur=RISK_EUR, max_positions=MAX_POSI
         trade.update({"ticker": sig["ticker"], "event_date": sig["date"]})
         trades.append(trade)
     return trades
+
+
+def compute_metrics(trades, balance_start=BALANCE_START):
+    """Metriche aggregate sull'equity curve ordinata per data di exit."""
+    if not trades:
+        return {"n_trades": 0, "win_rate": 0.0, "total_pnl_eur": 0.0,
+                "return_pct": 0.0, "max_drawdown_pct": 0.0}
+    ordered = sorted(trades, key=lambda t: t["exit_date"])
+    wins = sum(1 for t in ordered if t["pnl_eur"] > 0)
+    total = sum(t["pnl_eur"] for t in ordered)
+
+    equity = balance_start
+    peak = balance_start
+    max_dd = 0.0
+    for t in ordered:
+        equity += t["pnl_eur"]
+        peak = max(peak, equity)
+        max_dd = max(max_dd, (peak - equity) / peak)
+
+    return {
+        "n_trades": len(ordered),
+        "win_rate": wins / len(ordered) * 100,
+        "total_pnl_eur": total,
+        "return_pct": total / balance_start * 100,
+        "max_drawdown_pct": max_dd * 100,
+    }
