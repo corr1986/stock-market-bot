@@ -61,6 +61,8 @@ def classify_event(event, client, cache):
     key = f"{event['ticker']}:{event['tweet_ids'][0]}"
     if key in cache:
         return cache[key]
+    if client is None:  # modalita' offline: solo cache, nessuna chiamata
+        return None
 
     text_block = "\n---\n".join(event["texts"])[:6000]
     user = f"Ticker: ${event['ticker']}\nTweets:\n{text_block}"

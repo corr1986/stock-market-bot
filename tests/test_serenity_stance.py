@@ -99,6 +99,15 @@ def test_classify_event_api_failure_not_cached(monkeypatch):
     assert "SIVE:123" not in cache
 
 
+def test_classify_event_offline_client_none_uses_cache_only():
+    cache = {"SIVE:123": {"stance": "bullish", "conviction": 4}}
+    assert classify_event(_event(), None, cache) == {"stance": "bullish", "conviction": 4}
+    # evento non in cache: None, nessuna chiamata (client e' None, crashera' se usato)
+    other = {"ticker": "XXXX", "tweet_ids": ["9"], "texts": ["$XXXX"], "date": None}
+    assert classify_event(other, None, cache) is None
+    assert "XXXX:9" not in cache
+
+
 def test_cache_roundtrip(tmp_path):
     path = str(tmp_path / "cache.json")
     save_cache({"K": {"stance": "bullish", "conviction": 4}}, path)

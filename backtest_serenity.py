@@ -196,6 +196,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--tweets", help="path aleabitoreddit_tweets.json (default: clona il repo)")
     parser.add_argument("--limit", type=int, default=0, help="max eventi da classificare (0=tutti)")
+    parser.add_argument("--offline", action="store_true",
+                        help="usa solo la cache stance, nessuna chiamata Groq")
     args = parser.parse_args()
 
     # 1. archivio tweet
@@ -218,7 +220,7 @@ def main():
         events = events[:args.limit]
 
     # 2. classificazione stance (cache su disco, resume-safe)
-    client = Groq(api_key=GROQ_API_KEY)
+    client = None if args.offline else Groq(api_key=GROQ_API_KEY)
     cache = load_cache()
     signals = []
     for i, e in enumerate(events):
