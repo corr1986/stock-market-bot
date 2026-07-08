@@ -82,5 +82,5 @@ def classify_event(event, client, cache):
         except Exception:
             if attempt < MAX_RETRIES - 1:
                 time.sleep(5 * (2 ** attempt))
-    cache[key] = None
+    # errore API persistente (quota, rete): NON cachare, un run futuro riprovera'
     return None

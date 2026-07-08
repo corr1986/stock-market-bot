@@ -89,6 +89,16 @@ def test_classify_event_retries_on_exception(monkeypatch):
     assert client.calls == 2
 
 
+def test_classify_event_api_failure_not_cached(monkeypatch):
+    # quota/errore API persistente: NON cachare, cosi' un run futuro riprova
+    import serenity_stance
+    monkeypatch.setattr(serenity_stance.time, "sleep", lambda s: None)
+    client = FakeClient([RuntimeError("429"), RuntimeError("429"), RuntimeError("429")])
+    cache = {}
+    assert classify_event(_event(), client, cache) is None
+    assert "SIVE:123" not in cache
+
+
 def test_cache_roundtrip(tmp_path):
     path = str(tmp_path / "cache.json")
     save_cache({"K": {"stance": "bullish", "conviction": 4}}, path)
