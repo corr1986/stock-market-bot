@@ -32,6 +32,7 @@
 ## 3. Portafoglio (parametri identici a v3 per confrontabilità)
 
 - Balance virtuale 20.000 EUR, rischio fisso 40 EUR/trade, size dinamica via `position_sizing.calculate_size()`.
+- **Solo azioni intere** (deciso 08/07/2026): `shares = max(1, floor(size_teorica / prezzo))`, size effettiva = shares × prezzo. Il minimo è sempre 1 azione, anche se supera la size massima (rischio sforato accettato).
 - SL iniziale 2×ATR; exit Chandelier (`calculate_chandelier_stop`), no TP fisso.
 - Max 3 posizioni. Stato in `portfolio_serenity.json`.
 - Tracker orario `serenity_tracker.py` sul modello di `tracker_v3.py`.
