@@ -10,7 +10,12 @@ nel regime cautious.
 """
 import pandas as pd
 
-from position_sizing import calculate_size, calculate_chandelier_stop, SL_MULT
+from position_sizing import (
+    calculate_size,
+    calculate_chandelier_stop,
+    get_regime_config,
+    SL_MULT,
+)
 
 RISK_EUR = 40.0
 BALANCE_START = 20000.0
@@ -84,3 +89,43 @@ def simulate_trade(df, event_date, risk_eur=RISK_EUR):
         "pnl_pct": pnl_pct * 100,
         "open_at_end": open_at_end,
     }
+
+
+def _vix_at(vix, day):
+    """Ultimo valore VIX disponibile <= day (None se nessuno)."""
+    subset = vix[vix.index.date <= day]
+    return float(subset.iloc[-1]) if len(subset) else None
+
+
+def run_backtest(signals, prices, vix, risk_eur=RISK_EUR, max_positions=MAX_POSITIONS):
+    """Simula tutti i segnali in ordine cronologico rispettando la concorrenza.
+
+    signals: [{ticker, date, stance: {stance, conviction}}]
+    prices: dict ticker -> DataFrame OHLC giornaliero
+    vix: Series di chiusure ^VIX
+    Ritorna lista trade (dict di simulate_trade + ticker/event_date).
+    """
+    open_until = []  # exit_date dei trade aperti
+    trades = []
+    for sig in sorted(signals, key=lambda s: s["date"]):
+        stance = sig.get("stance") or {}
+        if stance.get("stance") != "bullish" or stance.get("conviction", 0) < MIN_CONVICTION:
+            continue
+        df = prices.get(sig["ticker"])
+        if df is None or df.empty:
+            continue
+        v = _vix_at(vix, sig["date"])
+        if v is None or not get_regime_config(v)["allow_entry"]:
+            continue
+
+        trade = simulate_trade(df, sig["date"], risk_eur=risk_eur)
+        if trade is None:
+            continue
+        # concorrenza: conta i trade ancora aperti alla data di entry
+        open_until = [d for d in open_until if d >= trade["entry_date"]]
+        if len(open_until) >= max_positions:
+            continue
+        open_until.append(trade["exit_date"])
+        trade.update({"ticker": sig["ticker"], "event_date": sig["date"]})
+        trades.append(trade)
+    return trades

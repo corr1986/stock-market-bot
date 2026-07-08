@@ -4,7 +4,67 @@ from datetime import date
 
 import pandas as pd
 
-from backtest_serenity import compute_atr, simulate_trade
+from backtest_serenity import compute_atr, simulate_trade, run_backtest
+
+
+def _flat_df(start="2026-01-02", days=60, price=100.0):
+    idx = pd.bdate_range(start, periods=days)
+    return pd.DataFrame(
+        {"Open": price, "High": price + 1, "Low": price - 1, "Close": price},
+        index=idx,
+    )
+
+
+def _sig(ticker, d):
+    return {"ticker": ticker, "date": d,
+            "stance": {"stance": "bullish", "conviction": 5}}
+
+
+def test_run_backtest_respects_max_positions():
+    # 4 segnali lo stesso giorno, prezzi piatti (nessuna exit) -> solo 3 trade
+    prices = {t: _flat_df() for t in ["AAA", "BBB", "CCC", "DDD"]}
+    vix = pd.Series(15.0, index=_flat_df().index)
+    signals = [_sig(t, date(2026, 2, 2)) for t in ["AAA", "BBB", "CCC", "DDD"]]
+    trades = run_backtest(signals, prices, vix)
+    assert len(trades) == 3
+
+
+def test_run_backtest_vix_blocks_entry():
+    prices = {"AAA": _flat_df()}
+    idx = _flat_df().index
+    vix = pd.Series(35.0, index=idx)  # risk-off
+    trades = run_backtest([_sig("AAA", date(2026, 2, 2))], prices, vix)
+    assert trades == []
+
+
+def test_run_backtest_skips_low_conviction_and_non_bullish():
+    prices = {"AAA": _flat_df(), "BBB": _flat_df()}
+    vix = pd.Series(15.0, index=_flat_df().index)
+    signals = [
+        {"ticker": "AAA", "date": date(2026, 2, 2),
+         "stance": {"stance": "bullish", "conviction": 3}},
+        {"ticker": "BBB", "date": date(2026, 2, 2),
+         "stance": {"stance": "bearish", "conviction": 5}},
+    ]
+    assert run_backtest(signals, prices, vix) == []
+
+
+def test_run_backtest_missing_prices_skipped():
+    vix = pd.Series(15.0, index=_flat_df().index)
+    assert run_backtest([_sig("ZZZ", date(2026, 2, 2))], {}, vix) == []
+
+
+def test_run_backtest_frees_slot_after_exit():
+    # AAA esce subito (crollo), un quarto segnale piu' tardi trova posto
+    crash = _flat_df().copy()
+    crash_day = crash.index[25]
+    crash.loc[crash_day, ["Open", "High", "Low", "Close"]] = [80, 82, 78, 80]
+    prices = {"AAA": crash, "BBB": _flat_df(), "CCC": _flat_df(), "DDD": _flat_df()}
+    vix = pd.Series(15.0, index=_flat_df().index)
+    signals = [_sig(t, date(2026, 2, 2)) for t in ["AAA", "BBB", "CCC"]]
+    signals.append(_sig("DDD", date(2026, 3, 20)))  # dopo l'exit di AAA
+    trades = run_backtest(signals, prices, vix)
+    assert len(trades) == 4
 
 
 def _df(rows):
