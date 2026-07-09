@@ -1,16 +1,16 @@
 # Portfolio V3 — Stock Market Bot
-*Aggiornato: 09/07/2026 12:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
+*Aggiornato: 09/07/2026 13:14 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
 *[portfolio_v3.json](portfolio_v3.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
 |---|---|---|---|---|---|
-| 19,791€ | +274€ | 20,065€ | -209€ | 3 (0W/3L) | 0% |
+| 19,791€ | +276€ | 20,067€ | -209€ | 3 (0W/3L) | 0% |
 
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | Chandelier |
 |---|---|---|---|---|---|---|---|
-| **ADS.DE** | 167.4 | 5 | 179.50 | +7.23% | +53€ | 144.82 | 166.22000305175783 |
+| **ADS.DE** | 167.4 | 5 | 179.90 | +7.47% | +55€ | 144.82 | 166.22000305175783 |
 | **SBUX** | 102.77999877929688 | 8 | 103.90 | +1.09% | +9€ | 90.0 | 92.97 |
 | **NVDA** | 207.27499389648438 | 4 | 204.15 | -1.51% | -10€ | 176.735 | 183.45000549316407 |
 | **AVGO** | 409.0199890136719 | 2 | 388.67 | -4.98% | -27€ | 334.1 | 339.63999755859373 |
