@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 232.73,
-      "unrealized_pct": 6.51,
-      "unrealized_eur": 64.94
+      "current_price": 232.64,
+      "unrealized_pct": 6.47,
+      "unrealized_eur": 64.52
     },
     {
       "ticker": "IBM",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 301.92,
-      "unrealized_pct": 16.6,
-      "unrealized_eur": 85.49
+      "current_price": 301.87,
+      "unrealized_pct": 16.58,
+      "unrealized_eur": 85.39
     },
     {
       "ticker": "AAPL",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 519.88,
-      "unrealized_pct": -1.86,
-      "unrealized_eur": -20.16
+      "current_price": 519.97,
+      "unrealized_pct": -1.84,
+      "unrealized_eur": -19.96
     },
     {
       "ticker": "YUM",
@@ -278,5 +278,5 @@
       "unrealized_eur": -46.45
     }
   ],
-  "unrealized_pnl": 276.45
+  "unrealized_pnl": 276.13
 }
