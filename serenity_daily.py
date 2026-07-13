@@ -72,6 +72,12 @@ def fetch_ref_and_atr(ticker):
 
 
 def main():
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--dry-run", action="store_true",
+                    help="mostra i segnali senza salvare portfolio/notificare")
+    args = ap.parse_args()
+
     pf = load_portfolio()
     tweets_path = ensure_repo()
     events = build_fresh_events(load_tweets(tweets_path))
@@ -109,6 +115,14 @@ def main():
         pf["open"].append(pos)
         open_tickers.add(sig["ticker"])
         new_pending.append(pos)
+
+    if args.dry_run:
+        print(f"\n[DRY-RUN] since={since} | segnali bullish: {len(signals)} "
+              f"({[s['ticker'] for s in signals]})")
+        print(f"[DRY-RUN] entrerebbe in: "
+              f"{[(p['ticker'], p['shares'], round(p['entry_ref'],2)) for p in new_pending]}")
+        print("[DRY-RUN] nessun salvataggio, nessuna notifica.")
+        return
 
     # 3. avanza la data processata
     if signals:
