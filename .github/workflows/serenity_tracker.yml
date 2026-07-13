@@ -1,9 +1,11 @@
 name: Serenity Hourly Tracker
 
 on:
-  # Trigger esclusivo via cron-job.org (workflow_dispatch).
-  # Consigliato: ogni ora nelle sedute USA (~13:40-20:40 UTC Lun-Ven),
-  # minuti sfasati rispetto agli altri tracker per evitare push simultanei.
+  # Scheduler nativo GitHub Actions: ogni ora nelle sedute USA, minuto :35
+  # (sfasato da v1 :00 / v3 :10 / insider :20 per evitare push simultanei).
+  # 14:35-21:35 UTC copre la seduta USA (14:30-21:00 UTC in ora legale).
+  schedule:
+    - cron: '35 14-21 * * 1-5'
   workflow_dispatch:
 
 jobs:

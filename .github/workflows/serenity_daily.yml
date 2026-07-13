@@ -1,8 +1,10 @@
 name: Serenity Daily Signals
 
 on:
-  # Trigger esclusivo via cron-job.org (workflow_dispatch), come gli altri bot.
-  # Consigliato: 1x/giorno pre-apertura USA (~13:00 UTC Lun-Ven).
+  # Scheduler nativo GitHub Actions: 1x/giorno pre-apertura USA (13:15 UTC Lun-Ven).
+  # (cron-job.org non usato per Serenity; workflow_dispatch resta per run manuali.)
+  schedule:
+    - cron: '15 13 * * 1-5'
   workflow_dispatch:
 
 jobs:

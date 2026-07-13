@@ -76,6 +76,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true",
                     help="mostra i segnali senza salvare portfolio/notificare")
+    ap.add_argument("--lookback", type=int, default=LOOKBACK_DAYS,
+                    help="giorni indietro da cui raccogliere segnali (cold-start: usa di piu')")
     args = ap.parse_args()
 
     pf = load_portfolio()
@@ -83,7 +85,7 @@ def main():
     events = build_fresh_events(load_tweets(tweets_path))
 
     # 1. classifica i nuovi eventi (solo quelli recenti, per non riempire di storico)
-    since = date.today() - timedelta(days=LOOKBACK_DAYS)
+    since = date.today() - timedelta(days=args.lookback)
     if pf.get("last_signal_date"):
         since = min(since, date.fromisoformat(pf["last_signal_date"]) + timedelta(days=1))
     from groq import Groq
