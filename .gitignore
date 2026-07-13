@@ -26,5 +26,6 @@ Insider Project/
 # Log e temporanei
 *.log
 *.tmp
-serenity_stance_cache.json
 serenity_classify.log
+# NB: serenity_stance_cache.json È versionato di proposito — il bot live
+# ci si basa per non riclassificare tutto lo storico a ogni run di Actions.

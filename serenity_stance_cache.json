@@ -1,0 +1,4094 @@
+{
+ "BTC:1940482346006073582": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "BULL:1940462531740578167": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "COIN:1940464309450199197": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "ETORO:1940462531740578167": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "HOOD:1940462531740578167": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "IBIT:1940482346006073582": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MARA:1940464309450199197": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "MSTR:1940464309450199197": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "OSCR:1940510479295934762": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "UPWK:1940361849985458270": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "BKKT:1940696557151781335": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "BKSY:1940696557151781335": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "CRCL:1940695147920216177": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "GME:1940711432397684953": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GOOGL:1940711432397684953": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "PL:1940698335398318450": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "RDW:1940698335398318450": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "RKLB:1940698335398318450": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SG:1940711432397684953": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SRPT:1940711432397684953": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "TSSI:1940696557151781335": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "UNH:1940711432397684953": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "HIMS:1942222651151548657": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ALAB:1947207626930225347": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "CRDO:1947298901108957475": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "CREDO:1947208910605275294": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "CRWV:1947298901108957475": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NBIS:1947298901108957475": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DNUT:1947897807115063386": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "KSS:1947897807115063386": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "OPEN:1947901801203961876": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "RKT:1947897807115063386": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AMZN:1949746557253030018": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "APPL:1949746557253030018": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DJT:1949746559912132787": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "META:1949746557253030018": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MSFT:1949746557253030018": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NVDA:1949746557253030018": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "PLTR:1949769736562319514": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "SPOT:1949746557253030018": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "KSPI:1950838489257480592": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "SOFI:1950838489257480592": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CRCL:1959211074357723498": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "CRWV:1959211074357723498": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "DUOL:1959211074357723498": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "ETOR:1959211074357723498": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "NVO:1959207473812050156": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SG:1959211074357723498": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SNAP:1959211074357723498": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "UNH:1959207473812050156": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "COIN:1960080191876702263": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "IONQ:1960075780383498312": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "MRVL:1960080191876702263": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "MSTR:1960080191876702263": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "OKLO:1960075780383498312": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "TSLA:1960080191876702263": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "BKKT:1961992261816004834": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BMBL:1961992261816004834": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CREDO:1961992261816004834": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DJT:1961992261816004834": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "IREN:1962015302121848955": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "RKLB:1961992261816004834": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "TSSI:1961992261816004834": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CIFR:1963203275005858261": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "CLSK:1963203275005858261": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "HUT:1963203275005858261": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "MARA:1963203275005858261": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "NBIS:1963203275005858261": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "RIOT:1963203275005858261": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "WULF:1963340844188275072": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "BULL:1964085082194579609": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ALAB:1965084810982064626": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "APP:1965084810982064626": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "WYFI:1965104785255985546": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "AVGO:1965451719078527468": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SMCI:1965282462743101843": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "TSM:1965290061714600032": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AMC:1965763491329093943": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "APPL:1965807638832468462": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ASTS:1965763491329093943": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GME:1965763491329093943": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "MSFT:1965763491329093943": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "ORCL:1965777858988761382": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AMD:1966185091467718795": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AMZN:1966185091467718795": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CRDO:1966171568968708422": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LTC:1966171568968708422": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "OPEN:1966512870251749588": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SOL:1966328160905289766": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "XRP:1966328160905289766": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "BMNR:1967304693803323417": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "ETH:1967200142525956510": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LULU:1967298258671489326": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "OSCR:1967200142525956510": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "QBTS:1967220652563439808": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "RDDT:1967200142525956510": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "RUM:1967414161597755466": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BTBT:1968051910663118861": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "BTC:1968054549245296871": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "DAVE:1968051910663118861": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "DELL:1968051910663118861": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "DLO:1968051910663118861": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "IBKR:1968026564081459688": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "APLD:1968426222578442740": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BITF:1968431919105966479": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CEG:1968453391115321708": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "MP:1968431919105966479": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "MVST:1968426222578442740": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "NAKA:1968431919105966479": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "NFE:1968453391115321708": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NVTS:1968426222578442740": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ONDS:1968426222578442740": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "REMX:1968431919105966479": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "UURAF:1968431919105966479": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "VST:1968453391115321708": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ABAT:1968741326607753348": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "GRRR:1968778093427921174": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "HAIN:1968805096503836814": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "PLMR:1968808809322742219": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "TGT:1968726977801605248": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GAP:1970224716322611675": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "HPP:1970267588988219546": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "Z:1970267588988219546": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "FNMA:1970591203994513567": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "INTC:1970591203994513567": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "LAC:1970591203994513567": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "META:1970559386050605381": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "XUSS:1970591203994513567": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "GRAB:1970989606490542590": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "FIG:1971257823913967805": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "MU:1971249833240666314": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "NVO:1971237504084004878": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "QQQ:1971257823913967805": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "CRM:1971625314490241415": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "IRRN:1971635427347181996": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "NUAI:1971431871079932207": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "TEM:1971476008235942000": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "AAL:1972000439744057525": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "GLXY:1972025960951435702": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "PYPL:1971988945673375791": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "SLNH:1972016308662513748": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "HIVE:1972150087817351182": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "RIVN:1972430526951883184": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "GPUS:1972779161279496271": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "IONQ:1972769926302855553": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "SOFI:1972769926302855553": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "VIRT:1972703562263306387": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "PATH:1973104978060517636": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "RR:1972919111987671265": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DOCN:1973831319101845660": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "KSPI:1973827931681312801": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "RGTI:1974201487598498114": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "SNAP:1974231837083107517": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "VIX:1974192651500204264": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "JOBY:1974570974361358400": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "ASML:1975327662903337144": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "EOSE:1975327662903337144": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SPRB:1975294794370064468": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "FLNC:1975376488645169406": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SEI:1975376488645169406": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "DFLI:1975956913402921067": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "DJT:1976006587765395592": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "DLFI:1976033094932234314": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "FLY:1975956589225111844": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "LUNR:1975963249427546421": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "QS:1975956913402921067": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "WLAC:1976001305866080372": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "CDNS:1976771236215808119": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "DKNG:1976710335433523330": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NKE:1976771236215808119": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "QLCM:1976771236215808119": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "SPY:1976673663509508249": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BKSY:1977079938835718513": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "ELOSE:1977079938835718513": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "PL:1977079938835718513": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "QUBT:1977079938835718513": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "RBRK:1977079938835718513": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CRWD:1977764021815415233": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "NET:1977764021815415233": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "BE:1978365814941384882": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BZAI:1978365814941384882": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "NKLR:1978365814941384882": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SEA:1978365814941384882": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SMR:1978434143043084737": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "AMSL:1978965161995309375": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GLD:1978955578652398061": {
+  "stance": "bullish",
+  "conviction": 1
+ },
+ "GOGL:1978955578652398061": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "NOC:1979690889527345495": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "OPAD:1979685872800010548": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "UAMY:1979693975348076683": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "AMKR:1979976235825635419": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BLSKY:1979976235825635419": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "NMAX:1979743457745969321": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "TE:1980059480894431249": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LAC:1981283182650736900": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "LITE:1981968303271592379": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CLSK:1982931539836187074": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "BYND:1983143090886951243": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ABAT:1983589396545990988": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "API:1983549684317815177": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "APLD:1983549684317815177": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CCCX:1983399179759300943": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "CLS:1983399179759300943": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "DGXX:1983399179759300943": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "DLO:1983399179759300943": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DRFT:1983399179759300943": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "FI:1983524967313821924": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "INTC:1983468811027357812": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "KRKNF:1983399179759300943": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "KTOS:1983399179759300943": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "LGN:1983589396545990988": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "NNE:1983549684317815177": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ONDS:1983399179759300943": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DAVE:1983953927390556171": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "DBRG:1983874852961579439": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "DNN:1984035562303713789": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "FIX:1983872296675844478": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "MQ:1983953927390556171": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "NUAI:1983888553026441260": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "WKEY:1983961820353458504": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "CVAT:1984117916779082104": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CORZ:1985012866538467477": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "WEN:1985035553507782921": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MINT:1985175534133993567": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "TSLA:1985175534133993567": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "APPL:1985737806896120261": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "HXSCL:1985770241532838347": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DUOL:1985913297665998934": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "FISV:1990832317766738346": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "X:1994033842219569324": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "AEO:1995972359032107404": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "HUT:2001265461963694140": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AXTI:2003040048930074770": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LMND:2006754865351966806": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "FIG:2006970261288137153": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "DPZ:2007382889911201983": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "IBKR:2007682243276443931": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "CIEN:2008504206475616633": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "INV:2010416426964992319": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SOUN:2011337908117258489": {
+  "stance": "neutral",
+  "conviction": 3
+ },
+ "DPRO:2012078220603191472": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "LEU:2012969495384764662": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LVMH:2012976046136774864": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "SYK:2012885690007310390": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GLD:2013379570993352816": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ARM:2014354847202681059": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "APH:2014832912987038078": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "EOPSF:2015119903200797074": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "AREC:2015811012172321218": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "REMX:2015953304803803269": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ASML:2018567746846601627": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "APP:2020708815646449887": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "AUR:2020944111654797382": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "QCOM:2021816017136366017": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "PSTG:2022929608275038510": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "RPBPF:2023707434137850006": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "VVST:2024563428220940628": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DELL:2025279186244681945": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BMBL:2027400128529924167": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "GLD:2027798505738445152": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "TSE:2028405114076328344": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "AMC:2029537397365686308": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "HII:2031457195091759114": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ALM:2031573612113912068": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LRCX:2032586030059237713": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "QLCM:2033665621356122611": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "WLAC:2033722672035860824": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "LG:2035897562025410927": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "APO:2036280113298546865": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SATL:2036329557444403424": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "VCX:2036758583489249781": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "GLNG:2037947862626205883": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LPK:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SOFI:2040443528573251638": {
+  "stance": "neutral",
+  "conviction": 3
+ },
+ "ALRIB:2041929392331616431": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "CRM:2044534220874518942": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "SHMD:2046175318109827319": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "AOSL:2047021963391238380": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "AMAT:2047185481285439665": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CMG:2048824360639836304": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "JPM:2049905588197568560": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "FISV:2052974730429501586": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "KITT:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SWGAY:2054056239349539206": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "DELL:2055935227525272019": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "WOLF:2058577885754163382": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "FIG:2060578117320904884": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "CRWV:2061480648561541175": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "ALAB:2069246038935065076": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "KOSPI:2069271973402931511": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AEVA:2070793664599863682": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "HIMX:2073079326862672205": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "AMD:2074494514061017508": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SOL:1985770241532838347": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "CAVA:1985885989219512580": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "CMG:1985885989219512580": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "KRUS:1985885989219512580": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "OSS:1985989016219508993": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "QBUT:1986883096692830292": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "ZEC:1987659186923262350": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "PYPL:1988683442918420781": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "AWS:1989331881641541871": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "TSSI:1989416469365727234": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "ACN:1990452960758042917": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "SHOP:1990452960758042917": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "GOOG:1990832317766738346": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "NET:1990790641056731439": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ALPD:1991212880424063060": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "S:1991212880424063060": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "XRP:1991153403146477648": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "COIN:1991452423186182524": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NVT:1991506376342843438": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "USDT:1991510988869496851": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "VRT:1991506376342843438": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DGDX:1992181846134968633": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "HIVE:1992181846134968633": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "QQQ:1992690481323757672": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "FTX:1992984440960921604": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "UBER:1992984440960921604": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "AVGO:1993283099162189962": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "GM:1993335570978967802": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "AMKR:1995559972525294001": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "LYFT:1996228410109251981": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "NOW:1997034977524121633": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "IONQ:1998846813177262295": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "NFLX:1998846813177262295": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "OSS:1998846813177262295": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "WMT:1998846813177262295": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "AAOI:1999240464420250042": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "MRVL:1999242313735016715": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "POET:1999242313735016715": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "EOSE:2000354823435420024": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "FRMI:2000354823435420024": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "LGN:2000354823435420024": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "RMBS:2000354823435420024": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SEI:2000354823435420024": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SOFI:2000208395832602786": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DJT:2001953935171670117": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "DUOL:2002121514762842312": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "USDC:2002662735948226807": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "BYD:2002985501293428827": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "JPM:2003107631180001334": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "XPEV:2002985501293428827": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "SIVE:2003604861414408240": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SMTOY:2004569946492453003": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DOWA:2005317480424829202": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "TPU:2005532674975539513": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "IQEPF:2005945821989368245": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "PINS:2006447840072183848": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "AKAM:2006709693012467774": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ASOZF:2006709693012467774": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BOA:2006709693012467774": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "CRWD:2006709693012467774": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CSCO:2006709693012467774": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "INTC:2006709693012467774": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "PATH:2006709693012467774": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "PYPL:2006709693012467774": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "RR:2006779022509031445": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "SHMD:2006748273760153734": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "V:2006709693012467774": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "XRP:2006709693012467774": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AIRO:2007071108831338685": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AVAV:2007113531158908939": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BULL:2007071108831338685": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "DELL:2007099013913616665": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ETOR:2007071108831338685": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MVRL:2007084099174047817": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "MVZ:2007472856574373893": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SKYT:2007133630154584128": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SU:2007472856574373893": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CXV:2008011715263476012": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AVA:2009042732535435526": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "KTOS:2010579253444927876": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "DDOG:2011719615819497520": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LINK:2012133261653483693": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "VGP:2012294901694681525": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "CODA:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "CPSH:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "CVV:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "ESE:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "FEIM:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GSM:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "HALEU:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "INTT:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "IQE:2012957864026087525": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "KULR:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "LPKFF:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "MKSI:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "NTI:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ZBH:2012885690007310390": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "IBIT:2013651017171083560": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ACLS:2014368177682292774": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "ADEA:2014368177682292774": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "CAMT:2014371829595746762": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "FORM:2014368177682292774": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "KLAC:2014368177682292774": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "MRAM:2014371668437950742": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "NVMI:2014372900200124922": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BABA:2014672331092926620": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "OPTT:2015144783321469360": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "NB:2015813438216548835": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "ASPI:2016590495968055600": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "KORU:2018508722071617603": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "NFLX:2020757990039802293": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "SILC:2020944111654797382": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CSCO:2022972885414072730": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SIMO:2022966933637996825": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "NOK:2024060516394815585": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "TEM:2024731465595179281": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "EOSE:2027423754134126900": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "GRID:2028098602661511548": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LUNR:2029270954715824141": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NORBT:2031457195091759114": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "AIXA:2032582703149887843": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "ACMR:2033538523081666708": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "AXIA:2034341146533798036": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "SONY:2035892086181155327": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "BKSY:2036329557444403424": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "FPLSF:2036740775955075344": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "TTD:2036778272101695958": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "QCOM:2038234228618654126": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "QURE:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BYND:2040674046405419148": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "WIX:2041729528285032797": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "IONQ:2044548741903094171": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "VICR:2046636771946205370": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "KLAC:2047185481285439665": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SIMO:2049564617215795571": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ASGLY:2053377238532329611": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "KDK:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "UHR:2054056239349539206": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "VCX:2056000392090296524": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "LASR:2058968617681899915": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SNAP:2060867103562084835": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "ETHA:2062356877430902817": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "DRAM:2069445918114697463": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "RR:2070796064698044849": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "TER:2072760446617280650": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "WULF:2074109998544846954": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SNDK:1993283099162189962": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "STX:1993283099162189962": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "VST:1993283099162189962": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ANET:1995543748353347989": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "COHR:1995543748353347989": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "JBL:1995559972525294001": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LITE:1995543748353347989": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "MOD:1995543748353347989": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "MPWR:1995543748353347989": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "TTMI:1995543748353347989": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "PL:1995865990341496999": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "TTD:1996581986472022087": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ASML:1996964360087031854": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "FISV:2007071108831338685": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GEMI:2007071108831338685": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "QBTS:2007071108831338685": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "SKC:2007084099174047817": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SOL:2007100073252098393": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "WYFI:2007073654979326364": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "AMTB:2007472856574373893": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "ASHM:2007472856574373893": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "BA:2007387427820978510": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CF:2007387427820978510": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CVE:2007387427820978510": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CVX:2007472856574373893": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ENR:2007472856574373893": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "GHM:2007472856574373893": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "HII:2007387427820978510": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "HLI:2007489901877436756": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "HON:2007387427820978510": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LMT:2007658287559573926": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "OUST:2008711844983435291": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SIDU:2010923038070427796": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "MOG:2011874634418045268": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "MOD:2012133261653483693": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "NVO:2012976046136774864": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "CRML:2013379570993352816": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "FCX:2014832912987038078": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "VELO:2014819163827798511": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "AMAT:2015164232795627975": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ASX:2015164232795627975": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BESI:2015164232795627975": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "COIN:2015096496019112151": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "COPX:2015096496019112151": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ENTG:2015164232795627975": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "IONQ:2015096496019112151": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "LIT:2015096496019112151": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "UAMY:2015120952485625909": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "WLAC:2015131553329013156": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BBW:2015506107075264735": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "EWY:2015549311732658520": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "FLKR:2015549311732658520": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AA:2015805598265479518": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "ALM:2015805598265479518": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "LAC:2015805598265479518": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SYAAF:2015805598265479518": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "TECK:2015805598265479518": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "USAR:2015805598265479518": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "BAER:2016189440679674221": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "CBT:2016129326824227195": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "FEAM:2016129326824227195": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "MTL:2016129326824227195": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SOLV:2016129326824227195": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "UNH:2016164601789050918": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "BWXT:2016588696133468422": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "BSOL:2017283903913136486": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "LTCC:2017262857017258345": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SOLZ:2017262857017258345": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "KRE:2017439237294211221": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MCB:2017439237294211221": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BOA:2017919446296437037": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BRK:2018103859647037824": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "EZU:2017919446296437037": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "JPM:2017919446296437037": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "RUT:2017919446296437037": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "VGK:2017919446296437037": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "JD:2018185060353278016": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "MELI:2018185060353278016": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "QBTS:2018185060353278016": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "RGTI:2018185060353278016": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "WIX:2018512904803529023": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "GLW:2019189420268875806": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "VRT:2019181182026686661": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "VSH:2019678861156577317": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "BESIY:2020088575203721520": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "EDP:2020033017880698920": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ETN:2020088575203721520": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "GEV:2020033017880698920": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "IFNNY:2020088575203721520": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "MPWR:2020088575203721520": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "NVT:2020088575203721520": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ON:2020088575203721520": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "PWR:2020033017880698920": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "QLCM:2020088575203721520": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "QQQ:2020258804953411966": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "SBGSY:2020088575203721520": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "STM:2020131529389928947": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "VIX:2020258804953411966": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "AEVA:2020926882624176300": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SPOT:2020757990039802293": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "U:2020926882624176300": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ACMR:2021599607294484734": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "TSEM:2021420335699198329": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "DNKG:2022107598821187815": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "PINS:2022107598821187815": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "BE:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BEPC:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CEG:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "D:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "FLNC:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "FSLR:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "KMI:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NEE:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NRG:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "NRGV:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "STX:2022927747795087572": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "TE:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "WDC:2022927747795087572": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "S:2023923131459723342": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CRWD:2025142428177760459": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "MTCH:2027400128529924167": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ESLT:2028461742783893827": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BKKT:2029555508060074352": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "OII:2031467306971443643": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ADBE:2032287950403485764": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "OCHR:2034338587098194001": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "UURAF:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "UUUU:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "VNP:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ACLS:2036264013370368378": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "TGT:2010438037193601400": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SPY:2011839534414074226": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "OPTX:2012858483570336236": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "DUOL:2013956280193597529": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ASST:2023675057915260944": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "XLE:2024323887375466880": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "FRO:2027637911097839997": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "LNG:2029108380586201538": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "MA:2034559475533910175": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "DPRO:2037030031223119946": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "NKE:2039253630222827794": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "WDC:2039894556871913726": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SMH:2041740090691698750": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "QBTS:2044548741903094171": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ASMC:2047021810550763603": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "LRCX:2047185481285439665": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "DSCSY:2053377238532329611": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "MBLY:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BULL:2055068788975157672": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "TE:2057132829583274036": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "PL:2058968617681899915": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SPCE:2060806434963763294": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "KORU:2069445918114697463": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "WEN:2069633445903675865": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CCXI:2071995924172394695": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MSFT:2073307016760791512": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "LAZ:2007489901877436756": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "LDOS:2007387427820978510": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "LHX:2007387427820978510": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "PSX:2007489901877436756": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ZETA:2008155137018155478": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "VVX:2011056303943401505": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "VICR:2011874634418045268": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "PLSR:2012965528281993367": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "SLV:2013379570993352816": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SCCO:2014832912987038078": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "RVI:2023944611765592084": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "AIPO:2025846946313986120": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "STNG:2027637911097839997": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ULBI:2010660608660959717": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "UUUU:2013136961981358354": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "TEL:2014832912987038078": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "TWLO:2023923131459723342": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "UTES:2025846946313986120": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ATOM:2030311264103420133": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ACHR:2032640028502012293": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AA:2037933841802014891": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "DRAM:2039894556871913726": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ASE:2040842953883840770": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "INTU:2043328386341454108": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "MXL:2047417154564481097": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CBRS:2055067155990012017": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "SPCX:2058968617681899915": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "CRM:2060578117320904884": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "BESI:2062169440444444887": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SOXL:2069445918114697463": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "GM:2071532870859149617": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AAPL:2074416685843612031": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "RTX:2007387427820978510": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "TRGP:2007482618405945681": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "VLO:2007387427820978510": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "COP:2007649811621880238": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "GDRZF:2007758407948788162": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "GRZ:2007649811621880238": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "OI:2007649811621880238": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "RMLFF:2007649811621880238": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "TDW:2007649811621880238": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "XOM:2007649811621880238": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BKR:2008352067765837942": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "HAL:2008352067765837942": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MPC:2008352067765837942": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "UMAC:2009277084875538708": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "VLN:2009637599661510665": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "LSCC:2010016015330291787": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "MTSI:2010016015330291787": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "AXT:2010667066202702177": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "NOC:2011029875361218700": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ALMU:2011335633445286396": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "APPL:2011353420649623561": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LPTH:2011389274860523548": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "RCAT:2011333482144731617": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "UAVS:2011389862793171342": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "AMBA:2011874634418045268": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "NODE:2011834016409010283": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "SSYS:2011874634418045268": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "SYSS:2011913703294181842": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ADBE:2012239990923858417": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "AEHR:2012071822481900030": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ALGM:2012071822481900030": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CRM:2012239990923858417": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "MP:2012071822481900030": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "NOVT:2012071822481900030": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "PDYN:2012078220603191472": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "RRX:2012071822481900030": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "TKR:2012071822481900030": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "APLD:2012323115645477076": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "ATI:2012462671019561407": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "CORZ:2012562412457562304": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "RIOT:2012562412457562304": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "MTRN:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "OPXS:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "PDFS:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "PESI:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "PKE:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "PLAB:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "RDW:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "RELL:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "TAYD:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "TDY:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "VNP:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "VREX:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "WOLF:2012957864026087525": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GFS:2013376770121105710": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SKY:2013527028318846987": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "VLH:2013668604022083930": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "VPG:2013664829282599094": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "BKKT:2013947011490615486": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "ONTO:2014368177682292774": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "RMBS:2014354847202681059": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "SMTC:2014368177682292774": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "TER:2014368177682292774": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "VECO:2014368177682292774": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ANET:2014505817509355841": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "LASR:2014826579625738691": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "NBCLF:2014505817509355841": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "TTMI:2014768672452313419": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "UBER:2014747892305870906": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "TLN:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "VST:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "WMB:2023061769313542601": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "EBAY:2023323844346618010": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "NTAP:2023323844346618010": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "RPI:2023414518333001807": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AAPL:2023689059319902396": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ALAB:2023600495353622546": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "INFQ:2024135345542242531": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "COST:2024324583143428416": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "CVX:2024322169376035019": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GME:2024408036203516182": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ITA:2024322169376035019": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "JBSS:2024322169376035019": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "WTI:2024323887375466880": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "XLS:2024322169376035019": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "XLU:2024556607762550943": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "QS:2024774175890756062": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "KLIC:2026341976942195152": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "FN:2026638711941902461": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "IQE:2026627698165166145": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MTSI:2026638711941902461": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "EWJ:2027106275881079067": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CHGG:2027393372953174177": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "KOSPI:2027184821173416261": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "NET:2027393372953174177": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "V:2027393372953174177": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "VECO:2027480850397573567": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "XYZ:2027393372953174177": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AIXXF:2027830093247300016": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "LMT:2027637911097839997": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "RTX:2027637911097839997": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "XOM:2027637911097839997": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "SLOIF:2028203665430057068": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "UBER:2028112194949513586": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DRS:2028455727996752242": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "PL:2028532170114170991": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "UPWK:2028524822570102812": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "VELO:2029271611501887925": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BULL:2029683145491243051": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "DNA:2029469716973273371": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SHMD:2029849475020185618": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "ENPH:2030245046742876233": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "UAVS:2030730472104530191": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "AAL:2031036045358399608": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DAL:2031036045358399608": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "JETS:2031036045358399608": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "BA:2031457195091759114": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CODA:2031448823164436895": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "EXA:2031457195091759114": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "EXALF:2031448823164436895": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "GD:2031457195091759114": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "KRKNF:2031448823164436895": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "MIND:2031457195091759114": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NSANY:2031457195091759114": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "OPTT:2031449992981000333": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "RIOT:2031255532951179459": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "SAABF:2031457195091759114": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "TDY:2031457195091759114": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "LWLG:2031861089823228353": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "PFGC:2031632009618161879": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SOI:2031751619117744443": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "SYY:2031632009618161879": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "USFD:2031632009618161879": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AMAT:2032586030059237713": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "BESI:2032586030059237713": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "HIMX:2032577275439485080": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "PAYP:2032334155053470177": {
+  "stance": "neutral",
+  "conviction": 3
+ },
+ "SHMN:2032577275439485080": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ARKK:2032931811924521346": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "COPX:2032898412279115858": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "SPIR:2032640028502012293": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "VPG:2032685704183164936": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SIV:2033538523081666708": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SIVE:2033466880661606646": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "APH:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ASX:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AYAR:2033695716938551350": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CIEN:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CSCO:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "FIT:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GFS:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "KEYS:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MXL:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SMHN:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SMTC:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "TEL:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "UMC:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "VIAV:2033885603423785170": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SIVEF:2034127800840688097": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "TPU:2034087274800091401": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "AXT:2034919613386129661": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CNEX:2037933841802014891": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "VIRT:2043326734565863534": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BYNO:2047571121256689770": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "NIDGY:2053377238532329611": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "LSCC:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CRBS:2055060984012890250": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "MXL:2069675057300082728": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BE:2072262479179284686": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "JBL:2034524869086552292": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "FOCI:2034916899021365725": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "OXINF:2034916899021365725": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ONET:2035691328382849280": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "AEVA:2035897562025410927": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ALB:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ALOY:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ALTM:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ARM:2036532579638399109": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NEXT:2037942075422027868": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "TRT:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BIRD:2044449732672847928": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "AMSL:2038466193544433683": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "MSR:2040504686349090986": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "LULU:2047395389742174406": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "TOWCF:2049646205039522009": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "IMSR:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "INDI:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ISRG:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "KLIC:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "MKA:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "MRAM:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "MRLN:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "NEO:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "NOVT:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "OUST:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "PDY:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "RR:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SERV:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SHA:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SYM:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "XBOT:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "XPEV:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ZBRA:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "HIMX:2054365028820881794": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NOK:2054868760629272850": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "CITI:2055367916426756386": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "KRUS:2056036968220528767": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "PENG:2055925643158938050": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "SMCI:2055925643158938050": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "SANM:2057388984310132855": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BABA:2057780545292308506": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "FUTU:2057780545292308506": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "PDD:2057780545292308506": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "TIGR:2057780545292308506": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "CARR:2058550475260400103": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "NVT:2058550475260400103": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "NVTS:2058550475260400103": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "POWI:2058550475260400103": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "DPZ:2059532571839729902": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "XFAB:2059537337324085541": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "APH:2060833534814867479": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "IBM:2060708982906294613": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "IONQ:2060708982906294613": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "QBTS:2060708982906294613": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "RGTI:2060708982906294613": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "UNH:2060633424151679287": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ASPI:2061093085568966664": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "BRK:2061596599588114444": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CIFR:2061425895307608561": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "WULF:2061597746449248759": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "COIN:2062353660928278820": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "IBIT:2062356877430902817": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "QCOM:2062335606085370337": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "AMSC:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "AOSL:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ASYS:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BDC:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CWR:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ENPH:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "EOSE:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "FCEL:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "HYLN:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "IFNNY:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "IPWR:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "LFUS:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ON:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "PAY:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "RELL:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SEDG:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "VSH:2063869376542192013": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "UBER:2069780882018459851": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ASTS:2070157835137434015": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "BABA:2069938631817699588": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "PLTR:2070157835137434015": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "RKLB:2070157835137434015": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "CBRS:2070754658868687086": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "OUST:2072262479179284686": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "GLW:2072760446617280650": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "SIVEF:2072760446617280650": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "JD:2073523410643366242": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "MELI:2073537674905055568": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "SE:2073537674905055568": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SHAZ:2073704784398528599": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SILEX:2074063175293809150": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "BRUN:2074954930939625564": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "SKHYV:2075611260771852590": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ARA:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ARU:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ATI:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "BMM:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "CRS:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "EAF:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "FCX:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ILU:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LGO:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LYSDY:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "MEI:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "MP:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "MTRN:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "NB:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "NEO:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NTU:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SYR:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "TECK:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "USAR:2035984148159164870": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "AKTS:2036264013370368378": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BLG:2036264013370368378": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ERIC:2036289688227684729": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "INFN:2036264013370368378": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "MRAM:2036264013370368378": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "NVTS:2036264013370368378": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "PDFS:2036264013370368378": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "QUBT:2036264013370368378": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "RGTI:2036264013370368378": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SKYT:2036264013370368378": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SLVC:2036264013370368378": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "WOLF:2036264013370368378": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "AIRO:2037061185263329434": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SANM:2037085574813942094": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "TTMI:2037085574813942094": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "FAZ:2037779565066764425": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GUSH:2037779565066764425": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "LCID:2037779565066764425": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "SQQQ:2037779565066764425": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "UVIX:2037779565066764425": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "TEM:2038281177124245842": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ANSS:2038777289115345200": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CDNS:2038777289115345200": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SNPS:2038777289115345200": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ADUR:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ALCJ:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ASPI:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BZAI:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ENAFF:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ENVX:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "EONR:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "EOS:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "EQR:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "HPS:2041519692985344500": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ALAB:2045685160801350067": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "TXN:2047019381637677061": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "SMHSF:2053377238532329611": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "HGRAF:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MITK:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "PLAB:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "TMC:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "WATT:2039906072291611057": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "VELO:2040428338213507531": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "ATEYY:2040842953883840770": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GILT:2040654858475504075": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "NTTYY:2040654858475504075": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "SAFRY:2040654858475504075": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SGBAF:2040654858475504075": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "SKPJF:2040654858475504075": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "VSAT:2040654858475504075": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "VECO:2041889308416839808": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CEG:2042187668931616964": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "MOG:2042187668931616964": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "NEE:2042187668931616964": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "POWL:2042187668931616964": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "GDRZF:2042701873833218352": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "NVO:2044544090549981244": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "WLFI:2044920109966434722": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "HSP:2045569572707951054": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ASTS:2046095854621413511": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "SEIGY:2046302180001673341": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "CAR:2046665249001210173": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "LPKK:2046449839626670369": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ONTO:2046449839626670369": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "AEIS:2047030798554132901": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AMSC:2047030798554132901": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "ATKR:2047030798554132901": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AZZ:2047030798554132901": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "CLF:2047030798554132901": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ETN:2047019381637677061": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "PLPC:2047030798554132901": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SPXC:2047030798554132901": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "STM:2047019381637677061": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "VMI:2047030798554132901": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "VRT:2047019381637677061": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "VSH:2047030798554132901": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "DOW:2048449289152778686": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AEVA:2049032343974007088": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "NXPI:2049038014245175387": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "CAMT:2049604721766494640": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ERIC:2049386026460942645": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "TOWA:2049529141083701417": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "AXT:2049985874193195425": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "LPKFF:2049737227677421908": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "SLNH:2049969772251709921": {
+  "stance": "bearish",
+  "conviction": 5
+ },
+ "YSS:2049916817519587600": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "KLA:2050093551313469467": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "LCRX:2050093551313469467": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MVL:2050833230736269767": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "FLNC:2052435712126161008": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "BOA:2052679583892426925": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "FNF:2052679583892426925": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SCHW:2052679583892426925": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ABB:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ACUVI:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ALNT:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "AMBA:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "AMBQ:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ARBE:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ATOM:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "AUR:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BAM:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BOT:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "BSL:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CATL:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CGNX:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CTH:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "HG:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "HLIT:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "HSYDF:2054335940026573222": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "VPG:2076281362248769713": {
+  "stance": "bullish",
+  "conviction": 2
+ }
+}

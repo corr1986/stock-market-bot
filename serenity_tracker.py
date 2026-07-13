@@ -50,10 +50,15 @@ def fetch_today_ohlc(ticker):
 
 
 def bearish_set():
-    """Ticker diventati bearish (conv>=4) di recente, per gli exit."""
-    tmp = os.path.join(tempfile.gettempdir(), "serenity_repo")
-    path = os.path.join(tmp, "data", "aleabitoreddit_tweets.json")
-    if not os.path.exists(path):
+    """Ticker diventati bearish (conv>=4) di recente, per gli exit.
+
+    Clona/aggiorna il repo dati (necessario su runner puliti tipo GitHub Actions).
+    """
+    from serenity_daily import ensure_repo
+    try:
+        path = ensure_repo()
+    except Exception as e:
+        print(f"repo dati non disponibile ({e}): nessun exit bearish stavolta")
         return set()
     events = build_fresh_events(load_tweets(path))
     cache = load_cache()
