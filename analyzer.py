@@ -57,6 +57,12 @@ def fetch_data(ticker: str) -> pd.DataFrame:
 
 
 def compute_indicators(df: pd.DataFrame) -> dict:
+    # Servono abbastanza righe per gli indicatori (SMA50 in primis). Con troppo
+    # poche righe .squeeze() collasserebbe la Series in uno scalare numpy.float64
+    # e la libreria `ta` andrebbe in crash ('float64' has no attribute 'diff').
+    if len(df) < 50:
+        raise ValueError(f"dati insufficienti per gli indicatori: {len(df)} righe")
+
     close = df["Close"].squeeze()
     high = df["High"].squeeze()
     low = df["Low"].squeeze()
@@ -238,24 +244,40 @@ def get_top_signals(snapshot: dict, n: int = 3, sl_mult: float = 1.5, rr: float 
     return signals
 
 
+def _safe_indicators(ticker: str, df) -> dict | None:
+    """compute_indicators con gestione errori: ritorna None se il ticker è
+    difettoso (dati insufficienti, errori libreria), così un singolo ticker
+    non blocca l'intero snapshot e tutti i segnali della settimana."""
+    try:
+        return compute_indicators(df)
+    except Exception as exc:
+        print(f"  [snapshot] skip {ticker}: {exc}")
+        return None
+
+
 def build_market_snapshot() -> dict:
     snapshot = {"USA": {}, "EUROPE": {}, "INDICES": {}}
 
     for ticker in WATCHLIST_USA:
         df = fetch_data(ticker)
         if df is not None:
-            snapshot["USA"][ticker] = compute_indicators(df)
+            ind = _safe_indicators(ticker, df)
+            if ind is not None:
+                snapshot["USA"][ticker] = ind
 
     for ticker in WATCHLIST_EUROPE:
         df = fetch_data(ticker)
         if df is not None:
-            snapshot["EUROPE"][ticker] = compute_indicators(df)
+            ind = _safe_indicators(ticker, df)
+            if ind is not None:
+                snapshot["EUROPE"][ticker] = ind
 
     for yahoo_ticker, name in WATCHLIST_INDICES.items():
         df = fetch_data(yahoo_ticker)
         if df is not None:
-            data = compute_indicators(df)
-            data["name"] = name
-            snapshot["INDICES"][yahoo_ticker] = data
+            data = _safe_indicators(yahoo_ticker, df)
+            if data is not None:
+                data["name"] = name
+                snapshot["INDICES"][yahoo_ticker] = data
 
     return snapshot
