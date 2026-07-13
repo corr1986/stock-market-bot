@@ -211,6 +211,42 @@
       "current_price": 163.55,
       "unrealized_pct": 1.4,
       "unrealized_eur": 15.79
+    },
+    {
+      "ticker": "NXPI",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 292.26,
+      "size_eur": 577.59,
+      "atr_entry": 25.3,
+      "initial_sl": 241.66,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 241.66,
+      "setup": "Prezzo sopra SMA20 e SMA50, RSI < 70, MACD favorevole",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
+    },
+    {
+      "ticker": "QCOM",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 189.16,
+      "size_eur": 385.57,
+      "atr_entry": 24.53,
+      "initial_sl": 140.1,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 140.1,
+      "setup": "Prezzo sopra SMA20 e SMA50, RSI < 70, MACD favorevole",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
     }
   ],
   "closed": [
