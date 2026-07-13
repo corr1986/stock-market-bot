@@ -241,6 +241,30 @@
       "current_price": 334.0,
       "unrealized_pct": -5.42,
       "unrealized_eur": -27.09
+    },
+    {
+      "id": "META_2026-07-13",
+      "ticker": "META",
+      "category": "USA",
+      "entry_date": "2026-07-13",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 52.83,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "NXPI_2026-07-13",
+      "ticker": "NXPI",
+      "category": "USA",
+      "entry_date": "2026-07-13",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 25.3,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
