@@ -30,7 +30,7 @@
       "status": "active",
       "current_price": 133.98,
       "unrealized_pct": 0.36,
-      "unrealized_eur": 1.8
+      "unrealized_eur": 1.78
     },
     {
       "id": "BAC_2026-06-08",
@@ -43,9 +43,9 @@
       "atr": 2.66,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 59.53,
-      "unrealized_pct": 10.83,
-      "unrealized_eur": 54.17
+      "current_price": 59.54,
+      "unrealized_pct": 10.84,
+      "unrealized_eur": 54.22
     },
     {
       "id": "AFL_2026-06-08",
@@ -58,9 +58,9 @@
       "atr": 4.76,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 123.26,
-      "unrealized_pct": 5.06,
-      "unrealized_eur": 25.32
+      "current_price": 123.31,
+      "unrealized_pct": 5.1,
+      "unrealized_eur": 25.51
     },
     {
       "id": "DXCM_2026-06-15",
@@ -163,9 +163,9 @@
       "atr": 26.37,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 290.36,
-      "unrealized_pct": 5.85,
-      "unrealized_eur": 29.27
+      "current_price": 290.38,
+      "unrealized_pct": 5.86,
+      "unrealized_eur": 29.31
     },
     {
       "id": "V_2026-06-29",
@@ -193,9 +193,9 @@
       "atr": 11.25,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 234.41,
-      "unrealized_pct": 5.92,
-      "unrealized_eur": 29.6
+      "current_price": 234.53,
+      "unrealized_pct": 5.97,
+      "unrealized_eur": 29.87
     },
     {
       "id": "PHIA.AS_2026-07-06",
@@ -223,9 +223,9 @@
       "atr": 7.31,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 161.88,
-      "unrealized_pct": -1.59,
-      "unrealized_eur": -7.96
+      "current_price": 161.66,
+      "unrealized_pct": -1.73,
+      "unrealized_eur": -8.63
     },
     {
       "id": "SHW_2026-07-06",
@@ -238,9 +238,9 @@
       "atr": 19.51,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 329.01,
+      "current_price": 329.0,
       "unrealized_pct": -6.83,
-      "unrealized_eur": -34.15
+      "unrealized_eur": -34.17
     },
     {
       "id": "META_2026-07-13",
@@ -317,5 +317,5 @@
       "days_held": 47
     }
   ],
-  "unrealized_pnl": 77.86
+  "unrealized_pnl": 77.7
 }
