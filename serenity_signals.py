@@ -40,3 +40,18 @@ def select_bearish_tickers(events, cache, since):
         if st and st["stance"] == "bearish" and st["conviction"] >= MIN_CONVICTION:
             bears.add(e["ticker"])
     return bears
+
+
+def bearish_after(events, cache, ticker, after):
+    """True se esiste una stance bearish conv>=MIN_CONVICTION per ticker DOPO 'after'.
+
+    Usato per gli exit: si esce solo se Serenity diventa bearish DOPO l'ingresso,
+    non su stance bearish precedenti al segnale bullish (come nel backtest).
+    """
+    for e in events:
+        if e["ticker"] != ticker or e["date"] <= after:
+            continue
+        st = _stance(e, cache)
+        if st and st["stance"] == "bearish" and st["conviction"] >= MIN_CONVICTION:
+            return True
+    return False

@@ -18,7 +18,7 @@ import pandas as pd
 
 from serenity_data import load_tweets, build_fresh_events
 from serenity_stance import load_cache
-from serenity_signals import select_bearish_tickers
+from serenity_signals import bearish_after
 from serenity_live import activate, check_exit, close_position, mark_price
 from notifier import send_telegram
 
@@ -49,27 +49,33 @@ def fetch_today_ohlc(ticker):
     return (float(r["Open"]), float(r["High"]), float(r["Low"]), float(r["Close"]))
 
 
-def bearish_set():
-    """Ticker diventati bearish (conv>=4) di recente, per gli exit.
+def load_events_cache():
+    """Carica eventi+cache stance per il check bearish per-posizione.
 
     Clona/aggiorna il repo dati (necessario su runner puliti tipo GitHub Actions).
+    Ritorna (events, cache) oppure (None, None) se il repo non è disponibile.
     """
     from serenity_daily import ensure_repo
     try:
         path = ensure_repo()
     except Exception as e:
         print(f"repo dati non disponibile ({e}): nessun exit bearish stavolta")
-        return set()
-    events = build_fresh_events(load_tweets(path))
-    cache = load_cache()
-    # finestra ampia: qualsiasi bearish dopo l'inizio dell'anno conta come warning
-    return select_bearish_tickers(events, cache, since=date(2026, 1, 1))
+        return None, None
+    return build_fresh_events(load_tweets(path)), load_cache()
+
+
+def is_bearish_exit(pos, events, cache):
+    """True se Serenity è diventato bearish sul ticker DOPO il segnale d'ingresso."""
+    if events is None:
+        return False
+    after = date.fromisoformat(pos.get("signal_date") or pos["entry_date"])
+    return bearish_after(events, cache, pos["ticker"], after)
 
 
 def main():
     pf = load_portfolio()
     today = date.today()
-    bears = bearish_set()
+    events, cache = load_events_cache()
     notes = []
 
     for pos in list(pf["open"]):
@@ -90,7 +96,7 @@ def main():
 
         mark_price(pos, c)
         res = check_exit(pos, low=l, close=c, open_=o, today=today,
-                         bearish=pos["ticker"] in bears)
+                         bearish=is_bearish_exit(pos, events, cache))
         if res:
             close_position(pos, res["exit_price"], today, res["reason"])
             pf["open"].remove(pos)
