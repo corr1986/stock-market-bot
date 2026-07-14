@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 107.39,
-      "unrealized_pct": 4.49,
-      "unrealized_eur": 36.16
+      "current_price": 106.77,
+      "unrealized_pct": 3.88,
+      "unrealized_eur": 31.3
     },
     {
       "ticker": "NVDA",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 211.17,
-      "unrealized_pct": 1.88,
-      "unrealized_eur": 12.96
+      "current_price": 211.61,
+      "unrealized_pct": 2.09,
+      "unrealized_eur": 14.43
     },
     {
       "ticker": "AVGO",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 395.01,
-      "unrealized_pct": -3.43,
-      "unrealized_eur": -18.81
+      "current_price": 394.52,
+      "unrealized_pct": -3.55,
+      "unrealized_eur": -19.47
     },
     {
       "ticker": "PGR",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 227.79,
-      "unrealized_pct": 4.25,
-      "unrealized_eur": 42.39
+      "current_price": 227.41,
+      "unrealized_pct": 4.08,
+      "unrealized_eur": 40.68
     },
     {
       "ticker": "AAPL",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 314.78,
-      "unrealized_pct": 7.04,
-      "unrealized_eur": 66.83
+      "current_price": 315.16,
+      "unrealized_pct": 7.17,
+      "unrealized_eur": 68.05
     },
     {
       "ticker": "MA",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 540.08,
-      "unrealized_pct": 1.95,
-      "unrealized_eur": 21.17
+      "current_price": 537.93,
+      "unrealized_pct": 1.55,
+      "unrealized_eur": 16.77
     },
     {
       "ticker": "NXPI",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 286.26,
-      "unrealized_pct": 0.44,
-      "unrealized_eur": 2.55
+      "current_price": 286.48,
+      "unrealized_pct": 0.52,
+      "unrealized_eur": 2.99
     },
     {
       "ticker": "QCOM",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 178.86,
-      "unrealized_pct": -4.61,
-      "unrealized_eur": -17.78
+      "current_price": 179.55,
+      "unrealized_pct": -4.24,
+      "unrealized_eur": -16.35
     }
   ],
   "closed": [
@@ -320,5 +320,5 @@
       "unrealized_eur": -34.44
     }
   ],
-  "unrealized_pnl": 206.97
+  "unrealized_pnl": 199.9
 }
