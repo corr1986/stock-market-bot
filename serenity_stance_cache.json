@@ -4094,5 +4094,9 @@
  "MTSI:2076763334930812936": {
   "stance": "bearish",
   "conviction": 3
+ },
+ "IBM:2077040840837632253": {
+  "stance": "neutral",
+  "conviction": 1
  }
 }
