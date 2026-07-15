@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 226.44,
+      "current_price": 226.43,
       "unrealized_pct": 3.63,
-      "unrealized_eur": 36.23
+      "unrealized_eur": 36.19
     },
     {
       "ticker": "AAPL",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 538.18,
+      "current_price": 538.22,
       "unrealized_pct": 1.6,
-      "unrealized_eur": 17.28
+      "unrealized_eur": 17.37
     },
     {
       "ticker": "NXPI",
@@ -320,5 +320,5 @@
       "unrealized_eur": -34.44
     }
   ],
-  "unrealized_pnl": 175.49
+  "unrealized_pnl": 175.54
 }
