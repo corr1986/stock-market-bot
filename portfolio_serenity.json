@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.67,
-      "unrealized_pct": -0.89,
-      "unrealized_eur": -4.35
+      "current_price": 1.62,
+      "unrealized_pct": -3.86,
+      "unrealized_eur": -18.85
     },
     {
       "ticker": "GM",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 77.64,
-      "unrealized_pct": -0.53,
-      "unrealized_eur": -2.46
+      "current_price": 76.74,
+      "unrealized_pct": -1.68,
+      "unrealized_eur": -7.86
     },
     {
       "ticker": "CCXI",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 15.74,
-      "unrealized_pct": 4.79,
-      "unrealized_eur": 23.04
+      "current_price": 14.965,
+      "unrealized_pct": -0.37,
+      "unrealized_eur": -1.76
     },
     {
       "ticker": "SE",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 111.36,
-      "unrealized_pct": 0.13,
-      "unrealized_eur": 0.56
+      "current_price": 107.555,
+      "unrealized_pct": -3.3,
+      "unrealized_eur": -14.66
     },
     {
       "ticker": "WULF",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 19.37,
-      "unrealized_pct": -9.91,
-      "unrealized_eur": -46.86
+      "current_price": 18.055,
+      "unrealized_pct": -16.02,
+      "unrealized_eur": -75.79
     }
   ],
   "closed": [
@@ -127,5 +127,5 @@
     }
   ],
   "last_signal_date": "2026-07-06",
-  "unrealized_pnl": -30.07
+  "unrealized_pnl": -118.92
 }
