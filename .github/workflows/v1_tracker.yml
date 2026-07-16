@@ -33,6 +33,17 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python tracker.py
 
+      - name: Daily recap portafogli (solo run delle 13 UTC = 21:00 Manila)
+        env:
+          TELEGRAM_TOKEN:   ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          if [ "$(date -u +%H)" = "13" ]; then
+            python daily_recap.py
+          else
+            echo "Non sono le 13 UTC — recap saltato."
+          fi
+
       - name: Commit portfolio.json
         run: |
           git config user.name  "github-actions[bot]"
