@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 108.06,
-      "unrealized_pct": 5.14,
-      "unrealized_eur": 41.42
+      "current_price": 108.33,
+      "unrealized_pct": 5.4,
+      "unrealized_eur": 43.58
     },
     {
       "ticker": "NVDA",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 207.01,
-      "unrealized_pct": -0.13,
-      "unrealized_eur": -0.88
+      "current_price": 207.47,
+      "unrealized_pct": 0.09,
+      "unrealized_eur": 0.65
     },
     {
       "ticker": "AVGO",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 375.86,
-      "unrealized_pct": -8.11,
-      "unrealized_eur": -44.51
+      "current_price": 374.46,
+      "unrealized_pct": -8.45,
+      "unrealized_eur": -46.39
     },
     {
       "ticker": "AAPL",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 334.05,
-      "unrealized_pct": 13.59,
-      "unrealized_eur": 129.05
+      "current_price": 333.27,
+      "unrealized_pct": 13.32,
+      "unrealized_eur": 126.53
     },
     {
       "ticker": "MA",
@@ -116,17 +116,17 @@
       "size_eur": 1083.55,
       "atr_entry": 24.89,
       "initial_sl": 479.95,
-      "max_high_since_entry": 549.4199829101562,
-      "chandelier_stop": 499.6399829101563,
+      "max_high_since_entry": 551.6199951171875,
+      "chandelier_stop": 501.8399951171875,
       "setup": "RSI sotto 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-07-06",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 547.97,
-      "unrealized_pct": 3.44,
-      "unrealized_eur": 37.32
+      "current_price": 551.49,
+      "unrealized_pct": 4.11,
+      "unrealized_eur": 44.52
     },
     {
       "ticker": "NXPI",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 268.48,
-      "unrealized_pct": -5.8,
-      "unrealized_eur": -33.48
+      "current_price": 270.66,
+      "unrealized_pct": -5.03,
+      "unrealized_eur": -29.06
     },
     {
       "ticker": "QCOM",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 170.84,
-      "unrealized_pct": -8.89,
-      "unrealized_eur": -34.28
+      "current_price": 170.68,
+      "unrealized_pct": -8.97,
+      "unrealized_eur": -34.6
     }
   ],
   "closed": [
@@ -320,5 +320,5 @@
       "unrealized_eur": 36.19
     }
   ],
-  "unrealized_pnl": 161.43
+  "unrealized_pnl": 172.02
 }
