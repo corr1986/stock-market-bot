@@ -35,6 +35,8 @@ def summarize_standard(d: dict) -> dict:
         "equity": round(balance + unreal, 2),
         "aperti": len(d.get("open", [])),
         "chiusi": len(d.get("closed", [])),
+        "pnl_aperti": round(unreal, 2),
+        "pnl_chiusi": round(d.get("realized_pnl") or 0.0, 2),
     }
 
 
@@ -42,15 +44,16 @@ def summarize_insider(d: dict) -> dict:
     """Riepilogo per il portfolio Insider (schema cash/positions/closed).
     equity = cash + capitale investito nelle posizioni aperte + P&L non realizzato."""
     positions = d.get("positions", [])
-    equity = d["cash"] + sum(
-        (p.get("invested") or 0.0) + (p.get("unrealized_pnl") or 0.0)
-        for p in positions
-    )
+    closed = d.get("closed", [])
+    unreal = sum(p.get("unrealized_pnl") or 0.0 for p in positions)
+    equity = d["cash"] + sum(p.get("invested") or 0.0 for p in positions) + unreal
     return {
         "saldo": d["cash"],
         "equity": round(equity, 2),
         "aperti": len(positions),
-        "chiusi": len(d.get("closed", [])),
+        "chiusi": len(closed),
+        "pnl_aperti": round(unreal, 2),
+        "pnl_chiusi": round(sum(t.get("pnl") or 0.0 for t in closed), 2),
     }
 
 
@@ -59,10 +62,17 @@ def _fmt(value: float) -> str:
     return f"{value:,.0f}".replace(",", ".")
 
 
+def _pnl(value: float, cur: str) -> str:
+    """P&L col segno esplicito: +284€ / -209€"""
+    sign = "+" if value >= 0 else "-"
+    return f"{sign}{_fmt(abs(value))}{cur}"
+
+
 def _line(name: str, s: dict, cur: str) -> str:
     return (
         f"*{name}*: saldo {_fmt(s['saldo'])}{cur} | equity {_fmt(s['equity'])}{cur}"
-        f" | aperti {s['aperti']} | chiusi {s['chiusi']}"
+        f" | aperti {s['aperti']} ({_pnl(s['pnl_aperti'], cur)})"
+        f" | chiusi {s['chiusi']} ({_pnl(s['pnl_chiusi'], cur)})"
     )
 
 
