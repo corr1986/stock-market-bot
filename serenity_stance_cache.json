@@ -4098,5 +4098,9 @@
  "IBM:2077040840837632253": {
   "stance": "neutral",
   "conviction": 1
+ },
+ "QCOM:2077753660592033828": {
+  "stance": "bullish",
+  "conviction": 3
  }
 }
