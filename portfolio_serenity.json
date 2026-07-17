@@ -1,6 +1,6 @@
 {
-  "balance": 49997.04,
-  "realized_pnl": -2.96,
+  "balance": 49958.46,
+  "realized_pnl": -41.54,
   "open": [
     {
       "ticker": "RR",
@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.61,
-      "unrealized_pct": -4.45,
-      "unrealized_eur": -21.75
+      "current_price": 1.635,
+      "unrealized_pct": -2.97,
+      "unrealized_eur": -14.5
     },
     {
       "ticker": "GM",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 77.72,
-      "unrealized_pct": -0.42,
-      "unrealized_eur": -1.98
+      "current_price": 77.31,
+      "unrealized_pct": -0.95,
+      "unrealized_eur": -4.44
     },
     {
       "ticker": "CCXI",
@@ -58,29 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 14.61,
-      "unrealized_pct": -2.73,
-      "unrealized_eur": -13.12
-    },
-    {
-      "ticker": "SE",
-      "status": "active",
-      "signal_date": "2026-07-04",
-      "entry_ref": 111.13999938964844,
-      "atr_entry": 4.821928841727121,
-      "shares": 4,
-      "size_eur": 444.55999755859375,
-      "initial_sl": 101.57614353724888,
-      "entry_price": 111.22000122070312,
-      "entry_date": "2026-07-13",
-      "deadline": "2026-09-11",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 106.22,
-      "unrealized_pct": -4.5,
-      "unrealized_eur": -20.0
+      "current_price": 14.5526,
+      "unrealized_pct": -3.11,
+      "unrealized_eur": -14.96
     },
     {
       "ticker": "WULF",
@@ -98,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 17.98,
-      "unrealized_pct": -16.37,
-      "unrealized_eur": -77.44
+      "current_price": 17.84,
+      "unrealized_pct": -17.02,
+      "unrealized_eur": -80.52
     }
   ],
   "closed": [
@@ -124,8 +104,29 @@
       "unrealized_pct": -0.72,
       "unrealized_eur": -2.96,
       "close_reason": "bearish"
+    },
+    {
+      "ticker": "SE",
+      "status": "closed",
+      "signal_date": "2026-07-04",
+      "entry_ref": 111.13999938964844,
+      "atr_entry": 4.821928841727121,
+      "shares": 4,
+      "size_eur": 444.55999755859375,
+      "initial_sl": 101.57614353724888,
+      "entry_price": 111.22000122070312,
+      "entry_date": "2026-07-13",
+      "deadline": "2026-09-11",
+      "close_date": "2026-07-17",
+      "close_price": 101.5761,
+      "pnl_pct": -8.67,
+      "pnl_eur": -38.58,
+      "current_price": 103.445,
+      "unrealized_pct": -6.99,
+      "unrealized_eur": -31.1,
+      "close_reason": "stop_loss"
     }
   ],
   "last_signal_date": "2026-07-06",
-  "unrealized_pnl": -134.29
+  "unrealized_pnl": -114.42
 }
