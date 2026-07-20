@@ -241,6 +241,42 @@
       "current_price": 266.59,
       "unrealized_pct": -5.95,
       "unrealized_eur": -29.74
+    },
+    {
+      "id": "BIIB_2026-07-20",
+      "ticker": "BIIB",
+      "category": "USA",
+      "entry_date": "2026-07-20",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 14.5,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "BLK_2026-07-20",
+      "ticker": "BLK",
+      "category": "USA",
+      "entry_date": "2026-07-20",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 63.12,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "PYPL_2026-07-20",
+      "ticker": "PYPL",
+      "category": "USA",
+      "entry_date": "2026-07-20",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 4.05,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
