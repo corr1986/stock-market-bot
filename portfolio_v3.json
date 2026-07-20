@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 543.57,
-      "unrealized_pct": 2.61,
-      "unrealized_eur": 28.31
+      "current_price": 543.6,
+      "unrealized_pct": 2.62,
+      "unrealized_eur": 28.37
     },
     {
       "ticker": "NXPI",
@@ -173,56 +173,65 @@
     {
       "ticker": "MRK",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 128.4499969482422,
       "entry_price_ref": 127.5,
       "size_eur": 880.52,
       "atr_entry": 7.24,
-      "initial_sl": 113.02,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 113.02,
+      "initial_sl": 113.97,
+      "max_high_since_entry": 131.74000549316406,
+      "chandelier_stop": 117.26000549316406,
       "setup": "Prezzo sopra SMA20 e SMA50, RSI < 70, MACD favorevole",
-      "entry_date": null,
+      "entry_date": "2026-07-20",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 127.5,
+      "unrealized_pct": -0.74,
+      "unrealized_eur": -6.51
     },
     {
       "ticker": "BIIB",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 209.00999450683594,
       "entry_price_ref": 205.99,
       "size_eur": 710.31,
       "atr_entry": 14.5,
-      "initial_sl": 176.99,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 176.99,
+      "initial_sl": 180.01,
+      "max_high_since_entry": 215.6699981689453,
+      "chandelier_stop": 186.6699981689453,
       "setup": "Prezzo sopra SMA20 e SMA50, RSI < 70, MACD favorevole",
-      "entry_date": null,
+      "entry_date": "2026-07-20",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 206.06,
+      "unrealized_pct": -1.41,
+      "unrealized_eur": -10.03
     },
     {
       "ticker": "MDLZ",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 62.125,
       "entry_price_ref": 61.0,
       "size_eur": 987.06,
       "atr_entry": 3.09,
-      "initial_sl": 54.82,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 54.82,
+      "initial_sl": 55.945,
+      "max_high_since_entry": 63.040000915527344,
+      "chandelier_stop": 56.860000915527344,
       "setup": "Prezzo sopra SMA20 e SMA50, RSI < 70, MACD favorevole",
-      "entry_date": null,
+      "entry_date": "2026-07-20",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 60.99,
+      "unrealized_pct": -1.83,
+      "unrealized_eur": -18.03
     }
   ],
   "closed": [
@@ -374,5 +383,5 @@
       "unrealized_eur": 36.19
     }
   ],
-  "unrealized_pnl": 99.02
+  "unrealized_pnl": 64.51
 }
