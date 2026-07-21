@@ -1,5 +1,5 @@
 # Portfolio V3 — Stock Market Bot
-*Aggiornato: 21/07/2026 09:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
+*Aggiornato: 21/07/2026 10:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
 *[portfolio_v3.json](portfolio_v3.json)*
 
 ## Riepilogo
@@ -10,7 +10,7 @@
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | Chandelier |
 |---|---|---|---|---|---|---|---|
-| **ADS.DE** | 167.4 | 5 | 180.65 | +7.92% | +58€ | 144.82 | 166.22000305175783 |
+| **ADS.DE** | 167.4 | 5 | 180.75 | +7.97% | +59€ | 144.82 | 166.22000305175783 |
 | **SBUX** | 102.77999877929688 | 8 | 104.83 | +1.99% | +16€ | 90.0 | 96.45000335693359 |
 | **NVDA** | 207.27499389648438 | 4 | 203.38 | -1.88% | -13€ | 176.735 | 183.45000549316407 |
 | **AVGO** | 409.0199890136719 | 2 | 378.21 | -7.53% | -41€ | 334.1 | 339.63999755859373 |
