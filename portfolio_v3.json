@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 547.52,
-      "unrealized_pct": 3.36,
-      "unrealized_eur": 36.38
+      "current_price": 547.5,
+      "unrealized_pct": 3.35,
+      "unrealized_eur": 36.35
     },
     {
       "ticker": "NXPI",
@@ -383,5 +383,5 @@
       "unrealized_eur": 36.19
     }
   ],
-  "unrealized_pnl": 7.86
+  "unrealized_pnl": 7.83
 }
