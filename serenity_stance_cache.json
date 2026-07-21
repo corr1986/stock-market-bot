@@ -4114,5 +4114,25 @@
  "VSH:2079089592385610023": {
   "stance": "neutral",
   "conviction": 1
+ },
+ "CIFR:2079254669793316962": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "CLSK:2079254669793316962": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "CRWV:2079254669793316962": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "HUT:2079254669793316962": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "WYFI:2079254669793316962": {
+  "stance": "bullish",
+  "conviction": 3
  }
 }
