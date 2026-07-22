@@ -4134,5 +4134,17 @@
  "WYFI:2079254669793316962": {
   "stance": "bullish",
   "conviction": 3
+ },
+ "AVGO:2079495178793201678": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "IQEF:2079622706572804368": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "LPK:2079622706572804368": {
+  "stance": "bullish",
+  "conviction": 2
  }
 }
