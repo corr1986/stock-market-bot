@@ -1,19 +1,19 @@
 # Portfolio Serenity — Stock Market Bot
-*Aggiornato: 21/07/2026 21:42 UTC | Hold 60gg · SL 2×ATR · Segnali @aleabitoreddit*
+*Aggiornato: 22/07/2026 16:04 UTC | Hold 60gg · SL 2×ATR · Segnali @aleabitoreddit*
 *[portfolio_serenity.json](portfolio_serenity.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
 |---|---|---|---|---|---|
-| 49,958€ | -43€ | 49,915€ | -42€ | 2 (0W/2L) | 0% |
+| 49,958€ | -5€ | 49,954€ | -42€ | 2 (0W/2L) | 0% |
 
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | Scadenza |
 |---|---|---|---|---|---|---|---|
-| **RR** | 1.684999942779541 | 290 | 1.65 | -2.08% | -10€ | 1.37 | 2026-09-11 |
-| **GM** | 78.05000305175781 | 6 | 79.52 | +1.88% | +9€ | 73.93 | 2026-09-11 |
-| **CCXI** | 15.020000457763672 | 32 | 14.83 | -1.26% | -6€ | 11.16 | 2026-09-11 |
-| **WULF** | 21.5 | 22 | 19.87 | -7.58% | -36€ | 16.37 | 2026-09-11 |
+| **RR** | 1.684999942779541 | 290 | 1.69 | +0.30% | +1€ | 1.37 | 2026-09-11 |
+| **GM** | 78.05000305175781 | 6 | 82.83 | +6.12% | +29€ | 73.93 | 2026-09-11 |
+| **CCXI** | 15.020000457763672 | 32 | 14.8 | -1.46% | -7€ | 11.16 | 2026-09-11 |
+| **WULF** | 21.5 | 22 | 20.24 | -5.86% | -28€ | 16.37 | 2026-09-11 |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € | Motivo |
