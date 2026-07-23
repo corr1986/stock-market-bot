@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 176.9,
-      "unrealized_pct": 5.68,
-      "unrealized_eur": 41.88
+      "current_price": 176.45,
+      "unrealized_pct": 5.41,
+      "unrealized_eur": 39.9
     },
     {
       "ticker": "SBUX",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 102.35,
-      "unrealized_pct": -0.42,
-      "unrealized_eur": -3.37
+      "current_price": 102.7,
+      "unrealized_pct": -0.08,
+      "unrealized_eur": -0.63
     },
     {
       "ticker": "NVDA",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 208.79,
-      "unrealized_pct": 0.73,
-      "unrealized_eur": 5.04
+      "current_price": 206.9,
+      "unrealized_pct": -0.18,
+      "unrealized_eur": -1.25
     },
     {
       "ticker": "AVGO",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 395.1,
-      "unrealized_pct": -3.4,
-      "unrealized_eur": -18.69
+      "current_price": 389.33,
+      "unrealized_pct": -4.81,
+      "unrealized_eur": -26.42
     },
     {
       "ticker": "AAPL",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 320.49,
-      "unrealized_pct": 8.98,
-      "unrealized_eur": 85.26
+      "current_price": 321.57,
+      "unrealized_pct": 9.35,
+      "unrealized_eur": 88.75
     },
     {
       "ticker": "MA",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 525.7,
-      "unrealized_pct": -0.76,
-      "unrealized_eur": -8.24
+      "current_price": 528.29,
+      "unrealized_pct": -0.27,
+      "unrealized_eur": -2.94
     },
     {
       "ticker": "NXPI",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 279.2,
-      "unrealized_pct": -2.04,
-      "unrealized_eur": -11.75
+      "current_price": 272.3,
+      "unrealized_pct": -4.46,
+      "unrealized_eur": -25.74
     },
     {
       "ticker": "QCOM",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 172.11,
-      "unrealized_pct": -8.21,
-      "unrealized_eur": -31.66
+      "current_price": 170.19,
+      "unrealized_pct": -9.24,
+      "unrealized_eur": -35.61
     },
     {
       "ticker": "MRK",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 129.31,
-      "unrealized_pct": 0.67,
-      "unrealized_eur": 5.9
+      "current_price": 130.76,
+      "unrealized_pct": 1.79,
+      "unrealized_eur": 15.8
     },
     {
       "ticker": "BIIB",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 199.82,
-      "unrealized_pct": -4.4,
-      "unrealized_eur": -31.23
+      "current_price": 202.9,
+      "unrealized_pct": -2.93,
+      "unrealized_eur": -20.78
     },
     {
       "ticker": "MDLZ",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 60.14,
-      "unrealized_pct": -3.2,
-      "unrealized_eur": -31.54
+      "current_price": 60.34,
+      "unrealized_pct": -2.87,
+      "unrealized_eur": -28.36
     }
   ],
   "closed": [
@@ -383,5 +383,5 @@
       "unrealized_eur": 36.19
     }
   ],
-  "unrealized_pnl": 1.6
+  "unrealized_pnl": 2.72
 }
