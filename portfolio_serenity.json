@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.55,
-      "unrealized_pct": -8.01,
-      "unrealized_eur": -39.15
+      "current_price": 1.535,
+      "unrealized_pct": -8.9,
+      "unrealized_eur": -43.5
     },
     {
       "ticker": "GM",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 82.64,
-      "unrealized_pct": 5.88,
-      "unrealized_eur": 27.54
+      "current_price": 84.79,
+      "unrealized_pct": 8.64,
+      "unrealized_eur": 40.44
     },
     {
       "ticker": "CCXI",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 13.68,
-      "unrealized_pct": -8.92,
-      "unrealized_eur": -42.88
+      "current_price": 13.7557,
+      "unrealized_pct": -8.42,
+      "unrealized_eur": -40.46
     },
     {
       "ticker": "WULF",
@@ -78,29 +78,29 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 18.46,
-      "unrealized_pct": -14.14,
-      "unrealized_eur": -66.88
+      "current_price": 17.9501,
+      "unrealized_pct": -16.51,
+      "unrealized_eur": -78.1
     },
     {
       "ticker": "ORCL",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-07-26",
       "entry_ref": 119.66000366210938,
       "atr_entry": 6.539826394630481,
       "shares": 4,
       "size_eur": 478.6400146484375,
-      "initial_sl": 106.58035087284841,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 104.92034721073904,
+      "entry_price": 118.0,
+      "entry_date": "2026-07-27",
+      "deadline": "2026-09-25",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 120.85,
+      "unrealized_pct": 2.42,
+      "unrealized_eur": 11.4
     }
   ],
   "closed": [
@@ -148,5 +148,5 @@
     }
   ],
   "last_signal_date": "2026-07-26",
-  "unrealized_pnl": -121.37
+  "unrealized_pnl": -110.22
 }
