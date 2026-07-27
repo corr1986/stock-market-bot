@@ -256,6 +256,30 @@
       "current_price": 56.15,
       "unrealized_pct": -0.6,
       "unrealized_eur": -3.01
+    },
+    {
+      "id": "TMO_2026-07-27",
+      "ticker": "TMO",
+      "category": "USA",
+      "entry_date": "2026-07-27",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 37.08,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "EMR_2026-07-27",
+      "ticker": "EMR",
+      "category": "USA",
+      "entry_date": "2026-07-27",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 9.54,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
