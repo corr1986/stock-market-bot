@@ -1,11 +1,11 @@
 # Portfolio V3 — Stock Market Bot
-*Aggiornato: 24/07/2026 20:10 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
+*Aggiornato: 27/07/2026 07:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
 *[portfolio_v3.json](portfolio_v3.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
 |---|---|---|---|---|---|
-| 19,736€ | +37€ | 19,773€ | -264€ | 7 (1W/6L) | 14% |
+| 19,736€ | +69€ | 19,805€ | -264€ | 7 (1W/6L) | 14% |
 
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | Chandelier |
@@ -21,6 +21,9 @@
 | **MRK** | 128.4499969482422 | 7 | 131.09 | +2.06% | +18€ | 113.97 | 117.26000549316406 |
 | **BIIB** | 209.00999450683594 | 4 | 202.19 | -3.26% | -23€ | 180.01 | 186.6699981689453 |
 | **MDLZ** | 62.125 | 16 | 60.53 | -2.57% | -25€ | 55.945 | 56.860000915527344 |
+| **TMO** | 570.0 | 2 | 568.25 | -0.31% | -2€ | 495.84 | 513.329990234375 |
+| **MMM** | 170.30999755859375 | 6 | 172.60 | +1.34% | +13€ | 152.47 | 158.32000366210937 |
+| **DE** | 612.2100219726562 | 2 | 628.21 | +2.61% | +21€ | 532.99 | 550.1200268554687 |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € |
