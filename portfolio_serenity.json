@@ -81,6 +81,26 @@
       "current_price": 18.46,
       "unrealized_pct": -14.14,
       "unrealized_eur": -66.88
+    },
+    {
+      "ticker": "ORCL",
+      "status": "pending",
+      "signal_date": "2026-07-26",
+      "entry_ref": 119.66000366210938,
+      "atr_entry": 6.539826394630481,
+      "shares": 4,
+      "size_eur": 478.6400146484375,
+      "initial_sl": 106.58035087284841,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
@@ -127,6 +147,6 @@
       "close_reason": "stop_loss"
     }
   ],
-  "last_signal_date": "2026-07-17",
+  "last_signal_date": "2026-07-26",
   "unrealized_pnl": -121.37
 }

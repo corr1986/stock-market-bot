@@ -4146,5 +4146,21 @@
  "LPK:2079622706572804368": {
   "stance": "bullish",
   "conviction": 2
+ },
+ "LYFT:2080754547757391897": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "UBER:2080750537121874206": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "CXMT:2081472671129501729": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ORCL:2081472671129501729": {
+  "stance": "bullish",
+  "conviction": 4
  }
 }
