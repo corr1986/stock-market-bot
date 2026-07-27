@@ -28,9 +28,9 @@
       "atr": 8.91,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 138.57,
-      "unrealized_pct": 3.8,
-      "unrealized_eur": 18.99
+      "current_price": 138.55,
+      "unrealized_pct": 3.78,
+      "unrealized_eur": 18.91
     },
     {
       "id": "BAC_2026-06-08",
@@ -58,9 +58,9 @@
       "atr": 4.76,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 125.62,
-      "unrealized_pct": 7.08,
-      "unrealized_eur": 35.39
+      "current_price": 125.6,
+      "unrealized_pct": 7.06,
+      "unrealized_eur": 35.29
     },
     {
       "id": "DXCM_2026-06-15",
@@ -148,9 +148,9 @@
       "atr": 14.33,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 355.65,
-      "unrealized_pct": 5.14,
-      "unrealized_eur": 25.69
+      "current_price": 355.64,
+      "unrealized_pct": 5.13,
+      "unrealized_eur": 25.67
     },
     {
       "id": "PGR_2026-06-29",
@@ -163,9 +163,9 @@
       "atr": 11.25,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 213.87,
-      "unrealized_pct": -3.36,
-      "unrealized_eur": -16.81
+      "current_price": 213.82,
+      "unrealized_pct": -3.38,
+      "unrealized_eur": -16.92
     },
     {
       "id": "PHIA.AS_2026-07-06",
@@ -410,5 +410,5 @@
       "days_held": 43
     }
   ],
-  "unrealized_pnl": 20.96
+  "unrealized_pnl": 20.65
 }
