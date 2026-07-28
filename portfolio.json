@@ -1,6 +1,6 @@
 {
-  "balance": 19583.424320247974,
-  "realized_pnl": -416.575679752027,
+  "balance": 19525.8348508938,
+  "realized_pnl": -474.16514910620214,
   "open": [
     {
       "id": "OR.PA_2026-06-01",
@@ -13,9 +13,9 @@
       "atr": 19.63,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 377.35,
-      "unrealized_pct": -1.2,
-      "unrealized_eur": -6.02
+      "current_price": 378.1,
+      "unrealized_pct": -1.01,
+      "unrealized_eur": -5.04
     },
     {
       "id": "A_2026-06-01",
@@ -166,21 +166,6 @@
       "current_price": 215.75,
       "unrealized_pct": -2.51,
       "unrealized_eur": -12.56
-    },
-    {
-      "id": "PHIA.AS_2026-07-06",
-      "ticker": "PHIA.AS",
-      "category": "EUROPE",
-      "entry_date": "2026-07-06",
-      "entry_price": 24.31,
-      "sl": 21.51,
-      "tp": 29.91,
-      "atr": 1.4,
-      "trade_eur": 500.0,
-      "status": "active",
-      "current_price": 23.64,
-      "unrealized_pct": -2.76,
-      "unrealized_eur": -13.78
     },
     {
       "id": "META_2026-07-13",
@@ -414,7 +399,28 @@
       "pnl_pct": -11.05,
       "pnl_eur": -55.25,
       "days_held": 43
+    },
+    {
+      "id": "PHIA.AS_2026-07-06",
+      "ticker": "PHIA.AS",
+      "category": "EUROPE",
+      "entry_date": "2026-07-06",
+      "entry_price": 24.31,
+      "sl": 21.51,
+      "tp": 29.91,
+      "atr": 1.4,
+      "trade_eur": 500.0,
+      "status": "active",
+      "current_price": 23.64,
+      "unrealized_pct": -2.76,
+      "unrealized_eur": -13.78,
+      "exit_date": "2026-07-28",
+      "exit_price": 21.51,
+      "outcome": "LOSS",
+      "pnl_pct": -11.52,
+      "pnl_eur": -57.59,
+      "days_held": 55
     }
   ],
-  "unrealized_pnl": 104.09
+  "unrealized_pnl": 118.85
 }
