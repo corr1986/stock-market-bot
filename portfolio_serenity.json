@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 90.285,
-      "unrealized_pct": 15.68,
-      "unrealized_eur": 73.41
+      "current_price": 90.3,
+      "unrealized_pct": 15.7,
+      "unrealized_eur": 73.5
     },
     {
       "ticker": "CCXI",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 119.94,
-      "unrealized_pct": 1.64,
-      "unrealized_eur": 7.76
+      "current_price": 119.96,
+      "unrealized_pct": 1.66,
+      "unrealized_eur": 7.84
     }
   ],
   "closed": [
@@ -149,5 +149,5 @@
     }
   ],
   "last_signal_date": "2026-07-26",
-  "unrealized_pnl": -5.88
+  "unrealized_pnl": -5.71
 }
