@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 180.15,
-      "unrealized_pct": 7.62,
-      "unrealized_eur": 56.21
+      "current_price": 181.15,
+      "unrealized_pct": 8.21,
+      "unrealized_eur": 60.62
     },
     {
       "ticker": "SBUX",
@@ -446,5 +446,5 @@
       "unrealized_eur": 36.19
     }
   ],
-  "unrealized_pnl": 232.78
+  "unrealized_pnl": 237.19
 }
