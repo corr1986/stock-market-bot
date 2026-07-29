@@ -1,27 +1,7 @@
 {
-  "balance": 49845.63,
-  "realized_pnl": -154.37,
+  "balance": 49753.869999999995,
+  "realized_pnl": -246.13,
   "open": [
-    {
-      "ticker": "RR",
-      "status": "active",
-      "signal_date": "2026-06-27",
-      "entry_ref": 1.7200000286102295,
-      "atr_entry": 0.15821429661342076,
-      "shares": 290,
-      "size_eur": 498.80000829696655,
-      "initial_sl": 1.3685713495526994,
-      "entry_price": 1.684999942779541,
-      "entry_date": "2026-07-13",
-      "deadline": "2026-09-11",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 1.44,
-      "unrealized_pct": -14.54,
-      "unrealized_eur": -71.05
-    },
     {
       "ticker": "GM",
       "status": "active",
@@ -38,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 90.3,
-      "unrealized_pct": 15.7,
-      "unrealized_eur": 73.5
+      "current_price": 89.85,
+      "unrealized_pct": 15.12,
+      "unrealized_eur": 70.8
     },
     {
       "ticker": "CCXI",
@@ -58,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 14.52,
-      "unrealized_pct": -3.33,
-      "unrealized_eur": -16.0
+      "current_price": 13.19,
+      "unrealized_pct": -12.18,
+      "unrealized_eur": -58.56
     },
     {
       "ticker": "ORCL",
@@ -78,29 +58,29 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 119.96,
-      "unrealized_pct": 1.66,
-      "unrealized_eur": 7.84
+      "current_price": 116.535,
+      "unrealized_pct": -1.24,
+      "unrealized_eur": -5.86
     },
     {
       "ticker": "AMKR",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-07-28",
       "entry_ref": 45.60499954223633,
       "atr_entry": 5.832857131958008,
       "shares": 10,
       "size_eur": 456.0499954223633,
-      "initial_sl": 33.93928527832031,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 34.334285736083984,
+      "entry_price": 46.0,
+      "entry_date": "2026-07-29",
+      "deadline": "2026-09-27",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 44.275,
+      "unrealized_pct": -3.75,
+      "unrealized_eur": -17.25
     }
   ],
   "closed": [
@@ -166,8 +146,29 @@
       "unrealized_pct": -22.67,
       "unrealized_eur": -107.25,
       "close_reason": "stop_loss"
+    },
+    {
+      "ticker": "RR",
+      "status": "closed",
+      "signal_date": "2026-06-27",
+      "entry_ref": 1.7200000286102295,
+      "atr_entry": 0.15821429661342076,
+      "shares": 290,
+      "size_eur": 498.80000829696655,
+      "initial_sl": 1.3685713495526994,
+      "entry_price": 1.684999942779541,
+      "entry_date": "2026-07-13",
+      "deadline": "2026-09-11",
+      "close_date": "2026-07-29",
+      "close_price": 1.3686,
+      "pnl_pct": -18.78,
+      "pnl_eur": -91.76,
+      "current_price": 1.3,
+      "unrealized_pct": -22.85,
+      "unrealized_eur": -111.65,
+      "close_reason": "stop_loss"
     }
   ],
   "last_signal_date": "2026-07-28",
-  "unrealized_pnl": -5.71
+  "unrealized_pnl": -10.87
 }
