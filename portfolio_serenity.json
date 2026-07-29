@@ -81,6 +81,26 @@
       "current_price": 119.96,
       "unrealized_pct": 1.66,
       "unrealized_eur": 7.84
+    },
+    {
+      "ticker": "AMKR",
+      "status": "pending",
+      "signal_date": "2026-07-28",
+      "entry_ref": 45.60499954223633,
+      "atr_entry": 5.832857131958008,
+      "shares": 10,
+      "size_eur": 456.0499954223633,
+      "initial_sl": 33.93928527832031,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
@@ -148,6 +168,6 @@
       "close_reason": "stop_loss"
     }
   ],
-  "last_signal_date": "2026-07-26",
+  "last_signal_date": "2026-07-28",
   "unrealized_pnl": -5.71
 }
