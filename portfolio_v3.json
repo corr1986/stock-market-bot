@@ -189,7 +189,7 @@
       "pnl_eur": null,
       "current_price": 131.84,
       "unrealized_pct": 2.64,
-      "unrealized_eur": 23.24
+      "unrealized_eur": 23.2
     },
     {
       "ticker": "BIIB",
@@ -292,9 +292,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 639.81,
-      "unrealized_pct": 4.51,
-      "unrealized_eur": 35.75
+      "current_price": 639.93,
+      "unrealized_pct": 4.53,
+      "unrealized_eur": 35.9
     }
   ],
   "closed": [
@@ -446,5 +446,5 @@
       "unrealized_eur": 36.19
     }
   ],
-  "unrealized_pnl": 238.18
+  "unrealized_pnl": 238.29
 }

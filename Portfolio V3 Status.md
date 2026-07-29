@@ -1,5 +1,5 @@
 # Portfolio V3 — Stock Market Bot
-*Aggiornato: 28/07/2026 20:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
+*Aggiornato: 29/07/2026 07:10 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
 *[portfolio_v3.json](portfolio_v3.json)*
 
 ## Riepilogo
@@ -23,7 +23,7 @@
 | **MDLZ** | 62.125 | 16 | 62.46 | +0.54% | +5€ | 55.945 | 57.360000915527344 |
 | **TMO** | 570.0 | 2 | 576.40 | +1.12% | +9€ | 495.84 | 514.3999975585938 |
 | **MMM** | 170.30999755859375 | 6 | 182.46 | +7.13% | +69€ | 152.47 | 167.05500427246093 |
-| **DE** | 612.2100219726562 | 2 | 639.81 | +4.51% | +36€ | 532.99 | 564.769990234375 |
+| **DE** | 612.2100219726562 | 2 | 639.93 | +4.53% | +36€ | 532.99 | 564.769990234375 |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € |
