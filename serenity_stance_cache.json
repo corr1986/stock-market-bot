@@ -4170,5 +4170,9 @@
  "AMKR:2082230983487803755": {
   "stance": "bullish",
   "conviction": 4
+ },
+ "PYPL:2082608633389715567": {
+  "stance": "bearish",
+  "conviction": 3
  }
 }
