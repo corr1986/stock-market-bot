@@ -1,16 +1,15 @@
 # Portfolio V3 — Stock Market Bot
-*Aggiornato: 30/07/2026 07:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
+*Aggiornato: 30/07/2026 08:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
 *[portfolio_v3.json](portfolio_v3.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
 |---|---|---|---|---|---|
-| 19,660€ | +218€ | 19,878€ | -340€ | 8 (1W/7L) | 12% |
+| 19,654€ | +158€ | 19,812€ | -346€ | 9 (1W/8L) | 11% |
 
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | Chandelier |
 |---|---|---|---|---|---|---|---|
-| **ADS.DE** | 167.4 | 5 | 181.05 | +8.15% | +60€ | 144.82 | 166.22000305175783 |
 | **SBUX** | 102.77999877929688 | 8 | 104.24 | +1.42% | +11€ | 90.0 | 96.45000335693359 |
 | **NVDA** | 207.27499389648438 | 4 | 190.06 | -8.31% | -57€ | 176.735 | 183.84999938964845 |
 | **AVGO** | 409.0199890136719 | 2 | 370.30 | -9.47% | -52€ | 334.1 | 339.63999755859373 |
@@ -27,6 +26,7 @@
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € |
 |---|---|---|---|---|---|
+| 2026-07-30 | ADS.DE | 167.4 | 166.22 | -0.70% | -5€ | ❌ |
 | 2026-07-29 | NXPI | 285.0 | 247.44 | -13.18% | -76€ | ❌ |
 | 2026-07-15 | PGR | 218.5 | 216.88 | -0.74% | -7€ | ❌ |
 | 2026-07-14 | YUM | 161.2899932861328 | 155.52 | -3.58% | -40€ | ❌ |

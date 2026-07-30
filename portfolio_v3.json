@@ -1,28 +1,7 @@
 {
-  "balance": 19659.583179111654,
-  "realized_pnl": -340.41682088834494,
+  "balance": 19654.381042028006,
+  "realized_pnl": -345.61895797199327,
   "open": [
-    {
-      "ticker": "ADS.DE",
-      "category": "EUROPE",
-      "status": "active",
-      "entry_price": 167.4,
-      "entry_price_ref": 166.6,
-      "entry_date": "2026-06-01",
-      "size_eur": 738.0,
-      "atr_entry": 11.29,
-      "initial_sl": 144.82,
-      "max_high_since_entry": 188.8000030517578,
-      "chandelier_stop": 166.22000305175783,
-      "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 181.05,
-      "unrealized_pct": 8.15,
-      "unrealized_eur": 60.18
-    },
     {
       "ticker": "SBUX",
       "category": "USA",
@@ -444,7 +423,28 @@
       "current_price": 259.24,
       "unrealized_pct": -9.04,
       "unrealized_eur": -52.21
+    },
+    {
+      "ticker": "ADS.DE",
+      "category": "EUROPE",
+      "status": "closed",
+      "entry_price": 167.4,
+      "entry_price_ref": 166.6,
+      "entry_date": "2026-06-01",
+      "size_eur": 738.0,
+      "atr_entry": 11.29,
+      "initial_sl": 144.82,
+      "max_high_since_entry": 188.8000030517578,
+      "chandelier_stop": 166.22000305175783,
+      "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
+      "close_date": "2026-07-30",
+      "close_price": 166.22,
+      "pnl_pct": -0.7,
+      "pnl_eur": -5.2,
+      "current_price": 181.05,
+      "unrealized_pct": 8.15,
+      "unrealized_eur": 60.18
     }
   ],
-  "unrealized_pnl": 218.07
+  "unrealized_pnl": 157.89
 }
