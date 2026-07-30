@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 563.56,
-      "unrealized_pct": 6.39,
-      "unrealized_eur": 69.2
+      "current_price": 563.38,
+      "unrealized_pct": 6.35,
+      "unrealized_eur": 68.83
     },
     {
       "ticker": "QCOM",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 576.45,
-      "unrealized_pct": 1.13,
-      "unrealized_eur": 8.67
+      "current_price": 576.49,
+      "unrealized_pct": 1.14,
+      "unrealized_eur": 8.72
     },
     {
       "ticker": "MMM",
@@ -250,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 177.99,
-      "unrealized_pct": 4.51,
-      "unrealized_eur": 43.63
+      "current_price": 177.97,
+      "unrealized_pct": 4.5,
+      "unrealized_eur": 43.52
     },
     {
       "ticker": "DE",
@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 611.13,
-      "unrealized_pct": -0.18,
-      "unrealized_eur": -1.4
+      "current_price": 611.07,
+      "unrealized_pct": -0.19,
+      "unrealized_eur": -1.48
     }
   ],
   "closed": [
@@ -446,5 +446,5 @@
       "unrealized_eur": -52.21
     }
   ],
-  "unrealized_pnl": 218.58
+  "unrealized_pnl": 218.07
 }
