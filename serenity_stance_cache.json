@@ -4174,5 +4174,9 @@
  "PYPL:2082608633389715567": {
   "stance": "bearish",
   "conviction": 3
+ },
+ "FORM:2082720873908494456": {
+  "stance": "bullish",
+  "conviction": 4
  }
 }

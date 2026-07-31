@@ -81,6 +81,26 @@
       "current_price": 48.26,
       "unrealized_pct": 4.91,
       "unrealized_eur": 22.6
+    },
+    {
+      "ticker": "FORM",
+      "status": "pending",
+      "signal_date": "2026-07-30",
+      "entry_ref": 106.96499633789062,
+      "atr_entry": 10.205050877162389,
+      "shares": 4,
+      "size_eur": 427.8599853515625,
+      "initial_sl": 86.55489458356584,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
@@ -169,6 +189,6 @@
       "close_reason": "stop_loss"
     }
   ],
-  "last_signal_date": "2026-07-28",
+  "last_signal_date": "2026-07-30",
   "unrealized_pnl": 90.3
 }
