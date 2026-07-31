@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 88.87,
-      "unrealized_pct": 13.86,
-      "unrealized_eur": 64.92
+      "current_price": 88.86,
+      "unrealized_pct": 13.85,
+      "unrealized_eur": 64.86
     },
     {
       "ticker": "CCXI",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 129.8775,
-      "unrealized_pct": 10.07,
-      "unrealized_eur": 47.51
+      "current_price": 129.87,
+      "unrealized_pct": 10.06,
+      "unrealized_eur": 47.48
     },
     {
       "ticker": "AMKR",
@@ -190,5 +190,5 @@
     }
   ],
   "last_signal_date": "2026-07-30",
-  "unrealized_pnl": 91.61
+  "unrealized_pnl": 91.52
 }
