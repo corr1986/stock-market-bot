@@ -1,6 +1,6 @@
 {
-  "balance": 19571.146713128033,
-  "realized_pnl": -428.85328687196534,
+  "balance": 19629.221743117418,
+  "realized_pnl": -370.7782568825822,
   "open": [
     {
       "ticker": "SBUX",
@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 105.85,
-      "unrealized_pct": 2.99,
-      "unrealized_eur": 24.08
+      "current_price": 106.82,
+      "unrealized_pct": 3.93,
+      "unrealized_eur": 31.69
     },
     {
       "ticker": "NVDA",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 195.15,
-      "unrealized_pct": -5.85,
-      "unrealized_eur": -40.36
+      "current_price": 195.31,
+      "unrealized_pct": -5.77,
+      "unrealized_eur": -39.82
     },
     {
       "ticker": "AVGO",
@@ -61,30 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 388.27,
-      "unrealized_pct": -5.07,
-      "unrealized_eur": -27.85
-    },
-    {
-      "ticker": "AAPL",
-      "category": "USA",
-      "status": "active",
-      "entry_price": 294.0849914550781,
-      "entry_price_ref": 308.63,
-      "size_eur": 949.63,
-      "atr_entry": 16.25,
-      "initial_sl": 261.585,
-      "max_high_since_entry": 344.56988525390625,
-      "chandelier_stop": 312.06988525390625,
-      "setup": "RSI sotto 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
-      "entry_date": "2026-07-06",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 333.85,
-      "unrealized_pct": 13.52,
-      "unrealized_eur": 128.41
+      "current_price": 380.82,
+      "unrealized_pct": -6.9,
+      "unrealized_eur": -37.86
     },
     {
       "ticker": "MA",
@@ -103,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 577.64,
-      "unrealized_pct": 9.04,
-      "unrealized_eur": 98.0
+      "current_price": 570.98,
+      "unrealized_pct": 7.79,
+      "unrealized_eur": 84.38
     },
     {
       "ticker": "MRK",
@@ -124,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 129.79,
-      "unrealized_pct": 1.04,
-      "unrealized_eur": 9.19
+      "current_price": 129.15,
+      "unrealized_pct": 0.54,
+      "unrealized_eur": 4.8
     },
     {
       "ticker": "BIIB",
@@ -145,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 208.1,
-      "unrealized_pct": -0.44,
-      "unrealized_eur": -3.09
+      "current_price": 204.32,
+      "unrealized_pct": -2.25,
+      "unrealized_eur": -15.96
     },
     {
       "ticker": "MDLZ",
@@ -166,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 63.04,
-      "unrealized_pct": 1.48,
-      "unrealized_eur": 14.62
+      "current_price": 63.05,
+      "unrealized_pct": 1.49,
+      "unrealized_eur": 14.7
     },
     {
       "ticker": "TMO",
@@ -187,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 576.66,
-      "unrealized_pct": 1.17,
-      "unrealized_eur": 8.95
+      "current_price": 566.75,
+      "unrealized_pct": -0.57,
+      "unrealized_eur": -4.37
     },
     {
       "ticker": "MMM",
@@ -208,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 176.12,
-      "unrealized_pct": 3.41,
-      "unrealized_eur": 33.01
+      "current_price": 175.1,
+      "unrealized_pct": 2.81,
+      "unrealized_eur": 27.19
     },
     {
       "ticker": "DE",
@@ -229,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 599.82,
-      "unrealized_pct": -2.02,
-      "unrealized_eur": -16.05
+      "current_price": 591.41,
+      "unrealized_pct": -3.4,
+      "unrealized_eur": -26.94
     }
   ],
   "closed": [
@@ -444,7 +423,28 @@
       "current_price": 155.28,
       "unrealized_pct": -17.19,
       "unrealized_eur": -66.27
+    },
+    {
+      "ticker": "AAPL",
+      "category": "USA",
+      "status": "closed",
+      "entry_price": 294.0849914550781,
+      "entry_price_ref": 308.63,
+      "size_eur": 949.63,
+      "atr_entry": 16.25,
+      "initial_sl": 261.585,
+      "max_high_since_entry": 344.56988525390625,
+      "chandelier_stop": 312.06988525390625,
+      "setup": "RSI sotto 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
+      "entry_date": "2026-07-06",
+      "close_date": "2026-07-31",
+      "close_price": 312.0699,
+      "pnl_pct": 6.12,
+      "pnl_eur": 58.08,
+      "current_price": 333.85,
+      "unrealized_pct": 13.52,
+      "unrealized_eur": 128.41
     }
   ],
-  "unrealized_pnl": 228.91
+  "unrealized_pnl": 37.81
 }
