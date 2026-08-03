@@ -241,6 +241,42 @@
       "current_price": 149.78,
       "unrealized_pct": 0.79,
       "unrealized_eur": 3.97
+    },
+    {
+      "id": "MSFT_2026-08-03",
+      "ticker": "MSFT",
+      "category": "USA",
+      "entry_date": "2026-08-03",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 32.6,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "RACE_2026-08-03",
+      "ticker": "RACE",
+      "category": "USA",
+      "entry_date": "2026-08-03",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 24.49,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "MDLZ_2026-08-03",
+      "ticker": "MDLZ",
+      "category": "USA",
+      "entry_date": "2026-08-03",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 3.26,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
