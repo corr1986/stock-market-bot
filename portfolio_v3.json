@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 573.38,
-      "unrealized_pct": 8.24,
-      "unrealized_eur": 89.29
+      "current_price": 573.18,
+      "unrealized_pct": 8.2,
+      "unrealized_eur": 88.88
     },
     {
       "ticker": "MRK",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 130.22,
+      "current_price": 130.23,
       "unrealized_pct": 1.38,
-      "unrealized_eur": 12.13
+      "unrealized_eur": 12.17
     },
     {
       "ticker": "BIIB",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 574.12,
-      "unrealized_pct": 0.72,
-      "unrealized_eur": 5.54
+      "current_price": 574.38,
+      "unrealized_pct": 0.77,
+      "unrealized_eur": 5.89
     },
     {
       "ticker": "MMM",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 176.27,
-      "unrealized_pct": 3.5,
-      "unrealized_eur": 33.86
+      "current_price": 176.31,
+      "unrealized_pct": 3.52,
+      "unrealized_eur": 34.09
     },
     {
       "ticker": "DE",
@@ -215,38 +215,44 @@
     {
       "ticker": "MSFT",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 449.5849914550781,
       "entry_price_ref": 464.72,
       "size_eur": 712.76,
       "atr_entry": 32.6,
-      "initial_sl": 399.52,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 399.52,
+      "initial_sl": 384.385,
+      "max_high_since_entry": 466.8399963378906,
+      "chandelier_stop": 401.63999633789064,
       "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
-      "entry_date": null,
+      "entry_date": "2026-08-03",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 464.92,
+      "unrealized_pct": 3.41,
+      "unrealized_eur": 24.31
     },
     {
       "ticker": "BKNG",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 191.64999389648438,
       "entry_price_ref": 192.9,
       "size_eur": 648.19,
       "atr_entry": 14.88,
-      "initial_sl": 163.14,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 163.14,
+      "initial_sl": 161.89,
+      "max_high_since_entry": 204.60000610351562,
+      "chandelier_stop": 174.84000610351563,
       "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
-      "entry_date": null,
+      "entry_date": "2026-08-03",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 192.9,
+      "unrealized_pct": 0.65,
+      "unrealized_eur": 4.23
     },
     {
       "ticker": "KER.PA",
@@ -500,5 +506,5 @@
       "unrealized_eur": 128.41
     }
   ],
-  "unrealized_pnl": 68.85
+  "unrealized_pnl": 97.6
 }
