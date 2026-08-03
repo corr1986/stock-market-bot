@@ -257,20 +257,23 @@
     {
       "ticker": "KER.PA",
       "category": "EUROPE",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 283.70001220703125,
       "entry_price_ref": 284.2,
       "size_eur": 595.56,
       "atr_entry": 23.86,
-      "initial_sl": 236.48,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 236.48,
+      "initial_sl": 235.98,
+      "max_high_since_entry": 292.3999938964844,
+      "chandelier_stop": 244.67999389648438,
       "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
-      "entry_date": null,
+      "entry_date": "2026-08-03",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 285.65,
+      "unrealized_pct": 0.69,
+      "unrealized_eur": 4.09
     }
   ],
   "closed": [
@@ -506,5 +509,5 @@
       "unrealized_eur": 128.41
     }
   ],
-  "unrealized_pnl": 97.6
+  "unrealized_pnl": 101.69
 }
