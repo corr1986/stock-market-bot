@@ -4178,5 +4178,17 @@
  "FORM:2082720873908494456": {
   "stance": "bullish",
   "conviction": 4
+ },
+ "NVTS:2083106805949878330": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "POWI:2083106805949878330": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "TE:2083275502517948801": {
+  "stance": "bullish",
+  "conviction": 3
  }
 }
