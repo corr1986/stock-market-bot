@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 88.86,
-      "unrealized_pct": 13.85,
-      "unrealized_eur": 64.86
+      "current_price": 87.41,
+      "unrealized_pct": 11.99,
+      "unrealized_eur": 56.16
     },
     {
       "ticker": "CCXI",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 13.86,
-      "unrealized_pct": -7.72,
-      "unrealized_eur": -37.12
+      "current_price": 15.33,
+      "unrealized_pct": 2.06,
+      "unrealized_eur": 9.92
     },
     {
       "ticker": "ORCL",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 129.87,
-      "unrealized_pct": 10.06,
-      "unrealized_eur": 47.48
+      "current_price": 139.6518,
+      "unrealized_pct": 18.35,
+      "unrealized_eur": 86.61
     },
     {
       "ticker": "AMKR",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 49.87,
-      "unrealized_pct": 8.41,
-      "unrealized_eur": 38.7
+      "current_price": 49.94,
+      "unrealized_pct": 8.57,
+      "unrealized_eur": 39.4
     },
     {
       "ticker": "FORM",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 106.2,
-      "unrealized_pct": -5.01,
-      "unrealized_eur": -22.4
+      "current_price": 108.3,
+      "unrealized_pct": -3.13,
+      "unrealized_eur": -14.0
     }
   ],
   "closed": [
@@ -190,5 +190,5 @@
     }
   ],
   "last_signal_date": "2026-07-30",
-  "unrealized_pnl": 91.52
+  "unrealized_pnl": 178.09
 }
