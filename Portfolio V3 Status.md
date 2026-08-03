@@ -1,5 +1,5 @@
 # Portfolio V3 — Stock Market Bot
-*Aggiornato: 03/08/2026 10:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
+*Aggiornato: 03/08/2026 11:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
 *[portfolio_v3.json](portfolio_v3.json)*
 
 ## Riepilogo
@@ -22,7 +22,7 @@
 | **DE** | 612.2100219726562 | 2 | 592.75 | -3.18% | -25€ | 532.99 | 564.769990234375 |
 | **MSFT** | 449.5849914550781 | 2 | 464.92 | +3.41% | +24€ | 384.385 | 401.63999633789064 |
 | **BKNG** | 191.64999389648438 | 4 | 192.90 | +0.65% | +4€ | 161.89 | 174.84000610351563 |
-| **KER.PA** | 283.70001220703125 | 3 | 290.60 | +2.43% | +14€ | 235.98 | 244.67999389648438 |
+| **KER.PA** | 283.70001220703125 | 3 | 290.35 | +2.34% | +14€ | 235.98 | 244.67999389648438 |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € |
