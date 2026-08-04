@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 279.9,
-      "unrealized_pct": -1.34,
-      "unrealized_eur": -7.98
+      "current_price": 279.35,
+      "unrealized_pct": -1.53,
+      "unrealized_eur": -9.13
     }
   ],
   "closed": [
@@ -509,5 +509,5 @@
       "unrealized_eur": 128.41
     }
   ],
-  "unrealized_pnl": 121.41
+  "unrealized_pnl": 120.26
 }
