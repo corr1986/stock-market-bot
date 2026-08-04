@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 571.0,
+      "current_price": 570.99,
       "unrealized_pct": 7.79,
-      "unrealized_eur": 84.42
+      "unrealized_eur": 84.4
     },
     {
       "ticker": "MRK",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 127.81,
-      "unrealized_pct": -0.5,
-      "unrealized_eur": -4.39
+      "current_price": 127.77,
+      "unrealized_pct": -0.53,
+      "unrealized_eur": -4.66
     },
     {
       "ticker": "BIIB",
@@ -509,5 +509,5 @@
       "unrealized_eur": 128.41
     }
   ],
-  "unrealized_pnl": 143.12
+  "unrealized_pnl": 142.83
 }
