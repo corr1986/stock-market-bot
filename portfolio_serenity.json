@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 146.94,
-      "unrealized_pct": 24.53,
-      "unrealized_eur": 115.76
+      "current_price": 147.02,
+      "unrealized_pct": 24.59,
+      "unrealized_eur": 116.08
     },
     {
       "ticker": "AMKR",
@@ -230,5 +230,5 @@
     }
   ],
   "last_signal_date": "2026-08-06",
-  "unrealized_pnl": 327.51
+  "unrealized_pnl": 327.83
 }
