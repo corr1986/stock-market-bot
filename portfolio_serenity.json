@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 86.94,
-      "unrealized_pct": 11.39,
-      "unrealized_eur": 53.34
+      "current_price": 87.57,
+      "unrealized_pct": 12.2,
+      "unrealized_eur": 57.12
     },
     {
       "ticker": "CCXI",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 16.4,
-      "unrealized_pct": 9.19,
-      "unrealized_eur": 44.16
+      "current_price": 16.75,
+      "unrealized_pct": 11.52,
+      "unrealized_eur": 55.36
     },
     {
       "ticker": "ORCL",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 143.47,
-      "unrealized_pct": 21.58,
-      "unrealized_eur": 101.88
+      "current_price": 145.815,
+      "unrealized_pct": 23.57,
+      "unrealized_eur": 111.26
     },
     {
       "ticker": "AMKR",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 54.16,
-      "unrealized_pct": 17.74,
-      "unrealized_eur": 81.6
+      "current_price": 55.27,
+      "unrealized_pct": 20.15,
+      "unrealized_eur": 92.7
     },
     {
       "ticker": "FORM",
@@ -98,49 +98,49 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 115.21,
-      "unrealized_pct": 3.05,
-      "unrealized_eur": 13.64
+      "current_price": 118.99,
+      "unrealized_pct": 6.43,
+      "unrealized_eur": 28.76
     },
     {
       "ticker": "AEVA",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-08-06",
       "entry_ref": 25.915000915527344,
       "atr_entry": 2.0757145200456892,
       "shares": 19,
       "size_eur": 492.38501739501953,
-      "initial_sl": 21.763571875435964,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 21.458571570260183,
+      "entry_price": 25.610000610351562,
+      "entry_date": "2026-08-07",
+      "deadline": "2026-10-06",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 26.3073,
+      "unrealized_pct": 2.72,
+      "unrealized_eur": 13.25
     },
     {
       "ticker": "VIAV",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-08-06",
       "entry_ref": 39.20000076293945,
       "atr_entry": 3.371428898402623,
       "shares": 12,
       "size_eur": 470.40000915527344,
-      "initial_sl": 32.45714296613421,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 34.95714296613421,
+      "entry_price": 41.70000076293945,
+      "entry_date": "2026-08-07",
+      "deadline": "2026-10-06",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 39.29,
+      "unrealized_pct": -5.78,
+      "unrealized_eur": -28.92
     }
   ],
   "closed": [
@@ -230,5 +230,5 @@
     }
   ],
   "last_signal_date": "2026-08-06",
-  "unrealized_pnl": 294.62
+  "unrealized_pnl": 329.53
 }
