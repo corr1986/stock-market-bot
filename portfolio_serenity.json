@@ -101,6 +101,46 @@
       "current_price": 115.21,
       "unrealized_pct": 3.05,
       "unrealized_eur": 13.64
+    },
+    {
+      "ticker": "AEVA",
+      "status": "pending",
+      "signal_date": "2026-08-06",
+      "entry_ref": 25.915000915527344,
+      "atr_entry": 2.0757145200456892,
+      "shares": 19,
+      "size_eur": 492.38501739501953,
+      "initial_sl": 21.763571875435964,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
+    },
+    {
+      "ticker": "VIAV",
+      "status": "pending",
+      "signal_date": "2026-08-06",
+      "entry_ref": 39.20000076293945,
+      "atr_entry": 3.371428898402623,
+      "shares": 12,
+      "size_eur": 470.40000915527344,
+      "initial_sl": 32.45714296613421,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
@@ -189,6 +229,6 @@
       "close_reason": "stop_loss"
     }
   ],
-  "last_signal_date": "2026-07-30",
+  "last_signal_date": "2026-08-06",
   "unrealized_pnl": 294.62
 }
