@@ -141,6 +141,66 @@
       "current_price": 39.14,
       "unrealized_pct": -6.14,
       "unrealized_eur": -30.72
+    },
+    {
+      "ticker": "MXL",
+      "status": "pending",
+      "signal_date": "2026-08-07",
+      "entry_ref": 73.03500366210938,
+      "atr_entry": 8.621422358921595,
+      "shares": 6,
+      "size_eur": 438.21002197265625,
+      "initial_sl": 55.792158944266184,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
+    },
+    {
+      "ticker": "SRL",
+      "status": "pending",
+      "signal_date": "2026-08-07",
+      "entry_ref": 5.989999771118164,
+      "atr_entry": 0.2903785364968436,
+      "shares": 83,
+      "size_eur": 497.1699810028076,
+      "initial_sl": 5.409242698124477,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
+    },
+    {
+      "ticker": "WWR",
+      "status": "pending",
+      "signal_date": "2026-08-07",
+      "entry_ref": 0.626800000667572,
+      "atr_entry": 0.06895713933876582,
+      "shares": 797,
+      "size_eur": 499.5596005320549,
+      "initial_sl": 0.4888857219900404,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
@@ -229,6 +289,6 @@
       "close_reason": "stop_loss"
     }
   ],
-  "last_signal_date": "2026-08-06",
+  "last_signal_date": "2026-08-07",
   "unrealized_pnl": 327.83
 }

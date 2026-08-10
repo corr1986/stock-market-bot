@@ -4198,5 +4198,37 @@
  "VIAV:2085174977272360987": {
   "stance": "bullish",
   "conviction": 4
+ },
+ "FEAM:2085823672569467005": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "HREE:2085823672569467005": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MXL:2085711500875116887": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SMTC:2085711500875116887": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "SRL:2085823672569467005": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "WWR:2085823672569467005": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "LULU:2086157318065168490": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "NIKE:2086157318065168490": {
+  "stance": "bearish",
+  "conviction": 1
  }
 }
