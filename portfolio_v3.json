@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 562.55,
-      "unrealized_pct": 6.2,
-      "unrealized_eur": 67.14
+      "current_price": 562.75,
+      "unrealized_pct": 6.23,
+      "unrealized_eur": 67.54
     },
     {
       "ticker": "MRK",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 593.88,
+      "current_price": 593.87,
       "unrealized_pct": 4.19,
-      "unrealized_eur": 32.1
+      "unrealized_eur": 32.09
     },
     {
       "ticker": "MMM",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 182.9,
+      "current_price": 182.89,
       "unrealized_pct": 7.39,
-      "unrealized_eur": 71.53
+      "unrealized_eur": 71.47
     },
     {
       "ticker": "DE",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 620.92,
-      "unrealized_pct": 1.42,
-      "unrealized_eur": 11.28
+      "current_price": 620.77,
+      "unrealized_pct": 1.4,
+      "unrealized_eur": 11.09
     },
     {
       "ticker": "MSFT",
@@ -278,38 +278,44 @@
     {
       "ticker": "SHOP",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 147.0,
       "entry_price_ref": 151.57,
       "size_eur": 449.76,
       "atr_entry": 16.85,
-      "initial_sl": 117.87,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 117.87,
+      "initial_sl": 113.3,
+      "max_high_since_entry": 153.86180114746094,
+      "chandelier_stop": 120.16180114746093,
       "setup": "RSI sotto 70, MACD con hist positivo e prezzo sopra SMA20 e SMA50",
-      "entry_date": null,
+      "entry_date": "2026-08-10",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 151.56,
+      "unrealized_pct": 3.1,
+      "unrealized_eur": 13.95
     },
     {
       "ticker": "VRTX",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 487.7699890136719,
       "entry_price_ref": 496.07,
       "size_eur": 857.07,
       "atr_entry": 28.94,
-      "initial_sl": 438.19,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 438.19,
+      "initial_sl": 429.89,
+      "max_high_since_entry": 497.3949890136719,
+      "chandelier_stop": 439.5149890136719,
       "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
-      "entry_date": null,
+      "entry_date": "2026-08-10",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 496.38,
+      "unrealized_pct": 1.77,
+      "unrealized_eur": 15.13
     }
   ],
   "closed": [
@@ -545,5 +551,5 @@
       "unrealized_eur": 128.41
     }
   ],
-  "unrealized_pnl": 453.48
+  "unrealized_pnl": 482.7
 }
