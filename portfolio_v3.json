@@ -274,6 +274,42 @@
       "current_price": 287.25,
       "unrealized_pct": 1.25,
       "unrealized_eur": 7.45
+    },
+    {
+      "ticker": "SHOP",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 151.57,
+      "size_eur": 449.76,
+      "atr_entry": 16.85,
+      "initial_sl": 117.87,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 117.87,
+      "setup": "RSI sotto 70, MACD con hist positivo e prezzo sopra SMA20 e SMA50",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
+    },
+    {
+      "ticker": "VRTX",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 496.07,
+      "size_eur": 857.07,
+      "atr_entry": 28.94,
+      "initial_sl": 438.19,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 438.19,
+      "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
     }
   ],
   "closed": [
