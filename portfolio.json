@@ -286,6 +286,30 @@
       "current_price": 62.6,
       "unrealized_pct": -1.19,
       "unrealized_eur": -5.97
+    },
+    {
+      "id": "SHOP_2026-08-10",
+      "ticker": "SHOP",
+      "category": "USA",
+      "entry_date": "2026-08-10",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 16.85,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "PFE_2026-08-10",
+      "ticker": "PFE",
+      "category": "USA",
+      "entry_date": "2026-08-10",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 1.2,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
