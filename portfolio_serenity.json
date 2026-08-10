@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 87.58,
-      "unrealized_pct": 12.21,
-      "unrealized_eur": 57.18
+      "current_price": 88.44,
+      "unrealized_pct": 13.31,
+      "unrealized_eur": 62.34
     },
     {
       "ticker": "CCXI",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 16.615,
-      "unrealized_pct": 10.62,
-      "unrealized_eur": 51.04
+      "current_price": 16.54,
+      "unrealized_pct": 10.12,
+      "unrealized_eur": 48.64
     },
     {
       "ticker": "ORCL",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 147.02,
-      "unrealized_pct": 24.59,
-      "unrealized_eur": 116.08
+      "current_price": 149.3501,
+      "unrealized_pct": 26.57,
+      "unrealized_eur": 125.4
     },
     {
       "ticker": "AMKR",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 55.27,
-      "unrealized_pct": 20.15,
-      "unrealized_eur": 92.7
+      "current_price": 53.815,
+      "unrealized_pct": 16.99,
+      "unrealized_eur": 78.15
     },
     {
       "ticker": "FORM",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 117.39,
-      "unrealized_pct": 5.0,
-      "unrealized_eur": 22.36
+      "current_price": 112.95,
+      "unrealized_pct": 1.03,
+      "unrealized_eur": 4.6
     },
     {
       "ticker": "AEVA",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 26.62,
-      "unrealized_pct": 3.94,
-      "unrealized_eur": 19.19
+      "current_price": 23.875,
+      "unrealized_pct": -6.77,
+      "unrealized_eur": -32.97
     },
     {
       "ticker": "VIAV",
@@ -138,69 +138,69 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 39.14,
-      "unrealized_pct": -6.14,
-      "unrealized_eur": -30.72
+      "current_price": 37.51,
+      "unrealized_pct": -10.05,
+      "unrealized_eur": -50.28
     },
     {
       "ticker": "MXL",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-08-07",
       "entry_ref": 73.03500366210938,
       "atr_entry": 8.621422358921595,
       "shares": 6,
       "size_eur": 438.21002197265625,
-      "initial_sl": 55.792158944266184,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 58.51715741838728,
+      "entry_price": 75.76000213623047,
+      "entry_date": "2026-08-10",
+      "deadline": "2026-10-09",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 70.02,
+      "unrealized_pct": -7.58,
+      "unrealized_eur": -34.44
     },
     {
       "ticker": "SRL",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-08-07",
       "entry_ref": 5.989999771118164,
       "atr_entry": 0.2903785364968436,
       "shares": 83,
       "size_eur": 497.1699810028076,
-      "initial_sl": 5.409242698124477,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 5.2692428316388815,
+      "entry_price": 5.849999904632568,
+      "entry_date": "2026-08-10",
+      "deadline": "2026-10-09",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 5.83,
+      "unrealized_pct": -0.34,
+      "unrealized_eur": -1.66
     },
     {
       "ticker": "WWR",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-08-07",
       "entry_ref": 0.626800000667572,
       "atr_entry": 0.06895713933876582,
       "shares": 797,
       "size_eur": 499.5596005320549,
-      "initial_sl": 0.4888857219900404,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 0.5120856974806105,
+      "entry_price": 0.6499999761581421,
+      "entry_date": "2026-08-10",
+      "deadline": "2026-10-09",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 0.6388,
+      "unrealized_pct": -1.72,
+      "unrealized_eur": -8.93
     }
   ],
   "closed": [
@@ -290,5 +290,5 @@
     }
   ],
   "last_signal_date": "2026-08-07",
-  "unrealized_pnl": 327.83
+  "unrealized_pnl": 190.85
 }
