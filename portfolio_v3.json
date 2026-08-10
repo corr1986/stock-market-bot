@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 105.59,
-      "unrealized_pct": 2.73,
-      "unrealized_eur": 22.04
+      "current_price": 104.61,
+      "unrealized_pct": 1.78,
+      "unrealized_eur": 14.36
     },
     {
       "ticker": "NVDA",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 223.98,
-      "unrealized_pct": 8.06,
-      "unrealized_eur": 55.6
+      "current_price": 221.98,
+      "unrealized_pct": 7.09,
+      "unrealized_eur": 48.93
     },
     {
       "ticker": "AVGO",
@@ -53,17 +53,17 @@
       "size_eur": 549.05,
       "atr_entry": 37.46,
       "initial_sl": 334.1,
-      "max_high_since_entry": 430.82000732421875,
-      "chandelier_stop": 355.90000732421873,
+      "max_high_since_entry": 432.5613098144531,
+      "chandelier_stop": 357.6413098144531,
       "setup": "RSI < 70, MACD favorevole, prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-06-22",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 427.52,
-      "unrealized_pct": 4.52,
-      "unrealized_eur": 24.84
+      "current_price": 432.39,
+      "unrealized_pct": 5.71,
+      "unrealized_eur": 31.36
     },
     {
       "ticker": "MA",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 562.75,
-      "unrealized_pct": 6.23,
-      "unrealized_eur": 67.54
+      "current_price": 560.69,
+      "unrealized_pct": 5.84,
+      "unrealized_eur": 63.33
     },
     {
       "ticker": "MRK",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 128.57,
-      "unrealized_pct": 0.09,
-      "unrealized_eur": 0.82
+      "current_price": 129.38,
+      "unrealized_pct": 0.72,
+      "unrealized_eur": 6.34
     },
     {
       "ticker": "BIIB",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 207.96,
-      "unrealized_pct": -0.5,
-      "unrealized_eur": -3.57
+      "current_price": 208.76,
+      "unrealized_pct": -0.12,
+      "unrealized_eur": -0.83
     },
     {
       "ticker": "MDLZ",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 62.6,
-      "unrealized_pct": 0.76,
-      "unrealized_eur": 7.47
+      "current_price": 61.57,
+      "unrealized_pct": -0.89,
+      "unrealized_eur": -8.82
     },
     {
       "ticker": "TMO",
@@ -158,17 +158,17 @@
       "size_eur": 766.26,
       "atr_entry": 37.08,
       "initial_sl": 495.84,
-      "max_high_since_entry": 594.260009765625,
-      "chandelier_stop": 520.100009765625,
+      "max_high_since_entry": 596.4000244140625,
+      "chandelier_stop": 522.2400244140625,
       "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-07-27",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 593.87,
-      "unrealized_pct": 4.19,
-      "unrealized_eur": 32.09
+      "current_price": 594.43,
+      "unrealized_pct": 4.29,
+      "unrealized_eur": 32.84
     },
     {
       "ticker": "MMM",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 182.89,
-      "unrealized_pct": 7.39,
-      "unrealized_eur": 71.47
+      "current_price": 181.52,
+      "unrealized_pct": 6.58,
+      "unrealized_eur": 63.69
     },
     {
       "ticker": "DE",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 620.77,
-      "unrealized_pct": 1.4,
-      "unrealized_eur": 11.09
+      "current_price": 613.58,
+      "unrealized_pct": 0.22,
+      "unrealized_eur": 1.77
     },
     {
       "ticker": "MSFT",
@@ -221,17 +221,17 @@
       "size_eur": 712.76,
       "atr_entry": 32.6,
       "initial_sl": 384.385,
-      "max_high_since_entry": 505.17999267578125,
-      "chandelier_stop": 439.97999267578126,
+      "max_high_since_entry": 509.510009765625,
+      "chandelier_stop": 444.310009765625,
       "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-08-03",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 499.89,
-      "unrealized_pct": 11.19,
-      "unrealized_eur": 79.75
+      "current_price": 508.23,
+      "unrealized_pct": 13.04,
+      "unrealized_eur": 92.97
     },
     {
       "ticker": "BKNG",
@@ -250,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 214.43,
-      "unrealized_pct": 11.88,
-      "unrealized_eur": 77.03
+      "current_price": 209.54,
+      "unrealized_pct": 9.34,
+      "unrealized_eur": 60.52
     },
     {
       "ticker": "KER.PA",
@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 285.25,
-      "unrealized_pct": 0.55,
-      "unrealized_eur": 3.25
+      "current_price": 283.35,
+      "unrealized_pct": -0.12,
+      "unrealized_eur": -0.73
     },
     {
       "ticker": "SHOP",
@@ -284,17 +284,17 @@
       "size_eur": 449.76,
       "atr_entry": 16.85,
       "initial_sl": 113.3,
-      "max_high_since_entry": 153.86180114746094,
-      "chandelier_stop": 120.16180114746093,
+      "max_high_since_entry": 154.3885040283203,
+      "chandelier_stop": 120.68850402832031,
       "setup": "RSI sotto 70, MACD con hist positivo e prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-08-10",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 151.56,
-      "unrealized_pct": 3.1,
-      "unrealized_eur": 13.95
+      "current_price": 153.65,
+      "unrealized_pct": 4.52,
+      "unrealized_eur": 20.35
     },
     {
       "ticker": "VRTX",
@@ -305,17 +305,17 @@
       "size_eur": 857.07,
       "atr_entry": 28.94,
       "initial_sl": 429.89,
-      "max_high_since_entry": 497.3949890136719,
-      "chandelier_stop": 439.5149890136719,
+      "max_high_since_entry": 546.1699829101562,
+      "chandelier_stop": 488.28998291015625,
       "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-08-10",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 496.38,
-      "unrealized_pct": 1.77,
-      "unrealized_eur": 15.13
+      "current_price": 525.08,
+      "unrealized_pct": 7.65,
+      "unrealized_eur": 65.56
     }
   ],
   "closed": [
@@ -551,5 +551,5 @@
       "unrealized_eur": 128.41
     }
   ],
-  "unrealized_pnl": 478.5
+  "unrealized_pnl": 491.64
 }
