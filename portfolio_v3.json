@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 274.25,
-      "unrealized_pct": -3.33,
-      "unrealized_eur": -19.84
+      "current_price": 275.2,
+      "unrealized_pct": -3.0,
+      "unrealized_eur": -17.84
     },
     {
       "ticker": "SHOP",
@@ -551,5 +551,5 @@
       "unrealized_eur": 128.41
     }
   ],
-  "unrealized_pnl": 486.48
+  "unrealized_pnl": 488.48
 }
