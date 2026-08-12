@@ -4234,5 +4234,17 @@
  "ASTS:2086634510935118161": {
   "stance": "bullish",
   "conviction": 2
+ },
+ "ANET:2087266070919012664": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "RIOT:2086988264448409739": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SMCI:2087280662802026931": {
+  "stance": "bullish",
+  "conviction": 4
  }
 }
