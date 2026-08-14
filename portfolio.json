@@ -13,9 +13,9 @@
       "atr": 19.63,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 381.75,
-      "unrealized_pct": -0.05,
-      "unrealized_eur": -0.26
+      "current_price": 382.45,
+      "unrealized_pct": 0.13,
+      "unrealized_eur": 0.65
     },
     {
       "id": "A_2026-06-01",
@@ -73,9 +73,9 @@
       "atr": 8.55,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 182.67,
-      "unrealized_pct": 13.17,
-      "unrealized_eur": 65.86
+      "current_price": 182.69,
+      "unrealized_pct": 13.18,
+      "unrealized_eur": 65.92
     },
     {
       "id": "AVGO_2026-06-22",
@@ -515,5 +515,5 @@
       "days_held": 43
     }
   ],
-  "unrealized_pnl": 518.3
+  "unrealized_pnl": 519.27
 }
