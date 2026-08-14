@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 182.69,
-      "unrealized_pct": 7.27,
-      "unrealized_eur": 70.34
+      "current_price": 182.67,
+      "unrealized_pct": 7.26,
+      "unrealized_eur": 70.22
     },
     {
       "ticker": "DE",
@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 270.05,
-      "unrealized_pct": -4.81,
-      "unrealized_eur": -28.65
+      "current_price": 269.45,
+      "unrealized_pct": -5.02,
+      "unrealized_eur": -29.91
     },
     {
       "ticker": "SHOP",
@@ -551,5 +551,5 @@
       "unrealized_eur": 128.41
     }
   ],
-  "unrealized_pnl": 581.49
+  "unrealized_pnl": 580.11
 }
