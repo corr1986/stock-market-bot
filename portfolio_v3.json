@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 135.86,
-      "unrealized_pct": 5.77,
-      "unrealized_eur": 50.8
+      "current_price": 135.85,
+      "unrealized_pct": 5.76,
+      "unrealized_eur": 50.73
     },
     {
       "ticker": "BIIB",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 608.74,
+      "current_price": 608.73,
       "unrealized_pct": -0.57,
-      "unrealized_eur": -4.49
+      "unrealized_eur": -4.51
     },
     {
       "ticker": "MSFT",
@@ -320,56 +320,65 @@
     {
       "ticker": "CVX",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 198.8699951171875,
       "entry_price_ref": 200.0,
       "size_eur": 944.29,
       "atr_entry": 10.59,
-      "initial_sl": 178.82,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 178.82,
+      "initial_sl": 177.69,
+      "max_high_since_entry": 201.6300048828125,
+      "chandelier_stop": 180.4500048828125,
       "setup": "Prezzo in aumento, RSI sotto 70, MACD favorevole e settore energia in forza",
-      "entry_date": null,
+      "entry_date": "2026-08-17",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 200.01,
+      "unrealized_pct": 0.57,
+      "unrealized_eur": 5.41
     },
     {
       "ticker": "XOM",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 159.7100067138672,
       "entry_price_ref": 160.1,
       "size_eur": 905.54,
       "atr_entry": 8.84,
-      "initial_sl": 142.42,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 142.42,
+      "initial_sl": 142.03,
+      "max_high_since_entry": 161.6699981689453,
+      "chandelier_stop": 143.9899981689453,
       "setup": "Prezzo in aumento, RSI sotto 70, MACD favorevole e settore energia in forza",
-      "entry_date": null,
+      "entry_date": "2026-08-17",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 160.09,
+      "unrealized_pct": 0.24,
+      "unrealized_eur": 2.15
     },
     {
       "ticker": "GILD",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 136.80999755859375,
       "entry_price_ref": 138.36,
       "size_eur": 903.13,
       "atr_entry": 7.66,
-      "initial_sl": 123.04,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 123.04,
+      "initial_sl": 121.49,
+      "max_high_since_entry": 138.4324951171875,
+      "chandelier_stop": 123.1124951171875,
       "setup": "Prezzo in aumento, RSI sotto 70, MACD favorevole e settore healthcare in forza",
-      "entry_date": null,
+      "entry_date": "2026-08-17",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 138.36,
+      "unrealized_pct": 1.13,
+      "unrealized_eur": 10.23
     }
   ],
   "closed": [
@@ -605,5 +614,5 @@
       "unrealized_eur": 128.41
     }
   ],
-  "unrealized_pnl": 486.95
+  "unrealized_pnl": 504.65
 }
