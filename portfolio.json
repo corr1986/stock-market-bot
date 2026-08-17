@@ -301,6 +301,42 @@
       "current_price": 26.78,
       "unrealized_pct": 0.75,
       "unrealized_eur": 3.76
+    },
+    {
+      "id": "CVX_2026-08-17",
+      "ticker": "CVX",
+      "category": "USA",
+      "entry_date": "2026-08-17",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 10.59,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "COP_2026-08-17",
+      "ticker": "COP",
+      "category": "USA",
+      "entry_date": "2026-08-17",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 7.72,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "NEM_2026-08-17",
+      "ticker": "NEM",
+      "category": "USA",
+      "entry_date": "2026-08-17",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 10.27,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
