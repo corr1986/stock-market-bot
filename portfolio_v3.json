@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 562.32,
-      "unrealized_pct": 6.15,
-      "unrealized_eur": 66.66
+      "current_price": 562.39,
+      "unrealized_pct": 6.17,
+      "unrealized_eur": 66.81
     },
     {
       "ticker": "MRK",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 599.86,
-      "unrealized_pct": -2.02,
-      "unrealized_eur": -16.0
+      "current_price": 599.95,
+      "unrealized_pct": -2.0,
+      "unrealized_eur": -15.88
     },
     {
       "ticker": "MSFT",
@@ -334,9 +334,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 202.72,
-      "unrealized_pct": 1.94,
-      "unrealized_eur": 18.28
+      "current_price": 202.71,
+      "unrealized_pct": 1.93,
+      "unrealized_eur": 18.23
     },
     {
       "ticker": "XOM",
@@ -614,5 +614,5 @@
       "unrealized_eur": 128.41
     }
   ],
-  "unrealized_pnl": 391.62
+  "unrealized_pnl": 391.84
 }
