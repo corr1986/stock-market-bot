@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 84.765,
-      "unrealized_pct": 8.6,
-      "unrealized_eur": 40.29
+      "current_price": 84.96,
+      "unrealized_pct": 8.85,
+      "unrealized_eur": 41.46
     },
     {
       "ticker": "CCXI",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 14.64,
-      "unrealized_pct": -2.53,
-      "unrealized_eur": -12.16
+      "current_price": 14.6,
+      "unrealized_pct": -2.8,
+      "unrealized_eur": -13.44
     },
     {
       "ticker": "ORCL",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 143.26,
-      "unrealized_pct": 21.41,
-      "unrealized_eur": 101.04
+      "current_price": 143.81,
+      "unrealized_pct": 21.87,
+      "unrealized_eur": 103.24
     },
     {
       "ticker": "AMKR",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 50.895,
-      "unrealized_pct": 10.64,
-      "unrealized_eur": 48.95
+      "current_price": 50.89,
+      "unrealized_pct": 10.63,
+      "unrealized_eur": 48.9
     },
     {
       "ticker": "FORM",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 115.6,
-      "unrealized_pct": 3.4,
-      "unrealized_eur": 15.2
+      "current_price": 114.95,
+      "unrealized_pct": 2.82,
+      "unrealized_eur": 12.6
     },
     {
       "ticker": "VIAV",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 38.77,
-      "unrealized_pct": -7.03,
-      "unrealized_eur": -35.16
+      "current_price": 38.74,
+      "unrealized_pct": -7.1,
+      "unrealized_eur": -35.52
     },
     {
       "ticker": "MXL",
@@ -138,9 +138,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 66.93,
-      "unrealized_pct": -11.66,
-      "unrealized_eur": -52.98
+      "current_price": 66.43,
+      "unrealized_pct": -12.32,
+      "unrealized_eur": -55.98
     },
     {
       "ticker": "SRL",
@@ -158,9 +158,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 5.97,
-      "unrealized_pct": 2.05,
-      "unrealized_eur": 9.96
+      "current_price": 5.96,
+      "unrealized_pct": 1.88,
+      "unrealized_eur": 9.13
     },
     {
       "ticker": "WWR",
@@ -178,9 +178,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 0.567,
-      "unrealized_pct": -12.77,
-      "unrealized_eur": -66.15
+      "current_price": 0.57,
+      "unrealized_pct": -12.31,
+      "unrealized_eur": -63.76
     },
     {
       "ticker": "RIOT",
@@ -198,9 +198,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 19.24,
-      "unrealized_pct": -10.82,
-      "unrealized_eur": -56.04
+      "current_price": 19.38,
+      "unrealized_pct": -10.17,
+      "unrealized_eur": -52.68
     },
     {
       "ticker": "SMCI",
@@ -218,9 +218,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 36.5,
-      "unrealized_pct": 4.32,
-      "unrealized_eur": 19.63
+      "current_price": 36.58,
+      "unrealized_pct": 4.54,
+      "unrealized_eur": 20.67
     }
   ],
   "closed": [
@@ -352,5 +352,5 @@
     }
   ],
   "last_signal_date": "2026-08-13",
-  "unrealized_pnl": 12.58
+  "unrealized_pnl": 14.62
 }
