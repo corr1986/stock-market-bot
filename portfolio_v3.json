@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 104.98,
-      "unrealized_pct": 2.14,
-      "unrealized_eur": 17.26
+      "current_price": 105.12,
+      "unrealized_pct": 2.28,
+      "unrealized_eur": 18.4
     },
     {
       "ticker": "NVDA",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 217.65,
-      "unrealized_pct": 5.01,
-      "unrealized_eur": 34.53
+      "current_price": 217.92,
+      "unrealized_pct": 5.14,
+      "unrealized_eur": 35.43
     },
     {
       "ticker": "MA",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 573.87,
-      "unrealized_pct": 8.33,
-      "unrealized_eur": 90.29
+      "current_price": 574.27,
+      "unrealized_pct": 8.41,
+      "unrealized_eur": 91.11
     },
     {
       "ticker": "MRK",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 152.22,
-      "unrealized_pct": 18.51,
-      "unrealized_eur": 162.94
+      "current_price": 149.57,
+      "unrealized_pct": 16.44,
+      "unrealized_eur": 144.78
     },
     {
       "ticker": "BIIB",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 221.56,
-      "unrealized_pct": 6.0,
-      "unrealized_eur": 42.65
+      "current_price": 219.62,
+      "unrealized_pct": 5.08,
+      "unrealized_eur": 36.06
     },
     {
       "ticker": "MDLZ",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 64.17,
-      "unrealized_pct": 3.29,
-      "unrealized_eur": 32.49
+      "current_price": 64.46,
+      "unrealized_pct": 3.75,
+      "unrealized_eur": 37.02
     },
     {
       "ticker": "TMO",
@@ -137,17 +137,17 @@
       "size_eur": 766.26,
       "atr_entry": 37.08,
       "initial_sl": 495.84,
-      "max_high_since_entry": 620.4749755859375,
-      "chandelier_stop": 546.3149755859375,
+      "max_high_since_entry": 622.989990234375,
+      "chandelier_stop": 548.829990234375,
       "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-07-27",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 613.72,
-      "unrealized_pct": 7.67,
-      "unrealized_eur": 58.77
+      "current_price": 617.05,
+      "unrealized_pct": 8.26,
+      "unrealized_eur": 63.26
     },
     {
       "ticker": "MMM",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 180.61,
-      "unrealized_pct": 6.05,
-      "unrealized_eur": 58.52
+      "current_price": 180.54,
+      "unrealized_pct": 6.01,
+      "unrealized_eur": 58.12
     },
     {
       "ticker": "DE",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 580.85,
-      "unrealized_pct": -5.12,
-      "unrealized_eur": -40.62
+      "current_price": 606.32,
+      "unrealized_pct": -0.96,
+      "unrealized_eur": -7.63
     },
     {
       "ticker": "MSFT",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 484.48,
-      "unrealized_pct": 7.76,
-      "unrealized_eur": 55.32
+      "current_price": 482.98,
+      "unrealized_pct": 7.43,
+      "unrealized_eur": 52.95
     },
     {
       "ticker": "BKNG",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 213.01,
-      "unrealized_pct": 11.15,
-      "unrealized_eur": 72.24
+      "current_price": 211.12,
+      "unrealized_pct": 10.16,
+      "unrealized_eur": 65.87
     },
     {
       "ticker": "KER.PA",
@@ -250,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 253.3,
-      "unrealized_pct": -10.72,
-      "unrealized_eur": -63.82
+      "current_price": 252.4,
+      "unrealized_pct": -11.03,
+      "unrealized_eur": -65.71
     },
     {
       "ticker": "SHOP",
@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 146.64,
-      "unrealized_pct": -0.24,
-      "unrealized_eur": -1.1
+      "current_price": 144.86,
+      "unrealized_pct": -1.46,
+      "unrealized_eur": -6.55
     },
     {
       "ticker": "VRTX",
@@ -292,9 +292,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 552.15,
-      "unrealized_pct": 13.2,
-      "unrealized_eur": 113.12
+      "current_price": 544.91,
+      "unrealized_pct": 11.71,
+      "unrealized_eur": 100.4
     },
     {
       "ticker": "CVX",
@@ -305,17 +305,17 @@
       "size_eur": 944.29,
       "atr_entry": 10.59,
       "initial_sl": 177.69,
-      "max_high_since_entry": 207.67999267578125,
-      "chandelier_stop": 186.49999267578124,
+      "max_high_since_entry": 208.89999389648438,
+      "chandelier_stop": 187.71999389648437,
       "setup": "Prezzo in aumento, RSI sotto 70, MACD favorevole e settore energia in forza",
       "entry_date": "2026-08-17",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 205.78,
-      "unrealized_pct": 3.47,
-      "unrealized_eur": 32.81
+      "current_price": 207.55,
+      "unrealized_pct": 4.37,
+      "unrealized_eur": 41.24
     },
     {
       "ticker": "XOM",
@@ -334,9 +334,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 164.81,
-      "unrealized_pct": 3.19,
-      "unrealized_eur": 28.92
+      "current_price": 167.76,
+      "unrealized_pct": 5.04,
+      "unrealized_eur": 45.67
     },
     {
       "ticker": "GILD",
@@ -355,9 +355,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 147.63,
-      "unrealized_pct": 7.91,
-      "unrealized_eur": 71.43
+      "current_price": 144.96,
+      "unrealized_pct": 5.95,
+      "unrealized_eur": 53.77
     }
   ],
   "closed": [
@@ -614,5 +614,5 @@
       "unrealized_eur": -65.57
     }
   ],
-  "unrealized_pnl": 765.75
+  "unrealized_pnl": 764.19
 }
