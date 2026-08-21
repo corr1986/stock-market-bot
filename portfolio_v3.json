@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 149.18,
-      "unrealized_pct": 16.14,
-      "unrealized_eur": 142.1
+      "current_price": 149.16,
+      "unrealized_pct": 16.12,
+      "unrealized_eur": 141.97
     },
     {
       "ticker": "BIIB",
@@ -250,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 251.1,
-      "unrealized_pct": -11.49,
-      "unrealized_eur": -68.44
+      "current_price": 251.3,
+      "unrealized_pct": -11.42,
+      "unrealized_eur": -68.02
     },
     {
       "ticker": "SHOP",
@@ -614,5 +614,5 @@
       "unrealized_eur": -65.57
     }
   ],
-  "unrealized_pnl": 710.02
+  "unrealized_pnl": 710.31
 }
