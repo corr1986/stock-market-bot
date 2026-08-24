@@ -346,6 +346,30 @@
       "current_price": 131.59,
       "unrealized_pct": 10.22,
       "unrealized_eur": 51.09
+    },
+    {
+      "id": "DE_2026-08-24",
+      "ticker": "DE",
+      "category": "USA",
+      "entry_date": "2026-08-24",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 41.41,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "ECL_2026-08-24",
+      "ticker": "ECL",
+      "category": "USA",
+      "entry_date": "2026-08-24",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 13.34,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
