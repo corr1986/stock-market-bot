@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 580.6,
-      "unrealized_pct": 9.6,
-      "unrealized_eur": 104.06
+      "current_price": 580.62,
+      "unrealized_pct": 9.61,
+      "unrealized_eur": 104.09
     },
     {
       "ticker": "MRK",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 152.52,
-      "unrealized_pct": 18.74,
-      "unrealized_eur": 165.0
+      "current_price": 152.53,
+      "unrealized_pct": 18.75,
+      "unrealized_eur": 165.07
     },
     {
       "ticker": "BIIB",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 178.95,
-      "unrealized_pct": 5.07,
-      "unrealized_eur": 49.09
+      "current_price": 178.96,
+      "unrealized_pct": 5.08,
+      "unrealized_eur": 49.14
     },
     {
       "ticker": "DE",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 647.61,
-      "unrealized_pct": 5.78,
-      "unrealized_eur": 45.85
+      "current_price": 647.48,
+      "unrealized_pct": 5.76,
+      "unrealized_eur": 45.68
     },
     {
       "ticker": "MSFT",
@@ -313,9 +313,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 205.26,
-      "unrealized_pct": 3.21,
-      "unrealized_eur": 30.34
+      "current_price": 205.27,
+      "unrealized_pct": 3.22,
+      "unrealized_eur": 30.39
     },
     {
       "ticker": "XOM",
@@ -362,56 +362,65 @@
     {
       "ticker": "OXY",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 61.53499984741211,
       "entry_price_ref": 61.3,
       "size_eur": 733.25,
       "atr_entry": 4.18,
-      "initial_sl": 52.94,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 52.94,
+      "initial_sl": 53.175,
+      "max_high_since_entry": 62.14500045776367,
+      "chandelier_stop": 53.78500045776367,
       "setup": "Energy leader with +5% weekly, bullish MACD (line > signal), RSI 61.8, price above SMA20/50 in risk‑on environment",
-      "entry_date": null,
+      "entry_date": "2026-08-24",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 61.29,
+      "unrealized_pct": -0.39,
+      "unrealized_eur": -2.86
     },
     {
       "ticker": "DVN",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 49.44499969482422,
       "entry_price_ref": 49.1,
       "size_eur": 728.49,
       "atr_entry": 3.37,
-      "initial_sl": 42.36,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 42.36,
+      "initial_sl": 42.705,
+      "max_high_since_entry": 49.720001220703125,
+      "chandelier_stop": 42.98000122070312,
       "setup": "Energy stock up +7% weekly, MACD bullish, RSI 60.2, price above SMA20/50, aligns with strong energy sector",
-      "entry_date": null,
+      "entry_date": "2026-08-24",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 49.1,
+      "unrealized_pct": -0.7,
+      "unrealized_eur": -5.08
     },
     {
       "ticker": "CRM",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 205.5800018310547,
       "entry_price_ref": 209.17,
       "size_eur": 580.06,
       "atr_entry": 18.03,
-      "initial_sl": 173.11,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 173.11,
+      "initial_sl": 169.52,
+      "max_high_since_entry": 211.07000732421875,
+      "chandelier_stop": 175.01000732421875,
       "setup": "Tech leader gaining +6.6% weekly, bullish MACD crossover, RSI 58.6, price above SMA20/50, suitable for moderate risk‑on",
-      "entry_date": null,
+      "entry_date": "2026-08-24",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 209.15,
+      "unrealized_pct": 1.74,
+      "unrealized_eur": 10.07
     }
   ],
   "closed": [
@@ -668,5 +677,5 @@
       "unrealized_eur": -65.57
     }
   ],
-  "unrealized_pnl": 850.87
+  "unrealized_pnl": 853.03
 }
