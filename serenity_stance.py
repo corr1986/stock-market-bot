@@ -8,7 +8,9 @@ import json
 import os
 import time
 
-STANCE_MODEL = "llama-3.3-70b-versatile"
+from config import GROQ_MODEL, GROQ_MAX_TOKENS_STANCE
+
+STANCE_MODEL = GROQ_MODEL
 CACHE_PATH = "serenity_stance_cache.json"
 MAX_RETRIES = 3
 
@@ -75,7 +77,7 @@ def classify_event(event, client, cache):
                     {"role": "system", "content": SYSTEM_PROMPT},
                     {"role": "user", "content": user},
                 ],
-                max_tokens=60,
+                max_tokens=GROQ_MAX_TOKENS_STANCE,
                 temperature=0.0,
             )
             result = parse_stance_response(resp.choices[0].message.content)

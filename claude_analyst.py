@@ -1,6 +1,6 @@
 from groq import Groq
 import json
-from config import GROQ_API_KEY
+from config import GROQ_API_KEY, GROQ_MODEL, GROQ_MAX_TOKENS_SIGNALS
 
 SYSTEM_PROMPT = """Sei un analista finanziario esperto di trading algoritmico e analisi tecnica.
 Ogni giorno lavorativo ricevi uno snapshot pre-filtrato dei mercati: i migliori candidati rialzisti tra indici globali, azioni USA e azioni europee.
@@ -49,12 +49,12 @@ def generate_report(snapshot: dict, date: str) -> str:
     )
 
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model=GROQ_MODEL,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": prompt},
         ],
-        max_tokens=1024,
+        max_tokens=GROQ_MAX_TOKENS_SIGNALS,
         temperature=0.3,
     )
 

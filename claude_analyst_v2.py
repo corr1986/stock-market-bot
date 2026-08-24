@@ -5,7 +5,7 @@ Usa lo stesso modello Groq di v1 ma con prompt arricchito.
 
 from groq import Groq
 import json
-from config import GROQ_API_KEY
+from config import GROQ_API_KEY, GROQ_MODEL, GROQ_MAX_TOKENS_SIGNALS
 
 SYSTEM_PROMPT = """Sei un analista finanziario esperto che integra analisi tecnica, analisi macro e notizie recenti.
 Ogni lunedi ricevi: (1) il contesto macro e settoriale della settimana, (2) notizie recenti sui candidati, (3) uno snapshot tecnico pre-filtrato.
@@ -107,12 +107,12 @@ def generate_signals(
     )
 
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model=GROQ_MODEL,
         messages=[
             {"role": "system", "content": system},
             {"role": "user",   "content": prompt},
         ],
-        max_tokens=800,
+        max_tokens=GROQ_MAX_TOKENS_SIGNALS,
         temperature=0.2,
     )
 
@@ -145,12 +145,12 @@ def generate_report(snapshot: dict, date: str, macro_context: str = "", news_con
     )
 
     response = client.chat.completions.create(
-        model="llama-3.3-70b-versatile",
+        model=GROQ_MODEL,
         messages=[
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user",   "content": prompt},
         ],
-        max_tokens=1500,
+        max_tokens=GROQ_MAX_TOKENS_SIGNALS,
         temperature=0.3,
     )
 

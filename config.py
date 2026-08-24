@@ -11,6 +11,19 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 GROQ_API_KEY      = os.getenv("GROQ_API_KEY")
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 
+# Modello Groq — UNICO punto da aggiornare quando Groq dismette un modello
+# (24/08/2026: llama-3.3-70b-versatile rimosso dal catalogo senza preavviso,
+# i segnali V3 del lunedì sono falliti). Verificare i modelli disponibili con:
+#   curl -H "Authorization: Bearer $GROQ_API_KEY" https://api.groq.com/openai/v1/models
+GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
+
+# I modelli gpt-oss sono modelli di *reasoning*: consumano token in
+# ragionamento interno prima di produrre la risposta visibile. Con un budget
+# troppo stretto si ottiene finish_reason='length' e content vuoto, quindi
+# nessun segnale. Valori misurati sul campo, non abbassare sotto questi.
+GROQ_MAX_TOKENS_STANCE  = 300    # Serenity: classificazione stance (JSON breve)
+GROQ_MAX_TOKENS_SIGNALS = 2000   # V3/V1: selezione segnali (JSON piu' lungo)
+
 # Watchlist USA — universo backtest ottimale (186 titoli)
 # Fonte: market_data.pkl — backtest Bloomberg V2 SL=2.0 RR=2.0 2020-2026
 # Rimossi vs lista precedente: LRCX, CRWD, PLTR, ABNB, APD, WELL, WFC
