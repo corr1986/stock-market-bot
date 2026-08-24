@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 87.93,
-      "unrealized_pct": 12.66,
-      "unrealized_eur": 59.28
+      "current_price": 86.13,
+      "unrealized_pct": 10.35,
+      "unrealized_eur": 48.48
     },
     {
       "ticker": "CCXI",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 14.57,
-      "unrealized_pct": -3.0,
-      "unrealized_eur": -14.4
+      "current_price": 14.26,
+      "unrealized_pct": -5.06,
+      "unrealized_eur": -24.32
     },
     {
       "ticker": "ORCL",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 146.47,
-      "unrealized_pct": 24.13,
-      "unrealized_eur": 113.88
+      "current_price": 142.7766,
+      "unrealized_pct": 21.0,
+      "unrealized_eur": 99.11
     },
     {
       "ticker": "AMKR",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 50.26,
-      "unrealized_pct": 9.26,
-      "unrealized_eur": 42.6
+      "current_price": 47.635,
+      "unrealized_pct": 3.55,
+      "unrealized_eur": 16.35
     },
     {
       "ticker": "FORM",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 114.16,
-      "unrealized_pct": 2.11,
-      "unrealized_eur": 9.44
+      "current_price": 105.325,
+      "unrealized_pct": -5.79,
+      "unrealized_eur": -25.9
     },
     {
       "ticker": "VIAV",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 38.9,
-      "unrealized_pct": -6.71,
-      "unrealized_eur": -33.6
+      "current_price": 36.91,
+      "unrealized_pct": -11.49,
+      "unrealized_eur": -57.48
     },
     {
       "ticker": "MXL",
@@ -138,9 +138,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 66.61,
-      "unrealized_pct": -12.08,
-      "unrealized_eur": -54.9
+      "current_price": 62.1,
+      "unrealized_pct": -18.03,
+      "unrealized_eur": -81.96
     },
     {
       "ticker": "SRL",
@@ -158,9 +158,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 5.93,
-      "unrealized_pct": 1.37,
-      "unrealized_eur": 6.64
+      "current_price": 5.88,
+      "unrealized_pct": 0.51,
+      "unrealized_eur": 2.49
     },
     {
       "ticker": "WWR",
@@ -178,9 +178,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 0.6025,
-      "unrealized_pct": -7.31,
-      "unrealized_eur": -37.86
+      "current_price": 0.5917,
+      "unrealized_pct": -8.97,
+      "unrealized_eur": -46.47
     },
     {
       "ticker": "RIOT",
@@ -198,9 +198,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 19.83,
-      "unrealized_pct": -8.09,
-      "unrealized_eur": -41.88
+      "current_price": 20.55,
+      "unrealized_pct": -4.75,
+      "unrealized_eur": -24.6
     },
     {
       "ticker": "SMCI",
@@ -218,69 +218,69 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 37.24,
-      "unrealized_pct": 6.43,
-      "unrealized_eur": 29.25
+      "current_price": 34.5887,
+      "unrealized_pct": -1.15,
+      "unrealized_eur": -5.22
     },
     {
       "ticker": "UMAC",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-08-14",
       "entry_ref": 24.434999465942383,
       "atr_entry": 3.2393575395856584,
       "shares": 20,
       "size_eur": 488.69998931884766,
-      "initial_sl": 17.956284386771067,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 20.12128530229841,
+      "entry_price": 26.600000381469727,
+      "entry_date": "2026-08-24",
+      "deadline": "2026-10-23",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 25.04,
+      "unrealized_pct": -5.86,
+      "unrealized_eur": -31.2
     },
     {
       "ticker": "AMAT",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-08-16",
       "entry_ref": 476.1199951171875,
       "atr_entry": 26.191647197779893,
       "shares": 1,
       "size_eur": 476.1199951171875,
-      "initial_sl": 423.7367007216277,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 429.4917056044402,
+      "entry_price": 481.875,
+      "entry_date": "2026-08-24",
+      "deadline": "2026-10-23",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 477.69,
+      "unrealized_pct": -0.87,
+      "unrealized_eur": -4.18
     },
     {
       "ticker": "HPS",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-08-18",
       "entry_ref": 13.984999656677246,
       "atr_entry": 0.09575494822262025,
       "shares": 35,
       "size_eur": 489.4749879837036,
-      "initial_sl": 13.793489760232006,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 13.768490141701733,
+      "entry_price": 13.960000038146973,
+      "entry_date": "2026-08-24",
+      "deadline": "2026-10-23",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 13.9609,
+      "unrealized_pct": 0.01,
+      "unrealized_eur": 0.03
     }
   ],
   "closed": [
@@ -412,5 +412,5 @@
     }
   ],
   "last_signal_date": "2026-08-18",
-  "unrealized_pnl": 78.45
+  "unrealized_pnl": -134.87
 }
