@@ -4254,5 +4254,57 @@
  "IQE:2087733927930929435": {
   "stance": "bullish",
   "conviction": 5
+ },
+ "ONDS:2088181416148562017": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "RCAT:2088181416148562017": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "SHKY:2088226398708338889": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "UMAC:2088181416148562017": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ARM:2088514723969159216": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "RPI:2088514723969159216": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "AMAT:2088850910529323315": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "KN:2089189149563838878": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "HPS:2089753753625018830": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "MELI:2089748568852799580": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "VPG:2089749225768915037": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "MRNA:2090374603264929981": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "YMTC:2090374603264929981": {
+  "stance": "neutral",
+  "conviction": 1
  }
 }

@@ -221,6 +221,66 @@
       "current_price": 37.24,
       "unrealized_pct": 6.43,
       "unrealized_eur": 29.25
+    },
+    {
+      "ticker": "UMAC",
+      "status": "pending",
+      "signal_date": "2026-08-14",
+      "entry_ref": 24.434999465942383,
+      "atr_entry": 3.2393575395856584,
+      "shares": 20,
+      "size_eur": 488.69998931884766,
+      "initial_sl": 17.956284386771067,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
+    },
+    {
+      "ticker": "AMAT",
+      "status": "pending",
+      "signal_date": "2026-08-16",
+      "entry_ref": 476.1199951171875,
+      "atr_entry": 26.191647197779893,
+      "shares": 1,
+      "size_eur": 476.1199951171875,
+      "initial_sl": 423.7367007216277,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
+    },
+    {
+      "ticker": "HPS",
+      "status": "pending",
+      "signal_date": "2026-08-18",
+      "entry_ref": 13.984999656677246,
+      "atr_entry": 0.09575494822262025,
+      "shares": 35,
+      "size_eur": 489.4749879837036,
+      "initial_sl": 13.793489760232006,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
@@ -351,6 +411,6 @@
       "close_reason": "stop_loss"
     }
   ],
-  "last_signal_date": "2026-08-13",
+  "last_signal_date": "2026-08-18",
   "unrealized_pnl": 78.45
 }
