@@ -83,8 +83,8 @@
       "pnl_pct": null,
       "pnl_eur": null,
       "current_price": 156.45,
-      "unrealized_pct": 21.79,
-      "unrealized_eur": 191.9
+      "unrealized_pct": 21.8,
+      "unrealized_eur": 191.94
     },
     {
       "ticker": "BIIB",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 628.02,
-      "unrealized_pct": 10.18,
-      "unrealized_eur": 78.0
+      "current_price": 628.16,
+      "unrealized_pct": 10.2,
+      "unrealized_eur": 78.19
     },
     {
       "ticker": "MMM",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 179.38,
-      "unrealized_pct": 5.33,
-      "unrealized_eur": 51.53
+      "current_price": 179.35,
+      "unrealized_pct": 5.31,
+      "unrealized_eur": 51.39
     },
     {
       "ticker": "DE",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 630.86,
-      "unrealized_pct": 3.05,
-      "unrealized_eur": 24.16
+      "current_price": 630.67,
+      "unrealized_pct": 3.02,
+      "unrealized_eur": 23.91
     },
     {
       "ticker": "MSFT",
@@ -334,9 +334,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 160.62,
-      "unrealized_pct": 0.57,
-      "unrealized_eur": 5.16
+      "current_price": 160.64,
+      "unrealized_pct": 0.58,
+      "unrealized_eur": 5.27
     },
     {
       "ticker": "GILD",
@@ -418,9 +418,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 205.69,
-      "unrealized_pct": 0.05,
-      "unrealized_eur": 0.31
+      "current_price": 205.71,
+      "unrealized_pct": 0.06,
+      "unrealized_eur": 0.37
     }
   ],
   "closed": [
@@ -677,5 +677,5 @@
       "unrealized_eur": -65.57
     }
   ],
-  "unrealized_pnl": 798.03
+  "unrealized_pnl": 798.04
 }
