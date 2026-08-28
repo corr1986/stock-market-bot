@@ -13,9 +13,9 @@
       "atr": 19.63,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 387.7,
-      "unrealized_pct": 1.51,
-      "unrealized_eur": 7.53
+      "current_price": 388.05,
+      "unrealized_pct": 1.6,
+      "unrealized_eur": 7.99
     },
     {
       "id": "A_2026-06-01",
@@ -590,5 +590,5 @@
       "days_held": 43
     }
   ],
-  "unrealized_pnl": 583.49
+  "unrealized_pnl": 583.95
 }
