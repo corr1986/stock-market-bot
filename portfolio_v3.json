@@ -421,6 +421,42 @@
       "current_price": 256.24,
       "unrealized_pct": 24.64,
       "unrealized_eur": 142.94
+    },
+    {
+      "ticker": "AMZN",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 266.43,
+      "size_eur": 770.47,
+      "atr_entry": 17.29,
+      "initial_sl": 231.85,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 231.85,
+      "setup": "AMZN sopra SMA20/50, MACD positivo, RSI 57, e‑commerce/AI con momentum rialzista",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
+    },
+    {
+      "ticker": "SPGI",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 442.89,
+      "size_eur": 825.36,
+      "atr_entry": 26.83,
+      "initial_sl": 389.23,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 389.23,
+      "setup": "SPGI sopra SMA20/50, MACD bullish, RSI 56, esposizione al settore finanziario in crescita",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
     }
   ],
   "closed": [
