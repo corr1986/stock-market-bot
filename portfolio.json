@@ -376,6 +376,42 @@
       "current_price": 286.84,
       "unrealized_pct": 0.98,
       "unrealized_eur": 4.89
+    },
+    {
+      "id": "GIS_2026-08-31",
+      "ticker": "GIS",
+      "category": "USA",
+      "entry_date": "2026-08-31",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 2.41,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "SLB_2026-08-31",
+      "ticker": "SLB",
+      "category": "USA",
+      "entry_date": "2026-08-31",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 3.95,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "NVDA_2026-08-31",
+      "ticker": "NVDA",
+      "category": "USA",
+      "entry_date": "2026-08-31",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 16.54,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
