@@ -4311,5 +4311,53 @@
   "stance": "bearish",
   "conviction": 3
  },
- "SIMO:2092851118233764178": null
+ "SIMO:2092851118233764178": null,
+ "KLIC:2093712497949950242": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "AAON:2094027369648681284": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "CRDO:2094027369648681284": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "IBKR:2094098755415114118": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "IESC:2094027369648681284": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "JCI:2094027369648681284": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "LPKF:2093947848580858123": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "MOD:2094027369648681284": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "MTRS:2094027369648681284": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "NVT:2094027369648681284": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "PRY:2094027369648681284": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "XFAB:2093947848580858123": {
+  "stance": "neutral",
+  "conviction": 2
+ }
 }
