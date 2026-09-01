@@ -1,6 +1,6 @@
 {
-  "balance": 49588.659999999996,
-  "realized_pnl": -411.34,
+  "balance": 49404.009999999995,
+  "realized_pnl": -595.99,
   "open": [
     {
       "ticker": "GM",
@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 86.32,
-      "unrealized_pct": 10.6,
-      "unrealized_eur": 49.62
+      "current_price": 85.585,
+      "unrealized_pct": 9.65,
+      "unrealized_eur": 45.21
     },
     {
       "ticker": "CCXI",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 13.375,
-      "unrealized_pct": -10.95,
-      "unrealized_eur": -52.64
+      "current_price": 13.11,
+      "unrealized_pct": -12.72,
+      "unrealized_eur": -61.12
     },
     {
       "ticker": "ORCL",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 149.12,
-      "unrealized_pct": 26.37,
-      "unrealized_eur": 124.48
+      "current_price": 141.125,
+      "unrealized_pct": 19.6,
+      "unrealized_eur": 92.5
     },
     {
       "ticker": "AMKR",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 47.3,
-      "unrealized_pct": 2.83,
-      "unrealized_eur": 13.0
+      "current_price": 45.73,
+      "unrealized_pct": -0.59,
+      "unrealized_eur": -2.7
     },
     {
       "ticker": "FORM",
@@ -98,49 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 100.61,
-      "unrealized_pct": -10.01,
-      "unrealized_eur": -44.76
-    },
-    {
-      "ticker": "VIAV",
-      "status": "active",
-      "signal_date": "2026-08-06",
-      "entry_ref": 39.20000076293945,
-      "atr_entry": 3.371428898402623,
-      "shares": 12,
-      "size_eur": 470.40000915527344,
-      "initial_sl": 34.95714296613421,
-      "entry_price": 41.70000076293945,
-      "entry_date": "2026-08-07",
-      "deadline": "2026-10-06",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 36.29,
-      "unrealized_pct": -12.97,
-      "unrealized_eur": -64.92
-    },
-    {
-      "ticker": "MXL",
-      "status": "active",
-      "signal_date": "2026-08-07",
-      "entry_ref": 73.03500366210938,
-      "atr_entry": 8.621422358921595,
-      "shares": 6,
-      "size_eur": 438.21002197265625,
-      "initial_sl": 58.51715741838728,
-      "entry_price": 75.76000213623047,
-      "entry_date": "2026-08-10",
-      "deadline": "2026-10-09",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 59.91,
-      "unrealized_pct": -20.92,
-      "unrealized_eur": -95.1
+      "current_price": 95.955,
+      "unrealized_pct": -14.17,
+      "unrealized_eur": -63.38
     },
     {
       "ticker": "SRL",
@@ -158,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 5.84,
-      "unrealized_pct": -0.17,
-      "unrealized_eur": -0.83
+      "current_price": 5.85,
+      "unrealized_pct": 0.0,
+      "unrealized_eur": 0.0
     },
     {
       "ticker": "WWR",
@@ -178,9 +138,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 0.5857,
-      "unrealized_pct": -9.89,
-      "unrealized_eur": -51.25
+      "current_price": 0.573,
+      "unrealized_pct": -11.85,
+      "unrealized_eur": -61.37
     },
     {
       "ticker": "RIOT",
@@ -198,9 +158,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 18.995,
-      "unrealized_pct": -11.96,
-      "unrealized_eur": -61.92
+      "current_price": 18.055,
+      "unrealized_pct": -16.32,
+      "unrealized_eur": -84.48
     },
     {
       "ticker": "SMCI",
@@ -218,9 +178,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 37.28,
-      "unrealized_pct": 6.54,
-      "unrealized_eur": 29.77
+      "current_price": 36.39,
+      "unrealized_pct": 4.0,
+      "unrealized_eur": 18.2
     },
     {
       "ticker": "UMAC",
@@ -238,9 +198,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 23.67,
-      "unrealized_pct": -11.02,
-      "unrealized_eur": -58.6
+      "current_price": 22.97,
+      "unrealized_pct": -13.65,
+      "unrealized_eur": -72.6
     },
     {
       "ticker": "AMAT",
@@ -258,9 +218,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 458.39,
-      "unrealized_pct": -4.87,
-      "unrealized_eur": -23.48
+      "current_price": 440.97,
+      "unrealized_pct": -8.49,
+      "unrealized_eur": -40.9
     },
     {
       "ticker": "HPS",
@@ -278,9 +238,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 13.88,
-      "unrealized_pct": -0.57,
-      "unrealized_eur": -2.8
+      "current_price": 13.805,
+      "unrealized_pct": -1.11,
+      "unrealized_eur": -5.42
     },
     {
       "ticker": "KLIC",
@@ -298,9 +258,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 80.06,
-      "unrealized_pct": -2.2,
-      "unrealized_eur": -10.8
+      "current_price": 77.75,
+      "unrealized_pct": -5.02,
+      "unrealized_eur": -24.66
     }
   ],
   "closed": [
@@ -429,8 +389,50 @@
       "unrealized_pct": -15.01,
       "unrealized_eur": -84.66,
       "close_reason": "stop_loss"
+    },
+    {
+      "ticker": "VIAV",
+      "status": "closed",
+      "signal_date": "2026-08-06",
+      "entry_ref": 39.20000076293945,
+      "atr_entry": 3.371428898402623,
+      "shares": 12,
+      "size_eur": 470.40000915527344,
+      "initial_sl": 34.95714296613421,
+      "entry_price": 41.70000076293945,
+      "entry_date": "2026-08-07",
+      "deadline": "2026-10-06",
+      "close_date": "2026-09-01",
+      "close_price": 34.9571,
+      "pnl_pct": -16.17,
+      "pnl_eur": -80.91,
+      "current_price": 34.9044,
+      "unrealized_pct": -16.3,
+      "unrealized_eur": -81.55,
+      "close_reason": "stop_loss"
+    },
+    {
+      "ticker": "MXL",
+      "status": "closed",
+      "signal_date": "2026-08-07",
+      "entry_ref": 73.03500366210938,
+      "atr_entry": 8.621422358921595,
+      "shares": 6,
+      "size_eur": 438.21002197265625,
+      "initial_sl": 58.51715741838728,
+      "entry_price": 75.76000213623047,
+      "entry_date": "2026-08-10",
+      "deadline": "2026-10-09",
+      "close_date": "2026-09-01",
+      "close_price": 58.47,
+      "pnl_pct": -22.82,
+      "pnl_eur": -103.74,
+      "current_price": 57.24,
+      "unrealized_pct": -24.45,
+      "unrealized_eur": -111.12,
+      "close_reason": "stop_loss"
     }
   ],
   "last_signal_date": "2026-08-29",
-  "unrealized_pnl": -250.23
+  "unrealized_pnl": -260.72
 }
