@@ -4359,5 +4359,37 @@
  "XFAB:2093947848580858123": {
   "stance": "neutral",
   "conviction": 2
+ },
+ "GLW:2094298008955535500": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "KEYS:2094298008955535500": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "QCOM:2094408196769423727": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "QQQ:2094516012557427002": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "CAPA:2094704372831920324": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CXMT:2094704372831920324": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "HUT:2094585395224981709": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "STM:2094704372831920324": {
+  "stance": "neutral",
+  "conviction": 2
  }
 }
