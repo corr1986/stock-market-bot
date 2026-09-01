@@ -1,6 +1,6 @@
 {
-  "balance": 19560.479776487093,
-  "realized_pnl": -439.52022351290566,
+  "balance": 19480.875823373623,
+  "realized_pnl": -519.1241766263762,
   "open": [
     {
       "ticker": "SBUX",
@@ -232,27 +232,6 @@
       "current_price": 199.07,
       "unrealized_pct": 3.87,
       "unrealized_eur": 25.1
-    },
-    {
-      "ticker": "KER.PA",
-      "category": "EUROPE",
-      "status": "active",
-      "entry_price": 283.70001220703125,
-      "entry_price_ref": 284.2,
-      "size_eur": 595.56,
-      "atr_entry": 23.86,
-      "initial_sl": 235.98,
-      "max_high_since_entry": 293.5,
-      "chandelier_stop": 245.78,
-      "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
-      "entry_date": "2026-08-03",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 245.9,
-      "unrealized_pct": -13.32,
-      "unrealized_eur": -79.35
     },
     {
       "ticker": "SHOP",
@@ -717,7 +696,28 @@
       "current_price": 360.17,
       "unrealized_pct": -11.94,
       "unrealized_eur": -65.57
+    },
+    {
+      "ticker": "KER.PA",
+      "category": "EUROPE",
+      "status": "closed",
+      "entry_price": 283.70001220703125,
+      "entry_price_ref": 284.2,
+      "size_eur": 595.56,
+      "atr_entry": 23.86,
+      "initial_sl": 235.98,
+      "max_high_since_entry": 293.5,
+      "chandelier_stop": 245.78,
+      "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
+      "entry_date": "2026-08-03",
+      "close_date": "2026-09-01",
+      "close_price": 245.78,
+      "pnl_pct": -13.37,
+      "pnl_eur": -79.6,
+      "current_price": 245.9,
+      "unrealized_pct": -13.32,
+      "unrealized_eur": -79.35
     }
   ],
-  "unrealized_pnl": 846.16
+  "unrealized_pnl": 925.51
 }
