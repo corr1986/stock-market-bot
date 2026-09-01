@@ -1,5 +1,5 @@
 # Portfolio Serenity — Stock Market Bot
-*Aggiornato: 31/08/2026 20:20 UTC | Hold 60gg · SL 2×ATR · Segnali @aleabitoreddit*
+*Aggiornato: 01/09/2026 00:02 UTC | Hold 60gg · SL 2×ATR · Segnali @aleabitoreddit*
 *[portfolio_serenity.json](portfolio_serenity.json)*
 
 ## Riepilogo
