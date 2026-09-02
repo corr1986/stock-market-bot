@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 581.23,
-      "unrealized_pct": 9.72,
-      "unrealized_eur": 105.34
+      "current_price": 581.19,
+      "unrealized_pct": 9.71,
+      "unrealized_eur": 105.26
     },
     {
       "ticker": "MRK",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 170.26,
-      "unrealized_pct": -0.03,
-      "unrealized_eur": -0.31
+      "current_price": 170.27,
+      "unrealized_pct": -0.02,
+      "unrealized_eur": -0.23
     },
     {
       "ticker": "DE",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 676.09,
+      "current_price": 676.06,
       "unrealized_pct": 10.43,
-      "unrealized_eur": 82.74
+      "unrealized_eur": 82.7
     },
     {
       "ticker": "MSFT",
@@ -284,8 +284,8 @@
       "size_eur": 944.29,
       "atr_entry": 10.59,
       "initial_sl": 177.69,
-      "max_high_since_entry": 211.07000732421875,
-      "chandelier_stop": 189.89000732421874,
+      "max_high_since_entry": 211.0800018310547,
+      "chandelier_stop": 189.90000183105468,
       "setup": "Prezzo in aumento, RSI sotto 70, MACD favorevole e settore energia in forza",
       "entry_date": "2026-08-17",
       "close_date": null,
@@ -313,9 +313,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 164.56,
+      "current_price": 164.57,
       "unrealized_pct": 3.04,
-      "unrealized_eur": 27.5
+      "unrealized_eur": 27.56
     },
     {
       "ticker": "GILD",
@@ -377,8 +377,8 @@
       "pnl_pct": null,
       "pnl_eur": null,
       "current_price": 49.06,
-      "unrealized_pct": -0.79,
-      "unrealized_eur": -5.75
+      "unrealized_pct": -0.78,
+      "unrealized_eur": -5.67
     },
     {
       "ticker": "CRM",
@@ -397,9 +397,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 258.16,
-      "unrealized_pct": 25.58,
-      "unrealized_eur": 148.36
+      "current_price": 258.18,
+      "unrealized_pct": 25.59,
+      "unrealized_eur": 148.41
     },
     {
       "ticker": "AMZN",
@@ -439,9 +439,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 440.23,
-      "unrealized_pct": 0.97,
-      "unrealized_eur": 8.01
+      "current_price": 440.28,
+      "unrealized_pct": 0.98,
+      "unrealized_eur": 8.1
     }
   ],
   "closed": [
@@ -719,5 +719,5 @@
       "unrealized_eur": -79.35
     }
   ],
-  "unrealized_pnl": 936.74
+  "unrealized_pnl": 936.98
 }
