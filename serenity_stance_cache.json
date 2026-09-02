@@ -4391,5 +4391,17 @@
  "STM:2094704372831920324": {
   "stance": "neutral",
   "conviction": 2
+ },
+ "AA:2094854529967862140": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "BIRD:2094788427602653632": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "GPRO:2094786201605808566": {
+  "stance": "bullish",
+  "conviction": 4
  }
 }

@@ -261,6 +261,46 @@
       "current_price": 78.04,
       "unrealized_pct": -4.67,
       "unrealized_eur": -22.92
+    },
+    {
+      "ticker": "AA",
+      "status": "pending",
+      "signal_date": "2026-09-01",
+      "entry_ref": 51.0,
+      "atr_entry": 2.227999823434012,
+      "shares": 9,
+      "size_eur": 459.0,
+      "initial_sl": 46.54400035313198,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
+    },
+    {
+      "ticker": "GPRO",
+      "status": "pending",
+      "signal_date": "2026-09-01",
+      "entry_ref": 1.4041999578475952,
+      "atr_entry": 0.1255000020776476,
+      "shares": 356,
+      "size_eur": 499.8951849937439,
+      "initial_sl": 1.1531999536923,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
@@ -433,6 +473,6 @@
       "close_reason": "stop_loss"
     }
   ],
-  "last_signal_date": "2026-08-29",
+  "last_signal_date": "2026-09-01",
   "unrealized_pnl": -269.73
 }
