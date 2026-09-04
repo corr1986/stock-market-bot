@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 211.25,
-      "unrealized_pct": 6.23,
-      "unrealized_eur": 58.78
+      "current_price": 211.32,
+      "unrealized_pct": 6.26,
+      "unrealized_eur": 59.12
     },
     {
       "ticker": "XOM",
@@ -719,5 +719,5 @@
       "unrealized_eur": -7.27
     }
   ],
-  "unrealized_pnl": 1155.88
+  "unrealized_pnl": 1156.22
 }
