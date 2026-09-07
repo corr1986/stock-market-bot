@@ -421,6 +421,18 @@
       "current_price": 230.35,
       "unrealized_pct": 5.25,
       "unrealized_eur": 26.23
+    },
+    {
+      "id": "SHEL.L_2026-09-07",
+      "ticker": "SHEL.L",
+      "category": "EUROPE",
+      "entry_date": "2026-09-07",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 212.98,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
