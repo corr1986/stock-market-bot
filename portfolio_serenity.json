@@ -138,9 +138,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 0.5585,
-      "unrealized_pct": -14.08,
-      "unrealized_eur": -72.93
+      "current_price": 0.56,
+      "unrealized_pct": -13.85,
+      "unrealized_eur": -71.73
     },
     {
       "ticker": "RIOT",
@@ -218,9 +218,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 81.615,
-      "unrealized_pct": -0.3,
-      "unrealized_eur": -1.47
+      "current_price": 81.62,
+      "unrealized_pct": -0.29,
+      "unrealized_eur": -1.44
     },
     {
       "ticker": "AA",
@@ -476,5 +476,5 @@
     }
   ],
   "last_signal_date": "2026-09-01",
-  "unrealized_pnl": 240.78
+  "unrealized_pnl": 242.01
 }
