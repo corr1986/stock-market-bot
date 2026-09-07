@@ -4403,5 +4403,41 @@
  "GPRO:2094786201605808566": {
   "stance": "bullish",
   "conviction": 4
+ },
+ "APLD:2095087925822190023": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CORZ:2095087925822190023": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ALMU:2095460499769155944": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "CRM:2095495334722179152": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "DELL:2095565402223038651": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "HOOD:2095565402223038651": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "AMC:2095851749127188691": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "ASML:2095823005595439615": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "OUST:2095960833037926694": {
+  "stance": "neutral",
+  "conviction": 1
  }
 }
