@@ -13,9 +13,9 @@
       "atr": 19.63,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 384.65,
-      "unrealized_pct": 0.71,
-      "unrealized_eur": 3.53
+      "current_price": 384.8,
+      "unrealized_pct": 0.75,
+      "unrealized_eur": 3.73
     },
     {
       "id": "A_2026-06-01",
@@ -433,9 +433,9 @@
       "atr": 212.98,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 3480.74,
-      "unrealized_pct": 1.51,
-      "unrealized_eur": 7.54
+      "current_price": 3488.0,
+      "unrealized_pct": 1.72,
+      "unrealized_eur": 8.6
     }
   ],
   "closed": [
@@ -650,5 +650,5 @@
       "days_held": 43
     }
   ],
-  "unrealized_pnl": 372.55
+  "unrealized_pnl": 373.81
 }
