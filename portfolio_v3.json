@@ -431,17 +431,17 @@
       "size_eur": 806.88,
       "atr_entry": 212.98,
       "initial_sl": 3024.04,
-      "max_high_since_entry": 3497.0,
-      "chandelier_stop": 3071.04,
+      "max_high_since_entry": 3501.0,
+      "chandelier_stop": 3075.04,
       "setup": "Energy leader up +2.8% weekly, MACD strongly bullish, RSI 60.6, price above SMA20/50, high volume, macro supports energy.",
       "entry_date": "2026-09-07",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3494.0,
-      "unrealized_pct": 1.28,
-      "unrealized_eur": 10.29
+      "current_price": 3496.0,
+      "unrealized_pct": 1.33,
+      "unrealized_eur": 10.76
     }
   ],
   "closed": [
@@ -740,5 +740,5 @@
       "unrealized_eur": -7.27
     }
   ],
-  "unrealized_pnl": 991.23
+  "unrealized_pnl": 991.7
 }
