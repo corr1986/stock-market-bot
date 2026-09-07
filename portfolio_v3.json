@@ -421,6 +421,24 @@
       "current_price": 443.46,
       "unrealized_pct": 1.71,
       "unrealized_eur": 14.13
+    },
+    {
+      "ticker": "SHEL.L",
+      "category": "EUROPE",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 3437.0,
+      "size_eur": 806.88,
+      "atr_entry": 212.98,
+      "initial_sl": 3011.04,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 3011.04,
+      "setup": "Energy leader up +2.8% weekly, MACD strongly bullish, RSI 60.6, price above SMA20/50, high volume, macro supports energy.",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
     }
   ],
   "closed": [
