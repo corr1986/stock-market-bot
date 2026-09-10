@@ -4439,5 +4439,13 @@
  "OUST:2095960833037926694": {
   "stance": "neutral",
   "conviction": 1
+ },
+ "META:2097815176838017066": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "NIKE:2097601244898775465": {
+  "stance": "bearish",
+  "conviction": 3
  }
 }
