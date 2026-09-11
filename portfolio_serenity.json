@@ -1,47 +1,7 @@
 {
-  "balance": 49344.93,
-  "realized_pnl": -655.07,
+  "balance": 49311.229999999996,
+  "realized_pnl": -688.77,
   "open": [
-    {
-      "ticker": "GM",
-      "status": "active",
-      "signal_date": "2026-06-29",
-      "entry_ref": 77.8499984741211,
-      "atr_entry": 2.0599991934640065,
-      "shares": 6,
-      "size_eur": 467.09999084472656,
-      "initial_sl": 73.9300046648298,
-      "entry_price": 78.05000305175781,
-      "entry_date": "2026-07-13",
-      "deadline": "2026-09-11",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 86.12,
-      "unrealized_pct": 10.34,
-      "unrealized_eur": 48.42
-    },
-    {
-      "ticker": "CCXI",
-      "status": "active",
-      "signal_date": "2026-06-30",
-      "entry_ref": 15.550000190734863,
-      "atr_entry": 1.9278571946280343,
-      "shares": 32,
-      "size_eur": 497.6000061035156,
-      "initial_sl": 11.164286068507604,
-      "entry_price": 15.020000457763672,
-      "entry_date": "2026-07-13",
-      "deadline": "2026-09-11",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 12.81,
-      "unrealized_pct": -14.71,
-      "unrealized_eur": -70.72
-    },
     {
       "ticker": "ORCL",
       "status": "active",
@@ -58,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 152.94,
-      "unrealized_pct": 29.61,
-      "unrealized_eur": 139.76
+      "current_price": 152.43,
+      "unrealized_pct": 29.18,
+      "unrealized_eur": 137.72
     },
     {
       "ticker": "AMKR",
@@ -78,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 49.53,
-      "unrealized_pct": 7.67,
-      "unrealized_eur": 35.3
+      "current_price": 51.65,
+      "unrealized_pct": 12.28,
+      "unrealized_eur": 56.5
     },
     {
       "ticker": "FORM",
@@ -98,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 112.12,
-      "unrealized_pct": 0.29,
-      "unrealized_eur": 1.28
+      "current_price": 115.48,
+      "unrealized_pct": 3.29,
+      "unrealized_eur": 14.72
     },
     {
       "ticker": "SRL",
@@ -118,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 5.64,
-      "unrealized_pct": -3.59,
-      "unrealized_eur": -17.43
+      "current_price": 5.6501,
+      "unrealized_pct": -3.42,
+      "unrealized_eur": -16.59
     },
     {
       "ticker": "WWR",
@@ -138,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 0.5771,
-      "unrealized_pct": -11.22,
-      "unrealized_eur": -58.1
+      "current_price": 0.565,
+      "unrealized_pct": -13.08,
+      "unrealized_eur": -67.74
     },
     {
       "ticker": "RIOT",
@@ -158,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 20.95,
-      "unrealized_pct": -2.9,
-      "unrealized_eur": -15.0
+      "current_price": 21.595,
+      "unrealized_pct": 0.09,
+      "unrealized_eur": 0.48
     },
     {
       "ticker": "SMCI",
@@ -178,9 +138,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 37.38,
-      "unrealized_pct": 6.83,
-      "unrealized_eur": 31.07
+      "current_price": 39.355,
+      "unrealized_pct": 12.47,
+      "unrealized_eur": 56.74
     },
     {
       "ticker": "UMAC",
@@ -198,9 +158,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 23.53,
-      "unrealized_pct": -11.54,
-      "unrealized_eur": -61.4
+      "current_price": 23.44,
+      "unrealized_pct": -11.88,
+      "unrealized_eur": -63.2
     },
     {
       "ticker": "KLIC",
@@ -218,9 +178,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 82.97,
-      "unrealized_pct": 1.36,
-      "unrealized_eur": 6.66
+      "current_price": 86.505,
+      "unrealized_pct": 5.67,
+      "unrealized_eur": 27.87
     },
     {
       "ticker": "AA",
@@ -238,9 +198,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 48.3,
-      "unrealized_pct": -4.88,
-      "unrealized_eur": -22.32
+      "current_price": 48.46,
+      "unrealized_pct": -4.57,
+      "unrealized_eur": -20.88
     },
     {
       "ticker": "GPRO",
@@ -258,9 +218,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.4,
-      "unrealized_pct": 14.75,
-      "unrealized_eur": 64.08
+      "current_price": 1.425,
+      "unrealized_pct": 16.8,
+      "unrealized_eur": 72.98
     }
   ],
   "closed": [
@@ -473,8 +433,50 @@
       "unrealized_pct": -9.74,
       "unrealized_eur": -46.92,
       "close_reason": "stop_loss"
+    },
+    {
+      "ticker": "GM",
+      "status": "closed",
+      "signal_date": "2026-06-29",
+      "entry_ref": 77.8499984741211,
+      "atr_entry": 2.0599991934640065,
+      "shares": 6,
+      "size_eur": 467.09999084472656,
+      "initial_sl": 73.9300046648298,
+      "entry_price": 78.05000305175781,
+      "entry_date": "2026-07-13",
+      "deadline": "2026-09-11",
+      "close_date": "2026-09-11",
+      "close_price": 86.06,
+      "pnl_pct": 10.26,
+      "pnl_eur": 48.06,
+      "current_price": 86.06,
+      "unrealized_pct": 10.26,
+      "unrealized_eur": 48.06,
+      "close_reason": "deadline"
+    },
+    {
+      "ticker": "CCXI",
+      "status": "closed",
+      "signal_date": "2026-06-30",
+      "entry_ref": 15.550000190734863,
+      "atr_entry": 1.9278571946280343,
+      "shares": 32,
+      "size_eur": 497.6000061035156,
+      "initial_sl": 11.164286068507604,
+      "entry_price": 15.020000457763672,
+      "entry_date": "2026-07-13",
+      "deadline": "2026-09-11",
+      "close_date": "2026-09-11",
+      "close_price": 12.465,
+      "pnl_pct": -17.01,
+      "pnl_eur": -81.76,
+      "current_price": 12.465,
+      "unrealized_pct": -17.01,
+      "unrealized_eur": -81.76,
+      "close_reason": "deadline"
     }
   ],
   "last_signal_date": "2026-09-01",
-  "unrealized_pnl": 81.6
+  "unrealized_pnl": 198.6
 }
