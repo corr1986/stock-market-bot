@@ -379,6 +379,42 @@
       "current_price": 3544.0,
       "unrealized_pct": 2.72,
       "unrealized_eur": 21.98
+    },
+    {
+      "ticker": "META",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 648.03,
+      "size_eur": 598.92,
+      "atr_entry": 54.1,
+      "initial_sl": 539.83,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 539.83,
+      "setup": "Tech/AI forte, RSI 54.7, MACD bullish, prezzo sopra SMA20/50, VIX basso",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
+    },
+    {
+      "ticker": "BP.L",
+      "category": "EUROPE",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 564.6,
+      "size_eur": 757.65,
+      "atr_entry": 37.26,
+      "initial_sl": 490.08,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 490.08,
+      "setup": "Energia europea solida, RSI 57.9, MACD bullish, prezzo sopra SMA20/50, supporto macro",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
     }
   ],
   "closed": [
