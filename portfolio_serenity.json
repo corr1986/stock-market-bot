@@ -221,6 +221,46 @@
       "current_price": 1.38,
       "unrealized_pct": 13.11,
       "unrealized_eur": 56.96
+    },
+    {
+      "ticker": "BWET",
+      "status": "pending",
+      "signal_date": "2026-09-11",
+      "entry_ref": 763.39990234375,
+      "atr_entry": 54.51649475097656,
+      "shares": 1,
+      "size_eur": 763.39990234375,
+      "initial_sl": 654.3669128417969,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
+    },
+    {
+      "ticker": "PLTR",
+      "status": "pending",
+      "signal_date": "2026-09-13",
+      "entry_ref": 172.84500122070312,
+      "atr_entry": 7.542143685477121,
+      "shares": 2,
+      "size_eur": 345.69000244140625,
+      "initial_sl": 157.7607138497489,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
@@ -477,6 +517,6 @@
       "close_reason": "deadline"
     }
   ],
-  "last_signal_date": "2026-09-01",
+  "last_signal_date": "2026-09-13",
   "unrealized_pnl": 161.43
 }

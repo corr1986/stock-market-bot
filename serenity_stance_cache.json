@@ -4447,5 +4447,29 @@
  "NIKE:2097601244898775465": {
   "stance": "bearish",
   "conviction": 3
+ },
+ "BWET:2098460337364447442": {
+  "stance": "bullish",
+  "conviction": 5
+ },
+ "DRAM:2098430387693433144": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "EQR:2099126746390139042": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "LULU:2099126746390139042": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "ORCL:2099048356345696391": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "PLTR:2099126746390139042": {
+  "stance": "bullish",
+  "conviction": 4
  }
 }
