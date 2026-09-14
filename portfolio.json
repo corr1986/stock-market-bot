@@ -406,6 +406,42 @@
       "current_price": 3544.0,
       "unrealized_pct": 3.35,
       "unrealized_eur": 16.77
+    },
+    {
+      "id": "META_2026-09-14",
+      "ticker": "META",
+      "category": "USA",
+      "entry_date": "2026-09-14",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 54.1,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "FRE.DE_2026-09-14",
+      "ticker": "FRE.DE",
+      "category": "EUROPE",
+      "entry_date": "2026-09-14",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 2.29,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "OXY_2026-09-14",
+      "ticker": "OXY",
+      "category": "USA",
+      "entry_date": "2026-09-14",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 3.89,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
