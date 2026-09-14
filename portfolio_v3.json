@@ -376,9 +376,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3590.5,
-      "unrealized_pct": 4.07,
-      "unrealized_eur": 32.86
+      "current_price": 3591.0,
+      "unrealized_pct": 4.09,
+      "unrealized_eur": 32.98
     },
     {
       "ticker": "META",
@@ -418,9 +418,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 572.2,
-      "unrealized_pct": -0.07,
-      "unrealized_eur": -0.53
+      "current_price": 572.4,
+      "unrealized_pct": -0.03,
+      "unrealized_eur": -0.26
     }
   ],
   "closed": [
@@ -782,5 +782,5 @@
       "unrealized_eur": -61.86
     }
   ],
-  "unrealized_pnl": 735.31
+  "unrealized_pnl": 735.7
 }
