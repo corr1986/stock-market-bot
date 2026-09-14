@@ -368,17 +368,17 @@
       "size_eur": 806.88,
       "atr_entry": 212.98,
       "initial_sl": 3024.04,
-      "max_high_since_entry": 3580.5,
-      "chandelier_stop": 3154.54,
+      "max_high_since_entry": 3599.0,
+      "chandelier_stop": 3173.04,
       "setup": "Energy leader up +2.8% weekly, MACD strongly bullish, RSI 60.6, price above SMA20/50, high volume, macro supports energy.",
       "entry_date": "2026-09-07",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3544.0,
-      "unrealized_pct": 2.72,
-      "unrealized_eur": 21.98
+      "current_price": 3590.5,
+      "unrealized_pct": 4.07,
+      "unrealized_eur": 32.86
     },
     {
       "ticker": "META",
@@ -404,20 +404,23 @@
     {
       "ticker": "BP.L",
       "category": "EUROPE",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 572.5999755859375,
       "entry_price_ref": 564.6,
       "size_eur": 757.65,
       "atr_entry": 37.26,
-      "initial_sl": 490.08,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 490.08,
+      "initial_sl": 498.08,
+      "max_high_since_entry": 574.2999877929688,
+      "chandelier_stop": 499.77998779296877,
       "setup": "Energia europea solida, RSI 57.9, MACD bullish, prezzo sopra SMA20/50, supporto macro",
-      "entry_date": null,
+      "entry_date": "2026-09-14",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 572.2,
+      "unrealized_pct": -0.07,
+      "unrealized_eur": -0.53
     }
   ],
   "closed": [
@@ -779,5 +782,5 @@
       "unrealized_eur": -61.86
     }
   ],
-  "unrealized_pnl": 724.96
+  "unrealized_pnl": 735.31
 }
