@@ -13,9 +13,9 @@
       "atr": 19.63,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 379.15,
-      "unrealized_pct": -0.73,
-      "unrealized_eur": -3.67
+      "current_price": 378.75,
+      "unrealized_pct": -0.84,
+      "unrealized_eur": -4.19
     },
     {
       "id": "A_2026-06-01",
@@ -403,9 +403,9 @@
       "atr": 212.98,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 3576.0,
-      "unrealized_pct": 4.29,
-      "unrealized_eur": 21.43
+      "current_price": 3582.5,
+      "unrealized_pct": 4.48,
+      "unrealized_eur": 22.38
     },
     {
       "id": "FRE.DE_2026-09-14",
@@ -418,9 +418,9 @@
       "atr": 2.29,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 45.58,
-      "unrealized_pct": 1.48,
-      "unrealized_eur": 7.4
+      "current_price": 45.45,
+      "unrealized_pct": 1.18,
+      "unrealized_eur": 5.9
     },
     {
       "id": "META_2026-09-14",
@@ -707,5 +707,5 @@
       "days_held": 43
     }
   ],
-  "unrealized_pnl": 243.57
+  "unrealized_pnl": 242.5
 }
