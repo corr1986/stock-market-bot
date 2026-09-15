@@ -1,6 +1,6 @@
 {
-  "balance": 49311.229999999996,
-  "realized_pnl": -688.77,
+  "balance": 49271.13,
+  "realized_pnl": -728.87,
   "open": [
     {
       "ticker": "ORCL",
@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 144.79,
-      "unrealized_pct": 22.7,
-      "unrealized_eur": 107.16
+      "current_price": 141.4,
+      "unrealized_pct": 19.83,
+      "unrealized_eur": 93.6
     },
     {
       "ticker": "AMKR",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 47.12,
-      "unrealized_pct": 2.43,
-      "unrealized_eur": 11.2
+      "current_price": 46.11,
+      "unrealized_pct": 0.24,
+      "unrealized_eur": 1.1
     },
     {
       "ticker": "FORM",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 102.94,
-      "unrealized_pct": -7.92,
-      "unrealized_eur": -35.44
+      "current_price": 101.16,
+      "unrealized_pct": -9.52,
+      "unrealized_eur": -42.56
     },
     {
       "ticker": "SRL",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 5.57,
-      "unrealized_pct": -4.79,
-      "unrealized_eur": -23.24
+      "current_price": 5.3832,
+      "unrealized_pct": -7.98,
+      "unrealized_eur": -38.74
     },
     {
       "ticker": "WWR",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 0.568,
-      "unrealized_pct": -12.62,
-      "unrealized_eur": -65.35
+      "current_price": 0.5469,
+      "unrealized_pct": -15.86,
+      "unrealized_eur": -82.17
     },
     {
       "ticker": "RIOT",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 20.95,
-      "unrealized_pct": -2.9,
-      "unrealized_eur": -15.0
+      "current_price": 19.785,
+      "unrealized_pct": -8.3,
+      "unrealized_eur": -42.96
     },
     {
       "ticker": "SMCI",
@@ -138,9 +138,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 36.74,
-      "unrealized_pct": 5.0,
-      "unrealized_eur": 22.75
+      "current_price": 36.2037,
+      "unrealized_pct": 3.47,
+      "unrealized_eur": 15.78
     },
     {
       "ticker": "UMAC",
@@ -158,9 +158,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 22.66,
-      "unrealized_pct": -14.81,
-      "unrealized_eur": -78.8
+      "current_price": 23.2206,
+      "unrealized_pct": -12.7,
+      "unrealized_eur": -67.59
     },
     {
       "ticker": "KLIC",
@@ -178,29 +178,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 79.45,
-      "unrealized_pct": -2.94,
-      "unrealized_eur": -14.46
-    },
-    {
-      "ticker": "AA",
-      "status": "active",
-      "signal_date": "2026-09-01",
-      "entry_ref": 51.0,
-      "atr_entry": 2.227999823434012,
-      "shares": 9,
-      "size_eur": 459.0,
-      "initial_sl": 46.32399913242885,
-      "entry_price": 50.779998779296875,
-      "entry_date": "2026-09-02",
-      "deadline": "2026-11-01",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 46.95,
-      "unrealized_pct": -7.54,
-      "unrealized_eur": -34.47
+      "current_price": 79.33,
+      "unrealized_pct": -3.09,
+      "unrealized_eur": -15.18
     },
     {
       "ticker": "GPRO",
@@ -218,9 +198,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.35,
-      "unrealized_pct": 10.66,
-      "unrealized_eur": 46.28
+      "current_price": 1.295,
+      "unrealized_pct": 6.15,
+      "unrealized_eur": 26.7
     },
     {
       "ticker": "BWET",
@@ -238,9 +218,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 769.72,
-      "unrealized_pct": -0.45,
-      "unrealized_eur": -3.49
+      "current_price": 724.9999,
+      "unrealized_pct": -6.24,
+      "unrealized_eur": -48.21
     },
     {
       "ticker": "PLTR",
@@ -258,9 +238,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 173.31,
-      "unrealized_pct": 2.13,
-      "unrealized_eur": 7.22
+      "current_price": 175.05,
+      "unrealized_pct": 3.15,
+      "unrealized_eur": 10.7
     }
   ],
   "closed": [
@@ -515,8 +495,29 @@
       "unrealized_pct": -17.01,
       "unrealized_eur": -81.76,
       "close_reason": "deadline"
+    },
+    {
+      "ticker": "AA",
+      "status": "closed",
+      "signal_date": "2026-09-01",
+      "entry_ref": 51.0,
+      "atr_entry": 2.227999823434012,
+      "shares": 9,
+      "size_eur": 459.0,
+      "initial_sl": 46.32399913242885,
+      "entry_price": 50.779998779296875,
+      "entry_date": "2026-09-02",
+      "deadline": "2026-11-01",
+      "close_date": "2026-09-15",
+      "close_price": 46.324,
+      "pnl_pct": -8.78,
+      "pnl_eur": -40.1,
+      "current_price": 46.485,
+      "unrealized_pct": -8.46,
+      "unrealized_eur": -38.65,
+      "close_reason": "stop_loss"
     }
   ],
   "last_signal_date": "2026-09-14",
-  "unrealized_pnl": -75.64
+  "unrealized_pnl": -189.53
 }
