@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 573.28,
+      "current_price": 573.3,
       "unrealized_pct": 8.22,
-      "unrealized_eur": 89.08
+      "unrealized_eur": 89.12
     },
     {
       "ticker": "BIIB",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 683.9,
-      "unrealized_pct": 11.71,
-      "unrealized_eur": 92.85
+      "current_price": 684.15,
+      "unrealized_pct": 11.75,
+      "unrealized_eur": 93.18
     },
     {
       "ticker": "MSFT",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 217.74,
-      "unrealized_pct": 9.49,
-      "unrealized_eur": 89.6
+      "current_price": 217.76,
+      "unrealized_pct": 9.5,
+      "unrealized_eur": 89.69
     },
     {
       "ticker": "XOM",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 169.27,
-      "unrealized_pct": 5.99,
-      "unrealized_eur": 54.2
+      "current_price": 169.29,
+      "unrealized_pct": 6.0,
+      "unrealized_eur": 54.32
     },
     {
       "ticker": "GILD",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 63.51,
-      "unrealized_pct": 3.22,
-      "unrealized_eur": 23.59
+      "current_price": 63.52,
+      "unrealized_pct": 3.23,
+      "unrealized_eur": 23.65
     },
     {
       "ticker": "DVN",
@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 255.78,
-      "unrealized_pct": 24.42,
-      "unrealized_eur": 141.64
+      "current_price": 255.9,
+      "unrealized_pct": 24.48,
+      "unrealized_eur": 141.98
     },
     {
       "ticker": "AMZN",
@@ -313,9 +313,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 412.49,
+      "current_price": 412.52,
       "unrealized_pct": -5.39,
-      "unrealized_eur": -44.51
+      "unrealized_eur": -44.45
     },
     {
       "ticker": "SHEL.L",
@@ -782,5 +782,5 @@
       "unrealized_eur": 112.46
     }
   ],
-  "unrealized_pnl": 836.02
+  "unrealized_pnl": 837.06
 }
