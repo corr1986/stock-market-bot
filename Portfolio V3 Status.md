@@ -1,11 +1,11 @@
 # Portfolio V3 — Stock Market Bot
-*Aggiornato: 17/09/2026 08:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
+*Aggiornato: 17/09/2026 09:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
 *[portfolio_v3.json](portfolio_v3.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
 |---|---|---|---|---|---|
-| 19,409€ | +607€ | 20,016€ | -591€ | 19 (3W/16L) | 16% |
+| 19,409€ | +606€ | 20,015€ | -591€ | 19 (3W/16L) | 16% |
 
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | Chandelier |
@@ -25,9 +25,9 @@
 | **CRM** | 205.5800018310547 | 3 | 250.68 | +21.94% | +127€ | 169.52 | 232.20998901367187 |
 | **AMZN** | 258.32000732421875 | 3 | 245.84 | -4.83% | -37€ | 223.74 | 232.97999755859377 |
 | **SPGI** | 436.0 | 2 | 406.77 | -6.70% | -55€ | 382.34 | 401.2600134277344 |
-| **SHEL.L** | 3450.0 | 1 | 3588.08 | +4.00% | +32€ | 3024.04 | 3237.54 |
+| **SHEL.L** | 3450.0 | 1 | 3588.00 | +4.00% | +32€ | 3024.04 | 3237.54 |
 | **META** | 653.02001953125 | 1 | 673.33 | +3.11% | +19€ | 544.82 | 577.1099975585937 |
-| **BP.L** | 572.5999755859375 | 2 | 568.20 | -0.77% | -6€ | 498.08 | 508.0799755859375 |
+| **BP.L** | 572.5999755859375 | 2 | 567.70 | -0.86% | -6€ | 498.08 | 508.0799755859375 |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € |
