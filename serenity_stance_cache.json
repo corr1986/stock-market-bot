@@ -4476,5 +4476,17 @@
   "stance": "bullish",
   "conviction": 4
  },
- "CRWD:2099659874892386678": null
+ "CRWD:2099659874892386678": null,
+ "CIEN:2100735673561174047": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "GNRC:2100735673561174047": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "PSMC:2100530507549425704": {
+  "stance": "bullish",
+  "conviction": 5
+ }
 }
