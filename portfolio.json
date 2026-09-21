@@ -436,6 +436,30 @@
       "current_price": 58.83,
       "unrealized_pct": -5.92,
       "unrealized_eur": -29.62
+    },
+    {
+      "id": "AMGN_2026-09-21",
+      "ticker": "AMGN",
+      "category": "USA",
+      "entry_date": "2026-09-21",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 23.18,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "DHR_2026-09-21",
+      "ticker": "DHR",
+      "category": "USA",
+      "entry_date": "2026-09-21",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 13.54,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
