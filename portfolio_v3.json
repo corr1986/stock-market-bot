@@ -358,6 +358,42 @@
       "current_price": 558.6,
       "unrealized_pct": -2.44,
       "unrealized_eur": -18.52
+    },
+    {
+      "ticker": "DXCM",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 89.35,
+      "size_eur": 754.65,
+      "atr_entry": 5.92,
+      "initial_sl": 77.51,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 77.51,
+      "setup": "Healthcare: +7.6% weekly, bullish MACD (line > signal, positive hist), RSI 62.9, price above SMA20/50.",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
+    },
+    {
+      "ticker": "DHR",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 211.81,
+      "size_eur": 782.16,
+      "atr_entry": 13.54,
+      "initial_sl": 184.73,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 184.73,
+      "setup": "Healthcare: +5.8% weekly, strong bullish MACD, RSI 56.5, price above SMA20/50.",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
     }
   ],
   "closed": [
