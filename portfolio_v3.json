@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 565.94,
-      "unrealized_pct": 6.84,
-      "unrealized_eur": 74.07
+      "current_price": 565.91,
+      "unrealized_pct": 6.83,
+      "unrealized_eur": 74.01
     },
     {
       "ticker": "BIIB",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 678.79,
-      "unrealized_pct": 19.09,
-      "unrealized_eur": 146.25
+      "current_price": 678.63,
+      "unrealized_pct": 19.06,
+      "unrealized_eur": 146.03
     },
     {
       "ticker": "DE",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 694.78,
+      "current_price": 694.79,
       "unrealized_pct": 13.49,
-      "unrealized_eur": 106.95
+      "unrealized_eur": 106.96
     },
     {
       "ticker": "MSFT",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 205.58,
-      "unrealized_pct": 3.37,
-      "unrealized_eur": 31.86
+      "current_price": 205.63,
+      "unrealized_pct": 3.4,
+      "unrealized_eur": 32.1
     },
     {
       "ticker": "XOM",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 162.03,
-      "unrealized_pct": 1.45,
-      "unrealized_eur": 13.15
+      "current_price": 162.04,
+      "unrealized_pct": 1.46,
+      "unrealized_eur": 13.21
     },
     {
       "ticker": "GILD",
@@ -209,8 +209,8 @@
       "pnl_pct": null,
       "pnl_eur": null,
       "current_price": 58.04,
-      "unrealized_pct": -5.67,
-      "unrealized_eur": -41.59
+      "unrealized_pct": -5.68,
+      "unrealized_eur": -41.65
     },
     {
       "ticker": "DVN",
@@ -230,8 +230,8 @@
       "pnl_pct": null,
       "pnl_eur": null,
       "current_price": 48.9,
-      "unrealized_pct": -1.1,
-      "unrealized_eur": -8.03
+      "unrealized_pct": -1.09,
+      "unrealized_eur": -7.96
     },
     {
       "ticker": "AMZN",
@@ -824,5 +824,5 @@
       "unrealized_eur": 81.33
     }
   ],
-  "unrealized_pnl": 764.39
+  "unrealized_pnl": 764.43
 }
