@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 53.6,
-      "unrealized_pct": 16.52,
-      "unrealized_eur": 76.0
+      "current_price": 53.61,
+      "unrealized_pct": 16.54,
+      "unrealized_eur": 76.1
     },
     {
       "ticker": "FORM",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 129.34,
-      "unrealized_pct": 15.69,
-      "unrealized_eur": 70.16
+      "current_price": 129.69,
+      "unrealized_pct": 16.0,
+      "unrealized_eur": 71.56
     },
     {
       "ticker": "RIOT",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 22.855,
-      "unrealized_pct": 5.93,
-      "unrealized_eur": 30.72
+      "current_price": 23.0,
+      "unrealized_pct": 6.6,
+      "unrealized_eur": 34.2
     },
     {
       "ticker": "SMCI",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 43.085,
-      "unrealized_pct": 23.14,
-      "unrealized_eur": 105.23
+      "current_price": 43.26,
+      "unrealized_pct": 23.64,
+      "unrealized_eur": 107.51
     },
     {
       "ticker": "UMAC",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 24.72,
-      "unrealized_pct": -7.07,
-      "unrealized_eur": -37.6
+      "current_price": 24.05,
+      "unrealized_pct": -9.59,
+      "unrealized_eur": -51.0
     },
     {
       "ticker": "KLIC",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 91.345,
-      "unrealized_pct": 11.59,
-      "unrealized_eur": 56.91
+      "current_price": 91.18,
+      "unrealized_pct": 11.39,
+      "unrealized_eur": 55.92
     },
     {
       "ticker": "GPRO",
@@ -138,9 +138,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.295,
-      "unrealized_pct": 6.15,
-      "unrealized_eur": 26.7
+      "current_price": 1.29,
+      "unrealized_pct": 5.74,
+      "unrealized_eur": 24.92
     },
     {
       "ticker": "PLTR",
@@ -158,9 +158,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 191.38,
-      "unrealized_pct": 12.78,
-      "unrealized_eur": 43.36
+      "current_price": 189.67,
+      "unrealized_pct": 11.77,
+      "unrealized_eur": 39.94
     }
   ],
   "closed": [
@@ -523,5 +523,5 @@
     }
   ],
   "last_signal_date": "2026-09-17",
-  "unrealized_pnl": 371.48
+  "unrealized_pnl": 359.15
 }
