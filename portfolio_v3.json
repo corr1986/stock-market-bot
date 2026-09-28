@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3657.0,
-      "unrealized_pct": 6.0,
-      "unrealized_eur": 48.41
+      "current_price": 3658.5,
+      "unrealized_pct": 6.04,
+      "unrealized_eur": 48.76
     },
     {
       "ticker": "META",
@@ -313,9 +313,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 564.3,
-      "unrealized_pct": -1.45,
-      "unrealized_eur": -10.98
+      "current_price": 563.8,
+      "unrealized_pct": -1.54,
+      "unrealized_eur": -11.64
     },
     {
       "ticker": "DXCM",
@@ -866,5 +866,5 @@
       "unrealized_eur": 81.33
     }
   ],
-  "unrealized_pnl": 744.81
+  "unrealized_pnl": 744.5
 }
