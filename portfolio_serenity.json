@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 21.52,
-      "unrealized_pct": -0.25,
-      "unrealized_eur": -1.32
+      "current_price": 21.39,
+      "unrealized_pct": -0.86,
+      "unrealized_eur": -4.44
     },
     {
       "ticker": "SMCI",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 41.16,
-      "unrealized_pct": 17.63,
-      "unrealized_eur": 80.21
+      "current_price": 41.02,
+      "unrealized_pct": 17.23,
+      "unrealized_eur": 78.39
     },
     {
       "ticker": "UMAC",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 24.645,
-      "unrealized_pct": -7.35,
-      "unrealized_eur": -39.1
+      "current_price": 24.94,
+      "unrealized_pct": -6.24,
+      "unrealized_eur": -33.2
     },
     {
       "ticker": "KLIC",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 93.65,
-      "unrealized_pct": 14.4,
-      "unrealized_eur": 70.74
+      "current_price": 93.72,
+      "unrealized_pct": 14.49,
+      "unrealized_eur": 71.16
     },
     {
       "ticker": "GPRO",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.335,
-      "unrealized_pct": 9.43,
-      "unrealized_eur": 40.94
+      "current_price": 1.325,
+      "unrealized_pct": 8.61,
+      "unrealized_eur": 37.38
     },
     {
       "ticker": "PLTR",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 185.77,
-      "unrealized_pct": 9.47,
-      "unrealized_eur": 32.14
+      "current_price": 186.97,
+      "unrealized_pct": 10.18,
+      "unrealized_eur": 34.54
     }
   ],
   "closed": [
@@ -525,5 +525,5 @@
     }
   ],
   "last_signal_date": "2026-09-17",
-  "unrealized_pnl": 183.61
+  "unrealized_pnl": 183.83
 }
