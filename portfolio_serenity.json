@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 19.5008,
-      "unrealized_pct": -9.61,
-      "unrealized_eur": -49.78
+      "current_price": 19.73,
+      "unrealized_pct": -8.55,
+      "unrealized_eur": -44.28
     },
     {
       "ticker": "SMCI",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 43.765,
-      "unrealized_pct": 25.08,
-      "unrealized_eur": 114.07
+      "current_price": 43.69,
+      "unrealized_pct": 24.86,
+      "unrealized_eur": 113.1
     },
     {
       "ticker": "UMAC",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 22.12,
-      "unrealized_pct": -16.84,
-      "unrealized_eur": -89.6
+      "current_price": 22.37,
+      "unrealized_pct": -15.9,
+      "unrealized_eur": -84.6
     },
     {
       "ticker": "KLIC",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 101.195,
-      "unrealized_pct": 23.62,
-      "unrealized_eur": 116.01
+      "current_price": 100.77,
+      "unrealized_pct": 23.1,
+      "unrealized_eur": 113.46
     },
     {
       "ticker": "GPRO",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 189.365,
-      "unrealized_pct": 11.59,
-      "unrealized_eur": 39.33
+      "current_price": 188.75,
+      "unrealized_pct": 11.23,
+      "unrealized_eur": 38.1
     }
   ],
   "closed": [
@@ -525,5 +525,5 @@
     }
   ],
   "last_signal_date": "2026-09-17",
-  "unrealized_pnl": 176.31
+  "unrealized_pnl": 182.06
 }
