@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 667.34,
-      "unrealized_pct": 9.01,
-      "unrealized_eur": 71.4
+      "current_price": 667.44,
+      "unrealized_pct": 9.02,
+      "unrealized_eur": 71.53
     },
     {
       "ticker": "MSFT",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 207.17,
-      "unrealized_pct": 4.17,
-      "unrealized_eur": 39.41
+      "current_price": 207.19,
+      "unrealized_pct": 4.18,
+      "unrealized_eur": 39.51
     },
     {
       "ticker": "XOM",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 163.88,
-      "unrealized_pct": 2.61,
-      "unrealized_eur": 23.64
+      "current_price": 163.87,
+      "unrealized_pct": 2.6,
+      "unrealized_eur": 23.59
     },
     {
       "ticker": "GILD",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 47.17,
-      "unrealized_pct": -4.59,
-      "unrealized_eur": -33.44
+      "current_price": 47.18,
+      "unrealized_pct": -4.58,
+      "unrealized_eur": -33.37
     },
     {
       "ticker": "AMZN",
@@ -866,5 +866,5 @@
       "unrealized_eur": 48.19
     }
   ],
-  "unrealized_pnl": 502.82
+  "unrealized_pnl": 503.07
 }
