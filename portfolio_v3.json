@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 654.99,
-      "unrealized_pct": 14.91,
-      "unrealized_eur": 114.25
+      "current_price": 654.94,
+      "unrealized_pct": 14.9,
+      "unrealized_eur": 114.19
     },
     {
       "ticker": "DE",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 206.77,
-      "unrealized_pct": 3.97,
-      "unrealized_eur": 37.51
+      "current_price": 206.73,
+      "unrealized_pct": 3.95,
+      "unrealized_eur": 37.32
     },
     {
       "ticker": "XOM",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 164.13,
-      "unrealized_pct": 2.77,
-      "unrealized_eur": 25.06
+      "current_price": 164.12,
+      "unrealized_pct": 2.76,
+      "unrealized_eur": 24.98
     },
     {
       "ticker": "GILD",
@@ -362,20 +362,23 @@
     {
       "ticker": "SNPS",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 500.0249938964844,
       "entry_price_ref": 489.9,
       "size_eur": 527.11,
       "atr_entry": 46.47,
-      "initial_sl": 396.96,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 396.96,
+      "initial_sl": 407.085,
+      "max_high_since_entry": 500.0249938964844,
+      "chandelier_stop": 407.085,
       "setup": "Semiconductor EDA firm, RSI 58.3, strong bullish MACD histogram, price well above SMA20/50, rapid weekly gain.",
-      "entry_date": null,
+      "entry_date": "2026-10-05",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 490.05,
+      "unrealized_pct": -1.99,
+      "unrealized_eur": -10.52
     }
   ],
   "closed": [
@@ -884,5 +887,5 @@
       "unrealized_eur": 48.19
     }
   ],
-  "unrealized_pnl": 541.48
+  "unrealized_pnl": 530.63
 }
