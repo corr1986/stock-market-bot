@@ -421,6 +421,18 @@
       "current_price": 213.96,
       "unrealized_pct": 0.91,
       "unrealized_eur": 4.55
+    },
+    {
+      "id": "SNPS_2026-10-05",
+      "ticker": "SNPS",
+      "category": "USA",
+      "entry_date": "2026-10-05",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 46.47,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
