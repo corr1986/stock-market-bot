@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 19.73,
-      "unrealized_pct": -8.55,
-      "unrealized_eur": -44.28
+      "current_price": 19.32,
+      "unrealized_pct": -10.45,
+      "unrealized_eur": -54.12
     },
     {
       "ticker": "SMCI",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 43.69,
-      "unrealized_pct": 24.86,
-      "unrealized_eur": 113.1
+      "current_price": 43.19,
+      "unrealized_pct": 23.44,
+      "unrealized_eur": 106.6
     },
     {
       "ticker": "UMAC",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 22.37,
-      "unrealized_pct": -15.9,
-      "unrealized_eur": -84.6
+      "current_price": 21.83,
+      "unrealized_pct": -17.93,
+      "unrealized_eur": -95.4
     },
     {
       "ticker": "KLIC",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 100.77,
-      "unrealized_pct": 23.1,
-      "unrealized_eur": 113.46
+      "current_price": 98.73,
+      "unrealized_pct": 20.61,
+      "unrealized_eur": 101.22
     },
     {
       "ticker": "GPRO",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.35,
-      "unrealized_pct": 10.66,
-      "unrealized_eur": 46.28
+      "current_price": 1.36,
+      "unrealized_pct": 11.48,
+      "unrealized_eur": 49.84
     },
     {
       "ticker": "PLTR",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 188.75,
-      "unrealized_pct": 11.23,
-      "unrealized_eur": 38.1
+      "current_price": 189.4,
+      "unrealized_pct": 11.61,
+      "unrealized_eur": 39.4
     }
   ],
   "closed": [
@@ -525,5 +525,5 @@
     }
   ],
   "last_signal_date": "2026-09-17",
-  "unrealized_pnl": 182.06
+  "unrealized_pnl": 147.54
 }
