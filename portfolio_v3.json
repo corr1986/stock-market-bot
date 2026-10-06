@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 676.58,
-      "unrealized_pct": 18.7,
-      "unrealized_eur": 143.28
+      "current_price": 676.65,
+      "unrealized_pct": 18.71,
+      "unrealized_eur": 143.37
     },
     {
       "ticker": "DE",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 682.14,
-      "unrealized_pct": 11.42,
-      "unrealized_eur": 90.57
+      "current_price": 682.43,
+      "unrealized_pct": 11.47,
+      "unrealized_eur": 90.95
     },
     {
       "ticker": "MSFT",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 164.02,
-      "unrealized_pct": 2.7,
-      "unrealized_eur": 24.44
+      "current_price": 164.01,
+      "unrealized_pct": 2.69,
+      "unrealized_eur": 24.38
     },
     {
       "ticker": "GILD",
@@ -313,9 +313,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 221.16,
-      "unrealized_pct": 4.01,
-      "unrealized_eur": 31.36
+      "current_price": 221.21,
+      "unrealized_pct": 4.03,
+      "unrealized_eur": 31.52
     },
     {
       "ticker": "QCOM",
@@ -887,5 +887,5 @@
       "unrealized_eur": 48.19
     }
   ],
-  "unrealized_pnl": 650.75
+  "unrealized_pnl": 651.32
 }
