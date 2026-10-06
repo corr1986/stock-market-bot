@@ -28,9 +28,9 @@
       "atr": 4.76,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 113.5,
-      "unrealized_pct": -3.26,
-      "unrealized_eur": -16.28
+      "current_price": 113.66,
+      "unrealized_pct": -3.12,
+      "unrealized_eur": -15.6
     },
     {
       "id": "DXCM_2026-06-15",
@@ -43,9 +43,9 @@
       "atr": 5.42,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 83.72,
-      "unrealized_pct": 10.59,
-      "unrealized_eur": 52.97
+      "current_price": 83.4,
+      "unrealized_pct": 10.17,
+      "unrealized_eur": 50.86
     },
     {
       "id": "MMM_2026-06-15",
@@ -58,9 +58,9 @@
       "atr": 8.55,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 163.72,
-      "unrealized_pct": 1.43,
-      "unrealized_eur": 7.16
+      "current_price": 163.95,
+      "unrealized_pct": 1.57,
+      "unrealized_eur": 7.87
     },
     {
       "id": "AAPL_2026-06-22",
@@ -73,9 +73,9 @@
       "atr": 14.18,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 333.13,
-      "unrealized_pct": 11.98,
-      "unrealized_eur": 59.88
+      "current_price": 333.66,
+      "unrealized_pct": 12.15,
+      "unrealized_eur": 60.77
     },
     {
       "id": "V_2026-06-29",
@@ -88,9 +88,9 @@
       "atr": 14.33,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 369.93,
-      "unrealized_pct": 9.36,
-      "unrealized_eur": 46.8
+      "current_price": 370.74,
+      "unrealized_pct": 9.6,
+      "unrealized_eur": 48.0
     },
     {
       "id": "PGR_2026-06-29",
@@ -103,9 +103,9 @@
       "atr": 11.25,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 212.21,
-      "unrealized_pct": -4.11,
-      "unrealized_eur": -20.56
+      "current_price": 212.05,
+      "unrealized_pct": -4.18,
+      "unrealized_eur": -20.92
     },
     {
       "id": "BIIB_2026-07-20",
@@ -118,9 +118,9 @@
       "atr": 14.5,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 223.35,
-      "unrealized_pct": 9.44,
-      "unrealized_eur": 47.21
+      "current_price": 223.03,
+      "unrealized_pct": 9.29,
+      "unrealized_eur": 46.43
     },
     {
       "id": "BLK_2026-07-20",
@@ -133,9 +133,9 @@
       "atr": 63.12,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 1082.72,
-      "unrealized_pct": 1.12,
-      "unrealized_eur": 5.59
+      "current_price": 1079.68,
+      "unrealized_pct": 0.83,
+      "unrealized_eur": 4.17
     },
     {
       "id": "PYPL_2026-07-20",
@@ -148,9 +148,9 @@
       "atr": 4.05,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 54.66,
-      "unrealized_pct": -3.24,
-      "unrealized_eur": -16.2
+      "current_price": 54.61,
+      "unrealized_pct": -3.33,
+      "unrealized_eur": -16.64
     },
     {
       "id": "TMO_2026-07-27",
@@ -163,9 +163,9 @@
       "atr": 37.08,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 658.72,
-      "unrealized_pct": 16.59,
-      "unrealized_eur": 82.94
+      "current_price": 656.67,
+      "unrealized_pct": 16.22,
+      "unrealized_eur": 81.12
     },
     {
       "id": "EMR_2026-07-27",
@@ -178,9 +178,9 @@
       "atr": 9.54,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 162.82,
-      "unrealized_pct": 9.57,
-      "unrealized_eur": 47.85
+      "current_price": 161.3,
+      "unrealized_pct": 8.55,
+      "unrealized_eur": 42.73
     },
     {
       "id": "MSFT_2026-08-03",
@@ -193,9 +193,9 @@
       "atr": 32.6,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 530.78,
-      "unrealized_pct": 11.42,
-      "unrealized_eur": 57.08
+      "current_price": 529.49,
+      "unrealized_pct": 11.15,
+      "unrealized_eur": 55.73
     },
     {
       "id": "RACE_2026-08-03",
@@ -208,9 +208,9 @@
       "atr": 24.49,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 387.51,
-      "unrealized_pct": -4.25,
-      "unrealized_eur": -21.26
+      "current_price": 386.5,
+      "unrealized_pct": -4.5,
+      "unrealized_eur": -22.51
     },
     {
       "id": "MDLZ_2026-08-03",
@@ -223,9 +223,9 @@
       "atr": 3.26,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 59.42,
-      "unrealized_pct": -6.2,
-      "unrealized_eur": -30.99
+      "current_price": 59.61,
+      "unrealized_pct": -5.91,
+      "unrealized_eur": -29.54
     },
     {
       "id": "SHOP_2026-08-10",
@@ -238,9 +238,9 @@
       "atr": 16.85,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 164.82,
-      "unrealized_pct": 9.56,
-      "unrealized_eur": 47.81
+      "current_price": 164.5,
+      "unrealized_pct": 9.35,
+      "unrealized_eur": 46.75
     },
     {
       "id": "PFE_2026-08-10",
@@ -253,9 +253,9 @@
       "atr": 1.2,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 27.47,
-      "unrealized_pct": 3.31,
-      "unrealized_eur": 16.55
+      "current_price": 27.49,
+      "unrealized_pct": 3.4,
+      "unrealized_eur": 17.02
     },
     {
       "id": "CVX_2026-08-17",
@@ -268,9 +268,9 @@
       "atr": 10.59,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 208.44,
-      "unrealized_pct": 3.84,
-      "unrealized_eur": 19.22
+      "current_price": 207.58,
+      "unrealized_pct": 3.42,
+      "unrealized_eur": 17.08
     },
     {
       "id": "COP_2026-08-17",
@@ -283,9 +283,9 @@
       "atr": 7.72,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 129.58,
-      "unrealized_pct": 2.72,
-      "unrealized_eur": 13.6
+      "current_price": 129.38,
+      "unrealized_pct": 2.56,
+      "unrealized_eur": 12.8
     },
     {
       "id": "NEM_2026-08-17",
@@ -298,9 +298,9 @@
       "atr": 10.27,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 117.1,
-      "unrealized_pct": -1.92,
-      "unrealized_eur": -9.59
+      "current_price": 116.41,
+      "unrealized_pct": -2.5,
+      "unrealized_eur": -12.48
     },
     {
       "id": "DE_2026-08-24",
@@ -313,9 +313,9 @@
       "atr": 41.41,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 680.47,
-      "unrealized_pct": 4.2,
-      "unrealized_eur": 21.0
+      "current_price": 682.71,
+      "unrealized_pct": 4.54,
+      "unrealized_eur": 22.71
     },
     {
       "id": "ECL_2026-08-24",
@@ -328,9 +328,9 @@
       "atr": 13.34,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 280.05,
-      "unrealized_pct": -1.41,
-      "unrealized_eur": -7.05
+      "current_price": 280.73,
+      "unrealized_pct": -1.17,
+      "unrealized_eur": -5.87
     },
     {
       "id": "NVDA_2026-08-31",
@@ -343,9 +343,9 @@
       "atr": 16.54,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 240.4,
-      "unrealized_pct": 9.84,
-      "unrealized_eur": 49.2
+      "current_price": 239.17,
+      "unrealized_pct": 9.28,
+      "unrealized_eur": 46.39
     },
     {
       "id": "SHEL.L_2026-09-07",
@@ -388,9 +388,9 @@
       "atr": 54.1,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 743.38,
-      "unrealized_pct": 13.04,
-      "unrealized_eur": 65.2
+      "current_price": 739.19,
+      "unrealized_pct": 12.4,
+      "unrealized_eur": 62.02
     },
     {
       "id": "AMGN_2026-09-21",
@@ -403,9 +403,9 @@
       "atr": 23.18,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 402.02,
-      "unrealized_pct": 4.08,
-      "unrealized_eur": 20.4
+      "current_price": 402.73,
+      "unrealized_pct": 4.26,
+      "unrealized_eur": 21.32
     },
     {
       "id": "DHR_2026-09-21",
@@ -418,9 +418,9 @@
       "atr": 13.54,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 216.33,
-      "unrealized_pct": 2.03,
-      "unrealized_eur": 10.14
+      "current_price": 215.4,
+      "unrealized_pct": 1.59,
+      "unrealized_eur": 7.95
     },
     {
       "id": "SNPS_2026-10-05",
@@ -433,9 +433,9 @@
       "atr": 46.47,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 506.37,
-      "unrealized_pct": 2.04,
-      "unrealized_eur": 10.2
+      "current_price": 505.37,
+      "unrealized_pct": 1.84,
+      "unrealized_eur": 9.19
     }
   ],
   "closed": [
@@ -776,5 +776,5 @@
       "days_held": 48
     }
   ],
-  "unrealized_pnl": 568.3
+  "unrealized_pnl": 546.78
 }
