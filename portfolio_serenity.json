@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 19.32,
-      "unrealized_pct": -10.45,
-      "unrealized_eur": -54.12
+      "current_price": 19.195,
+      "unrealized_pct": -11.03,
+      "unrealized_eur": -57.12
     },
     {
       "ticker": "SMCI",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 43.19,
-      "unrealized_pct": 23.44,
-      "unrealized_eur": 106.6
+      "current_price": 43.3531,
+      "unrealized_pct": 23.9,
+      "unrealized_eur": 108.72
     },
     {
       "ticker": "UMAC",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 21.83,
-      "unrealized_pct": -17.93,
-      "unrealized_eur": -95.4
+      "current_price": 22.21,
+      "unrealized_pct": -16.5,
+      "unrealized_eur": -87.8
     },
     {
       "ticker": "KLIC",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 98.73,
-      "unrealized_pct": 20.61,
-      "unrealized_eur": 101.22
+      "current_price": 97.48,
+      "unrealized_pct": 19.08,
+      "unrealized_eur": 93.72
     },
     {
       "ticker": "GPRO",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.36,
-      "unrealized_pct": 11.48,
-      "unrealized_eur": 49.84
+      "current_price": 1.315,
+      "unrealized_pct": 7.79,
+      "unrealized_eur": 33.82
     },
     {
       "ticker": "PLTR",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 189.4,
-      "unrealized_pct": 11.61,
-      "unrealized_eur": 39.4
+      "current_price": 193.07,
+      "unrealized_pct": 13.77,
+      "unrealized_eur": 46.74
     }
   ],
   "closed": [
@@ -525,5 +525,5 @@
     }
   ],
   "last_signal_date": "2026-09-17",
-  "unrealized_pnl": 147.54
+  "unrealized_pnl": 138.08
 }
