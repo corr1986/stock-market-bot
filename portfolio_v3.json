@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3671.15,
-      "unrealized_pct": 6.41,
-      "unrealized_eur": 51.72
+      "current_price": 3680.0,
+      "unrealized_pct": 6.67,
+      "unrealized_eur": 53.79
     },
     {
       "ticker": "META",
@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 566.0,
-      "unrealized_pct": -1.15,
-      "unrealized_eur": -8.73
+      "current_price": 567.4,
+      "unrealized_pct": -0.91,
+      "unrealized_eur": -6.88
     },
     {
       "ticker": "DXCM",
@@ -334,9 +334,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 181.04,
-      "unrealized_pct": -7.35,
-      "unrealized_eur": -36.08
+      "current_price": 181.06,
+      "unrealized_pct": -7.34,
+      "unrealized_eur": -36.03
     },
     {
       "ticker": "AMGN",
@@ -887,5 +887,5 @@
       "unrealized_eur": 48.19
     }
   ],
-  "unrealized_pnl": 629.07
+  "unrealized_pnl": 633.04
 }
