@@ -1,25 +1,25 @@
 # Portfolio Serenity — Stock Market Bot
-*Aggiornato: 08/10/2026 00:22 UTC | Hold 60gg · SL 2×ATR · Segnali @aleabitoreddit*
+*Aggiornato: 08/10/2026 20:04 UTC | Hold 60gg · SL 2×ATR · Segnali @aleabitoreddit*
 *[portfolio_serenity.json](portfolio_serenity.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
 |---|---|---|---|---|---|
-| nan€ | +nan€ | nan€ | +nan€ | 19 (3W/16L) | 16% |
+| nan€ | +95€ | nan€ | +nan€ | 20 (3W/17L) | 15% |
 
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | Scadenza |
 |---|---|---|---|---|---|---|---|
-| **RIOT** | 21.575000762939453 | 24 | nan | +nan% | +nan€ | 16.77 | 2026-10-11 |
-| **SMCI** | 34.9900016784668 | 13 | nan | +nan% | +nan€ | 30.20 | 2026-10-11 |
-| **UMAC** | 26.600000381469727 | 20 | nan | +nan% | +nan€ | 20.12 | 2026-10-23 |
-| **KLIC** | 81.86000061035156 | 6 | nan | +nan% | +nan€ | 72.91 | 2026-10-30 |
-| **GPRO** | 1.2200000286102295 | 356 | nan | +nan% | +nan€ | 0.97 | 2026-11-01 |
-| **PLTR** | 169.6999969482422 | 2 | nan | +nan% | +nan€ | 154.62 | 2026-11-13 |
+| **SMCI** | 34.9900016784668 | 13 | 42.77 | +22.23% | +101€ | 30.20 | 2026-10-11 |
+| **UMAC** | 26.600000381469727 | 20 | 21.39 | -19.59% | -104€ | 20.12 | 2026-10-23 |
+| **KLIC** | 81.86000061035156 | 6 | 90.92 | +11.07% | +54€ | 72.91 | 2026-10-30 |
+| **GPRO** | 1.2200000286102295 | 356 | 1.18 | -3.28% | -14€ | 0.97 | 2026-11-01 |
+| **PLTR** | 169.6999969482422 | 2 | 198.78 | +17.14% | +58€ | 154.62 | 2026-11-13 |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € | Motivo |
 |---|---|---|---|---|---|---|
+| 2026-10-08 | RIOT | 21.575000762939453 | 16.7706 | -22.27% | ❌ -115€ | stop_loss |
 | 2026-09-29 | FORM | 111.80000305175781 | nan | +nan% | ❌ +nan€ | deadline |
 | 2026-09-28 | AMKR | 46.0 | 53.18 | +15.61% | ✅ +72€ | deadline |
 | 2026-09-25 | ORCL | 118.0 | 138.4 | +17.29% | ✅ +82€ | deadline |
