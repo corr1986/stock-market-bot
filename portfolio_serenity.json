@@ -101,6 +101,66 @@
       "current_price": NaN,
       "unrealized_pct": NaN,
       "unrealized_eur": NaN
+    },
+    {
+      "ticker": "COIN",
+      "status": "pending",
+      "signal_date": "2026-09-22",
+      "entry_ref": 180.38999938964844,
+      "atr_entry": 9.641429356166295,
+      "shares": 2,
+      "size_eur": 360.7799987792969,
+      "initial_sl": 161.10714067731584,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
+    },
+    {
+      "ticker": "OKLO",
+      "status": "pending",
+      "signal_date": "2026-10-08",
+      "entry_ref": 32.209999084472656,
+      "atr_entry": 1.842071260724749,
+      "shares": 15,
+      "size_eur": 483.14998626708984,
+      "initial_sl": 28.525856563023158,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
+    },
+    {
+      "ticker": "MTSI",
+      "status": "pending",
+      "signal_date": "2026-10-10",
+      "entry_ref": 306.3599853515625,
+      "atr_entry": 17.03928702218192,
+      "shares": 1,
+      "size_eur": 306.3599853515625,
+      "initial_sl": 272.28141130719865,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
@@ -525,6 +585,6 @@
       "close_reason": "stop_loss"
     }
   ],
-  "last_signal_date": "2026-09-17",
+  "last_signal_date": "2026-10-10",
   "unrealized_pnl": NaN
 }

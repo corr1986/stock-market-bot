@@ -4488,5 +4488,62 @@
  "PSMC:2100530507549425704": {
   "stance": "bullish",
   "conviction": 5
+ },
+ "COIN:2102256045938852015": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "PYPL:2102391630515110126": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "UPWK:2102391630515110126": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "AKAM:2103232350348001701": null,
+ "SPY:2103161145934963178": {
+  "stance": "bullish",
+  "conviction": 2
+ },
+ "ALAB:2105151002760679706": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "CBRS:2105151002760679706": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "FLEX:2105151002760679706": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "FN:2105151002760679706": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "MXL:2105709782854435274": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "MSFT:2108277973598232851": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "OKLO:2108111907819499646": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "SNAP:2108275499772649882": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "IQE:2108916977616179207": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "MTSI:2108908962397786280": {
+  "stance": "bullish",
+  "conviction": 4
  }
 }
