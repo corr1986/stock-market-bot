@@ -436,6 +436,30 @@
       "current_price": 509.95,
       "unrealized_pct": 2.76,
       "unrealized_eur": 13.8
+    },
+    {
+      "id": "MDT_2026-10-12",
+      "ticker": "MDT",
+      "category": "USA",
+      "entry_date": "2026-10-12",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 4.44,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "AMT_2026-10-12",
+      "ticker": "AMT",
+      "category": "USA",
+      "entry_date": "2026-10-12",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 10.34,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
