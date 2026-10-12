@@ -358,6 +358,42 @@
       "current_price": 509.95,
       "unrealized_pct": 1.98,
       "unrealized_eur": 10.46
+    },
+    {
+      "ticker": "SPOT",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 529.14,
+      "size_eur": 574.9,
+      "atr_entry": 46.02,
+      "initial_sl": 437.1,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 437.1,
+      "setup": "Weekly +11.9%, price above SMA20/50, bullish MACD (hist >0), RSI 53.6, consumer discretionary sector in strength.",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
+    },
+    {
+      "ticker": "MELI",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 1889.85,
+      "size_eur": 665.58,
+      "atr_entry": 141.97,
+      "initial_sl": 1605.91,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 1605.91,
+      "setup": "Weekly +11.4%, price above SMA20/50, bullish MACD (hist >0), RSI 53.3, consumer discretionary sector in strength.",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
     }
   ],
   "closed": [
