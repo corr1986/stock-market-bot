@@ -1,24 +1,27 @@
 # Portfolio Serenity — Stock Market Bot
-*Aggiornato: 10/10/2026 00:17 UTC | Hold 60gg · SL 2×ATR · Segnali @aleabitoreddit*
+*Aggiornato: 12/10/2026 22:13 UTC | Hold 60gg · SL 2×ATR · Segnali @aleabitoreddit*
 *[portfolio_serenity.json](portfolio_serenity.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
 |---|---|---|---|---|---|
-| nan€ | +nan€ | nan€ | +nan€ | 20 (3W/17L) | 15% |
+| nan€ | +68€ | nan€ | +nan€ | 22 (4W/18L) | 18% |
 
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | Scadenza |
 |---|---|---|---|---|---|---|---|
-| **SMCI** | 34.9900016784668 | 13 | nan | +nan% | +nan€ | 30.20 | 2026-10-11 |
-| **UMAC** | 26.600000381469727 | 20 | nan | +nan% | +nan€ | 20.12 | 2026-10-23 |
-| **KLIC** | 81.86000061035156 | 6 | nan | +nan% | +nan€ | 72.91 | 2026-10-30 |
-| **GPRO** | 1.2200000286102295 | 356 | nan | +nan% | +nan€ | 0.97 | 2026-11-01 |
-| **PLTR** | 169.6999969482422 | 2 | nan | +nan% | +nan€ | 154.62 | 2026-11-13 |
+| **KLIC** | 81.86000061035156 | 6 | 88.39 | +7.98% | +39€ | 72.91 | 2026-10-30 |
+| **GPRO** | 1.2200000286102295 | 356 | 1.19 | -2.46% | -11€ | 0.97 | 2026-11-01 |
+| **PLTR** | 169.6999969482422 | 2 | 209.0 | +23.16% | +79€ | 154.62 | 2026-11-13 |
+| **COIN** | 179.0 | 2 | 180.39 | +0.78% | +3€ | 159.72 | 2026-12-11 |
+| **OKLO** | 33.79999923706055 | 15 | 32.21 | -4.70% | -24€ | 30.12 | 2026-12-11 |
+| **MTSI** | 324.20001220703125 | 1 | 306.36 | -5.50% | -18€ | 290.12 | 2026-12-11 |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € | Motivo |
 |---|---|---|---|---|---|---|
+| 2026-10-12 | UMAC | 26.600000381469727 | 20.1213 | -24.36% | ❌ -130€ | stop_loss |
+| 2026-10-12 | SMCI | 34.9900016784668 | 39.98 | +14.26% | ✅ +65€ | deadline |
 | 2026-10-08 | RIOT | 21.575000762939453 | 16.7706 | -22.27% | ❌ -115€ | stop_loss |
 | 2026-09-29 | FORM | 111.80000305175781 | nan | +nan% | ❌ +nan€ | deadline |
 | 2026-09-28 | AMKR | 46.0 | 53.18 | +15.61% | ✅ +72€ | deadline |
