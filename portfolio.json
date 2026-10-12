@@ -13,9 +13,9 @@
       "atr": 19.63,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 381.6,
-      "unrealized_pct": -0.09,
-      "unrealized_eur": -0.46
+      "current_price": 382.6,
+      "unrealized_pct": 0.17,
+      "unrealized_eur": 0.85
     },
     {
       "id": "AFL_2026-06-08",
@@ -193,9 +193,9 @@
       "atr": 32.6,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 535.1,
+      "current_price": 535.08,
       "unrealized_pct": 12.32,
-      "unrealized_eur": 61.61
+      "unrealized_eur": 61.59
     },
     {
       "id": "RACE_2026-08-03",
@@ -313,9 +313,9 @@
       "atr": 41.41,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 620.83,
-      "unrealized_pct": -4.93,
-      "unrealized_eur": -24.66
+      "current_price": 620.9,
+      "unrealized_pct": -4.92,
+      "unrealized_eur": -24.61
     },
     {
       "id": "ECL_2026-08-24",
@@ -343,9 +343,9 @@
       "atr": 16.54,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 229.32,
-      "unrealized_pct": 4.78,
-      "unrealized_eur": 23.89
+      "current_price": 229.34,
+      "unrealized_pct": 4.79,
+      "unrealized_eur": 23.94
     },
     {
       "id": "SHEL.L_2026-09-07",
@@ -358,9 +358,9 @@
       "atr": 212.98,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 3803.5,
-      "unrealized_pct": 10.92,
-      "unrealized_eur": 54.61
+      "current_price": 3800.5,
+      "unrealized_pct": 10.83,
+      "unrealized_eur": 54.17
     },
     {
       "id": "FRE.DE_2026-09-14",
@@ -373,9 +373,9 @@
       "atr": 2.29,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 42.71,
-      "unrealized_pct": -4.93,
-      "unrealized_eur": -24.65
+      "current_price": 43.03,
+      "unrealized_pct": -4.21,
+      "unrealized_eur": -21.04
     },
     {
       "id": "META_2026-09-14",
@@ -800,5 +800,5 @@
       "days_held": 48
     }
   ],
-  "unrealized_pnl": 656.34
+  "unrealized_pnl": 660.9
 }
