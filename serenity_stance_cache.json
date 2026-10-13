@@ -4545,5 +4545,17 @@
  "MTSI:2108908962397786280": {
   "stance": "bullish",
   "conviction": 4
+ },
+ "GLW:2109789664622322081": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "KOSPI:2109789664622322081": {
+  "stance": "bearish",
+  "conviction": 2
+ },
+ "RMBS:2109789664622322081": {
+  "stance": "neutral",
+  "conviction": 1
  }
 }
