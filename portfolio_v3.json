@@ -200,17 +200,17 @@
       "size_eur": 806.88,
       "atr_entry": 212.98,
       "initial_sl": 3024.04,
-      "max_high_since_entry": 3913.5,
-      "chandelier_stop": 3487.54,
+      "max_high_since_entry": 3916.5,
+      "chandelier_stop": 3490.54,
       "setup": "Energy leader up +2.8% weekly, MACD strongly bullish, RSI 60.6, price above SMA20/50, high volume, macro supports energy.",
       "entry_date": "2026-09-07",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3912.0,
-      "unrealized_pct": 13.39,
-      "unrealized_eur": 108.05
+      "current_price": 3912.48,
+      "unrealized_pct": 13.41,
+      "unrealized_eur": 108.16
     },
     {
       "ticker": "META",
@@ -242,17 +242,17 @@
       "size_eur": 757.65,
       "atr_entry": 37.26,
       "initial_sl": 498.08,
-      "max_high_since_entry": 610.2000122070312,
-      "chandelier_stop": 535.6800122070313,
+      "max_high_since_entry": 612.0999755859375,
+      "chandelier_stop": 537.5799755859375,
       "setup": "Energia europea solida, RSI 57.9, MACD bullish, prezzo sopra SMA20/50, supporto macro",
       "entry_date": "2026-09-14",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 609.29,
-      "unrealized_pct": 6.41,
-      "unrealized_eur": 48.55
+      "current_price": 610.8,
+      "unrealized_pct": 6.67,
+      "unrealized_eur": 50.55
     },
     {
       "ticker": "DXCM",
@@ -929,5 +929,5 @@
       "unrealized_eur": 55.42
     }
   ],
-  "unrealized_pnl": 898.63
+  "unrealized_pnl": 900.74
 }
