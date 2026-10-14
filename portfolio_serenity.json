@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 83.24,
-      "unrealized_pct": 1.69,
-      "unrealized_eur": 8.28
+      "current_price": 84.51,
+      "unrealized_pct": 3.24,
+      "unrealized_eur": 15.9
     },
     {
       "ticker": "GPRO",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.155,
-      "unrealized_pct": -5.33,
-      "unrealized_eur": -23.14
+      "current_price": 1.16,
+      "unrealized_pct": -4.92,
+      "unrealized_eur": -21.36
     },
     {
       "ticker": "PLTR",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 200.93,
-      "unrealized_pct": 18.4,
-      "unrealized_eur": 62.46
+      "current_price": 200.97,
+      "unrealized_pct": 18.43,
+      "unrealized_eur": 62.54
     },
     {
       "ticker": "COIN",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 172.255,
-      "unrealized_pct": -3.77,
-      "unrealized_eur": -13.49
+      "current_price": 172.89,
+      "unrealized_pct": -3.41,
+      "unrealized_eur": -12.22
     },
     {
       "ticker": "TSLA",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 364.59,
-      "unrealized_pct": -1.77,
-      "unrealized_eur": -6.56
+      "current_price": 367.16,
+      "unrealized_pct": -1.08,
+      "unrealized_eur": -3.99
     }
   ],
   "closed": [
@@ -610,5 +610,5 @@
     }
   ],
   "last_signal_date": "2026-10-13",
-  "unrealized_pnl": 27.55
+  "unrealized_pnl": 40.87
 }
