@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 88.54,
-      "unrealized_pct": 8.16,
-      "unrealized_eur": 40.08
+      "current_price": 83.24,
+      "unrealized_pct": 1.69,
+      "unrealized_eur": 8.28
     },
     {
       "ticker": "GPRO",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.18,
-      "unrealized_pct": -3.28,
-      "unrealized_eur": -14.24
+      "current_price": 1.155,
+      "unrealized_pct": -5.33,
+      "unrealized_eur": -23.14
     },
     {
       "ticker": "PLTR",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 208.67,
-      "unrealized_pct": 22.96,
-      "unrealized_eur": 77.94
+      "current_price": 200.93,
+      "unrealized_pct": 18.4,
+      "unrealized_eur": 62.46
     },
     {
       "ticker": "COIN",
@@ -78,69 +78,29 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 181.79,
-      "unrealized_pct": 1.56,
-      "unrealized_eur": 5.58
-    },
-    {
-      "ticker": "OKLO",
-      "status": "active",
-      "signal_date": "2026-10-08",
-      "entry_ref": 32.209999084472656,
-      "atr_entry": 1.842071260724749,
-      "shares": 15,
-      "size_eur": 483.14998626708984,
-      "initial_sl": 30.11585671561105,
-      "entry_price": 33.79999923706055,
-      "entry_date": "2026-10-12",
-      "deadline": "2026-12-11",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 31.78,
-      "unrealized_pct": -5.98,
-      "unrealized_eur": -30.3
-    },
-    {
-      "ticker": "MTSI",
-      "status": "active",
-      "signal_date": "2026-10-10",
-      "entry_ref": 306.3599853515625,
-      "atr_entry": 17.03928702218192,
-      "shares": 1,
-      "size_eur": 306.3599853515625,
-      "initial_sl": 290.1214381626674,
-      "entry_price": 324.20001220703125,
-      "entry_date": "2026-10-12",
-      "deadline": "2026-12-11",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 308.75,
-      "unrealized_pct": -4.77,
-      "unrealized_eur": -15.45
+      "current_price": 172.255,
+      "unrealized_pct": -3.77,
+      "unrealized_eur": -13.49
     },
     {
       "ticker": "TSLA",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-10-13",
       "entry_ref": 364.20001220703125,
       "atr_entry": 10.932859148297991,
       "shares": 1,
       "size_eur": 364.20001220703125,
-      "initial_sl": 342.3342939104353,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 349.2842755998884,
+      "entry_price": 371.1499938964844,
+      "entry_date": "2026-10-14",
+      "deadline": "2026-12-13",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 364.59,
+      "unrealized_pct": -1.77,
+      "unrealized_eur": -6.56
     }
   ],
   "closed": [
@@ -605,8 +565,50 @@
       "unrealized_pct": -26.17,
       "unrealized_eur": -139.2,
       "close_reason": "stop_loss"
+    },
+    {
+      "ticker": "OKLO",
+      "status": "closed",
+      "signal_date": "2026-10-08",
+      "entry_ref": 32.209999084472656,
+      "atr_entry": 1.842071260724749,
+      "shares": 15,
+      "size_eur": 483.14998626708984,
+      "initial_sl": 30.11585671561105,
+      "entry_price": 33.79999923706055,
+      "entry_date": "2026-10-12",
+      "deadline": "2026-12-11",
+      "close_date": "2026-10-14",
+      "close_price": 30.1159,
+      "pnl_pct": -10.9,
+      "pnl_eur": -55.26,
+      "current_price": 28.95,
+      "unrealized_pct": -14.35,
+      "unrealized_eur": -72.75,
+      "close_reason": "stop_loss"
+    },
+    {
+      "ticker": "MTSI",
+      "status": "closed",
+      "signal_date": "2026-10-10",
+      "entry_ref": 306.3599853515625,
+      "atr_entry": 17.03928702218192,
+      "shares": 1,
+      "size_eur": 306.3599853515625,
+      "initial_sl": 290.1214381626674,
+      "entry_price": 324.20001220703125,
+      "entry_date": "2026-10-12",
+      "deadline": "2026-12-11",
+      "close_date": "2026-10-14",
+      "close_price": 290.1214,
+      "pnl_pct": -10.51,
+      "pnl_eur": -34.08,
+      "current_price": 289.14,
+      "unrealized_pct": -10.81,
+      "unrealized_eur": -35.06,
+      "close_reason": "stop_loss"
     }
   ],
   "last_signal_date": "2026-10-13",
-  "unrealized_pnl": 63.61
+  "unrealized_pnl": 27.55
 }
