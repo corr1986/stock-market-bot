@@ -4557,5 +4557,13 @@
  "RMBS:2109789664622322081": {
   "stance": "neutral",
   "conviction": 1
+ },
+ "AGLT:2110142633716965836": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "TSLA:2109937773440577755": {
+  "stance": "bullish",
+  "conviction": 4
  }
 }
