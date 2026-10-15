@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 81.315,
-      "unrealized_pct": -0.67,
-      "unrealized_eur": -3.27
+      "current_price": 83.05,
+      "unrealized_pct": 1.45,
+      "unrealized_eur": 7.14
     },
     {
       "ticker": "GPRO",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.135,
-      "unrealized_pct": -6.97,
-      "unrealized_eur": -30.26
+      "current_price": 1.15,
+      "unrealized_pct": -5.74,
+      "unrealized_eur": -24.92
     },
     {
       "ticker": "PLTR",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 199.705,
-      "unrealized_pct": 17.68,
-      "unrealized_eur": 60.01
+      "current_price": 200.5,
+      "unrealized_pct": 18.15,
+      "unrealized_eur": 61.6
     },
     {
       "ticker": "COIN",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 180.81,
-      "unrealized_pct": 1.01,
-      "unrealized_eur": 3.62
+      "current_price": 183.81,
+      "unrealized_pct": 2.69,
+      "unrealized_eur": 9.62
     },
     {
       "ticker": "TSLA",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 360.27,
-      "unrealized_pct": -2.93,
-      "unrealized_eur": -10.88
+      "current_price": 362.44,
+      "unrealized_pct": -2.35,
+      "unrealized_eur": -8.71
     },
     {
       "ticker": "MTSI",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 263.45,
-      "unrealized_pct": -4.2,
-      "unrealized_eur": -11.55
+      "current_price": 271.39,
+      "unrealized_pct": -1.31,
+      "unrealized_eur": -3.61
     }
   ],
   "closed": [
@@ -630,5 +630,5 @@
     }
   ],
   "last_signal_date": "2026-10-13",
-  "unrealized_pnl": 7.67
+  "unrealized_pnl": 41.12
 }
