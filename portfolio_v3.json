@@ -250,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 613.7,
-      "unrealized_pct": 7.18,
-      "unrealized_eur": 54.38
+      "current_price": 613.8,
+      "unrealized_pct": 7.2,
+      "unrealized_eur": 54.51
     },
     {
       "ticker": "DXCM",
@@ -929,5 +929,5 @@
       "unrealized_eur": 55.42
     }
   ],
-  "unrealized_pnl": 905.31
+  "unrealized_pnl": 905.44
 }
