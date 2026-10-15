@@ -101,6 +101,26 @@
       "current_price": 367.16,
       "unrealized_pct": -1.08,
       "unrealized_eur": -3.99
+    },
+    {
+      "ticker": "MTSI",
+      "status": "pending",
+      "signal_date": "2026-10-10",
+      "entry_ref": 266.55999755859375,
+      "atr_entry": 19.514286586216517,
+      "shares": 1,
+      "size_eur": 266.55999755859375,
+      "initial_sl": 227.53142438616072,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
