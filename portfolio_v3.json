@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 696.55,
-      "unrealized_pct": 22.2,
-      "unrealized_eur": 170.12
+      "current_price": 696.51,
+      "unrealized_pct": 22.19,
+      "unrealized_eur": 170.07
     },
     {
       "ticker": "MSFT",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 219.4,
+      "current_price": 219.39,
       "unrealized_pct": 10.32,
-      "unrealized_eur": 97.46
+      "unrealized_eur": 97.43
     },
     {
       "ticker": "XOM",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 49.24,
-      "unrealized_pct": -0.41,
-      "unrealized_eur": -3.02
+      "current_price": 49.23,
+      "unrealized_pct": -0.43,
+      "unrealized_eur": -3.17
     },
     {
       "ticker": "AMZN",
@@ -376,9 +376,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 533.28,
+      "current_price": 533.3,
       "unrealized_pct": 0.62,
-      "unrealized_eur": 3.56
+      "unrealized_eur": 3.58
     },
     {
       "ticker": "MELI",
@@ -929,5 +929,5 @@
       "unrealized_eur": 55.42
     }
   ],
-  "unrealized_pnl": 1020.29
+  "unrealized_pnl": 1020.08
 }
