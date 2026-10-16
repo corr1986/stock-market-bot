@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 79.6081,
-      "unrealized_pct": -2.75,
-      "unrealized_eur": -13.51
+      "current_price": 78.63,
+      "unrealized_pct": -3.95,
+      "unrealized_eur": -19.38
     },
     {
       "ticker": "GPRO",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.085,
-      "unrealized_pct": -11.07,
-      "unrealized_eur": -48.06
+      "current_price": 1.05,
+      "unrealized_pct": -13.93,
+      "unrealized_eur": -60.52
     },
     {
       "ticker": "PLTR",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 186.5903,
-      "unrealized_pct": 9.95,
-      "unrealized_eur": 33.78
+      "current_price": 186.03,
+      "unrealized_pct": 9.62,
+      "unrealized_eur": 32.66
     },
     {
       "ticker": "COIN",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 175.95,
-      "unrealized_pct": -1.7,
-      "unrealized_eur": -6.1
+      "current_price": 173.16,
+      "unrealized_pct": -3.26,
+      "unrealized_eur": -11.68
     },
     {
       "ticker": "TSLA",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 351.9101,
-      "unrealized_pct": -5.18,
-      "unrealized_eur": -19.24
+      "current_price": 354.72,
+      "unrealized_pct": -4.43,
+      "unrealized_eur": -16.43
     },
     {
       "ticker": "MTSI",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 264.03,
-      "unrealized_pct": -3.99,
-      "unrealized_eur": -10.97
+      "current_price": 262.24,
+      "unrealized_pct": -4.64,
+      "unrealized_eur": -12.76
     }
   ],
   "closed": [
@@ -630,5 +630,5 @@
     }
   ],
   "last_signal_date": "2026-10-13",
-  "unrealized_pnl": -64.1
+  "unrealized_pnl": -88.11
 }
