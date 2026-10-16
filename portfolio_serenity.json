@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 83.05,
-      "unrealized_pct": 1.45,
-      "unrealized_eur": 7.14
+      "current_price": 79.6081,
+      "unrealized_pct": -2.75,
+      "unrealized_eur": -13.51
     },
     {
       "ticker": "GPRO",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.15,
-      "unrealized_pct": -5.74,
-      "unrealized_eur": -24.92
+      "current_price": 1.085,
+      "unrealized_pct": -11.07,
+      "unrealized_eur": -48.06
     },
     {
       "ticker": "PLTR",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 200.5,
-      "unrealized_pct": 18.15,
-      "unrealized_eur": 61.6
+      "current_price": 186.5903,
+      "unrealized_pct": 9.95,
+      "unrealized_eur": 33.78
     },
     {
       "ticker": "COIN",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 183.81,
-      "unrealized_pct": 2.69,
-      "unrealized_eur": 9.62
+      "current_price": 175.95,
+      "unrealized_pct": -1.7,
+      "unrealized_eur": -6.1
     },
     {
       "ticker": "TSLA",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 362.44,
-      "unrealized_pct": -2.35,
-      "unrealized_eur": -8.71
+      "current_price": 351.9101,
+      "unrealized_pct": -5.18,
+      "unrealized_eur": -19.24
     },
     {
       "ticker": "MTSI",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 271.39,
-      "unrealized_pct": -1.31,
-      "unrealized_eur": -3.61
+      "current_price": 264.03,
+      "unrealized_pct": -3.99,
+      "unrealized_eur": -10.97
     }
   ],
   "closed": [
@@ -630,5 +630,5 @@
     }
   ],
   "last_signal_date": "2026-10-13",
-  "unrealized_pnl": 41.12
+  "unrealized_pnl": -64.1
 }
