@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 214.14,
+      "current_price": 214.13,
       "unrealized_pct": 3.31,
-      "unrealized_eur": 22.85
+      "unrealized_eur": 22.82
     },
     {
       "ticker": "BIIB",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3944.0,
-      "unrealized_pct": 14.32,
-      "unrealized_eur": 115.54
+      "current_price": 3936.5,
+      "unrealized_pct": 14.1,
+      "unrealized_eur": 113.78
     },
     {
       "ticker": "META",
@@ -250,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 619.0,
-      "unrealized_pct": 8.1,
-      "unrealized_eur": 61.4
+      "current_price": 617.7,
+      "unrealized_pct": 7.88,
+      "unrealized_eur": 59.68
     },
     {
       "ticker": "DXCM",
@@ -418,9 +418,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 790.95,
-      "unrealized_pct": -1.78,
-      "unrealized_eur": -14.56
+      "current_price": 790.91,
+      "unrealized_pct": -1.79,
+      "unrealized_eur": -14.6
     },
     {
       "ticker": "MDT",
@@ -992,5 +992,5 @@
       "unrealized_eur": 55.42
     }
   ],
-  "unrealized_pnl": 942.47
+  "unrealized_pnl": 938.92
 }
