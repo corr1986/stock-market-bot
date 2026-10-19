@@ -451,6 +451,18 @@
       "current_price": 185.29,
       "unrealized_pct": 1.67,
       "unrealized_eur": 8.33
+    },
+    {
+      "id": "KMI_2026-10-19",
+      "ticker": "KMI",
+      "category": "USA",
+      "entry_date": "2026-10-19",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 1.62,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
