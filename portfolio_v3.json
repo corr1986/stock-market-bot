@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 690.37,
-      "unrealized_pct": 21.12,
-      "unrealized_eur": 161.82
+      "current_price": 690.33,
+      "unrealized_pct": 21.11,
+      "unrealized_eur": 161.76
     },
     {
       "ticker": "MSFT",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 224.97,
-      "unrealized_pct": 13.12,
-      "unrealized_eur": 123.93
+      "current_price": 224.98,
+      "unrealized_pct": 13.13,
+      "unrealized_eur": 123.98
     },
     {
       "ticker": "XOM",
@@ -167,8 +167,8 @@
       "pnl_pct": null,
       "pnl_eur": null,
       "current_price": 50.74,
-      "unrealized_pct": 2.62,
-      "unrealized_eur": 19.08
+      "unrealized_pct": 2.61,
+      "unrealized_eur": 19.01
     },
     {
       "ticker": "AMZN",
@@ -404,56 +404,65 @@
     {
       "ticker": "REGN",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 805.2999877929688,
       "entry_price_ref": 790.74,
       "size_eur": 817.22,
       "atr_entry": 48.38,
-      "initial_sl": 693.98,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 693.98,
+      "initial_sl": 708.54,
+      "max_high_since_entry": 809.489990234375,
+      "chandelier_stop": 712.729990234375,
       "setup": "Healthcare in strength, price > SMA20/50, RSI 57, MACD bullish, weekly +5.9%",
-      "entry_date": null,
+      "entry_date": "2026-10-19",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 790.95,
+      "unrealized_pct": -1.78,
+      "unrealized_eur": -14.56
     },
     {
       "ticker": "MDT",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 95.83000183105469,
       "entry_price_ref": 94.75,
       "size_eur": 1010.13,
       "atr_entry": 4.69,
-      "initial_sl": 85.37,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 85.37,
+      "initial_sl": 86.45,
+      "max_high_since_entry": 96.5,
+      "chandelier_stop": 87.12,
       "setup": "Healthcare leader, price > SMA20/50, RSI 61.3, strong MACD, weekly +7.1%",
-      "entry_date": null,
+      "entry_date": "2026-10-19",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 94.77,
+      "unrealized_pct": -1.11,
+      "unrealized_eur": -11.17
     },
     {
       "ticker": "OXY",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 61.13999938964844,
       "entry_price_ref": 62.38,
       "size_eur": 833.96,
       "atr_entry": 3.74,
-      "initial_sl": 54.9,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 54.9,
+      "initial_sl": 53.66,
+      "max_high_since_entry": 62.50579833984375,
+      "chandelier_stop": 55.025798339843746,
       "setup": "Energy sector leader, price > SMA20/50, RSI 60.7, MACD bullish, weekly +3.8%",
-      "entry_date": null,
+      "entry_date": "2026-10-19",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 62.39,
+      "unrealized_pct": 2.04,
+      "unrealized_eur": 17.05
     }
   ],
   "closed": [
@@ -983,5 +992,5 @@
       "unrealized_eur": 55.42
     }
   ],
-  "unrealized_pnl": 944.52
+  "unrealized_pnl": 935.76
 }
