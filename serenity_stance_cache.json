@@ -4565,5 +4565,9 @@
  "TSLA:2109937773440577755": {
   "stance": "bullish",
   "conviction": 4
+ },
+ "DELL:2111206827790885288": {
+  "stance": "bearish",
+  "conviction": 4
  }
 }
