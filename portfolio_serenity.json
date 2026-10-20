@@ -121,6 +121,26 @@
       "current_price": 265.79,
       "unrealized_pct": -3.35,
       "unrealized_eur": -9.21
+    },
+    {
+      "ticker": "GFS",
+      "status": "pending",
+      "signal_date": "2026-10-19",
+      "entry_ref": 47.79999923706055,
+      "atr_entry": 2.5029283251081194,
+      "shares": 10,
+      "size_eur": 477.99999237060547,
+      "initial_sl": 42.79414258684431,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
@@ -629,6 +649,6 @@
       "close_reason": "stop_loss"
     }
   ],
-  "last_signal_date": "2026-10-13",
+  "last_signal_date": "2026-10-19",
   "unrealized_pnl": -51.82
 }

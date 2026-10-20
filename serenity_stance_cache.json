@@ -4569,5 +4569,21 @@
  "DELL:2111206827790885288": {
   "stance": "bearish",
   "conviction": 4
+ },
+ "AEHR:2112102623721505098": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "AEVA:2112102623721505098": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "GFS:2112102623721505098": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "POET:2112102623721505098": {
+  "stance": "neutral",
+  "conviction": 1
  }
 }
