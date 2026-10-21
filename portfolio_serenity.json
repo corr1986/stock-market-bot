@@ -141,6 +141,26 @@
       "current_price": 47.01,
       "unrealized_pct": 4.17,
       "unrealized_eur": 18.8
+    },
+    {
+      "ticker": "SMCI",
+      "status": "pending",
+      "signal_date": "2026-10-20",
+      "entry_ref": 35.470001220703125,
+      "atr_entry": 2.7307139805385043,
+      "shares": 14,
+      "size_eur": 496.58001708984375,
+      "initial_sl": 30.008573259626118,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
@@ -649,6 +669,6 @@
       "close_reason": "stop_loss"
     }
   ],
-  "last_signal_date": "2026-10-19",
+  "last_signal_date": "2026-10-20",
   "unrealized_pnl": -12.51
 }
