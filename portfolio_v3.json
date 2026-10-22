@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3908.5,
-      "unrealized_pct": 13.29,
-      "unrealized_eur": 107.23
+      "current_price": 3932.0,
+      "unrealized_pct": 13.97,
+      "unrealized_eur": 112.73
     },
     {
       "ticker": "META",
@@ -221,17 +221,17 @@
       "size_eur": 757.65,
       "atr_entry": 37.26,
       "initial_sl": 498.08,
-      "max_high_since_entry": 622.7000122070312,
-      "chandelier_stop": 548.1800122070313,
+      "max_high_since_entry": 624.2999877929688,
+      "chandelier_stop": 549.7799877929688,
       "setup": "Energia europea solida, RSI 57.9, MACD bullish, prezzo sopra SMA20/50, supporto macro",
       "entry_date": "2026-09-14",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 616.9,
-      "unrealized_pct": 7.74,
-      "unrealized_eur": 58.62
+      "current_price": 622.5,
+      "unrealized_pct": 8.71,
+      "unrealized_eur": 66.03
     },
     {
       "ticker": "DXCM",
@@ -992,5 +992,5 @@
       "unrealized_eur": 32.67
     }
   ],
-  "unrealized_pnl": 941.16
+  "unrealized_pnl": 954.07
 }
