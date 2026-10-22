@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 694.53,
-      "unrealized_pct": 21.85,
-      "unrealized_eur": 167.41
+      "current_price": 694.28,
+      "unrealized_pct": 21.8,
+      "unrealized_eur": 167.07
     },
     {
       "ticker": "MSFT",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 226.76,
-      "unrealized_pct": 14.02,
-      "unrealized_eur": 132.42
+      "current_price": 226.77,
+      "unrealized_pct": 14.03,
+      "unrealized_eur": 132.48
     },
     {
       "ticker": "XOM",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 178.07,
-      "unrealized_pct": 11.5,
-      "unrealized_eur": 104.1
+      "current_price": 178.09,
+      "unrealized_pct": 11.51,
+      "unrealized_eur": 104.21
     },
     {
       "ticker": "GILD",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 262.36,
-      "unrealized_pct": 1.56,
-      "unrealized_eur": 12.05
+      "current_price": 262.28,
+      "unrealized_pct": 1.53,
+      "unrealized_eur": 11.81
     },
     {
       "ticker": "SHEL.L",
@@ -263,8 +263,8 @@
       "size_eur": 782.16,
       "atr_entry": 13.54,
       "initial_sl": 185.56,
-      "max_high_since_entry": 234.3699951171875,
-      "chandelier_stop": 207.28999511718752,
+      "max_high_since_entry": 234.39999389648438,
+      "chandelier_stop": 207.3199938964844,
       "setup": "Healthcare: +5.8% weekly, strong bullish MACD, RSI 56.5, price above SMA20/50.",
       "entry_date": "2026-09-21",
       "close_date": null,
@@ -355,9 +355,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 524.91,
-      "unrealized_pct": -0.96,
-      "unrealized_eur": -5.52
+      "current_price": 524.86,
+      "unrealized_pct": -0.97,
+      "unrealized_eur": -5.58
     },
     {
       "ticker": "MELI",
@@ -992,5 +992,5 @@
       "unrealized_eur": 32.67
     }
   ],
-  "unrealized_pnl": 941.63
+  "unrealized_pnl": 941.16
 }
