@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 81.43,
-      "unrealized_pct": -0.53,
-      "unrealized_eur": -2.58
+      "current_price": 74.025,
+      "unrealized_pct": -9.57,
+      "unrealized_eur": -47.01
     },
     {
       "ticker": "GPRO",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.065,
-      "unrealized_pct": -12.7,
-      "unrealized_eur": -55.18
+      "current_price": 1.0284,
+      "unrealized_pct": -15.7,
+      "unrealized_eur": -68.21
     },
     {
       "ticker": "PLTR",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 201.72,
-      "unrealized_pct": 18.87,
-      "unrealized_eur": 64.04
+      "current_price": 196.775,
+      "unrealized_pct": 15.95,
+      "unrealized_eur": 54.15
     },
     {
       "ticker": "COIN",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 177.08,
-      "unrealized_pct": -1.07,
-      "unrealized_eur": -3.84
+      "current_price": 168.13,
+      "unrealized_pct": -6.07,
+      "unrealized_eur": -21.74
     },
     {
       "ticker": "TSLA",
@@ -98,29 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 386.47,
-      "unrealized_pct": 4.13,
-      "unrealized_eur": 15.32
-    },
-    {
-      "ticker": "MTSI",
-      "status": "active",
-      "signal_date": "2026-10-10",
-      "entry_ref": 266.55999755859375,
-      "atr_entry": 19.514286586216517,
-      "shares": 1,
-      "size_eur": 266.55999755859375,
-      "initial_sl": 235.97142682756697,
-      "entry_price": 275.0,
-      "entry_date": "2026-10-15",
-      "deadline": "2026-12-14",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 273.05,
-      "unrealized_pct": -0.71,
-      "unrealized_eur": -1.95
+      "current_price": 376.245,
+      "unrealized_pct": 1.37,
+      "unrealized_eur": 5.1
     },
     {
       "ticker": "GFS",
@@ -138,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 47.7,
-      "unrealized_pct": 5.69,
-      "unrealized_eur": 25.7
+      "current_price": 43.605,
+      "unrealized_pct": -3.38,
+      "unrealized_eur": -15.25
     },
     {
       "ticker": "SMCI",
@@ -158,9 +138,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 35.57,
-      "unrealized_pct": -2.33,
-      "unrealized_eur": -11.9
+      "current_price": 33.55,
+      "unrealized_pct": -7.88,
+      "unrealized_eur": -40.18
     }
   ],
   "closed": [
@@ -667,8 +647,29 @@
       "unrealized_pct": -10.81,
       "unrealized_eur": -35.06,
       "close_reason": "stop_loss"
+    },
+    {
+      "ticker": "MTSI",
+      "status": "closed",
+      "signal_date": "2026-10-10",
+      "entry_ref": 266.55999755859375,
+      "atr_entry": 19.514286586216517,
+      "shares": 1,
+      "size_eur": 266.55999755859375,
+      "initial_sl": 235.97142682756697,
+      "entry_price": 275.0,
+      "entry_date": "2026-10-15",
+      "deadline": "2026-12-14",
+      "close_date": "2026-10-22",
+      "close_price": 235.9714,
+      "pnl_pct": -14.19,
+      "pnl_eur": -39.03,
+      "current_price": 233.065,
+      "unrealized_pct": -15.25,
+      "unrealized_eur": -41.93,
+      "close_reason": "stop_loss"
     }
   ],
   "last_signal_date": "2026-10-20",
-  "unrealized_pnl": 29.61
+  "unrealized_pnl": -133.14
 }
