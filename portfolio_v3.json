@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 262.36,
-      "unrealized_pct": 1.56,
-      "unrealized_eur": 12.05
+      "current_price": 262.28,
+      "unrealized_pct": 1.53,
+      "unrealized_eur": 11.81
     },
     {
       "ticker": "SHEL.L",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3953.5,
-      "unrealized_pct": 14.59,
-      "unrealized_eur": 117.76
+      "current_price": 3956.0,
+      "unrealized_pct": 14.67,
+      "unrealized_eur": 118.34
     },
     {
       "ticker": "META",
@@ -221,17 +221,17 @@
       "size_eur": 757.65,
       "atr_entry": 37.26,
       "initial_sl": 498.08,
-      "max_high_since_entry": 625.0,
-      "chandelier_stop": 550.48,
+      "max_high_since_entry": 626.0999755859375,
+      "chandelier_stop": 551.5799755859375,
       "setup": "Energia europea solida, RSI 57.9, MACD bullish, prezzo sopra SMA20/50, supporto macro",
       "entry_date": "2026-09-14",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 624.7,
-      "unrealized_pct": 9.1,
-      "unrealized_eur": 68.94
+      "current_price": 625.8,
+      "unrealized_pct": 9.29,
+      "unrealized_eur": 70.39
     },
     {
       "ticker": "DXCM",
@@ -355,9 +355,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 524.91,
-      "unrealized_pct": -0.96,
-      "unrealized_eur": -5.52
+      "current_price": 524.86,
+      "unrealized_pct": -0.97,
+      "unrealized_eur": -5.58
     },
     {
       "ticker": "MELI",
@@ -418,9 +418,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 93.04,
+      "current_price": 93.03,
       "unrealized_pct": -2.92,
-      "unrealized_eur": -29.46
+      "unrealized_eur": -29.51
     },
     {
       "ticker": "OXY",
@@ -992,5 +992,5 @@
       "unrealized_eur": 32.67
     }
   ],
-  "unrealized_pnl": 962.36
+  "unrealized_pnl": 964.04
 }
