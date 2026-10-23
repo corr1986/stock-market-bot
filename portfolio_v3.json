@@ -1,6 +1,6 @@
 {
-  "balance": 19404.949489745923,
-  "realized_pnl": -595.0505102540754,
+  "balance": 19319.683191770877,
+  "realized_pnl": -680.3168082291218,
   "open": [
     {
       "ticker": "BIIB",
@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 253.87,
-      "unrealized_pct": 21.46,
-      "unrealized_eur": 152.45
+      "current_price": 247.84,
+      "unrealized_pct": 18.58,
+      "unrealized_eur": 131.96
     },
     {
       "ticker": "TMO",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 676.52,
-      "unrealized_pct": 18.69,
-      "unrealized_eur": 143.2
+      "current_price": 669.89,
+      "unrealized_pct": 17.52,
+      "unrealized_eur": 134.28
     },
     {
       "ticker": "MSFT",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 521.58,
-      "unrealized_pct": 16.01,
-      "unrealized_eur": 114.14
+      "current_price": 522.41,
+      "unrealized_pct": 16.2,
+      "unrealized_eur": 115.45
     },
     {
       "ticker": "CVX",
@@ -74,17 +74,17 @@
       "size_eur": 944.29,
       "atr_entry": 10.59,
       "initial_sl": 177.69,
-      "max_high_since_entry": 229.0399932861328,
-      "chandelier_stop": 207.8599932861328,
+      "max_high_since_entry": 231.79930114746094,
+      "chandelier_stop": 210.61930114746093,
       "setup": "Prezzo in aumento, RSI sotto 70, MACD favorevole e settore energia in forza",
       "entry_date": "2026-08-17",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 226.68,
-      "unrealized_pct": 13.98,
-      "unrealized_eur": 132.05
+      "current_price": 230.86,
+      "unrealized_pct": 16.09,
+      "unrealized_eur": 151.9
     },
     {
       "ticker": "XOM",
@@ -95,17 +95,17 @@
       "size_eur": 905.54,
       "atr_entry": 8.84,
       "initial_sl": 142.03,
-      "max_high_since_entry": 180.30999755859375,
-      "chandelier_stop": 162.62999755859374,
+      "max_high_since_entry": 182.05999755859375,
+      "chandelier_stop": 164.37999755859374,
       "setup": "Prezzo in aumento, RSI sotto 70, MACD favorevole e settore energia in forza",
       "entry_date": "2026-08-17",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 178.23,
-      "unrealized_pct": 11.6,
-      "unrealized_eur": 105.01
+      "current_price": 181.54,
+      "unrealized_pct": 13.67,
+      "unrealized_eur": 123.75
     },
     {
       "ticker": "GILD",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 157.21,
-      "unrealized_pct": 14.91,
-      "unrealized_eur": 134.67
+      "current_price": 156.72,
+      "unrealized_pct": 14.55,
+      "unrealized_eur": 131.43
     },
     {
       "ticker": "DVN",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 49.17,
-      "unrealized_pct": -0.56,
-      "unrealized_eur": -4.05
+      "current_price": 50.67,
+      "unrealized_pct": 2.48,
+      "unrealized_eur": 18.05
     },
     {
       "ticker": "AMZN",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 250.49,
-      "unrealized_pct": -3.03,
-      "unrealized_eur": -23.35
+      "current_price": 248.52,
+      "unrealized_pct": -3.79,
+      "unrealized_eur": -29.23
     },
     {
       "ticker": "SHEL.L",
@@ -179,17 +179,17 @@
       "size_eur": 806.88,
       "atr_entry": 212.98,
       "initial_sl": 3024.04,
-      "max_high_since_entry": 3980.0,
-      "chandelier_stop": 3554.04,
+      "max_high_since_entry": 4013.5,
+      "chandelier_stop": 3587.54,
       "setup": "Energy leader up +2.8% weekly, MACD strongly bullish, RSI 60.6, price above SMA20/50, high volume, macro supports energy.",
       "entry_date": "2026-09-07",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3971.5,
-      "unrealized_pct": 15.12,
-      "unrealized_eur": 121.97
+      "current_price": 4008.79,
+      "unrealized_pct": 16.2,
+      "unrealized_eur": 130.69
     },
     {
       "ticker": "BP.L",
@@ -200,17 +200,17 @@
       "size_eur": 757.65,
       "atr_entry": 37.26,
       "initial_sl": 498.08,
-      "max_high_since_entry": 628.5590209960938,
-      "chandelier_stop": 554.0390209960938,
+      "max_high_since_entry": 634.5999755859375,
+      "chandelier_stop": 560.0799755859375,
       "setup": "Energia europea solida, RSI 57.9, MACD bullish, prezzo sopra SMA20/50, supporto macro",
       "entry_date": "2026-09-14",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 628.2,
-      "unrealized_pct": 9.71,
-      "unrealized_eur": 73.57
+      "current_price": 633.9,
+      "unrealized_pct": 10.71,
+      "unrealized_eur": 81.11
     },
     {
       "ticker": "DHR",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 229.75,
-      "unrealized_pct": 8.05,
-      "unrealized_eur": 62.94
+      "current_price": 227.59,
+      "unrealized_pct": 7.03,
+      "unrealized_eur": 54.99
     },
     {
       "ticker": "QCOM",
@@ -250,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 172.89,
-      "unrealized_pct": -11.52,
-      "unrealized_eur": -56.55
+      "current_price": 174.43,
+      "unrealized_pct": -10.73,
+      "unrealized_eur": -52.69
     },
     {
       "ticker": "AMGN",
@@ -271,30 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 447.39,
-      "unrealized_pct": 9.86,
-      "unrealized_eur": 85.36
-    },
-    {
-      "ticker": "SNPS",
-      "category": "USA",
-      "status": "active",
-      "entry_price": 500.0249938964844,
-      "entry_price_ref": 489.9,
-      "size_eur": 527.11,
-      "atr_entry": 46.47,
-      "initial_sl": 407.085,
-      "max_high_since_entry": 512.0800170898438,
-      "chandelier_stop": 419.14001708984375,
-      "setup": "Semiconductor EDA firm, RSI 58.3, strong bullish MACD histogram, price well above SMA20/50, rapid weekly gain.",
-      "entry_date": "2026-10-05",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 422.63,
-      "unrealized_pct": -15.48,
-      "unrealized_eur": -81.59
+      "current_price": 442.05,
+      "unrealized_pct": 8.55,
+      "unrealized_eur": 74.0
     },
     {
       "ticker": "SPOT",
@@ -305,17 +284,17 @@
       "size_eur": 574.9,
       "atr_entry": 46.02,
       "initial_sl": 437.96,
-      "max_high_since_entry": 588.8800048828125,
-      "chandelier_stop": 496.8400048828125,
+      "max_high_since_entry": 593.7999877929688,
+      "chandelier_stop": 501.75998779296873,
       "setup": "Weekly +11.9%, price above SMA20/50, bullish MACD (hist >0), RSI 53.6, consumer discretionary sector in strength.",
       "entry_date": "2026-10-12",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 583.98,
-      "unrealized_pct": 10.18,
-      "unrealized_eur": 58.55
+      "current_price": 582.34,
+      "unrealized_pct": 9.88,
+      "unrealized_eur": 56.77
     },
     {
       "ticker": "MELI",
@@ -334,9 +313,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1825.75,
-      "unrealized_pct": -2.23,
-      "unrealized_eur": -14.87
+      "current_price": 1807.43,
+      "unrealized_pct": -3.22,
+      "unrealized_eur": -21.4
     },
     {
       "ticker": "REGN",
@@ -355,9 +334,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 819.54,
-      "unrealized_pct": 1.77,
-      "unrealized_eur": 14.45
+      "current_price": 806.4,
+      "unrealized_pct": 0.14,
+      "unrealized_eur": 1.12
     },
     {
       "ticker": "MDT",
@@ -368,17 +347,17 @@
       "size_eur": 1010.13,
       "atr_entry": 4.69,
       "initial_sl": 86.45,
-      "max_high_since_entry": 96.66000366210938,
-      "chandelier_stop": 87.28000366210938,
+      "max_high_since_entry": 96.88999938964844,
+      "chandelier_stop": 87.50999938964844,
       "setup": "Healthcare leader, price > SMA20/50, RSI 61.3, strong MACD, weekly +7.1%",
       "entry_date": "2026-10-19",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 96.58,
-      "unrealized_pct": 0.78,
-      "unrealized_eur": 7.91
+      "current_price": 95.96,
+      "unrealized_pct": 0.14,
+      "unrealized_eur": 1.42
     },
     {
       "ticker": "OXY",
@@ -389,17 +368,17 @@
       "size_eur": 833.96,
       "atr_entry": 3.74,
       "initial_sl": 53.66,
-      "max_high_since_entry": 63.62699890136719,
-      "chandelier_stop": 56.14699890136718,
+      "max_high_since_entry": 64.2300033569336,
+      "chandelier_stop": 56.75000335693359,
       "setup": "Energy sector leader, price > SMA20/50, RSI 60.7, MACD bullish, weekly +3.8%",
       "entry_date": "2026-10-19",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 62.48,
-      "unrealized_pct": 2.19,
-      "unrealized_eur": 18.28
+      "current_price": 63.78,
+      "unrealized_pct": 4.31,
+      "unrealized_eur": 35.94
     }
   ],
   "closed": [
@@ -990,7 +969,28 @@
       "current_price": 80.25,
       "unrealized_pct": -9.25,
       "unrealized_eur": -69.81
+    },
+    {
+      "ticker": "SNPS",
+      "category": "USA",
+      "status": "closed",
+      "entry_price": 500.0249938964844,
+      "entry_price_ref": 489.9,
+      "size_eur": 527.11,
+      "atr_entry": 46.47,
+      "initial_sl": 407.085,
+      "max_high_since_entry": 512.0800170898438,
+      "chandelier_stop": 419.14001708984375,
+      "setup": "Semiconductor EDA firm, RSI 58.3, strong bullish MACD histogram, price well above SMA20/50, rapid weekly gain.",
+      "entry_date": "2026-10-05",
+      "close_date": "2026-10-23",
+      "close_price": 419.14,
+      "pnl_pct": -16.18,
+      "pnl_eur": -85.27,
+      "current_price": 422.63,
+      "unrealized_pct": -15.48,
+      "unrealized_eur": -81.59
     }
   ],
-  "unrealized_pnl": 1044.14
+  "unrealized_pnl": 1139.54
 }
