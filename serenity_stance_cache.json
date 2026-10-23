@@ -4589,5 +4589,21 @@
  "SMCI:2112684521174999529": {
   "stance": "bullish",
   "conviction": 4
+ },
+ "AMKR:2113094859439690104": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "ASTS:2113240389813780923": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "HOOD:2113240389813780923": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "RKLB:2113240389813780923": {
+  "stance": "neutral",
+  "conviction": 2
  }
 }
