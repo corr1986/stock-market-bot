@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 676.55,
+      "current_price": 676.52,
       "unrealized_pct": 18.69,
-      "unrealized_eur": 143.24
+      "unrealized_eur": 143.2
     },
     {
       "ticker": "MSFT",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 226.65,
-      "unrealized_pct": 13.97,
-      "unrealized_eur": 131.91
+      "current_price": 226.68,
+      "unrealized_pct": 13.98,
+      "unrealized_eur": 132.05
     },
     {
       "ticker": "XOM",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 178.19,
-      "unrealized_pct": 11.57,
-      "unrealized_eur": 104.78
+      "current_price": 178.23,
+      "unrealized_pct": 11.6,
+      "unrealized_eur": 105.01
     },
     {
       "ticker": "GILD",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 49.16,
-      "unrealized_pct": -0.58,
-      "unrealized_eur": -4.2
+      "current_price": 49.17,
+      "unrealized_pct": -0.56,
+      "unrealized_eur": -4.05
     },
     {
       "ticker": "AMZN",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 229.88,
-      "unrealized_pct": 8.11,
-      "unrealized_eur": 63.41
+      "current_price": 229.74,
+      "unrealized_pct": 8.04,
+      "unrealized_eur": 62.9
     },
     {
       "ticker": "QCOM",
@@ -313,9 +313,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 583.42,
-      "unrealized_pct": 10.08,
-      "unrealized_eur": 57.95
+      "current_price": 583.98,
+      "unrealized_pct": 10.18,
+      "unrealized_eur": 58.55
     },
     {
       "ticker": "MELI",
@@ -368,8 +368,8 @@
       "size_eur": 1010.13,
       "atr_entry": 4.69,
       "initial_sl": 86.45,
-      "max_high_since_entry": 96.62000274658203,
-      "chandelier_stop": 87.24000274658204,
+      "max_high_since_entry": 96.66000366210938,
+      "chandelier_stop": 87.28000366210938,
       "setup": "Healthcare leader, price > SMA20/50, RSI 61.3, strong MACD, weekly +7.1%",
       "entry_date": "2026-10-19",
       "close_date": null,
@@ -992,5 +992,5 @@
       "unrealized_eur": -69.81
     }
   ],
-  "unrealized_pnl": 1004.82
+  "unrealized_pnl": 1005.39
 }
