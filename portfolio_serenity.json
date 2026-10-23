@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.02,
-      "unrealized_pct": -16.39,
-      "unrealized_eur": -71.2
+      "current_price": 1.015,
+      "unrealized_pct": -16.8,
+      "unrealized_eur": -72.98
     },
     {
       "ticker": "PLTR",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 196.19,
-      "unrealized_pct": 15.61,
-      "unrealized_eur": 52.98
+      "current_price": 195.9344,
+      "unrealized_pct": 15.46,
+      "unrealized_eur": 52.47
     },
     {
       "ticker": "COIN",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 169.09,
-      "unrealized_pct": -5.54,
-      "unrealized_eur": -19.82
+      "current_price": 166.05,
+      "unrealized_pct": -7.23,
+      "unrealized_eur": -25.9
     },
     {
       "ticker": "TSLA",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 374.58,
-      "unrealized_pct": 0.92,
-      "unrealized_eur": 3.43
+      "current_price": 371.46,
+      "unrealized_pct": 0.08,
+      "unrealized_eur": 0.31
     },
     {
       "ticker": "GFS",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 43.37,
-      "unrealized_pct": -3.9,
-      "unrealized_eur": -17.6
+      "current_price": 44.49,
+      "unrealized_pct": -1.42,
+      "unrealized_eur": -6.4
     },
     {
       "ticker": "SMCI",
@@ -118,29 +118,29 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 33.72,
-      "unrealized_pct": -7.41,
-      "unrealized_eur": -37.8
+      "current_price": 32.935,
+      "unrealized_pct": -9.57,
+      "unrealized_eur": -48.79
     },
     {
       "ticker": "AMKR",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-10-22",
       "entry_ref": 39.459999084472656,
       "atr_entry": 2.7072857448032925,
       "shares": 12,
       "size_eur": 473.5199890136719,
-      "initial_sl": 34.04542759486607,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 33.175428662981304,
+      "entry_price": 38.59000015258789,
+      "entry_date": "2026-10-23",
+      "deadline": "2026-12-22",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 39.42,
+      "unrealized_pct": 2.15,
+      "unrealized_eur": 9.96
     }
   ],
   "closed": [
@@ -692,5 +692,5 @@
     }
   ],
   "last_signal_date": "2026-10-22",
-  "unrealized_pnl": -90.01
+  "unrealized_pnl": -91.33
 }
