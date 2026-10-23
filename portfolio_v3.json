@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3938.5,
-      "unrealized_pct": 14.16,
-      "unrealized_eur": 114.25
+      "current_price": 3957.5,
+      "unrealized_pct": 14.71,
+      "unrealized_eur": 118.69
     },
     {
       "ticker": "BP.L",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 622.8,
-      "unrealized_pct": 8.77,
-      "unrealized_eur": 66.42
+      "current_price": 625.4,
+      "unrealized_pct": 9.22,
+      "unrealized_eur": 69.86
     },
     {
       "ticker": "DHR",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 229.75,
-      "unrealized_pct": 8.05,
-      "unrealized_eur": 62.94
+      "current_price": 229.74,
+      "unrealized_pct": 8.04,
+      "unrealized_eur": 62.9
     },
     {
       "ticker": "QCOM",
@@ -992,5 +992,5 @@
       "unrealized_eur": -69.81
     }
   ],
-  "unrealized_pnl": 1029.27
+  "unrealized_pnl": 1037.11
 }
