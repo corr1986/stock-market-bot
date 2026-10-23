@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3965.5,
-      "unrealized_pct": 14.94,
-      "unrealized_eur": 120.56
+      "current_price": 3970.5,
+      "unrealized_pct": 15.09,
+      "unrealized_eur": 121.73
     },
     {
       "ticker": "BP.L",
@@ -200,17 +200,17 @@
       "size_eur": 757.65,
       "atr_entry": 37.26,
       "initial_sl": 498.08,
-      "max_high_since_entry": 626.7000122070312,
-      "chandelier_stop": 552.1800122070313,
+      "max_high_since_entry": 627.0999755859375,
+      "chandelier_stop": 552.5799755859375,
       "setup": "Energia europea solida, RSI 57.9, MACD bullish, prezzo sopra SMA20/50, supporto macro",
       "entry_date": "2026-09-14",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 626.1,
-      "unrealized_pct": 9.34,
-      "unrealized_eur": 70.79
+      "current_price": 626.7,
+      "unrealized_pct": 9.45,
+      "unrealized_eur": 71.58
     },
     {
       "ticker": "DHR",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 229.75,
-      "unrealized_pct": 8.05,
-      "unrealized_eur": 62.94
+      "current_price": 229.74,
+      "unrealized_pct": 8.04,
+      "unrealized_eur": 62.9
     },
     {
       "ticker": "QCOM",
@@ -992,5 +992,5 @@
       "unrealized_eur": -69.81
     }
   ],
-  "unrealized_pnl": 1039.95
+  "unrealized_pnl": 1041.87
 }
