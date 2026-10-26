@@ -466,6 +466,42 @@
       "current_price": 34.44,
       "unrealized_pct": 1.07,
       "unrealized_eur": 5.36
+    },
+    {
+      "id": "SPOT_2026-10-26",
+      "ticker": "SPOT",
+      "category": "USA",
+      "entry_date": "2026-10-26",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 47.44,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "LMT_2026-10-26",
+      "ticker": "LMT",
+      "category": "USA",
+      "entry_date": "2026-10-26",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 34.2,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "CCI_2026-10-26",
+      "ticker": "CCI",
+      "category": "USA",
+      "entry_date": "2026-10-26",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 6.27,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
