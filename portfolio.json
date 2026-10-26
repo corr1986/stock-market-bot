@@ -13,9 +13,9 @@
       "atr": 19.63,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 439.3,
-      "unrealized_pct": 15.02,
-      "unrealized_eur": 75.08
+      "current_price": 440.1,
+      "unrealized_pct": 15.22,
+      "unrealized_eur": 76.12
     },
     {
       "id": "AFL_2026-06-08",
@@ -343,9 +343,9 @@
       "atr": 212.98,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 3989.5,
-      "unrealized_pct": 16.35,
-      "unrealized_eur": 81.73
+      "current_price": 3964.5,
+      "unrealized_pct": 15.62,
+      "unrealized_eur": 78.08
     },
     {
       "id": "FRE.DE_2026-09-14",
@@ -358,9 +358,9 @@
       "atr": 2.29,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 46.12,
-      "unrealized_pct": 2.66,
-      "unrealized_eur": 13.3
+      "current_price": 46.03,
+      "unrealized_pct": 2.47,
+      "unrealized_eur": 12.36
     },
     {
       "id": "META_2026-09-14",
@@ -863,5 +863,5 @@
       "days_held": 49
     }
   ],
-  "unrealized_pnl": 983.73
+  "unrealized_pnl": 980.18
 }
