@@ -4605,5 +4605,21 @@
  "RKLB:2113240389813780923": {
   "stance": "neutral",
   "conviction": 2
+ },
+ "ESMT:2113437977749999628": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "APPL:2113950041207607453": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "CIFR:2114225154591207690": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "SLNH:2114495814538285526": {
+  "stance": "bearish",
+  "conviction": 3
  }
 }
