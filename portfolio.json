@@ -373,9 +373,9 @@
       "atr": 54.1,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 642.3,
-      "unrealized_pct": -2.33,
-      "unrealized_eur": -11.65
+      "current_price": 642.26,
+      "unrealized_pct": -2.34,
+      "unrealized_eur": -11.68
     },
     {
       "id": "AMGN_2026-09-21",
@@ -863,5 +863,5 @@
       "days_held": 49
     }
   ],
-  "unrealized_pnl": 982.53
+  "unrealized_pnl": 982.5
 }
