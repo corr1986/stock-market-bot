@@ -379,6 +379,42 @@
       "current_price": 64.15,
       "unrealized_pct": 4.93,
       "unrealized_eur": 41.13
+    },
+    {
+      "ticker": "SPGI",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 450.31,
+      "size_eur": 852.86,
+      "atr_entry": 26.4,
+      "initial_sl": 397.51,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 397.51,
+      "setup": "Finanza in forza, MACD molto bullish, RSI 58 e prezzo sopra SMA20/50",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
+    },
+    {
+      "ticker": "KMI",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 34.43,
+      "size_eur": 1037.05,
+      "atr_entry": 1.66,
+      "initial_sl": 31.11,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 31.11,
+      "setup": "Energia leader di settore, MACD positivo, RSI 62 e prezzo sopra SMA20/50",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
     }
   ],
   "closed": [
