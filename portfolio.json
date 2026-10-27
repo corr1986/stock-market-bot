@@ -283,9 +283,9 @@
       "atr": 10.27,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 110.38,
-      "unrealized_pct": -7.55,
-      "unrealized_eur": -37.73
+      "current_price": 110.39,
+      "unrealized_pct": -7.54,
+      "unrealized_eur": -37.69
     },
     {
       "id": "DE_2026-08-24",
@@ -328,9 +328,9 @@
       "atr": 16.54,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 215.98,
+      "current_price": 215.97,
       "unrealized_pct": -1.32,
-      "unrealized_eur": -6.58
+      "unrealized_eur": -6.61
     },
     {
       "id": "SHEL.L_2026-09-07",
@@ -872,5 +872,5 @@
       "days_held": 49
     }
   ],
-  "unrealized_pnl": 1033.46
+  "unrealized_pnl": 1033.47
 }
