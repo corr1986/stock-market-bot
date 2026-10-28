@@ -4625,5 +4625,33 @@
  "ANT:2114752489476309203": {
   "stance": "bullish",
   "conviction": 4
+ },
+ "ALMU:2115094150626644115": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "BRUN:2115100801538683149": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "EOSE:2115118430785606077": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "FLNC:2115096629506457833": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "LWLG:2115115209413292219": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "TSEM:2115115209413292219": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "WYFI:2115104606208606562": {
+  "stance": "bearish",
+  "conviction": 4
  }
 }
