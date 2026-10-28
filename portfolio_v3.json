@@ -250,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 184.23,
-      "unrealized_pct": -5.72,
-      "unrealized_eur": -28.06
+      "current_price": 184.2,
+      "unrealized_pct": -5.73,
+      "unrealized_eur": -28.14
     },
     {
       "ticker": "AMGN",
@@ -1034,5 +1034,5 @@
       "unrealized_eur": -20.07
     }
   ],
-  "unrealized_pnl": 1191.58
+  "unrealized_pnl": 1191.5
 }
