@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 693.33,
-      "unrealized_pct": 21.64,
-      "unrealized_eur": 165.79
+      "current_price": 692.93,
+      "unrealized_pct": 21.57,
+      "unrealized_eur": 165.26
     },
     {
       "ticker": "MSFT",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 228.33,
-      "unrealized_pct": 14.81,
-      "unrealized_eur": 139.88
+      "current_price": 228.31,
+      "unrealized_pct": 14.8,
+      "unrealized_eur": 139.79
     },
     {
       "ticker": "XOM",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 51.24,
-      "unrealized_pct": 3.63,
-      "unrealized_eur": 26.45
+      "current_price": 51.23,
+      "unrealized_pct": 3.61,
+      "unrealized_eur": 26.3
     },
     {
       "ticker": "AMZN",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 232.08,
-      "unrealized_pct": 9.14,
-      "unrealized_eur": 71.51
+      "current_price": 232.1,
+      "unrealized_pct": 9.15,
+      "unrealized_eur": 71.58
     },
     {
       "ticker": "QCOM",
@@ -376,9 +376,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 448.95,
-      "unrealized_pct": -0.05,
-      "unrealized_eur": -0.43
+      "current_price": 448.92,
+      "unrealized_pct": -0.06,
+      "unrealized_eur": -0.48
     },
     {
       "ticker": "KMI",
@@ -397,9 +397,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 33.87,
-      "unrealized_pct": 0.13,
-      "unrealized_eur": 1.38
+      "current_price": 33.86,
+      "unrealized_pct": 0.12,
+      "unrealized_eur": 1.23
     }
   ],
   "closed": [
@@ -1034,5 +1034,5 @@
       "unrealized_eur": -20.07
     }
   ],
-  "unrealized_pnl": 1192.48
+  "unrealized_pnl": 1191.58
 }
