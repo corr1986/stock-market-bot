@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3934.0,
-      "unrealized_pct": 14.03,
-      "unrealized_eur": 113.2
+      "current_price": 3929.5,
+      "unrealized_pct": 13.9,
+      "unrealized_eur": 112.14
     },
     {
       "ticker": "BP.L",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 613.6,
-      "unrealized_pct": 7.16,
-      "unrealized_eur": 54.25
+      "current_price": 613.5,
+      "unrealized_pct": 7.14,
+      "unrealized_eur": 54.12
     },
     {
       "ticker": "DHR",
@@ -250,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 184.2,
-      "unrealized_pct": -5.73,
-      "unrealized_eur": -28.14
+      "current_price": 184.23,
+      "unrealized_pct": -5.72,
+      "unrealized_eur": -28.06
     },
     {
       "ticker": "AMGN",
@@ -1034,5 +1034,5 @@
       "unrealized_eur": -20.07
     }
   ],
-  "unrealized_pnl": 1193.51
+  "unrealized_pnl": 1192.4
 }
