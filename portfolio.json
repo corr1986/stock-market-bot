@@ -58,9 +58,9 @@
       "atr": 8.55,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 172.82,
-      "unrealized_pct": 7.07,
-      "unrealized_eur": 35.34
+      "current_price": 172.8,
+      "unrealized_pct": 7.06,
+      "unrealized_eur": 35.28
     },
     {
       "id": "AAPL_2026-06-22",
@@ -178,9 +178,9 @@
       "atr": 32.6,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 531.73,
-      "unrealized_pct": 11.62,
-      "unrealized_eur": 58.08
+      "current_price": 530.83,
+      "unrealized_pct": 11.43,
+      "unrealized_eur": 57.13
     },
     {
       "id": "RACE_2026-08-03",
@@ -872,5 +872,5 @@
       "days_held": 49
     }
   ],
-  "unrealized_pnl": 1014.07
+  "unrealized_pnl": 1013.06
 }
