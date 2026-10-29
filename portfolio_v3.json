@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 530.83,
-      "unrealized_pct": 18.07,
-      "unrealized_eur": 128.8
+      "current_price": 531.73,
+      "unrealized_pct": 18.27,
+      "unrealized_eur": 130.23
     },
     {
       "ticker": "CVX",
@@ -179,17 +179,17 @@
       "size_eur": 806.88,
       "atr_entry": 212.98,
       "initial_sl": 3024.04,
-      "max_high_since_entry": 4035.5,
-      "chandelier_stop": 3609.54,
+      "max_high_since_entry": 4099.0,
+      "chandelier_stop": 3673.04,
       "setup": "Energy leader up +2.8% weekly, MACD strongly bullish, RSI 60.6, price above SMA20/50, high volume, macro supports energy.",
       "entry_date": "2026-09-07",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3956.0,
-      "unrealized_pct": 14.67,
-      "unrealized_eur": 118.34
+      "current_price": 4075.5,
+      "unrealized_pct": 18.13,
+      "unrealized_eur": 146.29
     },
     {
       "ticker": "BP.L",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 621.1,
-      "unrealized_pct": 8.47,
-      "unrealized_eur": 64.17
+      "current_price": 627.1,
+      "unrealized_pct": 9.52,
+      "unrealized_eur": 72.11
     },
     {
       "ticker": "DHR",
@@ -250,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 182.92,
-      "unrealized_pct": -6.39,
-      "unrealized_eur": -31.36
+      "current_price": 182.99,
+      "unrealized_pct": -6.35,
+      "unrealized_eur": -31.18
     },
     {
       "ticker": "AMGN",
@@ -1034,5 +1034,5 @@
       "unrealized_eur": -20.07
     }
   ],
-  "unrealized_pnl": 1212.57
+  "unrealized_pnl": 1250.07
 }
