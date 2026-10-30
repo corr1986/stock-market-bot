@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 4050.5,
-      "unrealized_pct": 17.41,
-      "unrealized_eur": 140.44
+      "current_price": 4048.5,
+      "unrealized_pct": 17.35,
+      "unrealized_eur": 139.98
     },
     {
       "ticker": "BP.L",
@@ -1034,5 +1034,5 @@
       "unrealized_eur": -20.07
     }
   ],
-  "unrealized_pnl": 1412.51
+  "unrealized_pnl": 1412.05
 }
