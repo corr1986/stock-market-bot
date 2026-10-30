@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 4031.5,
-      "unrealized_pct": 16.86,
-      "unrealized_eur": 136.0
+      "current_price": 4044.0,
+      "unrealized_pct": 17.22,
+      "unrealized_eur": 138.92
     },
     {
       "ticker": "BP.L",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 622.47,
-      "unrealized_pct": 8.71,
-      "unrealized_eur": 65.99
+      "current_price": 622.1,
+      "unrealized_pct": 8.64,
+      "unrealized_eur": 65.5
     },
     {
       "ticker": "DHR",
@@ -1034,5 +1034,5 @@
       "unrealized_eur": -20.07
     }
   ],
-  "unrealized_pnl": 1402.61
+  "unrealized_pnl": 1405.04
 }
