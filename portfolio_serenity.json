@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 1.005,
-      "unrealized_pct": -17.62,
-      "unrealized_eur": -76.54
+      "current_price": NaN,
+      "unrealized_pct": NaN,
+      "unrealized_eur": NaN
     },
     {
       "ticker": "PLTR",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 193.57,
-      "unrealized_pct": 14.07,
-      "unrealized_eur": 47.74
+      "current_price": NaN,
+      "unrealized_pct": NaN,
+      "unrealized_eur": NaN
     },
     {
       "ticker": "TSLA",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 403.55,
-      "unrealized_pct": 8.73,
-      "unrealized_eur": 32.4
+      "current_price": NaN,
+      "unrealized_pct": NaN,
+      "unrealized_eur": NaN
     },
     {
       "ticker": "GFS",
@@ -78,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 45.44,
-      "unrealized_pct": 0.69,
-      "unrealized_eur": 3.1
+      "current_price": NaN,
+      "unrealized_pct": NaN,
+      "unrealized_eur": NaN
     },
     {
       "ticker": "SMCI",
@@ -98,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 34.258,
-      "unrealized_pct": -5.94,
-      "unrealized_eur": -30.27
+      "current_price": NaN,
+      "unrealized_pct": NaN,
+      "unrealized_eur": NaN
     },
     {
       "ticker": "AMKR",
@@ -118,9 +118,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 41.155,
-      "unrealized_pct": 6.65,
-      "unrealized_eur": 30.78
+      "current_price": NaN,
+      "unrealized_pct": NaN,
+      "unrealized_eur": NaN
     }
   ],
   "closed": [
@@ -693,5 +693,5 @@
     }
   ],
   "last_signal_date": "2026-10-26",
-  "unrealized_pnl": 7.21
+  "unrealized_pnl": NaN
 }
