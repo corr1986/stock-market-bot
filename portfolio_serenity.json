@@ -3,26 +3,6 @@
   "realized_pnl": NaN,
   "open": [
     {
-      "ticker": "GPRO",
-      "status": "active",
-      "signal_date": "2026-09-01",
-      "entry_ref": 1.4041999578475952,
-      "atr_entry": 0.1255000020776476,
-      "shares": 356,
-      "size_eur": 499.8951849937439,
-      "initial_sl": 0.9690000244549343,
-      "entry_price": 1.2200000286102295,
-      "entry_date": "2026-09-02",
-      "deadline": "2026-11-01",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": NaN,
-      "unrealized_pct": NaN,
-      "unrealized_eur": NaN
-    },
-    {
       "ticker": "PLTR",
       "status": "active",
       "signal_date": "2026-09-13",
@@ -38,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": NaN,
-      "unrealized_pct": NaN,
-      "unrealized_eur": NaN
+      "current_price": 185.63,
+      "unrealized_pct": 9.39,
+      "unrealized_eur": 31.86
     },
     {
       "ticker": "TSLA",
@@ -58,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": NaN,
-      "unrealized_pct": NaN,
-      "unrealized_eur": NaN
+      "current_price": 398.0418,
+      "unrealized_pct": 7.25,
+      "unrealized_eur": 26.89
     },
     {
       "ticker": "GFS",
@@ -78,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": NaN,
-      "unrealized_pct": NaN,
-      "unrealized_eur": NaN
+      "current_price": 41.44,
+      "unrealized_pct": -8.18,
+      "unrealized_eur": -36.9
     },
     {
       "ticker": "SMCI",
@@ -98,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": NaN,
-      "unrealized_pct": NaN,
-      "unrealized_eur": NaN
+      "current_price": 31.34,
+      "unrealized_pct": -13.95,
+      "unrealized_eur": -71.12
     },
     {
       "ticker": "AMKR",
@@ -118,9 +98,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": NaN,
-      "unrealized_pct": NaN,
-      "unrealized_eur": NaN
+      "current_price": 39.16,
+      "unrealized_pct": 1.48,
+      "unrealized_eur": 6.84
     }
   ],
   "closed": [
@@ -690,8 +670,29 @@
       "unrealized_pct": -10.84,
       "unrealized_eur": -38.8,
       "close_reason": "stop_loss"
+    },
+    {
+      "ticker": "GPRO",
+      "status": "closed",
+      "signal_date": "2026-09-01",
+      "entry_ref": 1.4041999578475952,
+      "atr_entry": 0.1255000020776476,
+      "shares": 356,
+      "size_eur": 499.8951849937439,
+      "initial_sl": 0.9690000244549343,
+      "entry_price": 1.2200000286102295,
+      "entry_date": "2026-09-02",
+      "deadline": "2026-11-01",
+      "close_date": "2026-10-30",
+      "close_price": 0.969,
+      "pnl_pct": -20.57,
+      "pnl_eur": -89.36,
+      "current_price": 0.9396,
+      "unrealized_pct": -22.98,
+      "unrealized_eur": -99.82,
+      "close_reason": "stop_loss"
     }
   ],
   "last_signal_date": "2026-10-26",
-  "unrealized_pnl": NaN
+  "unrealized_pnl": -42.43
 }
