@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": NaN,
-      "unrealized_pct": NaN,
-      "unrealized_eur": NaN
+      "current_price": 178.34,
+      "unrealized_pct": 5.09,
+      "unrealized_eur": 17.28
     },
     {
       "ticker": "TSLA",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": NaN,
-      "unrealized_pct": NaN,
-      "unrealized_eur": NaN
+      "current_price": 403.82,
+      "unrealized_pct": 8.8,
+      "unrealized_eur": 32.67
     },
     {
       "ticker": "GFS",
@@ -58,29 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": NaN,
-      "unrealized_pct": NaN,
-      "unrealized_eur": NaN
-    },
-    {
-      "ticker": "SMCI",
-      "status": "active",
-      "signal_date": "2026-10-20",
-      "entry_ref": 35.470001220703125,
-      "atr_entry": 2.7307139805385043,
-      "shares": 14,
-      "size_eur": 496.58001708984375,
-      "initial_sl": 30.958673204694477,
-      "entry_price": 36.420101165771484,
-      "entry_date": "2026-10-21",
-      "deadline": "2026-12-20",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": NaN,
-      "unrealized_pct": NaN,
-      "unrealized_eur": NaN
+      "current_price": 41.82,
+      "unrealized_pct": -7.33,
+      "unrealized_eur": -33.1
     },
     {
       "ticker": "AMKR",
@@ -98,9 +78,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": NaN,
-      "unrealized_pct": NaN,
-      "unrealized_eur": NaN
+      "current_price": 36.96,
+      "unrealized_pct": -4.22,
+      "unrealized_eur": -19.56
     }
   ],
   "closed": [
@@ -691,8 +671,29 @@
       "unrealized_pct": -22.98,
       "unrealized_eur": -99.82,
       "close_reason": "stop_loss"
+    },
+    {
+      "ticker": "SMCI",
+      "status": "closed",
+      "signal_date": "2026-10-20",
+      "entry_ref": 35.470001220703125,
+      "atr_entry": 2.7307139805385043,
+      "shares": 14,
+      "size_eur": 496.58001708984375,
+      "initial_sl": 30.958673204694477,
+      "entry_price": 36.420101165771484,
+      "entry_date": "2026-10-21",
+      "deadline": "2026-12-20",
+      "close_date": "2026-11-02",
+      "close_price": 30.9587,
+      "pnl_pct": -15.0,
+      "pnl_eur": -76.46,
+      "current_price": 30.44,
+      "unrealized_pct": -16.42,
+      "unrealized_eur": -83.72,
+      "close_reason": "stop_loss"
     }
   ],
   "last_signal_date": "2026-10-26",
-  "unrealized_pnl": NaN
+  "unrealized_pnl": -2.71
 }
