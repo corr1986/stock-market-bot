@@ -511,6 +511,42 @@
       "current_price": 89.31,
       "unrealized_pct": 3.84,
       "unrealized_eur": 19.22
+    },
+    {
+      "id": "ADI_2026-11-02",
+      "ticker": "ADI",
+      "category": "USA",
+      "entry_date": "2026-11-02",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 27.38,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "MCO_2026-11-02",
+      "ticker": "MCO",
+      "category": "USA",
+      "entry_date": "2026-11-02",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 27.75,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "PPG_2026-11-02",
+      "ticker": "PPG",
+      "category": "USA",
+      "entry_date": "2026-11-02",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 7.17,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
