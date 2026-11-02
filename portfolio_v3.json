@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 253.66,
-      "unrealized_pct": 21.36,
-      "unrealized_eur": 151.74
+      "current_price": 253.68,
+      "unrealized_pct": 21.37,
+      "unrealized_eur": 151.81
     },
     {
       "ticker": "TMO",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 697.0,
+      "current_price": 696.99,
       "unrealized_pct": 22.28,
-      "unrealized_eur": 170.73
+      "unrealized_eur": 170.71
     },
     {
       "ticker": "MSFT",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 234.97,
-      "unrealized_pct": 18.15,
-      "unrealized_eur": 171.41
+      "current_price": 235.59,
+      "unrealized_pct": 18.46,
+      "unrealized_eur": 174.36
     },
     {
       "ticker": "XOM",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 187.24,
+      "current_price": 187.25,
       "unrealized_pct": 17.24,
-      "unrealized_eur": 156.12
+      "unrealized_eur": 156.15
     },
     {
       "ticker": "GILD",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 171.71,
-      "unrealized_pct": 25.51,
-      "unrealized_eur": 230.39
+      "current_price": 170.8,
+      "unrealized_pct": 24.84,
+      "unrealized_eur": 224.38
     },
     {
       "ticker": "DVN",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 52.22,
-      "unrealized_pct": 5.6,
-      "unrealized_eur": 40.81
+      "current_price": 52.15,
+      "unrealized_pct": 5.47,
+      "unrealized_eur": 39.85
     },
     {
       "ticker": "SHEL.L",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 232.62,
-      "unrealized_pct": 9.39,
-      "unrealized_eur": 73.47
+      "current_price": 232.3,
+      "unrealized_pct": 9.25,
+      "unrealized_eur": 72.32
     },
     {
       "ticker": "AMGN",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 466.7,
-      "unrealized_pct": 14.6,
-      "unrealized_eur": 126.41
+      "current_price": 466.05,
+      "unrealized_pct": 14.44,
+      "unrealized_eur": 125.02
     },
     {
       "ticker": "SPOT",
@@ -242,17 +242,17 @@
       "size_eur": 574.9,
       "atr_entry": 46.02,
       "initial_sl": 437.96,
-      "max_high_since_entry": 593.7999877929688,
-      "chandelier_stop": 501.75998779296873,
+      "max_high_since_entry": 595.3599853515625,
+      "chandelier_stop": 503.3199853515625,
       "setup": "Weekly +11.9%, price above SMA20/50, bullish MACD (hist >0), RSI 53.6, consumer discretionary sector in strength.",
       "entry_date": "2026-10-12",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 587.79,
-      "unrealized_pct": 10.9,
-      "unrealized_eur": 62.69
+      "current_price": 593.79,
+      "unrealized_pct": 12.04,
+      "unrealized_eur": 69.19
     },
     {
       "ticker": "REGN",
@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 925.58,
-      "unrealized_pct": 14.94,
-      "unrealized_eur": 122.06
+      "current_price": 927.86,
+      "unrealized_pct": 15.22,
+      "unrealized_eur": 124.37
     },
     {
       "ticker": "MDT",
@@ -334,9 +334,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 464.11,
-      "unrealized_pct": 3.32,
-      "unrealized_eur": 28.36
+      "current_price": 466.48,
+      "unrealized_pct": 3.85,
+      "unrealized_eur": 32.86
     },
     {
       "ticker": "KMI",
@@ -356,62 +356,71 @@
       "pnl_pct": null,
       "pnl_eur": null,
       "current_price": 33.88,
-      "unrealized_pct": 0.16,
-      "unrealized_eur": 1.69
+      "unrealized_pct": 0.18,
+      "unrealized_eur": 1.84
     },
     {
       "ticker": "TSLA",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 393.0400085449219,
       "entry_price_ref": 399.81,
       "size_eur": 613.77,
       "atr_entry": 32.57,
-      "initial_sl": 334.67,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 334.67,
+      "initial_sl": 327.9,
+      "max_high_since_entry": 410.8500061035156,
+      "chandelier_stop": 345.71000610351564,
       "setup": "MACD bullish (line > signal, hist > 0), RSI 55.9, price above SMA20/50, consumer discretionary sector in strength",
-      "entry_date": null,
+      "entry_date": "2026-11-02",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 399.81,
+      "unrealized_pct": 1.72,
+      "unrealized_eur": 10.57
     },
     {
       "ticker": "VRTX",
       "category": "USA",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 550.72998046875,
       "entry_price_ref": 558.88,
       "size_eur": 876.26,
       "atr_entry": 31.89,
-      "initial_sl": 495.1,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 495.1,
+      "initial_sl": 486.95,
+      "max_high_since_entry": 563.7994995117188,
+      "chandelier_stop": 500.0194995117188,
       "setup": "MACD bullish, RSI 64.0, price above SMA20/50, biotech (healthcare) sector strong",
-      "entry_date": null,
+      "entry_date": "2026-11-02",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 559.05,
+      "unrealized_pct": 1.51,
+      "unrealized_eur": 13.24
     },
     {
       "ticker": "SAN.PA",
       "category": "EUROPE",
-      "status": "pending",
-      "entry_price": null,
+      "status": "active",
+      "entry_price": 79.25,
       "entry_price_ref": 79.74,
       "size_eur": 1030.23,
       "atr_entry": 3.87,
-      "initial_sl": 72.0,
-      "max_high_since_entry": 0.0,
-      "chandelier_stop": 72.0,
+      "initial_sl": 71.51,
+      "max_high_since_entry": 81.19000244140625,
+      "chandelier_stop": 73.45000244140626,
       "setup": "MACD bullish, RSI 59.7, price above SMA20/50, healthcare sector robust in Europe",
-      "entry_date": null,
+      "entry_date": "2026-11-02",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
-      "pnl_eur": null
+      "pnl_eur": null,
+      "current_price": 80.08,
+      "unrealized_pct": 1.05,
+      "unrealized_eur": 10.79
     }
   ],
   "closed": [
@@ -1088,5 +1097,5 @@
       "unrealized_eur": -73.74
     }
   ],
-  "unrealized_pnl": 1711.34
+  "unrealized_pnl": 1752.92
 }
