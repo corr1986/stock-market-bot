@@ -4653,5 +4653,13 @@
  "WYFI:2115104606208606562": {
   "stance": "bearish",
   "conviction": 4
+ },
+ "CRDO:2117259390185345372": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "SMTC:2117255303301612014": {
+  "stance": "bullish",
+  "conviction": 3
  }
 }
