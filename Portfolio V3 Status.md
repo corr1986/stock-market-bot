@@ -1,17 +1,17 @@
 # Portfolio V3 — Stock Market Bot
-*Aggiornato: 03/11/2026 07:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
+*Aggiornato: 03/11/2026 08:11 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
 *[portfolio_v3.json](portfolio_v3.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
 |---|---|---|---|---|---|
-| 19,086€ | +1478€ | 20,564€ | -914€ | 32 (9W/23L) | 28% |
+| 19,086€ | +1476€ | 20,562€ | -914€ | 32 (9W/23L) | 28% |
 
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | Chandelier |
 |---|---|---|---|---|---|---|---|
 | **BIIB** | 209.00999450683594 | 4 | 248.96 | +19.11% | +136€ | 180.01 | 229.73001098632812 |
-| **TMO** | 570.0 | 2 | 684.28 | +20.05% | +154€ | 495.84 | 637.6944921875 |
+| **TMO** | 570.0 | 2 | 682.65 | +19.76% | +151€ | 495.84 | 637.6944921875 |
 | **MSFT** | 449.5849914550781 | 2 | 507.13 | +12.80% | +91€ | 384.385 | 485.9500244140625 |
 | **CVX** | 198.8699951171875 | 5 | 227.91 | +14.60% | +138€ | 177.69 | 215.29999572753906 |
 | **XOM** | 159.7100067138672 | 6 | 179.75 | +12.55% | +114€ | 142.03 | 170.82 |
