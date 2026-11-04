@@ -4661,5 +4661,13 @@
  "SMTC:2117255303301612014": {
   "stance": "bullish",
   "conviction": 3
+ },
+ "CIEN:2117556261378298059": {
+  "stance": "bearish",
+  "conviction": 3
+ },
+ "FN:2117639781572366705": {
+  "stance": "bullish",
+  "conviction": 3
  }
 }
