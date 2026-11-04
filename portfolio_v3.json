@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 699.41,
-      "unrealized_pct": 22.7,
-      "unrealized_eur": 173.96
+      "current_price": 698.37,
+      "unrealized_pct": 22.52,
+      "unrealized_eur": 172.57
     },
     {
       "ticker": "MSFT",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 225.29,
-      "unrealized_pct": 13.29,
-      "unrealized_eur": 125.47
+      "current_price": 225.36,
+      "unrealized_pct": 13.32,
+      "unrealized_eur": 125.78
     },
     {
       "ticker": "XOM",
@@ -1097,5 +1097,5 @@
       "unrealized_eur": -73.74
     }
   ],
-  "unrealized_pnl": 1397.49
+  "unrealized_pnl": 1396.41
 }
