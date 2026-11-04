@@ -1,6 +1,6 @@
 {
-  "balance": 19086.163327508653,
-  "realized_pnl": -913.8366724913424,
+  "balance": 19149.155894645344,
+  "realized_pnl": -850.844105354651,
   "open": [
     {
       "ticker": "BIIB",
@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 249.09,
-      "unrealized_pct": 19.18,
-      "unrealized_eur": 136.21
+      "current_price": 249.9,
+      "unrealized_pct": 19.57,
+      "unrealized_eur": 138.98
     },
     {
       "ticker": "TMO",
@@ -32,17 +32,17 @@
       "size_eur": 766.26,
       "atr_entry": 37.08,
       "initial_sl": 495.84,
-      "max_high_since_entry": 711.8544921875,
-      "chandelier_stop": 637.6944921875,
+      "max_high_since_entry": 712.1723022460938,
+      "chandelier_stop": 638.0123022460938,
       "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-07-27",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 698.37,
-      "unrealized_pct": 22.52,
-      "unrealized_eur": 172.57
+      "current_price": 701.89,
+      "unrealized_pct": 23.14,
+      "unrealized_eur": 177.3
     },
     {
       "ticker": "MSFT",
@@ -53,17 +53,17 @@
       "size_eur": 712.76,
       "atr_entry": 32.6,
       "initial_sl": 384.385,
-      "max_high_since_entry": 551.1500244140625,
-      "chandelier_stop": 485.9500244140625,
+      "max_high_since_entry": 557.3900146484375,
+      "chandelier_stop": 492.1900146484375,
       "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-08-03",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 520.77,
-      "unrealized_pct": 15.83,
-      "unrealized_eur": 112.85
+      "current_price": 554.24,
+      "unrealized_pct": 23.28,
+      "unrealized_eur": 165.92
     },
     {
       "ticker": "CVX",
@@ -82,30 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 225.29,
-      "unrealized_pct": 13.29,
-      "unrealized_eur": 125.47
-    },
-    {
-      "ticker": "XOM",
-      "category": "USA",
-      "status": "active",
-      "entry_price": 159.7100067138672,
-      "entry_price_ref": 160.1,
-      "size_eur": 905.54,
-      "atr_entry": 8.84,
-      "initial_sl": 142.03,
-      "max_high_since_entry": 188.5,
-      "chandelier_stop": 170.82,
-      "setup": "Prezzo in aumento, RSI sotto 70, MACD favorevole e settore energia in forza",
-      "entry_date": "2026-08-17",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 177.5,
-      "unrealized_pct": 11.14,
-      "unrealized_eur": 100.87
+      "current_price": 219.6,
+      "unrealized_pct": 10.42,
+      "unrealized_eur": 98.43
     },
     {
       "ticker": "GILD",
@@ -124,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 167.5,
-      "unrealized_pct": 22.43,
-      "unrealized_eur": 202.6
+      "current_price": 169.99,
+      "unrealized_pct": 24.25,
+      "unrealized_eur": 219.03
     },
     {
       "ticker": "DVN",
@@ -145,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 47.61,
-      "unrealized_pct": -3.7,
-      "unrealized_eur": -26.97
+      "current_price": 46.02,
+      "unrealized_pct": -6.93,
+      "unrealized_eur": -50.46
     },
     {
       "ticker": "SHEL.L",
@@ -166,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3860.0,
-      "unrealized_pct": 11.88,
-      "unrealized_eur": 95.89
+      "current_price": 3827.0,
+      "unrealized_pct": 10.93,
+      "unrealized_eur": 88.17
     },
     {
       "ticker": "BP.L",
@@ -187,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 586.3,
-      "unrealized_pct": 2.39,
-      "unrealized_eur": 18.13
+      "current_price": 578.1,
+      "unrealized_pct": 0.96,
+      "unrealized_eur": 7.28
     },
     {
       "ticker": "DHR",
@@ -208,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 230.1,
-      "unrealized_pct": 8.21,
-      "unrealized_eur": 64.22
+      "current_price": 232.57,
+      "unrealized_pct": 9.37,
+      "unrealized_eur": 73.31
     },
     {
       "ticker": "AMGN",
@@ -221,17 +200,17 @@
       "size_eur": 865.57,
       "atr_entry": 23.95,
       "initial_sl": 359.33,
-      "max_high_since_entry": 475.6449890136719,
-      "chandelier_stop": 427.7449890136719,
+      "max_high_since_entry": 482.0,
+      "chandelier_stop": 434.1,
       "setup": "Healthcare con crescita settimanale (+7.5%), MACD bullish, RSI 60, prezzo sopra SMA20/50",
       "entry_date": "2026-09-28",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 460.79,
-      "unrealized_pct": 13.15,
-      "unrealized_eur": 113.84
+      "current_price": 469.68,
+      "unrealized_pct": 15.34,
+      "unrealized_eur": 132.74
     },
     {
       "ticker": "SPOT",
@@ -242,17 +221,17 @@
       "size_eur": 574.9,
       "atr_entry": 46.02,
       "initial_sl": 437.96,
-      "max_high_since_entry": 601.5499877929688,
-      "chandelier_stop": 509.50998779296873,
+      "max_high_since_entry": 631.3499755859375,
+      "chandelier_stop": 539.3099755859375,
       "setup": "Weekly +11.9%, price above SMA20/50, bullish MACD (hist >0), RSI 53.6, consumer discretionary sector in strength.",
       "entry_date": "2026-10-12",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 600.22,
-      "unrealized_pct": 13.25,
-      "unrealized_eur": 76.17
+      "current_price": 629.64,
+      "unrealized_pct": 18.8,
+      "unrealized_eur": 108.08
     },
     {
       "ticker": "REGN",
@@ -263,17 +242,17 @@
       "size_eur": 817.22,
       "atr_entry": 48.38,
       "initial_sl": 708.54,
-      "max_high_since_entry": 975.4849853515625,
-      "chandelier_stop": 878.7249853515625,
+      "max_high_since_entry": 991.72998046875,
+      "chandelier_stop": 894.96998046875,
       "setup": "Healthcare in strength, price > SMA20/50, RSI 57, MACD bullish, weekly +5.9%",
       "entry_date": "2026-10-19",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 974.25,
-      "unrealized_pct": 20.98,
-      "unrealized_eur": 171.45
+      "current_price": 963.49,
+      "unrealized_pct": 19.64,
+      "unrealized_eur": 160.54
     },
     {
       "ticker": "MDT",
@@ -284,17 +263,17 @@
       "size_eur": 1010.13,
       "atr_entry": 4.69,
       "initial_sl": 86.45,
-      "max_high_since_entry": 99.94999694824219,
-      "chandelier_stop": 90.56999694824219,
+      "max_high_since_entry": 103.58999633789062,
+      "chandelier_stop": 94.20999633789063,
       "setup": "Healthcare leader, price > SMA20/50, RSI 61.3, strong MACD, weekly +7.1%",
       "entry_date": "2026-10-19",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 98.88,
-      "unrealized_pct": 3.18,
-      "unrealized_eur": 32.15
+      "current_price": 103.18,
+      "unrealized_pct": 7.66,
+      "unrealized_eur": 77.42
     },
     {
       "ticker": "OXY",
@@ -313,9 +292,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 60.42,
-      "unrealized_pct": -1.17,
-      "unrealized_eur": -9.75
+      "current_price": 58.6,
+      "unrealized_pct": -4.15,
+      "unrealized_eur": -34.65
     },
     {
       "ticker": "SPGI",
@@ -326,17 +305,17 @@
       "size_eur": 852.86,
       "atr_entry": 26.4,
       "initial_sl": 396.375,
-      "max_high_since_entry": 477.3157043457031,
-      "chandelier_stop": 424.5157043457031,
+      "max_high_since_entry": 479.8500061035156,
+      "chandelier_stop": 427.0500061035156,
       "setup": "Finanza in forza, MACD molto bullish, RSI 58 e prezzo sopra SMA20/50",
       "entry_date": "2026-10-26",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 465.95,
-      "unrealized_pct": 3.73,
-      "unrealized_eur": 31.85
+      "current_price": 479.23,
+      "unrealized_pct": 6.69,
+      "unrealized_eur": 57.07
     },
     {
       "ticker": "KMI",
@@ -355,9 +334,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 32.9,
-      "unrealized_pct": -2.72,
-      "unrealized_eur": -28.21
+      "current_price": 31.68,
+      "unrealized_pct": -6.33,
+      "unrealized_eur": -65.62
     },
     {
       "ticker": "TSLA",
@@ -376,9 +355,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 398.22,
-      "unrealized_pct": 1.32,
-      "unrealized_eur": 8.09
+      "current_price": 387.24,
+      "unrealized_pct": -1.47,
+      "unrealized_eur": -9.05
     },
     {
       "ticker": "VRTX",
@@ -397,9 +376,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 530.69,
-      "unrealized_pct": -3.64,
-      "unrealized_eur": -31.89
+      "current_price": 532.05,
+      "unrealized_pct": -3.39,
+      "unrealized_eur": -29.71
     },
     {
       "ticker": "SAN.PA",
@@ -410,17 +389,17 @@
       "size_eur": 1030.23,
       "atr_entry": 3.87,
       "initial_sl": 71.51,
-      "max_high_since_entry": 83.33000183105469,
-      "chandelier_stop": 75.59000183105469,
+      "max_high_since_entry": 83.4000015258789,
+      "chandelier_stop": 75.66000152587891,
       "setup": "MACD bullish, RSI 59.7, price above SMA20/50, healthcare sector robust in Europe",
       "entry_date": "2026-11-02",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 83.32,
-      "unrealized_pct": 5.14,
-      "unrealized_eur": 52.91
+      "current_price": 83.3,
+      "unrealized_pct": 5.11,
+      "unrealized_eur": 52.65
     }
   ],
   "closed": [
@@ -1095,7 +1074,28 @@
       "current_price": 166.05,
       "unrealized_pct": -15.02,
       "unrealized_eur": -73.74
+    },
+    {
+      "ticker": "XOM",
+      "category": "USA",
+      "status": "closed",
+      "entry_price": 159.7100067138672,
+      "entry_price_ref": 160.1,
+      "size_eur": 905.54,
+      "atr_entry": 8.84,
+      "initial_sl": 142.03,
+      "max_high_since_entry": 188.5,
+      "chandelier_stop": 170.82,
+      "setup": "Prezzo in aumento, RSI sotto 70, MACD favorevole e settore energia in forza",
+      "entry_date": "2026-08-17",
+      "close_date": "2026-11-04",
+      "close_price": 170.82,
+      "pnl_pct": 6.96,
+      "pnl_eur": 62.99,
+      "current_price": 177.5,
+      "unrealized_pct": 11.14,
+      "unrealized_eur": 100.87
     }
   ],
-  "unrealized_pnl": 1418.45
+  "unrealized_pnl": 1367.43
 }
