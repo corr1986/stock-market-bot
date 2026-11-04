@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3858.5,
-      "unrealized_pct": 11.84,
-      "unrealized_eur": 95.54
+      "current_price": 3866.0,
+      "unrealized_pct": 12.06,
+      "unrealized_eur": 97.29
     },
     {
       "ticker": "BP.L",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 588.5,
-      "unrealized_pct": 2.78,
-      "unrealized_eur": 21.04
+      "current_price": 587.8,
+      "unrealized_pct": 2.65,
+      "unrealized_eur": 20.11
     },
     {
       "ticker": "DHR",
@@ -410,17 +410,17 @@
       "size_eur": 1030.23,
       "atr_entry": 3.87,
       "initial_sl": 71.51,
-      "max_high_since_entry": 82.01000213623047,
-      "chandelier_stop": 74.27000213623047,
+      "max_high_since_entry": 82.41999816894531,
+      "chandelier_stop": 74.67999816894532,
       "setup": "MACD bullish, RSI 59.7, price above SMA20/50, healthcare sector robust in Europe",
       "entry_date": "2026-11-02",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 81.95,
-      "unrealized_pct": 3.41,
-      "unrealized_eur": 35.1
+      "current_price": 82.4,
+      "unrealized_pct": 3.97,
+      "unrealized_eur": 40.95
     }
   ],
   "closed": [
@@ -1097,5 +1097,5 @@
       "unrealized_eur": -73.74
     }
   ],
-  "unrealized_pnl": 1403.2
+  "unrealized_pnl": 1409.87
 }
