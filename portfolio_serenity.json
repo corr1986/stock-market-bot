@@ -61,6 +61,26 @@
       "current_price": NaN,
       "unrealized_pct": NaN,
       "unrealized_eur": NaN
+    },
+    {
+      "ticker": "ATS",
+      "status": "pending",
+      "signal_date": "2026-11-04",
+      "entry_ref": 17.260000228881836,
+      "atr_entry": 0.6750000544956752,
+      "shares": 28,
+      "size_eur": 483.2800064086914,
+      "initial_sl": 15.910000119890485,
+      "entry_price": null,
+      "entry_date": null,
+      "deadline": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null,
+      "current_price": null,
+      "unrealized_pct": null,
+      "unrealized_eur": null
     }
   ],
   "closed": [
@@ -695,6 +715,6 @@
       "close_reason": "stop_loss"
     }
   ],
-  "last_signal_date": "2026-10-26",
+  "last_signal_date": "2026-11-04",
   "unrealized_pnl": NaN
 }

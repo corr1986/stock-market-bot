@@ -4669,5 +4669,25 @@
  "FN:2117639781572366705": {
   "stance": "bullish",
   "conviction": 3
+ },
+ "ATS:2118035778253283768": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "DUOL:2118004727053218010": {
+  "stance": "bullish",
+  "conviction": 3
+ },
+ "NET:2118044688829845703": {
+  "stance": "bearish",
+  "conviction": 4
+ },
+ "NOK:2118044688829845703": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "NOW:2118015527440515458": {
+  "stance": "neutral",
+  "conviction": 2
  }
 }
