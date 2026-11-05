@@ -1,6 +1,6 @@
 {
-  "balance": 19046.35871238129,
-  "realized_pnl": -953.6412876187063,
+  "balance": 19034.291388250487,
+  "realized_pnl": -965.7086117495096,
   "open": [
     {
       "ticker": "BIIB",
@@ -103,30 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3800.5,
-      "unrealized_pct": 10.16,
-      "unrealized_eur": 81.97
-    },
-    {
-      "ticker": "BP.L",
-      "category": "EUROPE",
-      "status": "active",
-      "entry_price": 572.5999755859375,
-      "entry_price_ref": 564.6,
-      "size_eur": 757.65,
-      "atr_entry": 37.26,
-      "initial_sl": 498.08,
-      "max_high_since_entry": 638.0,
-      "chandelier_stop": 563.48,
-      "setup": "Energia europea solida, RSI 57.9, MACD bullish, prezzo sopra SMA20/50, supporto macro",
-      "entry_date": "2026-09-14",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 573.3,
-      "unrealized_pct": 0.12,
-      "unrealized_eur": 0.93
+      "current_price": 3727.5,
+      "unrealized_pct": 8.04,
+      "unrealized_eur": 64.9
     },
     {
       "ticker": "DHR",
@@ -305,17 +284,17 @@
       "size_eur": 1030.23,
       "atr_entry": 3.87,
       "initial_sl": 71.51,
-      "max_high_since_entry": 83.98999786376953,
-      "chandelier_stop": 76.24999786376954,
+      "max_high_since_entry": 84.98999786376953,
+      "chandelier_stop": 77.24999786376954,
       "setup": "MACD bullish, RSI 59.7, price above SMA20/50, healthcare sector robust in Europe",
       "entry_date": "2026-11-02",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 83.88,
-      "unrealized_pct": 5.84,
-      "unrealized_eur": 60.19
+      "current_price": 84.39,
+      "unrealized_pct": 6.49,
+      "unrealized_eur": 66.82
     }
   ],
   "closed": [
@@ -1095,7 +1074,28 @@
       "current_price": 216.0,
       "unrealized_pct": 8.61,
       "unrealized_eur": 81.34
+    },
+    {
+      "ticker": "BP.L",
+      "category": "EUROPE",
+      "status": "closed",
+      "entry_price": 572.5999755859375,
+      "entry_price_ref": 564.6,
+      "size_eur": 757.65,
+      "atr_entry": 37.26,
+      "initial_sl": 498.08,
+      "max_high_since_entry": 638.0,
+      "chandelier_stop": 563.48,
+      "setup": "Energia europea solida, RSI 57.9, MACD bullish, prezzo sopra SMA20/50, supporto macro",
+      "entry_date": "2026-09-14",
+      "close_date": "2026-11-05",
+      "close_price": 563.48,
+      "pnl_pct": -1.59,
+      "pnl_eur": -12.07,
+      "current_price": 573.3,
+      "unrealized_pct": 0.12,
+      "unrealized_eur": 0.93
     }
   ],
-  "unrealized_pnl": 1509.42
+  "unrealized_pnl": 1498.05
 }
