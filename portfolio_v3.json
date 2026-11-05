@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3780.5,
-      "unrealized_pct": 9.58,
-      "unrealized_eur": 77.3
+      "current_price": 3781.8,
+      "unrealized_pct": 9.62,
+      "unrealized_eur": 77.6
     },
     {
       "ticker": "DHR",
@@ -292,9 +292,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 84.22,
-      "unrealized_pct": 6.27,
-      "unrealized_eur": 64.61
+      "current_price": 84.24,
+      "unrealized_pct": 6.3,
+      "unrealized_eur": 64.87
     }
   ],
   "closed": [
@@ -1097,5 +1097,5 @@
       "unrealized_eur": 0.93
     }
   ],
-  "unrealized_pnl": 1508.24
+  "unrealized_pnl": 1508.8
 }
