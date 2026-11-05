@@ -1,6 +1,6 @@
 {
-  "balance": 19034.291388250487,
-  "realized_pnl": -965.7086117495096,
+  "balance": 18965.659214896423,
+  "realized_pnl": -1034.340785103574,
   "open": [
     {
       "ticker": "BIIB",
@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 254.53,
-      "unrealized_pct": 21.78,
-      "unrealized_eur": 154.7
+      "current_price": 254.74,
+      "unrealized_pct": 21.88,
+      "unrealized_eur": 155.41
     },
     {
       "ticker": "TMO",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 706.28,
-      "unrealized_pct": 23.91,
-      "unrealized_eur": 183.2
+      "current_price": 701.3,
+      "unrealized_pct": 23.04,
+      "unrealized_eur": 176.51
     },
     {
       "ticker": "MSFT",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 556.03,
-      "unrealized_pct": 23.68,
-      "unrealized_eur": 168.76
+      "current_price": 544.78,
+      "unrealized_pct": 21.17,
+      "unrealized_eur": 150.92
     },
     {
       "ticker": "GILD",
@@ -74,17 +74,17 @@
       "size_eur": 903.13,
       "atr_entry": 7.66,
       "initial_sl": 121.49,
-      "max_high_since_entry": 175.64999389648438,
-      "chandelier_stop": 160.32999389648438,
+      "max_high_since_entry": 176.5800018310547,
+      "chandelier_stop": 161.2600018310547,
       "setup": "Prezzo in aumento, RSI sotto 70, MACD favorevole e settore healthcare in forza",
       "entry_date": "2026-08-17",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 174.49,
-      "unrealized_pct": 27.54,
-      "unrealized_eur": 248.74
+      "current_price": 176.37,
+      "unrealized_pct": 28.92,
+      "unrealized_eur": 261.15
     },
     {
       "ticker": "SHEL.L",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3796.5,
-      "unrealized_pct": 10.04,
-      "unrealized_eur": 81.04
+      "current_price": 3793.5,
+      "unrealized_pct": 9.96,
+      "unrealized_eur": 80.34
     },
     {
       "ticker": "DHR",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 235.03,
-      "unrealized_pct": 10.53,
-      "unrealized_eur": 82.36
+      "current_price": 234.15,
+      "unrealized_pct": 10.12,
+      "unrealized_eur": 79.14
     },
     {
       "ticker": "AMGN",
@@ -137,17 +137,17 @@
       "size_eur": 865.57,
       "atr_entry": 23.95,
       "initial_sl": 359.33,
-      "max_high_since_entry": 482.4800109863281,
-      "chandelier_stop": 434.58001098632815,
+      "max_high_since_entry": 483.989990234375,
+      "chandelier_stop": 436.089990234375,
       "setup": "Healthcare con crescita settimanale (+7.5%), MACD bullish, RSI 60, prezzo sopra SMA20/50",
       "entry_date": "2026-09-28",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 478.38,
-      "unrealized_pct": 17.47,
-      "unrealized_eur": 151.23
+      "current_price": 481.82,
+      "unrealized_pct": 18.32,
+      "unrealized_eur": 158.54
     },
     {
       "ticker": "SPOT",
@@ -158,17 +158,17 @@
       "size_eur": 574.9,
       "atr_entry": 46.02,
       "initial_sl": 437.96,
-      "max_high_since_entry": 632.489990234375,
-      "chandelier_stop": 540.449990234375,
+      "max_high_since_entry": 635.0,
+      "chandelier_stop": 542.96,
       "setup": "Weekly +11.9%, price above SMA20/50, bullish MACD (hist >0), RSI 53.6, consumer discretionary sector in strength.",
       "entry_date": "2026-10-12",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 627.76,
-      "unrealized_pct": 18.45,
-      "unrealized_eur": 106.04
+      "current_price": 623.68,
+      "unrealized_pct": 17.68,
+      "unrealized_eur": 101.62
     },
     {
       "ticker": "REGN",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 930.77,
-      "unrealized_pct": 15.58,
-      "unrealized_eur": 127.33
+      "current_price": 940.12,
+      "unrealized_pct": 16.74,
+      "unrealized_eur": 136.82
     },
     {
       "ticker": "MDT",
@@ -200,17 +200,17 @@
       "size_eur": 1010.13,
       "atr_entry": 4.69,
       "initial_sl": 86.45,
-      "max_high_since_entry": 105.72000122070312,
-      "chandelier_stop": 96.34000122070313,
+      "max_high_since_entry": 106.19999694824219,
+      "chandelier_stop": 96.81999694824219,
       "setup": "Healthcare leader, price > SMA20/50, RSI 61.3, strong MACD, weekly +7.1%",
       "entry_date": "2026-10-19",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 105.03,
-      "unrealized_pct": 9.6,
-      "unrealized_eur": 96.98
+      "current_price": 106.06,
+      "unrealized_pct": 10.67,
+      "unrealized_eur": 107.78
     },
     {
       "ticker": "SPGI",
@@ -221,38 +221,17 @@
       "size_eur": 852.86,
       "atr_entry": 26.4,
       "initial_sl": 396.375,
-      "max_high_since_entry": 483.94000244140625,
-      "chandelier_stop": 431.14000244140624,
+      "max_high_since_entry": 485.989990234375,
+      "chandelier_stop": 433.189990234375,
       "setup": "Finanza in forza, MACD molto bullish, RSI 58 e prezzo sopra SMA20/50",
       "entry_date": "2026-10-26",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 481.68,
-      "unrealized_pct": 7.24,
-      "unrealized_eur": 61.72
-    },
-    {
-      "ticker": "TSLA",
-      "category": "USA",
-      "status": "active",
-      "entry_price": 393.0400085449219,
-      "entry_price_ref": 399.81,
-      "size_eur": 613.77,
-      "atr_entry": 32.57,
-      "initial_sl": 327.9,
-      "max_high_since_entry": 414.2300109863281,
-      "chandelier_stop": 349.09001098632814,
-      "setup": "MACD bullish (line > signal, hist > 0), RSI 55.9, price above SMA20/50, consumer discretionary sector in strength",
-      "entry_date": "2026-11-02",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 385.3,
-      "unrealized_pct": -1.97,
-      "unrealized_eur": -12.09
+      "current_price": 482.28,
+      "unrealized_pct": 7.37,
+      "unrealized_eur": 62.86
     },
     {
       "ticker": "VRTX",
@@ -271,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 549.07,
-      "unrealized_pct": -0.3,
-      "unrealized_eur": -2.64
+      "current_price": 553.89,
+      "unrealized_pct": 0.57,
+      "unrealized_eur": 5.02
     },
     {
       "ticker": "SAN.PA",
@@ -284,17 +263,17 @@
       "size_eur": 1030.23,
       "atr_entry": 3.87,
       "initial_sl": 71.51,
-      "max_high_since_entry": 84.98999786376953,
-      "chandelier_stop": 77.24999786376954,
+      "max_high_since_entry": 85.02999877929688,
+      "chandelier_stop": 77.28999877929688,
       "setup": "MACD bullish, RSI 59.7, price above SMA20/50, healthcare sector robust in Europe",
       "entry_date": "2026-11-02",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 84.85,
-      "unrealized_pct": 7.07,
-      "unrealized_eur": 72.8
+      "current_price": 84.7,
+      "unrealized_pct": 6.88,
+      "unrealized_eur": 70.85
     }
   ],
   "closed": [
@@ -1095,7 +1074,28 @@
       "current_price": 573.3,
       "unrealized_pct": 0.12,
       "unrealized_eur": 0.93
+    },
+    {
+      "ticker": "TSLA",
+      "category": "USA",
+      "status": "closed",
+      "entry_price": 393.0400085449219,
+      "entry_price_ref": 399.81,
+      "size_eur": 613.77,
+      "atr_entry": 32.57,
+      "initial_sl": 327.9,
+      "max_high_since_entry": 414.2300109863281,
+      "chandelier_stop": 349.09001098632814,
+      "setup": "MACD bullish (line > signal, hist > 0), RSI 55.9, price above SMA20/50, consumer discretionary sector in strength",
+      "entry_date": "2026-11-02",
+      "close_date": "2026-11-05",
+      "close_price": 349.09,
+      "pnl_pct": -11.18,
+      "pnl_eur": -68.63,
+      "current_price": 385.3,
+      "unrealized_pct": -1.97,
+      "unrealized_eur": -12.09
     }
   ],
-  "unrealized_pnl": 1520.17
+  "unrealized_pnl": 1546.96
 }
