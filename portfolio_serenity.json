@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 170.26,
-      "unrealized_pct": 0.33,
-      "unrealized_eur": 1.12
+      "current_price": NaN,
+      "unrealized_pct": NaN,
+      "unrealized_eur": NaN
     },
     {
       "ticker": "TSLA",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 385.93,
-      "unrealized_pct": 3.98,
-      "unrealized_eur": 14.78
+      "current_price": NaN,
+      "unrealized_pct": NaN,
+      "unrealized_eur": NaN
     },
     {
       "ticker": "AMKR",
@@ -58,9 +58,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 35.43,
-      "unrealized_pct": -8.19,
-      "unrealized_eur": -37.92
+      "current_price": NaN,
+      "unrealized_pct": NaN,
+      "unrealized_eur": NaN
     }
   ],
   "closed": [
@@ -696,5 +696,5 @@
     }
   ],
   "last_signal_date": "2026-10-26",
-  "unrealized_pnl": -22.02
+  "unrealized_pnl": NaN
 }
