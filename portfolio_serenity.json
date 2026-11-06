@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": NaN,
-      "unrealized_pct": NaN,
-      "unrealized_eur": NaN
+      "current_price": 17.06,
+      "unrealized_pct": -1.84,
+      "unrealized_eur": -8.96
     }
   ],
   "closed": [
@@ -719,5 +719,5 @@
     }
   ],
   "last_signal_date": "2026-11-04",
-  "unrealized_pnl": NaN
+  "unrealized_pnl": -8.96
 }
