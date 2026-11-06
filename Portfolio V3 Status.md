@@ -1,5 +1,5 @@
 # Portfolio V3 — Stock Market Bot
-*Aggiornato: 06/11/2026 13:10 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
+*Aggiornato: 06/11/2026 14:10 UTC | Chandelier Exit · VIX Regime · Dynamic Sizing*
 *[portfolio_v3.json](portfolio_v3.json)*
 
 ## Riepilogo
@@ -21,7 +21,7 @@
 | **MDT** | 95.83000183105469 | 11 | 104.88 | +9.44% | +95€ | 86.45 | 96.81999694824219 |
 | **SPGI** | 449.17498779296875 | 2 | 472.51 | +5.20% | +44€ | 396.375 | 433.189990234375 |
 | **VRTX** | 550.72998046875 | 2 | 542.89 | -1.42% | -12€ | 486.95 | 504.889921875 |
-| **SAN.PA** | 79.25 | 13 | 82.32 | +3.87% | +40€ | 71.51 | 77.63000274658204 |
+| **SAN.PA** | 79.25 | 13 | 82.30 | +3.85% | +40€ | 71.51 | 77.63000274658204 |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € |
