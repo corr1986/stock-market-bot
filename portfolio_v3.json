@@ -1,6 +1,6 @@
 {
-  "balance": 18965.659214896423,
-  "realized_pnl": -1034.340785103574,
+  "balance": 19020.396083070336,
+  "realized_pnl": -979.603916929661,
   "open": [
     {
       "ticker": "BIIB",
@@ -85,27 +85,6 @@
       "current_price": 167.58,
       "unrealized_pct": 22.49,
       "unrealized_eur": 203.12
-    },
-    {
-      "ticker": "SHEL.L",
-      "category": "EUROPE",
-      "status": "active",
-      "entry_price": 3450.0,
-      "entry_price_ref": 3437.0,
-      "size_eur": 806.88,
-      "atr_entry": 212.98,
-      "initial_sl": 3024.04,
-      "max_high_since_entry": 4110.0,
-      "chandelier_stop": 3684.04,
-      "setup": "Energy leader up +2.8% weekly, MACD strongly bullish, RSI 60.6, price above SMA20/50, high volume, macro supports energy.",
-      "entry_date": "2026-09-07",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 3692.5,
-      "unrealized_pct": 7.03,
-      "unrealized_eur": 56.72
     },
     {
       "ticker": "DHR",
@@ -208,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 104.87,
-      "unrealized_pct": 9.43,
-      "unrealized_eur": 95.29
+      "current_price": 104.88,
+      "unrealized_pct": 9.44,
+      "unrealized_eur": 95.39
     },
     {
       "ticker": "SPGI",
@@ -271,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 82.19,
-      "unrealized_pct": 3.71,
-      "unrealized_eur": 38.22
+      "current_price": 82.32,
+      "unrealized_pct": 3.87,
+      "unrealized_eur": 39.91
     }
   ],
   "closed": [
@@ -1095,7 +1074,28 @@
       "current_price": 385.3,
       "unrealized_pct": -1.97,
       "unrealized_eur": -12.09
+    },
+    {
+      "ticker": "SHEL.L",
+      "category": "EUROPE",
+      "status": "closed",
+      "entry_price": 3450.0,
+      "entry_price_ref": 3437.0,
+      "size_eur": 806.88,
+      "atr_entry": 212.98,
+      "initial_sl": 3024.04,
+      "max_high_since_entry": 4110.0,
+      "chandelier_stop": 3684.04,
+      "setup": "Energy leader up +2.8% weekly, MACD strongly bullish, RSI 60.6, price above SMA20/50, high volume, macro supports energy.",
+      "entry_date": "2026-09-07",
+      "close_date": "2026-11-06",
+      "close_price": 3684.04,
+      "pnl_pct": 6.78,
+      "pnl_eur": 54.74,
+      "current_price": 3692.5,
+      "unrealized_pct": 7.03,
+      "unrealized_eur": 56.72
     }
   ],
-  "unrealized_pnl": 1178.78
+  "unrealized_pnl": 1123.85
 }
