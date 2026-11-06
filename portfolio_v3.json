@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 3694.5,
-      "unrealized_pct": 7.09,
-      "unrealized_eur": 57.18
+      "current_price": 3711.0,
+      "unrealized_pct": 7.57,
+      "unrealized_eur": 61.04
     },
     {
       "ticker": "DHR",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 104.88,
-      "unrealized_pct": 9.44,
-      "unrealized_eur": 95.39
+      "current_price": 104.87,
+      "unrealized_pct": 9.43,
+      "unrealized_eur": 95.29
     },
     {
       "ticker": "SPGI",
@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 82.38,
-      "unrealized_pct": 3.95,
-      "unrealized_eur": 40.69
+      "current_price": 81.83,
+      "unrealized_pct": 3.26,
+      "unrealized_eur": 33.54
     }
   ],
   "closed": [
@@ -1097,5 +1097,5 @@
       "unrealized_eur": -12.09
     }
   ],
-  "unrealized_pnl": 1181.81
+  "unrealized_pnl": 1178.42
 }
