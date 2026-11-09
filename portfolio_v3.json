@@ -232,6 +232,42 @@
       "current_price": 83.67,
       "unrealized_pct": 5.58,
       "unrealized_eur": 57.46
+    },
+    {
+      "ticker": "ISRG",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 452.8,
+      "size_eur": 700.06,
+      "atr_entry": 32.34,
+      "initial_sl": 388.12,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 388.12,
+      "setup": "Healthcare defensivo con MACD bullish, RSI sotto 70 e prezzo sopra SMA20/50",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
+    },
+    {
+      "ticker": "NEE",
+      "category": "USA",
+      "status": "pending",
+      "entry_price": null,
+      "entry_price_ref": 86.95,
+      "size_eur": 1156.25,
+      "atr_entry": 3.76,
+      "initial_sl": 79.43,
+      "max_high_since_entry": 0.0,
+      "chandelier_stop": 79.43,
+      "setup": "Utility difensiva, MACD positivo, RSI moderato e prezzo sopra SMA20/50",
+      "entry_date": null,
+      "close_date": null,
+      "close_price": null,
+      "pnl_pct": null,
+      "pnl_eur": null
     }
   ],
   "closed": [
