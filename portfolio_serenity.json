@@ -18,29 +18,29 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 16.97,
-      "unrealized_pct": -2.36,
-      "unrealized_eur": -11.48
+      "current_price": 17.74,
+      "unrealized_pct": 2.07,
+      "unrealized_eur": 10.08
     },
     {
       "ticker": "GLXY",
-      "status": "pending",
+      "status": "active",
       "signal_date": "2026-11-05",
       "entry_ref": 14.510000228881836,
       "atr_entry": 1.8852144650050573,
       "shares": 34,
       "size_eur": 493.3400077819824,
-      "initial_sl": 10.739571298871722,
-      "entry_price": null,
-      "entry_date": null,
-      "deadline": null,
+      "initial_sl": 9.579571451459612,
+      "entry_price": 13.350000381469727,
+      "entry_date": "2026-11-09",
+      "deadline": "2027-01-08",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": null,
-      "unrealized_pct": null,
-      "unrealized_eur": null
+      "current_price": 14.51,
+      "unrealized_pct": 8.69,
+      "unrealized_eur": 39.44
     }
   ],
   "closed": [
@@ -739,5 +739,5 @@
     }
   ],
   "last_signal_date": "2026-11-05",
-  "unrealized_pnl": -11.48
+  "unrealized_pnl": 49.52
 }
