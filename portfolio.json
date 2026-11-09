@@ -451,6 +451,30 @@
       "current_price": 122.6,
       "unrealized_pct": 1.9,
       "unrealized_eur": 9.52
+    },
+    {
+      "id": "HD_2026-11-09",
+      "ticker": "HD",
+      "category": "USA",
+      "entry_date": "2026-11-09",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 20.0,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "SHW_2026-11-09",
+      "ticker": "SHW",
+      "category": "USA",
+      "entry_date": "2026-11-09",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 21.65,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
