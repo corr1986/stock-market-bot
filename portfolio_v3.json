@@ -221,17 +221,17 @@
       "size_eur": 1030.23,
       "atr_entry": 3.87,
       "initial_sl": 71.51,
-      "max_high_since_entry": 85.37000274658203,
-      "chandelier_stop": 77.63000274658204,
+      "max_high_since_entry": 85.55999755859375,
+      "chandelier_stop": 77.81999755859376,
       "setup": "MACD bullish, RSI 59.7, price above SMA20/50, healthcare sector robust in Europe",
       "entry_date": "2026-11-02",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 85.12,
-      "unrealized_pct": 7.41,
-      "unrealized_eur": 76.31
+      "current_price": 85.46,
+      "unrealized_pct": 7.84,
+      "unrealized_eur": 80.73
     },
     {
       "ticker": "ISRG",
@@ -1139,5 +1139,5 @@
       "unrealized_eur": 98.4
     }
   ],
-  "unrealized_pnl": 1056.37
+  "unrealized_pnl": 1060.79
 }
