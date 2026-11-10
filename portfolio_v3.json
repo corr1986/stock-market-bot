@@ -32,17 +32,17 @@
       "size_eur": 766.26,
       "atr_entry": 37.08,
       "initial_sl": 495.84,
-      "max_high_since_entry": 721.0900268554688,
-      "chandelier_stop": 646.9300268554688,
+      "max_high_since_entry": 723.0800170898438,
+      "chandelier_stop": 648.9200170898438,
       "setup": "RSI sotto 70, MACD favorevole e prezzo sopra SMA20 e SMA50",
       "entry_date": "2026-07-27",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 720.73,
-      "unrealized_pct": 26.44,
-      "unrealized_eur": 202.63
+      "current_price": 721.64,
+      "unrealized_pct": 26.6,
+      "unrealized_eur": 203.85
     },
     {
       "ticker": "MSFT",
@@ -1139,5 +1139,5 @@
       "unrealized_eur": 98.4
     }
   ],
-  "unrealized_pnl": 1232.84
+  "unrealized_pnl": 1234.06
 }
