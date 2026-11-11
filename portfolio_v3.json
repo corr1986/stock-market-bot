@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 85.96,
-      "unrealized_pct": 8.47,
-      "unrealized_eur": 87.23
+      "current_price": 85.62,
+      "unrealized_pct": 8.04,
+      "unrealized_eur": 82.81
     },
     {
       "ticker": "ISRG",
@@ -1139,5 +1139,5 @@
       "unrealized_eur": 98.4
     }
   ],
-  "unrealized_pnl": 1179.16
+  "unrealized_pnl": 1174.74
 }
