@@ -1,17 +1,17 @@
 # Portfolio Serenity — Stock Market Bot
-*Aggiornato: 10/11/2026 20:58 UTC | Hold 60gg · SL 2×ATR · Segnali @aleabitoreddit*
+*Aggiornato: 11/11/2026 01:26 UTC | Hold 60gg · SL 2×ATR · Segnali @aleabitoreddit*
 *[portfolio_serenity.json](portfolio_serenity.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
 |---|---|---|---|---|---|
-| nan€ | +22€ | nan€ | +nan€ | 33 (4W/29L) | 12% |
+| nan€ | +nan€ | nan€ | +nan€ | 33 (4W/29L) | 12% |
 
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | Scadenza |
 |---|---|---|---|---|---|---|---|
-| **ATS** | 17.3799991607666 | 28 | 17.28 | -0.58% | -3€ | 16.03 | 2027-01-04 |
-| **GLXY** | 13.350000381469727 | 34 | 14.085 | +5.51% | +25€ | 9.58 | 2027-01-08 |
+| **ATS** | 17.3799991607666 | 28 | nan | +nan% | +nan€ | 16.03 | 2027-01-04 |
+| **GLXY** | 13.350000381469727 | 34 | nan | +nan% | +nan€ | 9.58 | 2027-01-08 |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € | Motivo |
