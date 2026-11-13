@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 703.18,
-      "unrealized_pct": 23.37,
-      "unrealized_eur": 179.04
+      "current_price": 699.67,
+      "unrealized_pct": 22.75,
+      "unrealized_eur": 174.32
     },
     {
       "ticker": "MSFT",
@@ -1139,5 +1139,5 @@
       "unrealized_eur": 98.4
     }
   ],
-  "unrealized_pnl": 1074.3
+  "unrealized_pnl": 1069.58
 }
