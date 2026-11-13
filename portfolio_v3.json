@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 466.98,
+      "current_price": 466.99,
       "unrealized_pct": 14.67,
-      "unrealized_eur": 127.0
+      "unrealized_eur": 127.02
     },
     {
       "ticker": "SPOT",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 88.06,
-      "unrealized_pct": 11.12,
-      "unrealized_eur": 114.53
+      "current_price": 88.01,
+      "unrealized_pct": 11.05,
+      "unrealized_eur": 113.88
     },
     {
       "ticker": "ISRG",
@@ -1139,5 +1139,5 @@
       "unrealized_eur": 98.4
     }
   ],
-  "unrealized_pnl": 1065.68
+  "unrealized_pnl": 1065.05
 }
