@@ -18,9 +18,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 17.52,
-      "unrealized_pct": 0.81,
-      "unrealized_eur": 3.92
+      "current_price": 17.5,
+      "unrealized_pct": 0.69,
+      "unrealized_eur": 3.36
     },
     {
       "ticker": "GLXY",
@@ -38,9 +38,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 14.36,
-      "unrealized_pct": 7.57,
-      "unrealized_eur": 34.34
+      "current_price": NaN,
+      "unrealized_pct": NaN,
+      "unrealized_eur": NaN
     }
   ],
   "closed": [
@@ -739,5 +739,5 @@
     }
   ],
   "last_signal_date": "2026-11-05",
-  "unrealized_pnl": 38.26
+  "unrealized_pnl": NaN
 }
