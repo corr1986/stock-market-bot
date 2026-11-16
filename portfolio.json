@@ -451,6 +451,30 @@
       "current_price": 352.18,
       "unrealized_pct": 3.37,
       "unrealized_eur": 16.85
+    },
+    {
+      "id": "NXPI_2026-11-16",
+      "ticker": "NXPI",
+      "category": "USA",
+      "entry_date": "2026-11-16",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 22.36,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "EOG_2026-11-16",
+      "ticker": "EOG",
+      "category": "USA",
+      "entry_date": "2026-11-16",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 9.97,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
