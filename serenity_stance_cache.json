@@ -4702,5 +4702,17 @@
  "GE:2120106741090370030": {
   "stance": "neutral",
   "conviction": 2
+ },
+ "MOD:2121221289440665737": {
+  "stance": "neutral",
+  "conviction": 2
+ },
+ "SHOP:2121182068558446730": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "SOI:2121918080293196209": {
+  "stance": "bullish",
+  "conviction": 4
  }
 }
