@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 230.08,
-      "unrealized_pct": 8.2,
-      "unrealized_eur": 64.15
+      "current_price": 230.09,
+      "unrealized_pct": 8.21,
+      "unrealized_eur": 64.19
     },
     {
       "ticker": "AMGN",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 87.17,
-      "unrealized_pct": 9.99,
-      "unrealized_eur": 102.96
+      "current_price": 86.5,
+      "unrealized_pct": 9.15,
+      "unrealized_eur": 94.25
     },
     {
       "ticker": "ISRG",
@@ -1202,5 +1202,5 @@
       "unrealized_eur": 98.4
     }
   ],
-  "unrealized_pnl": 989.94
+  "unrealized_pnl": 981.27
 }
