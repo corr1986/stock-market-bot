@@ -478,9 +478,9 @@
       "atr": 9.97,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 155.19,
-      "unrealized_pct": -1.31,
-      "unrealized_eur": -6.55
+      "current_price": 155.55,
+      "unrealized_pct": -1.08,
+      "unrealized_eur": -5.41
     }
   ],
   "closed": [
@@ -1031,5 +1031,5 @@
       "days_held": 55
     }
   ],
-  "unrealized_pnl": 755.74
+  "unrealized_pnl": 756.88
 }
