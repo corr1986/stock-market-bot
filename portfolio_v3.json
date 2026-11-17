@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 692.55,
-      "unrealized_pct": 21.5,
-      "unrealized_eur": 164.75
+      "current_price": 691.59,
+      "unrealized_pct": 21.33,
+      "unrealized_eur": 163.46
     },
     {
       "ticker": "MSFT",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 230.09,
-      "unrealized_pct": 8.21,
-      "unrealized_eur": 64.19
+      "current_price": 230.08,
+      "unrealized_pct": 8.2,
+      "unrealized_eur": 64.15
     },
     {
       "ticker": "AMGN",
@@ -292,9 +292,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 155.19,
-      "unrealized_pct": -1.31,
-      "unrealized_eur": -10.4
+      "current_price": 155.55,
+      "unrealized_pct": -1.08,
+      "unrealized_eur": -8.58
     },
     {
       "ticker": "NXPI",
@@ -1202,5 +1202,5 @@
       "unrealized_eur": 98.4
     }
   ],
-  "unrealized_pnl": 1005.57
+  "unrealized_pnl": 1006.06
 }
