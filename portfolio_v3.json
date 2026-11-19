@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 86.31,
-      "unrealized_pct": 8.91,
-      "unrealized_eur": 91.78
+      "current_price": 84.63,
+      "unrealized_pct": 6.79,
+      "unrealized_eur": 69.94
     },
     {
       "ticker": "NEE",
@@ -292,9 +292,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 252.63,
+      "current_price": 252.62,
       "unrealized_pct": -5.4,
-      "unrealized_eur": -31.99
+      "unrealized_eur": -32.01
     },
     {
       "ticker": "XOM",
@@ -1202,5 +1202,5 @@
       "unrealized_eur": -48.85
     }
   ],
-  "unrealized_pnl": 803.22
+  "unrealized_pnl": 781.36
 }
