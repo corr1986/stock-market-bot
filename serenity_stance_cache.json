@@ -4714,5 +4714,21 @@
  "SOI:2121918080293196209": {
   "stance": "bullish",
   "conviction": 4
+ },
+ "CMXT:2122628849657954454": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "IQE:2122636464672383306": {
+  "stance": "bullish",
+  "conviction": 4
+ },
+ "RIOT:2123116246183088517": {
+  "stance": "neutral",
+  "conviction": 1
+ },
+ "WULF:2123116246183088517": {
+  "stance": "neutral",
+  "conviction": 1
  }
 }
