@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 84.97,
-      "unrealized_pct": 7.22,
-      "unrealized_eur": 74.36
+      "current_price": 85.26,
+      "unrealized_pct": 7.58,
+      "unrealized_eur": 78.13
     },
     {
       "ticker": "NEE",
@@ -1202,5 +1202,5 @@
       "unrealized_eur": 77.81
     }
   ],
-  "unrealized_pnl": 572.71
+  "unrealized_pnl": 576.48
 }
