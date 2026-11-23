@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 255.97,
-      "unrealized_pct": 22.47,
-      "unrealized_eur": 159.59
+      "current_price": 256.49,
+      "unrealized_pct": 22.72,
+      "unrealized_eur": 161.38
     },
     {
       "ticker": "TMO",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 688.7,
-      "unrealized_pct": 20.82,
-      "unrealized_eur": 159.56
+      "current_price": 686.17,
+      "unrealized_pct": 20.38,
+      "unrealized_eur": 156.18
     },
     {
       "ticker": "GILD",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 169.9,
-      "unrealized_pct": 24.19,
-      "unrealized_eur": 218.44
+      "current_price": 170.16,
+      "unrealized_pct": 24.38,
+      "unrealized_eur": 220.19
     },
     {
       "ticker": "DHR",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 226.13,
-      "unrealized_pct": 6.34,
-      "unrealized_eur": 49.62
+      "current_price": 226.3,
+      "unrealized_pct": 6.42,
+      "unrealized_eur": 50.25
     },
     {
       "ticker": "SPOT",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 578.89,
-      "unrealized_pct": 9.22,
-      "unrealized_eur": 53.03
+      "current_price": 579.0,
+      "unrealized_pct": 9.25,
+      "unrealized_eur": 53.15
     },
     {
       "ticker": "MDT",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 100.73,
-      "unrealized_pct": 5.11,
-      "unrealized_eur": 51.65
+      "current_price": 100.76,
+      "unrealized_pct": 5.15,
+      "unrealized_eur": 52.02
     },
     {
       "ticker": "SPGI",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 451.06,
-      "unrealized_pct": 0.42,
-      "unrealized_eur": 3.58
+      "current_price": 450.67,
+      "unrealized_pct": 0.33,
+      "unrealized_eur": 2.85
     },
     {
       "ticker": "VRTX",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 531.52,
-      "unrealized_pct": -3.49,
-      "unrealized_eur": -30.57
+      "current_price": 535.26,
+      "unrealized_pct": -2.81,
+      "unrealized_eur": -24.61
     },
     {
       "ticker": "SAN.PA",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 83.78,
-      "unrealized_pct": -2.89,
-      "unrealized_eur": -33.37
+      "current_price": 83.92,
+      "unrealized_pct": -2.73,
+      "unrealized_eur": -31.56
     },
     {
       "ticker": "EOG",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 147.42,
-      "unrealized_pct": -6.25,
-      "unrealized_eur": -49.63
+      "current_price": 146.71,
+      "unrealized_pct": -6.71,
+      "unrealized_eur": -53.24
     },
     {
       "ticker": "NXPI",
@@ -250,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 254.52,
-      "unrealized_pct": -4.69,
-      "unrealized_eur": -27.79
+      "current_price": 254.76,
+      "unrealized_pct": -4.6,
+      "unrealized_eur": -27.26
     },
     {
       "ticker": "XOM",
@@ -271,9 +271,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 158.36,
-      "unrealized_pct": -7.62,
-      "unrealized_eur": -65.23
+      "current_price": 158.2,
+      "unrealized_pct": -7.72,
+      "unrealized_eur": -66.05
     }
   ],
   "closed": [
@@ -1202,5 +1202,5 @@
       "unrealized_eur": 77.01
     }
   ],
-  "unrealized_pnl": 566.88
+  "unrealized_pnl": 571.3
 }
