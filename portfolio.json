@@ -13,9 +13,9 @@
       "atr": 19.63,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 435.05,
-      "unrealized_pct": 13.9,
-      "unrealized_eur": 69.51
+      "current_price": 434.75,
+      "unrealized_pct": 13.82,
+      "unrealized_eur": 69.12
     },
     {
       "id": "AFL_2026-06-08",
@@ -193,9 +193,9 @@
       "atr": 10.59,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 208.4,
-      "unrealized_pct": 3.82,
-      "unrealized_eur": 19.12
+      "current_price": 208.42,
+      "unrealized_pct": 3.83,
+      "unrealized_eur": 19.17
     },
     {
       "id": "COP_2026-08-17",
@@ -208,9 +208,9 @@
       "atr": 7.72,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 136.19,
-      "unrealized_pct": 7.96,
-      "unrealized_eur": 39.79
+      "current_price": 136.18,
+      "unrealized_pct": 7.95,
+      "unrealized_eur": 39.75
     },
     {
       "id": "DE_2026-08-24",
@@ -253,9 +253,9 @@
       "atr": 212.98,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 3574.5,
-      "unrealized_pct": 4.24,
-      "unrealized_eur": 21.22
+      "current_price": 3565.5,
+      "unrealized_pct": 3.98,
+      "unrealized_eur": 19.9
     },
     {
       "id": "META_2026-09-14",
@@ -433,9 +433,9 @@
       "atr": 22.36,
       "trade_eur": 500.0,
       "status": "active",
-      "current_price": 235.21,
-      "unrealized_pct": -11.92,
-      "unrealized_eur": -59.6
+      "current_price": 235.24,
+      "unrealized_pct": -11.91,
+      "unrealized_eur": -59.54
     },
     {
       "id": "EOG_2026-11-16",
@@ -457,24 +457,30 @@
       "ticker": "SO",
       "category": "USA",
       "entry_date": "2026-11-23",
-      "entry_price": null,
-      "sl": null,
-      "tp": null,
+      "entry_price": 94.18,
+      "sl": 87.12,
+      "tp": 108.3,
       "atr": 3.53,
       "trade_eur": 500.0,
-      "status": "pending"
+      "status": "active",
+      "current_price": 94.18,
+      "unrealized_pct": 0.0,
+      "unrealized_eur": 0.0
     },
     {
       "id": "KMB_2026-11-23",
       "ticker": "KMB",
       "category": "USA",
       "entry_date": "2026-11-23",
-      "entry_price": null,
-      "sl": null,
-      "tp": null,
+      "entry_price": 106.725,
+      "sl": 94.825,
+      "tp": 130.525,
       "atr": 5.95,
       "trade_eur": 500.0,
-      "status": "pending"
+      "status": "active",
+      "current_price": 106.72,
+      "unrealized_pct": 0.0,
+      "unrealized_eur": 0.0
     }
   ],
   "closed": [
@@ -1067,5 +1073,5 @@
       "days_held": 47
     }
   ],
-  "unrealized_pnl": 58.78
+  "unrealized_pnl": 57.14
 }
