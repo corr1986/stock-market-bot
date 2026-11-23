@@ -451,6 +451,30 @@
       "current_price": 149.61,
       "unrealized_pct": -4.86,
       "unrealized_eur": -24.29
+    },
+    {
+      "id": "SO_2026-11-23",
+      "ticker": "SO",
+      "category": "USA",
+      "entry_date": "2026-11-23",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 3.53,
+      "trade_eur": 500.0,
+      "status": "pending"
+    },
+    {
+      "id": "KMB_2026-11-23",
+      "ticker": "KMB",
+      "category": "USA",
+      "entry_date": "2026-11-23",
+      "entry_price": null,
+      "sl": null,
+      "tp": null,
+      "atr": 5.95,
+      "trade_eur": 500.0,
+      "status": "pending"
     }
   ],
   "closed": [
