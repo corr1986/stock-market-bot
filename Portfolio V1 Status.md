@@ -1,5 +1,5 @@
 # Portfolio V1 — Stock Market Bot
-*Aggiornato: 24/11/2026 12:01 UTC | [portfolio.json](portfolio.json)*
+*Aggiornato: 24/11/2026 13:01 UTC | [portfolio.json](portfolio.json)*
 
 ## Riepilogo
 | Balance | Unrealized | Equity | Realizzato | Trade chiusi | Win Rate |
@@ -9,7 +9,7 @@
 ## Posizioni Aperte
 | Ticker | Entry | Qty | Prezzo att. | P&L % | P&L € | SL | TP |
 |---|---|---|---|---|---|---|---|
-| **OR.PA** | 381.95 | 2 | 438.00 | +14.67% | +73€ | 342.69 | 460.47 |
+| **OR.PA** | 381.95 | 2 | 438.45 | +14.79% | +74€ | 342.69 | 460.47 |
 | **AFL** | 117.32 | 5 | 125.01 | +6.55% | +33€ | 107.8 | 136.36 |
 | **DXCM** | 75.7 | 7 | 82.43 | +8.89% | +44€ | 64.86 | 97.38 |
 | **PGR** | 221.31 | 3 | 230.45 | +4.13% | +21€ | 198.81 | 266.31 |
@@ -40,7 +40,7 @@
 | **NXPI** | 267.04 | 2 | 255.77 | -4.22% | -21€ | 222.32 | 356.48 |
 | **EOG** | 157.25 | 4 | 145.35 | -7.57% | -38€ | 137.31 | 197.13 |
 | **SO** | 94.18 | 6 | 93.11 | -1.14% | -6€ | 87.12 | 108.3 |
-| **KMB** | 106.725 | 5 | 107.70 | +0.91% | +5€ | 94.825 | 130.525 |
+| **KMB** | 106.725 | 5 | 107.67 | +0.89% | +4€ | 94.825 | 130.525 |
 
 ## Trade Chiusi
 | Data uscita | Ticker | Entry | Uscita | P&L % | P&L € | Esito |
