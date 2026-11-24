@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 265.66,
-      "unrealized_pct": 27.1,
-      "unrealized_eur": 192.52
+      "current_price": 267.08,
+      "unrealized_pct": 27.79,
+      "unrealized_eur": 197.36
     },
     {
       "ticker": "TMO",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 690.49,
-      "unrealized_pct": 21.14,
-      "unrealized_eur": 161.98
+      "current_price": 692.64,
+      "unrealized_pct": 21.52,
+      "unrealized_eur": 164.87
     },
     {
       "ticker": "GILD",
@@ -53,17 +53,17 @@
       "size_eur": 903.13,
       "atr_entry": 7.66,
       "initial_sl": 121.49,
-      "max_high_since_entry": 177.11000061035156,
-      "chandelier_stop": 161.79000061035157,
+      "max_high_since_entry": 177.8300018310547,
+      "chandelier_stop": 162.5100018310547,
       "setup": "Prezzo in aumento, RSI sotto 70, MACD favorevole e settore healthcare in forza",
       "entry_date": "2026-08-17",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 177.11,
-      "unrealized_pct": 29.46,
-      "unrealized_eur": 266.03
+      "current_price": 177.83,
+      "unrealized_pct": 29.98,
+      "unrealized_eur": 270.79
     },
     {
       "ticker": "DHR",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 229.12,
-      "unrealized_pct": 7.75,
-      "unrealized_eur": 60.62
+      "current_price": 228.82,
+      "unrealized_pct": 7.61,
+      "unrealized_eur": 59.52
     },
     {
       "ticker": "SPOT",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 600.59,
-      "unrealized_pct": 13.32,
-      "unrealized_eur": 76.57
+      "current_price": 600.01,
+      "unrealized_pct": 13.21,
+      "unrealized_eur": 75.94
     },
     {
       "ticker": "SPGI",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 458.99,
-      "unrealized_pct": 2.18,
-      "unrealized_eur": 18.63
+      "current_price": 458.59,
+      "unrealized_pct": 2.1,
+      "unrealized_eur": 17.88
     },
     {
       "ticker": "VRTX",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 560.15,
-      "unrealized_pct": 1.71,
-      "unrealized_eur": 14.99
+      "current_price": 560.22,
+      "unrealized_pct": 1.72,
+      "unrealized_eur": 15.1
     },
     {
       "ticker": "SAN.PA",
@@ -158,17 +158,17 @@
       "size_eur": 1030.23,
       "atr_entry": 3.87,
       "initial_sl": 71.51,
-      "max_high_since_entry": 93.77999877929688,
-      "chandelier_stop": 86.03999877929688,
+      "max_high_since_entry": 94.30000305175781,
+      "chandelier_stop": 86.56000305175782,
       "setup": "MACD bullish, RSI 59.7, price above SMA20/50, healthcare sector robust in Europe",
       "entry_date": "2026-11-02",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 93.72,
-      "unrealized_pct": 18.26,
-      "unrealized_eur": 188.11
+      "current_price": 93.7,
+      "unrealized_pct": 18.23,
+      "unrealized_eur": 187.85
     },
     {
       "ticker": "NEE",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 84.93,
-      "unrealized_pct": -1.55,
-      "unrealized_eur": -17.96
+      "current_price": 84.82,
+      "unrealized_pct": -1.68,
+      "unrealized_eur": -19.43
     },
     {
       "ticker": "EOG",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 146.99,
-      "unrealized_pct": -6.52,
-      "unrealized_eur": -51.8
+      "current_price": 146.93,
+      "unrealized_pct": -6.57,
+      "unrealized_eur": -52.13
     },
     {
       "ticker": "NXPI",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 236.11,
-      "unrealized_pct": -11.58,
-      "unrealized_eur": -68.66
+      "current_price": 241.91,
+      "unrealized_pct": -9.41,
+      "unrealized_eur": -55.78
     },
     {
       "ticker": "XOM",
@@ -250,9 +250,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 158.53,
-      "unrealized_pct": -7.52,
-      "unrealized_eur": -64.38
+      "current_price": 158.89,
+      "unrealized_pct": -7.31,
+      "unrealized_eur": -62.58
     }
   ],
   "closed": [
@@ -1202,5 +1202,5 @@
       "unrealized_eur": 52.55
     }
   ],
-  "unrealized_pnl": 776.65
+  "unrealized_pnl": 799.39
 }
