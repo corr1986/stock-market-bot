@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 690.22,
-      "unrealized_pct": 21.09,
-      "unrealized_eur": 161.62
+      "current_price": 688.45,
+      "unrealized_pct": 20.78,
+      "unrealized_eur": 159.23
     },
     {
       "ticker": "GILD",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 145.06,
-      "unrealized_pct": -7.75,
-      "unrealized_eur": -61.55
+      "current_price": 145.35,
+      "unrealized_pct": -7.57,
+      "unrealized_eur": -60.08
     },
     {
       "ticker": "NXPI",
@@ -1202,5 +1202,5 @@
       "unrealized_eur": 77.01
     }
   ],
-  "unrealized_pnl": 583.16
+  "unrealized_pnl": 582.24
 }
