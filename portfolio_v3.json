@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 564.16,
+      "current_price": 564.18,
       "unrealized_pct": 2.44,
-      "unrealized_eur": 21.37
+      "unrealized_eur": 21.4
     },
     {
       "ticker": "SAN.PA",
@@ -166,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 97.98,
-      "unrealized_pct": 23.63,
-      "unrealized_eur": 243.49
+      "current_price": 98.42,
+      "unrealized_pct": 24.19,
+      "unrealized_eur": 249.21
     },
     {
       "ticker": "NEE",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 239.31,
-      "unrealized_pct": -10.38,
-      "unrealized_eur": -61.56
+      "current_price": 239.19,
+      "unrealized_pct": -10.43,
+      "unrealized_eur": -61.82
     },
     {
       "ticker": "XOM",
@@ -1202,5 +1202,5 @@
       "unrealized_eur": 52.55
     }
   ],
-  "unrealized_pnl": 857.39
+  "unrealized_pnl": 862.88
 }
