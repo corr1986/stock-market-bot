@@ -1,6 +1,6 @@
 {
-  "balance": 19199.33739782503,
-  "realized_pnl": -800.6626021749705,
+  "balance": 19115.983224599062,
+  "realized_pnl": -884.0167754009392,
   "open": [
     {
       "ticker": "BIIB",
@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 269.27,
-      "unrealized_pct": 28.83,
-      "unrealized_eur": 204.79
+      "current_price": 260.0,
+      "unrealized_pct": 24.4,
+      "unrealized_eur": 173.29
     },
     {
       "ticker": "TMO",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 695.65,
-      "unrealized_pct": 22.04,
-      "unrealized_eur": 168.91
+      "current_price": 678.42,
+      "unrealized_pct": 19.02,
+      "unrealized_eur": 145.75
     },
     {
       "ticker": "GILD",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 178.29,
-      "unrealized_pct": 30.32,
-      "unrealized_eur": 273.82
+      "current_price": 177.3,
+      "unrealized_pct": 29.59,
+      "unrealized_eur": 267.27
     },
     {
       "ticker": "DHR",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 229.14,
-      "unrealized_pct": 7.76,
-      "unrealized_eur": 60.69
+      "current_price": 226.22,
+      "unrealized_pct": 6.39,
+      "unrealized_eur": 49.95
     },
     {
       "ticker": "SPOT",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 599.52,
-      "unrealized_pct": 13.12,
-      "unrealized_eur": 75.41
+      "current_price": 599.2,
+      "unrealized_pct": 13.06,
+      "unrealized_eur": 75.06
     },
     {
       "ticker": "SPGI",
@@ -124,9 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 455.36,
-      "unrealized_pct": 1.38,
-      "unrealized_eur": 11.74
+      "current_price": 455.17,
+      "unrealized_pct": 1.33,
+      "unrealized_eur": 11.38
     },
     {
       "ticker": "VRTX",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 564.18,
-      "unrealized_pct": 2.44,
-      "unrealized_eur": 21.4
+      "current_price": 556.54,
+      "unrealized_pct": 1.06,
+      "unrealized_eur": 9.25
     },
     {
       "ticker": "SAN.PA",
@@ -158,17 +158,17 @@
       "size_eur": 1030.23,
       "atr_entry": 3.87,
       "initial_sl": 71.51,
-      "max_high_since_entry": 98.7300033569336,
-      "chandelier_stop": 90.9900033569336,
+      "max_high_since_entry": 98.81999969482422,
+      "chandelier_stop": 91.07999969482422,
       "setup": "MACD bullish, RSI 59.7, price above SMA20/50, healthcare sector robust in Europe",
       "entry_date": "2026-11-02",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 98.44,
-      "unrealized_pct": 24.21,
-      "unrealized_eur": 249.47
+      "current_price": 98.26,
+      "unrealized_pct": 23.99,
+      "unrealized_eur": 247.13
     },
     {
       "ticker": "NEE",
@@ -187,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 84.61,
-      "unrealized_pct": -1.93,
-      "unrealized_eur": -22.32
+      "current_price": 84.86,
+      "unrealized_pct": -1.63,
+      "unrealized_eur": -18.9
     },
     {
       "ticker": "EOG",
@@ -208,30 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 146.59,
-      "unrealized_pct": -6.78,
-      "unrealized_eur": -53.82
-    },
-    {
-      "ticker": "NXPI",
-      "category": "USA",
-      "status": "active",
-      "entry_price": 267.0400085449219,
-      "entry_price_ref": 265.09,
-      "size_eur": 592.78,
-      "atr_entry": 22.36,
-      "initial_sl": 222.32,
-      "max_high_since_entry": 274.2099914550781,
-      "chandelier_stop": 229.48999145507813,
-      "setup": "AI/Tech semiconductor up +6.8% weekly, MACD bullish, price above SMA20/50, RSI 56.3, sector strength",
-      "entry_date": "2026-11-16",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 239.19,
-      "unrealized_pct": -10.43,
-      "unrealized_eur": -61.82
+      "current_price": 149.01,
+      "unrealized_pct": -5.24,
+      "unrealized_eur": -41.58
     },
     {
       "ticker": "XOM",
@@ -250,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 158.38,
-      "unrealized_pct": -7.61,
-      "unrealized_eur": -65.13
+      "current_price": 158.98,
+      "unrealized_pct": -7.26,
+      "unrealized_eur": -62.13
     }
   ],
   "closed": [
@@ -1200,7 +1179,28 @@
       "current_price": 100.82,
       "unrealized_pct": 5.2,
       "unrealized_eur": 52.55
+    },
+    {
+      "ticker": "NXPI",
+      "category": "USA",
+      "status": "closed",
+      "entry_price": 267.0400085449219,
+      "entry_price_ref": 265.09,
+      "size_eur": 592.78,
+      "atr_entry": 22.36,
+      "initial_sl": 222.32,
+      "max_high_since_entry": 274.2099914550781,
+      "chandelier_stop": 229.48999145507813,
+      "setup": "AI/Tech semiconductor up +6.8% weekly, MACD bullish, price above SMA20/50, RSI 56.3, sector strength",
+      "entry_date": "2026-11-16",
+      "close_date": "2026-11-25",
+      "close_price": 229.49,
+      "pnl_pct": -14.06,
+      "pnl_eur": -83.35,
+      "current_price": 239.19,
+      "unrealized_pct": -10.43,
+      "unrealized_eur": -61.82
     }
   ],
-  "unrealized_pnl": 863.14
+  "unrealized_pnl": 856.47
 }
