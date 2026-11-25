@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 695.95,
-      "unrealized_pct": 22.1,
-      "unrealized_eur": 169.31
+      "current_price": 695.65,
+      "unrealized_pct": 22.04,
+      "unrealized_eur": 168.91
     },
     {
       "ticker": "GILD",
@@ -145,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 564.18,
+      "current_price": 564.16,
       "unrealized_pct": 2.44,
-      "unrealized_eur": 21.4
+      "unrealized_eur": 21.37
     },
     {
       "ticker": "SAN.PA",
@@ -229,9 +229,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 239.19,
-      "unrealized_pct": -10.43,
-      "unrealized_eur": -61.82
+      "current_price": 239.31,
+      "unrealized_pct": -10.38,
+      "unrealized_eur": -61.56
     },
     {
       "ticker": "XOM",
@@ -1202,5 +1202,5 @@
       "unrealized_eur": 52.55
     }
   ],
-  "unrealized_pnl": 801.92
+  "unrealized_pnl": 801.75
 }
