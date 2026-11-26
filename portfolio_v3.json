@@ -158,17 +158,17 @@
       "size_eur": 1030.23,
       "atr_entry": 3.87,
       "initial_sl": 71.51,
-      "max_high_since_entry": 98.86000061035156,
-      "chandelier_stop": 91.12000061035157,
+      "max_high_since_entry": 99.27999877929688,
+      "chandelier_stop": 91.53999877929688,
       "setup": "MACD bullish, RSI 59.7, price above SMA20/50, healthcare sector robust in Europe",
       "entry_date": "2026-11-02",
       "close_date": null,
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 97.95,
-      "unrealized_pct": 23.6,
-      "unrealized_eur": 243.1
+      "current_price": 99.16,
+      "unrealized_pct": 25.12,
+      "unrealized_eur": 258.83
     },
     {
       "ticker": "NEE",
@@ -1202,5 +1202,5 @@
       "unrealized_eur": -61.82
     }
   ],
-  "unrealized_pnl": 908.35
+  "unrealized_pnl": 924.08
 }
