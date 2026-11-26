@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 685.5,
+      "current_price": 685.46,
       "unrealized_pct": 20.26,
-      "unrealized_eur": 155.27
+      "unrealized_eur": 155.21
     },
     {
       "ticker": "GILD",
@@ -208,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 148.62,
-      "unrealized_pct": -5.49,
-      "unrealized_eur": -43.57
+      "current_price": 148.3,
+      "unrealized_pct": -5.69,
+      "unrealized_eur": -45.19
     },
     {
       "ticker": "XOM",
@@ -1202,5 +1202,5 @@
       "unrealized_eur": -61.82
     }
   ],
-  "unrealized_pnl": 910.03
+  "unrealized_pnl": 908.35
 }
