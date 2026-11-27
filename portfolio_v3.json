@@ -1,6 +1,6 @@
 {
-  "balance": 19115.983224599062,
-  "realized_pnl": -884.0167754009392,
+  "balance": 19047.948322170734,
+  "realized_pnl": -952.051677829268,
   "open": [
     {
       "ticker": "BIIB",
@@ -19,9 +19,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 261.33,
-      "unrealized_pct": 25.03,
-      "unrealized_eur": 177.81
+      "current_price": 261.65,
+      "unrealized_pct": 25.19,
+      "unrealized_eur": 178.89
     },
     {
       "ticker": "TMO",
@@ -40,9 +40,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 685.46,
-      "unrealized_pct": 20.26,
-      "unrealized_eur": 155.21
+      "current_price": 679.16,
+      "unrealized_pct": 19.15,
+      "unrealized_eur": 146.75
     },
     {
       "ticker": "GILD",
@@ -61,9 +61,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 176.75,
-      "unrealized_pct": 29.19,
-      "unrealized_eur": 263.66
+      "current_price": 176.04,
+      "unrealized_pct": 28.67,
+      "unrealized_eur": 258.97
     },
     {
       "ticker": "DHR",
@@ -82,9 +82,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 227.35,
-      "unrealized_pct": 6.92,
-      "unrealized_eur": 54.11
+      "current_price": 226.65,
+      "unrealized_pct": 6.59,
+      "unrealized_eur": 51.52
     },
     {
       "ticker": "SPOT",
@@ -103,9 +103,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 616.32,
-      "unrealized_pct": 16.29,
-      "unrealized_eur": 93.63
+      "current_price": 622.96,
+      "unrealized_pct": 17.54,
+      "unrealized_eur": 100.83
     },
     {
       "ticker": "SPGI",
@@ -124,30 +124,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 460.86,
-      "unrealized_pct": 2.6,
-      "unrealized_eur": 22.18
-    },
-    {
-      "ticker": "VRTX",
-      "category": "USA",
-      "status": "active",
-      "entry_price": 550.72998046875,
-      "entry_price_ref": 558.88,
-      "size_eur": 876.26,
-      "atr_entry": 31.89,
-      "initial_sl": 486.95,
-      "max_high_since_entry": 571.75,
-      "chandelier_stop": 507.97,
-      "setup": "MACD bullish, RSI 64.0, price above SMA20/50, biotech (healthcare) sector strong",
-      "entry_date": "2026-11-02",
-      "close_date": null,
-      "close_price": null,
-      "pnl_pct": null,
-      "pnl_eur": null,
-      "current_price": 563.95,
-      "unrealized_pct": 2.4,
-      "unrealized_eur": 21.03
+      "current_price": 456.64,
+      "unrealized_pct": 1.66,
+      "unrealized_eur": 14.17
     },
     {
       "ticker": "SAN.PA",
@@ -166,9 +145,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 96.8,
-      "unrealized_pct": 22.15,
-      "unrealized_eur": 228.15
+      "current_price": 97.69,
+      "unrealized_pct": 23.27,
+      "unrealized_eur": 239.72
     },
     {
       "ticker": "NEE",
@@ -187,9 +166,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 85.45,
-      "unrealized_pct": -0.95,
-      "unrealized_eur": -10.99
+      "current_price": 84.87,
+      "unrealized_pct": -1.62,
+      "unrealized_eur": -18.77
     },
     {
       "ticker": "EOG",
@@ -208,9 +187,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 148.3,
-      "unrealized_pct": -5.69,
-      "unrealized_eur": -45.19
+      "current_price": 150.82,
+      "unrealized_pct": -4.09,
+      "unrealized_eur": -32.47
     },
     {
       "ticker": "XOM",
@@ -229,9 +208,9 @@
       "close_price": null,
       "pnl_pct": null,
       "pnl_eur": null,
-      "current_price": 158.16,
-      "unrealized_pct": -7.74,
-      "unrealized_eur": -66.2
+      "current_price": 160.54,
+      "unrealized_pct": -6.35,
+      "unrealized_eur": -54.37
     }
   ],
   "closed": [
@@ -1200,7 +1179,28 @@
       "current_price": 239.19,
       "unrealized_pct": -10.43,
       "unrealized_eur": -61.82
+    },
+    {
+      "ticker": "VRTX",
+      "category": "USA",
+      "status": "closed",
+      "entry_price": 550.72998046875,
+      "entry_price_ref": 558.88,
+      "size_eur": 876.26,
+      "atr_entry": 31.89,
+      "initial_sl": 486.95,
+      "max_high_since_entry": 571.75,
+      "chandelier_stop": 507.97,
+      "setup": "MACD bullish, RSI 64.0, price above SMA20/50, biotech (healthcare) sector strong",
+      "entry_date": "2026-11-02",
+      "close_date": "2026-11-27",
+      "close_price": 507.97,
+      "pnl_pct": -7.76,
+      "pnl_eur": -68.03,
+      "current_price": 563.95,
+      "unrealized_pct": 2.4,
+      "unrealized_eur": 21.03
     }
   ],
-  "unrealized_pnl": 893.4
+  "unrealized_pnl": 885.24
 }
